@@ -32,7 +32,7 @@ public:
 
     //void updateBFAndHeight(Node<T> *node);
 
-    void insertNode(TeamByPower *new_T, int wins = 0, int power = 0);
+    void insertNode(TeamByPower *new_T);
 
     Node<TeamByPower> *RightRightRotation(Node<TeamByPower> *node);
 

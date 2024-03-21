@@ -261,8 +261,10 @@ Node<TeamByPower> *AVLRankTreePower::RightRightRotation(Node<TeamByPower> *nodeB
     nodeA->m_addWins = a_old + b_old;
     nodeB->m_addWins = b_old - nodeA->m_addWins;
 
-    nodeB->m_maxRank = max(getMax(nodeB->m_left), getMax(nodeB->m_right));
-    nodeA->m_maxRank = max(getMax(nodeA->m_left), getMax(nodeA->m_right));
+    //nodeB->m_maxRank = max(getMax(nodeB->m_left), getMax(nodeB->m_right));
+    //nodeA->m_maxRank = max(getMax(nodeA->m_left), getMax(nodeA->m_right));
+    updateMax(nodeB);
+    updateMax(nodeA);
     return nodeA;
 
 }
@@ -314,8 +316,10 @@ Node<TeamByPower> *AVLRankTreePower::LeftLeftRotation(Node<TeamByPower> *nodeB)
     nodeA->m_addWins = a_old + b_old;
     nodeB->m_addWins = b_old - nodeA->m_addWins;
 
-    nodeB->m_maxRank = max(getMax(nodeB->m_left), getMax(nodeB->m_right));
-    nodeA->m_maxRank = max(getMax(nodeA->m_left), getMax(nodeA->m_right));
+    //nodeB->m_maxRank = max(getMax(nodeB->m_left), getMax(nodeB->m_right));
+    updateMax(nodeB);
+    updateMax(nodeA);
+    //nodeA->m_maxRank = max(getMax(nodeA->m_left), getMax(nodeA->m_right));
     return nodeA;
 }
 
@@ -633,7 +637,7 @@ int AVLRankTreePower::getAddedWins(TeamByPower *key)
     return addedWins;
 }
 
-void AVLRankTreePower::insertNode(TeamByPower *new_T, int wins, int power) //inserts new node when guaranteed that node doesnt exist in tree
+void AVLRankTreePower::insertNode(TeamByPower *new_T) //inserts new node when guaranteed that node doesnt exist in tree
 {
     int temp_extra = 0;
     if (m_root == nullptr)
@@ -675,7 +679,6 @@ void AVLRankTreePower::insertNode(TeamByPower *new_T, int wins, int power) //ins
         }
     }
     Node<TeamByPower>* temp = ptr;
-    ptr->m_maxRank = wins + power;
     while (ptr != nullptr)
     {
         ptr->m_height = 1 + max(getHeight(ptr->m_left), getHeight(ptr->m_right));
