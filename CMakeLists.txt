@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(Wet_2
-        olympics24a2.cpp DynamicHashTable.cpp main24a2.cpp AVLRankTreeTeamPower.cpp AVLRankTreePower.h)
+        olympics24a2.cpp DynamicHashTable.cpp maxranktest.cpp AVLRankTreeTeamPower.cpp AVLRankTreePower.h)

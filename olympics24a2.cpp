@@ -552,7 +552,7 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
     {
         highestInRange->m_wins ++;
         Node<TeamByPower> *highestnode = m_teamsByPower.findNode(highestInRange);
-        highestnode->m_maxRank = highestInRange->m_power + highestInRange->m_wins;
+        highestnode->m_maxRank = highestInRange->m_power + highestInRange->m_wins + m_teamsByPower.getAddedWins(highestInRange);
         updateMaxRec(highestnode);
     }
     m_highestRank = m_teamsByPower.m_root->m_maxRank;

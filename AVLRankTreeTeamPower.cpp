@@ -81,6 +81,7 @@ void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
             {
                 ptr->m_right->m_addWins -= addWins;
             }
+            return;
         } else if (*(ptr->m_info) < key)
         {
             if(right_turns == 0)
