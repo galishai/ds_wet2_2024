@@ -15,24 +15,24 @@ using namespace std;
 class DynamicHashTable {
 public:
 
-    AVLRankTree<TeamByID> **m_arr;
+    AVLRankTree<TeamByID> *m_arr;
     int m_size;
     int m_occupancy;
     //double loadFactor;
 
     DynamicHashTable()
     {
-        m_arr = new AVLRankTree<TeamByID>*[INITIAL_SIZE]();//////
+        m_arr = new AVLRankTree<TeamByID>[INITIAL_SIZE]();//////
         m_size = INITIAL_SIZE;
         m_occupancy = 0;
     }
 
     ~DynamicHashTable()
     {
-        for(int i = 0; i < m_size; i++)
-        {
-            delete m_arr[i];
-        }
+        //for(int i = 0; i < m_size; i++)
+        //{
+        //    delete m_arr[i];
+        //}
         delete[] m_arr;
     }
 
