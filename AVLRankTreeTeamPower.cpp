@@ -1,58 +1,10 @@
+//
+// Created by Gal Ishai on 3/21/24.
+//
 
-#ifndef WET_2_AVLRANKTREE_H
-#define WET_2_AVLRANKTREE_H
+#include "AVLRankTreePower.h"
 
-#include "Node.h"
-
-template<class T>
-class AVLRankTree
-{
-public:
-    Node<T> *m_root;
-
-    int m_treeSize;
-
-    AVLRankTree();
-
-    ~AVLRankTree();
-
-    void destroyTree(Node<T> *root);
-
-    Node<T> *balanceNode(Node<T> *node);
-
-    Node<T> *findNode(T *key); //nullptr if doesnt exist in tree
-
-    int getAddedWins(T *key);
-
-    void removeNode(T *info);
-
-    //void updateBFAndHeight(Node<T> *node);
-
-    void insertNode(T *new_T, int wins = 0, int power = 0);
-
-    Node<T> *RightRightRotation(Node<T> *node);
-
-    Node<T> *RightLeftRotation(Node<T> *node);
-
-    Node<T> *LeftLeftRotation(Node<T> *node);
-
-    Node<T> *LeftRightRotation(Node<T> *node);
-
-    Node<T> *select(Node<T>* node, int index);///////////
-
-    int rank(T* key);
-
-    void addWinsToLessEqual(T* key, int addWins);
-
-    //void debugging_printTree(const std::string &prefix, const Node<T> *node, bool isLeft, std::string &str);
-
-    //void debugging_printTree(const Node<T> *node, std::string &str);
-
-    //std::string debugging_printTree();
-};
-
-template<class T>///////////
-Node<T> * AVLRankTree<T>::select(Node<T>* node, int index)
+Node<TeamByPower> * AVLRankTreePower::select(Node<TeamByPower>* node, int index)
 {
     if (index<0 || node == nullptr) ///////
     {
@@ -73,15 +25,14 @@ Node<T> * AVLRankTree<T>::select(Node<T>* node, int index)
 
 }
 
-template<class T>
-int AVLRankTree<T>::rank(T *key)
+int AVLRankTreePower::rank(TeamByPower *key)
 {
     int r = 0;
     if(key == nullptr)
     {
         return -1;
     }
-    Node<T> *ptr = m_root;
+    Node<TeamByPower> *ptr = m_root;
     while (ptr != nullptr)
     {
         if (*(ptr->m_info) == key)
@@ -114,11 +65,10 @@ int AVLRankTree<T>::rank(T *key)
     return r;
 }
 
-template<class T>
-void AVLRankTree<T>::addWinsToLessEqual(T* key, int addWins)
+void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
 {
     int right_turns = 0;
-    Node<T> *ptr = m_root;
+    Node<TeamByPower> *ptr = m_root;
     while (ptr != nullptr)
     {
         if (*(ptr->m_info) == key)
@@ -152,31 +102,26 @@ void AVLRankTree<T>::addWinsToLessEqual(T* key, int addWins)
 }
 
 
-
-template<class T>
-void updateHeight(Node<T> *node)
+void updateHeight(Node<TeamByPower> *node)
 {
     node->m_height = 1 + max(getHeight(node->m_left), getHeight(node->m_right));
 }
 
-template<class T>
-void updateSize(Node<T> *node)
+void updateSize(Node<TeamByPower> *node)
 {
     node->m_size = getSize(node->m_left) + getSize(node->m_right) + 1;
 }
 
-template<class T>
-void updateMax(Node<T> *node)
+void updateMax(Node<TeamByPower> *node)
 {
     int child_max = max(getMax(node->m_left), getMax(node->m_right));
-    node->m_maxRank = max(node->m_maxRank, child_max);
+    node->m_maxRank = max(node->m_info->m_wins + node->m_info->m_power, child_max);
 }
 
-template<class T>
-void updateMaxRec(Node<T> *node)
+void updateMaxRec(Node<TeamByPower> *node)
 {
 
-    Node<T> *temp = node;
+    Node<TeamByPower> *temp = node;
     while (temp != nullptr)
     {
         updateMax(temp);
@@ -184,12 +129,11 @@ void updateMaxRec(Node<T> *node)
     }
 }
 
-template<class T>
-Node<T> *AVLRankTree<T>::balanceNode(Node<T> *node)
+Node<TeamByPower> *AVLRankTreePower::balanceNode(Node<TeamByPower> *node)
 {
     int heightOfLT;
     int heightOfRT;
-    Node<T> *lt, *rt;
+    Node<TeamByPower> *lt, *rt;
     if (node->m_left == nullptr)
     {
         heightOfLT = 0;
@@ -214,28 +158,27 @@ Node<T> *AVLRankTree<T>::balanceNode(Node<T> *node)
         lt = node->m_left;
         if (getHeight(lt->m_left) >= getHeight(lt->m_right))
         {
-            return AVLRankTree<T>::LeftLeftRotation(node);
+            return AVLRankTreePower::LeftLeftRotation(node);
         } else
         {
-            return AVLRankTree<T>::LeftRightRotation(node);
+            return AVLRankTreePower::LeftRightRotation(node);
         }
     } else
     {
         rt = node->m_right;
         if (getHeight(rt->m_right) >= getHeight(rt->m_left))
         {
-            return AVLRankTree<T>::RightRightRotation(node);
+            return AVLRankTreePower::RightRightRotation(node);
         } else
         {
-            return AVLRankTree<T>::RightLeftRotation(node);
+            return AVLRankTreePower::RightLeftRotation(node);
         }
     }
 }
 
-template<class T>
-static int InorderTransversalIntoArray(Node<T> *root, T *array[], int sizeOfArray, int index)
+static int InorderTransversalIntoArray(Node<TeamByPower> *root, TeamByPower *array[], int sizeOfArray, int index)
 {
-    Node<T> *ptr = root;
+    Node<TeamByPower> *ptr = root;
     if (ptr == nullptr)
     {
         return index;
@@ -249,8 +192,7 @@ static int InorderTransversalIntoArray(Node<T> *root, T *array[], int sizeOfArra
     return InorderTransversalIntoArray(ptr->m_right, array, sizeOfArray, index);
 }
 
-template<class T>
-void mergeTwoArraysIntoOne(T *array1[], T *array2[], T *mergedArray[], int sizeof1, int sizeof2)
+void mergeTwoArraysIntoOne(TeamByPower *array1[], TeamByPower *array2[], TeamByPower *mergedArray[], int sizeof1, int sizeof2)
 {
     int i1 = 0, i2 = 0, i3 = 0;
     while (i1 < sizeof1 && i2 < sizeof2)
@@ -274,10 +216,9 @@ void mergeTwoArraysIntoOne(T *array1[], T *array2[], T *mergedArray[], int sizeo
     }
 }
 
-template<class T>
-Node<T> *AVLRankTree<T>::RightRightRotation(Node<T> *nodeB)
+Node<TeamByPower> *AVLRankTreePower::RightRightRotation(Node<TeamByPower> *nodeB)
 {
-    Node<T> *nodeA = nodeB->m_right;
+    Node<TeamByPower> *nodeA = nodeB->m_right;
 
     if (nodeB == m_root)
     {
@@ -326,10 +267,9 @@ Node<T> *AVLRankTree<T>::RightRightRotation(Node<T> *nodeB)
 
 }
 
-template<class T>
-Node<T> *AVLRankTree<T>::LeftLeftRotation(Node<T> *nodeB)
+Node<TeamByPower> *AVLRankTreePower::LeftLeftRotation(Node<TeamByPower> *nodeB)
 {
-    Node<T> *nodeA = nodeB->m_left;
+    Node<TeamByPower> *nodeA = nodeB->m_left;
 
     if (nodeB == m_root)
     {
@@ -379,34 +319,29 @@ Node<T> *AVLRankTree<T>::LeftLeftRotation(Node<T> *nodeB)
     return nodeA;
 }
 
-template<class T>
-Node<T> *AVLRankTree<T>::RightLeftRotation(Node<T> *node)
+Node<TeamByPower> *AVLRankTreePower::RightLeftRotation(Node<TeamByPower> *node)
 {
     node->m_right = LeftLeftRotation(node->m_right);
     node = RightRightRotation(node);
     return node;
 }
 
-template<class T>
-Node<T> *AVLRankTree<T>::LeftRightRotation(Node<T> *node)
+Node<TeamByPower> *AVLRankTreePower::LeftRightRotation(Node<TeamByPower> *node)
 {
     node->m_left = RightRightRotation(node->m_left);
     node = LeftLeftRotation(node);
     return node;
 }
 
-template<class T>
-AVLRankTree<T>::AVLRankTree():m_root(nullptr), m_treeSize(0)
+AVLRankTreePower::AVLRankTreePower():m_root(nullptr), m_treeSize(0)
 {}
 
-template<class T>
-AVLRankTree<T>::~AVLRankTree()
+AVLRankTreePower::~AVLRankTreePower()
 {
     destroyTree(m_root);
 }
 
-template<class T>
-void AVLRankTree<T>::destroyTree(Node<T> *root)
+void AVLRankTreePower::destroyTree(Node<TeamByPower> *root)
 {
     if (root == nullptr)
     {
@@ -420,8 +355,7 @@ void AVLRankTree<T>::destroyTree(Node<T> *root)
     }
 }
 
-template<class T>
-Node<T> *minNode(Node<T> *node)
+Node<TeamByPower> *minNode(Node<TeamByPower> *node)
 {
     if (node == nullptr)
     {
@@ -434,8 +368,7 @@ Node<T> *minNode(Node<T> *node)
     return minNode(node->m_left);
 }
 
-template<class T>
-Node<T> *maxNode(Node<T> *node)
+Node<TeamByPower> *maxNode(Node<TeamByPower> *node)
 {
     if (node == nullptr)
     {
@@ -448,16 +381,15 @@ Node<T> *maxNode(Node<T> *node)
     return maxNode(node->m_right);
 }
 
-template<class T>
-void AVLRankTree<T>::removeNode(T *info) //based on assumption that such info already exists in tree.
+void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that such info already exists in tree.
 {
-    Node<T> *nodeToRemove = findNode(info);
+    Node<TeamByPower> *nodeToRemove = findNode(info);
     if(nodeToRemove == nullptr)
     {
         return;
     }
 
-    Node<T> *nodeToRemoveParent = nodeToRemove->m_parent;
+    Node<TeamByPower> *nodeToRemoveParent = nodeToRemove->m_parent;
 
     if (nodeToRemove->m_left == nullptr && nodeToRemove->m_right == nullptr) //if leaf
     {
@@ -529,9 +461,9 @@ void AVLRankTree<T>::removeNode(T *info) //based on assumption that such info al
     }
     else
     {
-        Node<T> *temp = minNode(nodeToRemove->m_right); //y
-        Node<T> *temp1 = nodeToRemove->m_right;
-        Node<T> *tempUpdateMax = temp->m_right;
+        Node<TeamByPower> *temp = minNode(nodeToRemove->m_right); //y
+        Node<TeamByPower> *temp1 = nodeToRemove->m_right;
+        Node<TeamByPower> *tempUpdateMax = temp->m_right;
         if(tempUpdateMax == nullptr)
         {
             tempUpdateMax = temp->m_parent;
@@ -571,7 +503,7 @@ void AVLRankTree<T>::removeNode(T *info) //based on assumption that such info al
             nodeToRemove->m_right->m_addWins = e4 - subset_extra;
         }
 
-        Node<T> *tempFather = temp->m_parent;
+        Node<TeamByPower> *tempFather = temp->m_parent;
         temp->m_left = nodeToRemove->m_left;
         temp->m_left->m_parent = temp;
         if (nodeToRemove == m_root)
@@ -657,14 +589,13 @@ void AVLRankTree<T>::removeNode(T *info) //based on assumption that such info al
 }
 
 
-template<class T>
-Node<T> *AVLRankTree<T>::findNode(T *key) //nullptr if doesnt exist in tree
+Node<TeamByPower> *AVLRankTreePower::findNode(TeamByPower *key) //nullptr if doesnt exist in tree
 {
     if(key == nullptr)
     {
         return nullptr;
     }
-    Node<T> *ptr = m_root;
+    Node<TeamByPower> *ptr = m_root;
     while (ptr != nullptr)
     {
         if (*(ptr->m_info) == key)
@@ -681,11 +612,10 @@ Node<T> *AVLRankTree<T>::findNode(T *key) //nullptr if doesnt exist in tree
     return nullptr;
 }
 
-template<class T>
-int AVLRankTree<T>::getAddedWins(T *key)
+int AVLRankTreePower::getAddedWins(TeamByPower *key)
 {
     int addedWins = 0;
-    Node<T> *ptr = m_root;
+    Node<TeamByPower> *ptr = m_root;
     while (ptr != nullptr)
     {
         addedWins += ptr->m_addWins;
@@ -703,25 +633,24 @@ int AVLRankTree<T>::getAddedWins(T *key)
     return addedWins;
 }
 
-template<class T>
-void AVLRankTree<T>::insertNode(T *new_T, int wins, int power) //inserts new node when guaranteed that node doesnt exist in tree
+void AVLRankTreePower::insertNode(TeamByPower *new_T, int wins, int power) //inserts new node when guaranteed that node doesnt exist in tree
 {
     int temp_extra = 0;
     if (m_root == nullptr)
     {
-        Node<T> *newNode = new Node<T>(new_T);
+        Node<TeamByPower> *newNode = new Node<TeamByPower>(new_T);
         m_root = newNode;
         m_treeSize++;
         return;
     }
-    Node<T> *ptr = m_root;
+    Node<TeamByPower> *ptr = m_root;
     while (ptr != nullptr)
     {
         if (*new_T < ptr->m_info)
         {
             if (ptr->m_left == nullptr)
             {
-                Node<T> *newNode = new Node<T>(new_T);
+                Node<TeamByPower> *newNode = new Node<TeamByPower>(new_T);
                 newNode->m_addWins -= temp_extra;
                 ptr->m_left = newNode;
                 newNode->m_parent = ptr;
@@ -734,7 +663,7 @@ void AVLRankTree<T>::insertNode(T *new_T, int wins, int power) //inserts new nod
         {
             if (ptr->m_right == nullptr)
             {
-                Node<T> *newNode = new Node<T>(new_T);
+                Node<TeamByPower> *newNode = new Node<TeamByPower>(new_T);
                 newNode->m_addWins -= temp_extra;
                 ptr->m_right = newNode;
                 newNode->m_parent = ptr;
@@ -745,7 +674,7 @@ void AVLRankTree<T>::insertNode(T *new_T, int wins, int power) //inserts new nod
             ptr = ptr->m_right;
         }
     }
-    Node<T>* temp = ptr;
+    Node<TeamByPower>* temp = ptr;
     ptr->m_maxRank = wins + power;
     while (ptr != nullptr)
     {
@@ -758,11 +687,10 @@ void AVLRankTree<T>::insertNode(T *new_T, int wins, int power) //inserts new nod
     m_treeSize++;
 }
 
-template<class T>
-Node<T> *SupremumOfMin(Node<T> *root, T *min, T *max) //returns nullptr if no key within range
+Node<TeamByPower> *SupremumOfMin(Node<TeamByPower> *root, TeamByPower *min, TeamByPower *max) //returns nullptr if no key within range
 {
-    Node<T> *wantedNode = nullptr;
-    Node<T> *ptr = root;
+    Node<TeamByPower> *wantedNode = nullptr;
+    Node<TeamByPower> *ptr = root;
     while (ptr != nullptr)
     {
         if (*(ptr->m_info) < min)
@@ -782,8 +710,7 @@ Node<T> *SupremumOfMin(Node<T> *root, T *min, T *max) //returns nullptr if no ke
     return nullptr;
 }
 
-template<class T>
-Node<T> *mergedArrayIntoBalTree(T **mergedArray, int startingIndex, int endingIndex)
+Node<TeamByPower> *mergedArrayIntoBalTree(TeamByPower **mergedArray, int startingIndex, int endingIndex)
 {
     if (startingIndex > endingIndex)
     {
@@ -791,7 +718,7 @@ Node<T> *mergedArrayIntoBalTree(T **mergedArray, int startingIndex, int endingIn
     }
 
     int middleIndex = (startingIndex + endingIndex) / 2;
-    Node<T> *root = new Node<T>(mergedArray[middleIndex]);
+    Node<TeamByPower> *root = new Node<TeamByPower>(mergedArray[middleIndex]);
     root->m_left = mergedArrayIntoBalTree(mergedArray, startingIndex, middleIndex - 1);
     if(root->m_left != nullptr)
     {
@@ -808,4 +735,3 @@ Node<T> *mergedArrayIntoBalTree(T **mergedArray, int startingIndex, int endingIn
     return root;
 }
 
-#endif //WET_2_AVLRANKTREE_H

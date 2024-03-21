@@ -1,4 +1,5 @@
 #include "olympics24a2.h"
+#include <iostream>
 
 olympics_t::olympics_t()
 {
@@ -249,6 +250,8 @@ output_t<int> olympics_t::num_wins_for_team(int teamId)
 
 output_t<int> olympics_t::get_highest_ranked_team()
 {
+    //std::cout << "max power id: " << maxNode(m_teamsByPower.m_root)->m_info->m_teamID << '\n';
+    //std::cout << "max power: " << maxNode(m_teamsByPower.m_root)->m_info->m_power << '\n';
     return m_highestRank;
 }
 
@@ -281,6 +284,7 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     }
     TeamByPower team1PowerFinder(teamId1, team1->m_info->m_wins, team1->m_info->m_power);
     TeamByPower team2PowerFinder(teamId2, team2->m_info->m_wins, team2->m_info->m_power);
+    Node<TeamByPower> *team2pow = m_teamsByPower.findNode(&team2PowerFinder);
     m_teamsByPower.removeNode(&team1PowerFinder);
     m_teamsByPower.removeNode(&team2PowerFinder);
     int sizeOfArray1 = 0;

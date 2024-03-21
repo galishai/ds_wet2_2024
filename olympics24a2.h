@@ -20,12 +20,13 @@
 //#include "Team.h"
 //#include "TeamByID.h"
 #include "TeamByPower.h"
+#include "AVLRankTreePower.h"
 
 class olympics_t {
 private:
     DynamicHashTable m_teamsHash;
     AVLRankTree<TeamByID> m_teamsByID;
-    AVLRankTree<TeamByPower> m_teamsByPower;
+    AVLRankTreePower m_teamsByPower;
     int m_highestRank;
 
     int m_timestamp;
