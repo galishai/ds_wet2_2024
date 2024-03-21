@@ -249,7 +249,7 @@ output_t<int> olympics_t::num_wins_for_team(int teamId)
 
 output_t<int> olympics_t::get_highest_ranked_team()
 {
-    return m_teamsByPower.m_root->m_maxRank;
+    return m_highestRank;
 }
 
 StatusType olympics_t::unite_teams(int teamId1, int teamId2)
@@ -551,5 +551,6 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         highestnode->m_maxRank = highestInRange->m_power + highestInRange->m_wins;
         updateMaxRec(highestnode);
     }
+    m_highestRank = m_teamsByPower.m_root->m_maxRank;
     return highestInRange->m_teamID;
 }
