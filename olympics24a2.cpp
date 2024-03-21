@@ -334,8 +334,8 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     Node<PlayerByCreated> *newRootCreated = mergedArrayIntoBalTree(arrayMergedCreated, 0, sizeOfArray1 + sizeOfArray2 - 1);
     Node<PlayerByStrength> *newRootStrength = mergedArrayIntoBalTree(arrayMergedStrength, 0, sizeOfArray1 + sizeOfArray2 - 1);
 
-    delete team1->m_info->m_playersByCreated;
-    delete team1->m_info->m_playersByStrength;
+    //delete team1->m_info->m_playersByCreated;
+    //delete team1->m_info->m_playersByStrength;
 
     team1->m_info->m_playersByCreated = new AVLRankTree<PlayerByCreated>();
     team1->m_info->m_playersByStrength = new AVLRankTree<PlayerByStrength>();
