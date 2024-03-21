@@ -46,7 +46,7 @@ play_tournament: FAILURE
 remove_newest_player: FAILURE
 remove_newest_player: SUCCESS
 add_player: FAILURE
-get_highest_ranked_team: SUCCESS, 22840
+get_highest_ranked_team: SUCCESS, 42435
 remove_team: SUCCESS
 num_wins_for_team: FAILURE
 add_player: SUCCESS
