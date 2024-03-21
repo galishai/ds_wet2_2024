@@ -360,6 +360,10 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
     {
         return StatusType::INVALID_INPUT;
     }
+    if(m_teamsByID.m_treeSize == 0)
+    {
+        return StatusType::FAILURE;
+    }
     TeamByID *maxIDTeam = maxNode(m_teamsByID.m_root)->m_info;
     TeamByPower *lowestInRange;
     TeamByPower *highestInRange;
