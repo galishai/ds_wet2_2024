@@ -27,13 +27,17 @@ void DynamicHashTable::insert(int key, TeamByID* info)
     //shared_ptr<HashNode> nodeToAdd = make_shared<HashNode>(key, info);
     if (m_occupancy + 1 > LOAD_FACTOR * m_size)
     {
-        resize();
+        resize(true);
     }
     int index = hashFunction(key);/////
     //shared_ptr<HashNode> temp = m_arr[index];
     if (m_arr[index] == nullptr)
     {
         m_arr[index] = new AVLRankTree<TeamByID>();
+        m_occupancy++;
+    }
+    else if(m_arr[index]->m_treeSize == 0)
+    {
         m_occupancy++;
     }
     m_arr[index]->insertNode(info);
@@ -44,6 +48,10 @@ void DynamicHashTable::remove(int key)
     if (find(key) == nullptr)
     {
         return;
+    }
+    if (m_size > INITIAL_SIZE && m_occupancy - 1 < 0.5 * LOAD_FACTOR * m_size)
+    {
+        resize(false);
     }
     else
     {
@@ -57,9 +65,17 @@ void DynamicHashTable::remove(int key)
     }
 }
 
-void DynamicHashTable::resize()
+void DynamicHashTable::resize(bool add)
 {
-    int newSize = m_size * EXPANSION;///////
+    int newSize;
+    if(add)
+    {
+        newSize = m_size * EXPANSION;///////
+    }
+    else
+    {
+        newSize = m_size * LOAD_FACTOR;
+    }
     /////loadFactor
     AVLRankTree<TeamByID> **newArr =  new AVLRankTree<TeamByID> *[newSize]();
     for (int i=0; i<m_size; i++)
@@ -80,6 +96,15 @@ void DynamicHashTable::resize()
         }
     }
     m_size = newSize;
+    int occ = 0;
+    for(int i = 0 ; i < m_size; i++)
+    {
+        if(newArr[i] != nullptr && newArr[i]->m_treeSize != 0)
+        {
+            occ++;
+        }
+    }
+    m_occupancy = occ;
     delete[] m_arr;
     //TODO delete contents of old array
     m_arr = newArr;

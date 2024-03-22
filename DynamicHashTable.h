@@ -55,7 +55,7 @@ public:
 
     void remove(int key);
 
-    void resize();
+    void resize(bool add);
 
     //double loadFactor()//////////////////////////
     int hashFunction (int key);
