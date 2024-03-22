@@ -115,7 +115,7 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
     m_teamsByPower.insertNode(updatedTeamPower);
     Node<TeamByPower>* temp =  m_teamsByPower.findNode(updatedTeamPower);
     temp->m_maxRank = updatedTeamPower->m_wins + updatedTeamPower->m_power + m_teamsByPower.getAddedWins(temp->m_info);
-    updateMaxRec(temp);
+    m_teamsByPower.updateMaxRec(temp);
     m_highestRank = m_teamsByPower.m_root->m_maxRank;
 	return StatusType::SUCCESS;
 }
@@ -152,7 +152,7 @@ StatusType olympics_t::remove_newest_player(int teamId)
         m_teamsByPower.insertNode(updatedPower);
         Node<TeamByPower>* temp =  m_teamsByPower.findNode(updatedPower);
         temp->m_maxRank = updatedPower->m_wins + updatedPower->m_power + m_teamsByPower.getAddedWins(temp->m_info); //TODO is temp always a leaf?
-        updateMaxRec(temp);
+        m_teamsByPower.updateMaxRec(temp);
     }
     if(m_teamsByID.m_treeSize == 0)
     {
@@ -219,10 +219,10 @@ output_t<int> olympics_t::play_match(int teamId1, int teamId2)
     }
     Node<TeamByPower>* temp1 =  m_teamsByPower.findNode(team1Power);
     temp1->m_maxRank = temp1->m_info->m_wins + temp1->m_info->m_power + m_teamsByPower.getAddedWins(temp1->m_info);
-    updateMaxRec(temp1);
+    m_teamsByPower.updateMaxRec(temp1);
     Node<TeamByPower>* temp2 =  m_teamsByPower.findNode(team2Power);
     temp2->m_maxRank = temp2->m_info->m_wins + temp2->m_info->m_power + m_teamsByPower.getAddedWins(temp2->m_info);
-    updateMaxRec(temp2);
+    m_teamsByPower.updateMaxRec(temp2);
     m_highestRank = m_teamsByPower.m_root->m_maxRank;
     return winningID;
 }
@@ -553,7 +553,7 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         highestInRange->m_wins ++;
         Node<TeamByPower> *highestnode = m_teamsByPower.findNode(highestInRange);
         highestnode->m_maxRank = highestInRange->m_power + highestInRange->m_wins + m_teamsByPower.getAddedWins(highestInRange);
-        updateMaxRec(highestnode);
+        m_teamsByPower.updateMaxRec(highestnode);
     }
     m_highestRank = m_teamsByPower.m_root->m_maxRank;
     return highestInRange->m_teamID;

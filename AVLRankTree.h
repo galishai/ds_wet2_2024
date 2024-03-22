@@ -165,7 +165,7 @@ void updateSize(Node<T> *node)
     node->m_size = getSize(node->m_left) + getSize(node->m_right) + 1;
 }
 
-template<class T>
+/*template<class T>
 void updateMax(Node<T> *node)
 {
     int child_max = max(getMax(node->m_left), getMax(node->m_right));
@@ -182,7 +182,7 @@ void updateMaxRec(Node<T> *node)
         updateMax(temp);
         temp = temp->m_parent;
     }
-}
+}*/
 
 template<class T>
 Node<T> *AVLRankTree<T>::balanceNode(Node<T> *node)
@@ -472,11 +472,11 @@ void AVLRankTree<T>::removeNode(T *info) //based on assumption that such info al
         } else if (nodeToRemoveParent->m_right == nodeToRemove)
         {
             nodeToRemoveParent->m_right = nullptr;
-            updateMaxRec(nodeToRemoveParent);
+            //updateMaxRec(nodeToRemoveParent);
         } else
         {
             nodeToRemoveParent->m_left = nullptr;
-            updateMaxRec(nodeToRemoveParent);
+            //updateMaxRec(nodeToRemoveParent);
         }
         nodeToRemove->m_parent = nullptr;
         nodeToRemove->m_left = nullptr;
@@ -496,12 +496,12 @@ void AVLRankTree<T>::removeNode(T *info) //based on assumption that such info al
         {
             nodeToRemove->m_left->m_parent = nodeToRemoveParent;
             nodeToRemoveParent->m_left = nodeToRemove->m_left;
-            updateMaxRec(nodeToRemoveParent);
+            //updateMaxRec(nodeToRemoveParent);
         } else
         {
             nodeToRemove->m_left->m_parent = nodeToRemoveParent;
             nodeToRemoveParent->m_right = nodeToRemove->m_left;
-            updateMaxRec(nodeToRemoveParent);
+            //updateMaxRec(nodeToRemoveParent);
         }
         delete nodeToRemove;
     } else if (nodeToRemove->m_right != nullptr && nodeToRemove->m_left == nullptr) //if has only right son
@@ -518,12 +518,12 @@ void AVLRankTree<T>::removeNode(T *info) //based on assumption that such info al
         {
             nodeToRemove->m_right->m_parent = nodeToRemoveParent;
             nodeToRemoveParent->m_right = nodeToRemove->m_right;
-            updateMaxRec(nodeToRemoveParent);
+            //updateMaxRec(nodeToRemoveParent);
         } else
         {
             nodeToRemove->m_right->m_parent = nodeToRemoveParent;
             nodeToRemoveParent->m_left = nodeToRemove->m_right;
-            updateMaxRec(nodeToRemoveParent);
+            //updateMaxRec(nodeToRemoveParent);
         }
         delete nodeToRemove;
     }
@@ -613,7 +613,7 @@ void AVLRankTree<T>::removeNode(T *info) //based on assumption that such info al
             {
                 updateHeight(tempFather);
                 updateSize(tempFather);
-                updateMax(tempFather);
+                //updateMax(tempFather);
                 balanceNode(tempFather);
                 tempFather = tempFather->m_parent;
             }
@@ -623,21 +623,21 @@ void AVLRankTree<T>::removeNode(T *info) //based on assumption that such info al
         {
             updateHeight(temp->m_left);
             updateSize(temp->m_left);
-            updateMax(temp->m_left);
+            //updateMax(temp->m_left);
             balanceNode(temp->m_left);
         }
         if(temp->m_right != nullptr)
         {
             updateHeight(temp->m_right);
             updateSize(temp->m_right);
-            updateMax(temp->m_right);
+            //updateMax(temp->m_right);
             balanceNode(temp->m_right);
         }
         while (temp != nullptr)
         {
             updateHeight(temp);
             updateSize(temp);
-            updateMax(temp);
+            //updateMax(temp);
             temp = balanceNode(temp);
             temp = temp->m_parent;
         }
@@ -649,7 +649,7 @@ void AVLRankTree<T>::removeNode(T *info) //based on assumption that such info al
     {
         updateHeight(nodeToRemoveParent);
         updateSize(nodeToRemoveParent);
-        updateMax(nodeToRemoveParent);
+        //updateMax(nodeToRemoveParent);
         nodeToRemoveParent = balanceNode(nodeToRemoveParent);
         nodeToRemoveParent = nodeToRemoveParent->m_parent;
     }
@@ -751,7 +751,7 @@ void AVLRankTree<T>::insertNode(T *new_T, int wins, int power) //inserts new nod
     {
         ptr->m_height = 1 + max(getHeight(ptr->m_left), getHeight(ptr->m_right));
         updateSize(ptr);
-        updateMax(ptr);
+        //updateMax(ptr);
         ptr = balanceNode(ptr);
         ptr = ptr->m_parent;
     }
@@ -804,7 +804,7 @@ Node<T> *mergedArrayIntoBalTree(T **mergedArray, int startingIndex, int endingIn
     }
     updateHeight(root);
     updateSize(root);
-    updateMax(root);
+    //updateMax(root);
     return root;
 }
 

@@ -47,6 +47,11 @@ public:
     int rank(TeamByPower* key);
 
     void addWinsToLessEqual(TeamByPower* key, int addWins);
+
+    void updateMax(Node<TeamByPower> *node, int addedWins = 0);
+
+    void updateMaxRec(Node<TeamByPower> *node);
+
 };
 
 

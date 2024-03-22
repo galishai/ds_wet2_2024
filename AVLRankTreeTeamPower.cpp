@@ -65,6 +65,24 @@ int AVLRankTreePower::rank(TeamByPower *key)
     return r;
 }
 
+void AVLRankTreePower::updateMax(Node<TeamByPower> *node, int addedWins)
+{
+    int child_max = max(getMax(node->m_left), getMax(node->m_right));
+    node->m_maxRank = max(node->m_info->m_wins + node->m_info->m_power + addedWins, child_max);
+}
+
+void AVLRankTreePower::updateMaxRec(Node<TeamByPower> *node)
+{
+    int addedWinsPath = this->getAddedWins(node->m_info);
+    Node<TeamByPower> *temp = node;
+    while (temp != nullptr)
+    {
+        updateMax(temp, addedWinsPath);
+        addedWinsPath -= temp->m_addWins;
+        temp = temp->m_parent;
+    }
+}
+
 void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
 {
     int right_turns = 0;
@@ -111,23 +129,6 @@ void updateHeight(Node<TeamByPower> *node)
 void updateSize(Node<TeamByPower> *node)
 {
     node->m_size = getSize(node->m_left) + getSize(node->m_right) + 1;
-}
-
-void updateMax(Node<TeamByPower> *node)
-{
-    int child_max = max(getMax(node->m_left), getMax(node->m_right));
-    node->m_maxRank = max(node->m_info->m_wins + node->m_info->m_power, child_max);
-}
-
-void updateMaxRec(Node<TeamByPower> *node)
-{
-
-    Node<TeamByPower> *temp = node;
-    while (temp != nullptr)
-    {
-        updateMax(temp);
-        temp = temp->m_parent;
-    }
 }
 
 Node<TeamByPower> *AVLRankTreePower::balanceNode(Node<TeamByPower> *node)
@@ -735,7 +736,18 @@ Node<TeamByPower> *mergedArrayIntoBalTree(TeamByPower **mergedArray, int startin
     }
     updateHeight(root);
     updateSize(root);
-    updateMax(root);
+    //updateMax(root);
     return root;
 }
+
+/*void AVLRankTreePower::updateMaxPostOrder(Node<TeamByPower> *root)
+{
+    if(root == nullptr)
+    {
+        return;
+    }
+
+    updateMaxPostOrder(root->m_left);
+    updateMaxPostOrder(root->m_right);
+}*/
 
