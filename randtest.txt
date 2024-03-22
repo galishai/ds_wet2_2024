@@ -161,7 +161,7 @@ play_match: INVALID_INPUT
 add_player: SUCCESS
 unite_teams: FAILURE
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, -1
 add_team: SUCCESS
 play_tournament: FAILURE
 get_highest_ranked_team: SUCCESS, 0
