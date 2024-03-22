@@ -543,10 +543,15 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
             flag = true;
         }
 
+        Node<TeamByPower> *nodeToRemoveP = nodeToRemove->m_parent;
         delete nodeToRemove;
 
         if(flag)
         {
+            if(nodeToRemoveP != nullptr)
+            {
+            updateMaxRec(nodeToRemoveP);
+            }
             while (tempFather != nullptr)
             {
                 updateHeight(tempFather);
@@ -681,6 +686,10 @@ void AVLRankTreePower::insertNode(TeamByPower *new_T) //inserts new node when gu
         }
     }
     Node<TeamByPower>* temp = ptr;
+    if(ptr != nullptr)
+    {
+        updateMaxRec(ptr);
+    }
     while (ptr != nullptr)
     {
         ptr->m_height = 1 + max(getHeight(ptr->m_left), getHeight(ptr->m_right));

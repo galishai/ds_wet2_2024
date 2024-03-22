@@ -109,9 +109,19 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
     }
     m_timestamp++;
     TeamByPower teamPowerFinder(teamId, team->m_info->m_wins, team->m_info->m_power);
+    Node<TeamByPower> *teampow = m_teamsByPower.findNode(&teamPowerFinder);
+    int original_wins;
+    if(teampow == nullptr)
+    {
+        original_wins = teamInHash->m_wins;
+    }
+    else
+    {
+        original_wins = teampow->m_info->m_wins + m_teamsByPower.getAddedWins(teampow->m_info);
+    }
     m_teamsByPower.removeNode(&teamPowerFinder);
     team->m_info->updateMedianAndPower();
-    TeamByPower* updatedTeamPower = new TeamByPower(teamId, team->m_info->m_wins, team->m_info->m_power);
+    TeamByPower* updatedTeamPower = new TeamByPower(teamId, original_wins, team->m_info->m_power);
     m_teamsByPower.insertNode(updatedTeamPower);
     Node<TeamByPower>* temp =  m_teamsByPower.findNode(updatedTeamPower);
     temp->m_maxRank = updatedTeamPower->m_wins + updatedTeamPower->m_power + m_teamsByPower.getAddedWins(temp->m_info);
@@ -146,9 +156,12 @@ StatusType olympics_t::remove_newest_player(int teamId)
     }
     else
     {
+        int original_wins;
+        TeamByPower* teampow = m_teamsByPower.findNode(&teamPowerFinder)->m_info;
+        original_wins = teampow->m_wins + m_teamsByPower.getAddedWins(teampow);
         m_teamsByPower.removeNode(&teamPowerFinder);
         team->m_info->updateMedianAndPower();
-        TeamByPower *updatedPower = new TeamByPower(teamId, team->m_info->m_wins, team->m_info->m_power);
+        TeamByPower *updatedPower = new TeamByPower(teamId, original_wins, team->m_info->m_power);
         m_teamsByPower.insertNode(updatedPower);
         Node<TeamByPower>* temp =  m_teamsByPower.findNode(updatedPower);
         temp->m_maxRank = updatedPower->m_wins + updatedPower->m_power + m_teamsByPower.getAddedWins(temp->m_info); //TODO is temp always a leaf?
@@ -252,6 +265,10 @@ output_t<int> olympics_t::get_highest_ranked_team()
 {
     //std::cout << "max power id: " << maxNode(m_teamsByPower.m_root)->m_info->m_teamID << '\n';
     //std::cout << "max power: " << maxNode(m_teamsByPower.m_root)->m_info->m_power << '\n';
+    if(m_teamsHash.m_occupancy == 0)
+    {
+        return -1;
+    }
     return m_highestRank;
 }
 
@@ -284,6 +301,16 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     }
     TeamByPower team1PowerFinder(teamId1, team1->m_info->m_wins, team1->m_info->m_power);
     TeamByPower team2PowerFinder(teamId2, team2->m_info->m_wins, team2->m_info->m_power);
+    Node<TeamByPower> *team1pow = m_teamsByPower.findNode(&team1PowerFinder);
+    int original_wins;
+    if(team1pow == nullptr)
+    {
+        original_wins = team1hash->m_wins;
+    }
+    else
+    {
+        original_wins = team1pow->m_info->m_wins + m_teamsByPower.getAddedWins(team1pow->m_info);
+    }
     Node<TeamByPower> *team2pow = m_teamsByPower.findNode(&team2PowerFinder);
     m_teamsByPower.removeNode(&team1PowerFinder);
     m_teamsByPower.removeNode(&team2PowerFinder);
@@ -351,7 +378,7 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     team2->m_info->m_playersByStrength->m_root = nullptr;
     m_teamsByID.removeNode(team2->m_info);
     team1->m_info->updateMedianAndPower();
-    TeamByPower *updatedTeamPower1 = new TeamByPower(team1->m_info->m_teamID, team1->m_info->m_wins, team1->m_info->m_power);
+    TeamByPower *updatedTeamPower1 = new TeamByPower(team1->m_info->m_teamID, original_wins, team1->m_info->m_power);
     m_teamsByPower.insertNode(updatedTeamPower1);
     m_teamsHash.remove(teamId2);
     m_highestRank = m_teamsByPower.m_root->m_maxRank;
@@ -551,6 +578,9 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
     if(num_in_range == 2)
     {
         highestInRange->m_wins ++;
+        TeamByID winnerFinder(highestInRange->m_teamID);
+        TeamByID *winnerByID = m_teamsByID.findNode(&winnerFinder)->m_info;
+        winnerByID->m_wins++;
         Node<TeamByPower> *highestnode = m_teamsByPower.findNode(highestInRange);
         highestnode->m_maxRank = highestInRange->m_power + highestInRange->m_wins + m_teamsByPower.getAddedWins(highestInRange);
         m_teamsByPower.updateMaxRec(highestnode);
