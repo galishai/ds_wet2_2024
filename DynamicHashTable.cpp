@@ -94,6 +94,10 @@ void DynamicHashTable::resize()
     }
     m_size = newSize;
     int occ = 0;
+    for(int i = 0; i < m_size; i++)
+    {
+        delete m_arr[i];
+    }
     for(int i = 0 ; i < m_size; i++)
     {
         if(newArr[i] != nullptr && newArr[i]->m_treeSize != 0)
