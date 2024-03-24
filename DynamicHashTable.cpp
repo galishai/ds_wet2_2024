@@ -90,6 +90,7 @@ void DynamicHashTable::resize()
                 }
                 newArr[newIndex]->insertNode(array[j]);
             }
+            delete[] array;
         }
     }
     m_size = newSize;
