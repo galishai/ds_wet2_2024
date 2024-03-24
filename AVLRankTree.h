@@ -3,6 +3,7 @@
 #define WET_2_AVLRANKTREE_H
 
 #include "Node.h"
+#include <iostream>
 
 template<class T>
 class AVLRankTree
@@ -252,25 +253,44 @@ static int InorderTransversalIntoArray(Node<T> *root, T *array[], int sizeOfArra
 template<class T>
 void mergeTwoArraysIntoOne(T *array1[], T *array2[], T *mergedArray[], int sizeof1, int sizeof2)
 {
-    int i1 = 0, i2 = 0, i3 = 0;
-    while (i1 < sizeof1 && i2 < sizeof2)
+    try
     {
-        if (*array1[i1] < array2[i2])
+        int i1 = 0, i2 = 0, i3 = 0;
+        while (i1 < sizeof1 && i2 < sizeof2)
         {
-            mergedArray[i3++] = array1[i1];
-            i1++;
-        } else
-        {
-            mergedArray[i3++] = array2[i2++];
+            if (*array1[i1] < array2[i2])
+            {
+                T *obj1Copy = new T(array1[i1++]);
+                mergedArray[i3++] = obj1Copy;
+            } else if(*array2[i2] < array1[i1])
+            {
+                T *obj2Copy = new T(array2[i2++]);
+                mergedArray[i3++] = obj2Copy;
+            }
+            else
+            {
+                T* obj3Copy = new T(array1[i1++]);
+                i2++;
+                mergedArray[i3++] = obj3Copy;
+            }
         }
-    }
-    while (i1 < sizeof1)
+        while (i1 < sizeof1)
+        {
+            T *objl1Copy = new T(array1[i1++]);
+            mergedArray[i3++] = objl1Copy;
+        }
+        while (i2 < sizeof2)
+        {
+            T *objl2Copy = new T(array2[i2++]);
+            mergedArray[i3++] = objl2Copy;
+        }
+    }catch (std::bad_alloc& error)
     {
-        mergedArray[i3++] = array1[i1++];
-    }
-    while (i2 < sizeof2)
-    {
-        mergedArray[i3++] = array2[i2++];
+        for(int i = 0; i < sizeof1 + sizeof2; i++)
+        {
+            delete mergedArray[i];
+        }
+        throw;
     }
 }
 
