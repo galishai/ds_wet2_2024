@@ -93,7 +93,7 @@ get_highest_ranked_team: SUCCESS, 47151
 get_highest_ranked_team: SUCCESS, 47151
 play_tournament: SUCCESS, 183
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 30278
+get_highest_ranked_team: SUCCESS, 42437
 add_player: SUCCESS
 remove_newest_player: SUCCESS
 add_player: SUCCESS
