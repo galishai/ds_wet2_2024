@@ -382,8 +382,8 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     team1->m_info->m_playersByStrength->m_root = newRootStrength;
     team1->m_info->m_playersByCreated->m_treeSize = sizeOfArray1 + sizeOfArray2;
     team1->m_info->m_playersByStrength->m_treeSize = sizeOfArray1 + sizeOfArray2;
-    team2->m_info->m_playersByCreated->m_root = nullptr;
-    team2->m_info->m_playersByStrength->m_root = nullptr;
+    //team2->m_info->m_playersByCreated->m_root = nullptr;
+    //team2->m_info->m_playersByStrength->m_root = nullptr;
     m_teamsByID->removeNode(team2->m_info);
     team1->m_info->updateMedianAndPower();
     TeamByPower *updatedTeamPower1 = new TeamByPower(team1->m_info->m_teamID, original_wins, team1->m_info->m_power);
