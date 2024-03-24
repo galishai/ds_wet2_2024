@@ -97,7 +97,7 @@ void DynamicHashTable::resize()
     {
         if(m_arr[i] != nullptr)
         {
-            //InorderNullify(m_arr[i]->m_root);
+            InorderNullify(m_arr[i]->m_root);
             delete m_arr[i];
         }
     }
