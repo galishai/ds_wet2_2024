@@ -14,6 +14,8 @@ public:
     {
     };
 
+    virtual ~TeamByPower();
+
     bool operator==(Team* other) const override
     {
         if(other == nullptr)

@@ -7,12 +7,16 @@
 
 #include "Team.h"
 
+
+
 class TeamByID: public Team
 {
 public:
     explicit TeamByID(int teamID, int wins = 0, int power = 0): Team(teamID, wins, power)
     {
     };
+
+    virtual ~TeamByID();
 
     bool operator==(Team* other) const override
     {
