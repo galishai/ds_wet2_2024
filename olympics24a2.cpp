@@ -390,16 +390,21 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     m_teamsByPower->insertNode(updatedTeamPower1);
     m_teamsHash->remove(teamId2);
     m_highestRank = m_teamsByPower->m_root->m_maxRank;
-    for(int i = 0; i < sizeOfArray1; i++)
+    for(int i = 0; i < sizeOfArray1 + sizeOfArray2; i++)
+    {
+        delete arrayMergedCreated[i];
+        delete arrayMergedStrength[i];
+    }
+    /*for(int i = 0; i < sizeOfArray1; i++)
     {
         delete arrayCreated1[i];
         delete arrayStrength1[i];
-    }
-    for(int i = 0; i < sizeOfArray2; i++)
+    }*/
+    /*for(int i = 0; i < sizeOfArray2; i++)
     {
         delete arrayCreated2[i];
         delete arrayStrength2[i];
-    }
+    }*/
     delete[] arrayCreated1;
     delete[] arrayCreated2;
     delete[] arrayStrength1;
