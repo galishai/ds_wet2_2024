@@ -93,14 +93,14 @@ void DynamicHashTable::resize()
             delete[] array;
         }
     }
-    /*for(int i = 0; i < m_size; i++)
+    for(int i = 0; i < m_size; i++)
     {
         if(m_arr[i] != nullptr)
         {
-            m_arr[i]->m_root = nullptr;
+            InorderNullify(m_arr[i]->m_root);
             delete m_arr[i];
         }
-    }*/
+    }
     m_size = newSize;
     int occ = 0;
     for(int i = 0 ; i < m_size; i++)
