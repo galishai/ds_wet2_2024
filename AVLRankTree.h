@@ -828,4 +828,16 @@ Node<T> *mergedArrayIntoBalTree(T **mergedArray, int startingIndex, int endingIn
     return root;
 }
 
+template <class T>
+static void InorderNullify(Node<T> *root)
+{
+    if(root == nullptr)
+    {
+        return;
+    }
+    InorderNullify(root->m_left);
+    root->m_info = nullptr;
+    InorderNullify(root->m_right);
+}
+
 #endif //WET_2_AVLRANKTREE_H
