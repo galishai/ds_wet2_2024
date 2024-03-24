@@ -30,11 +30,6 @@ public:
         m_medianPlayer = nullptr;
     }
 
-    virtual ~Team()
-    {
-        delete m_playersByCreated;
-        delete m_playersByStrength;
-    }
     virtual bool operator==(Team* other) const = 0;
     virtual bool operator<(Team* other) const = 0;
 

@@ -14,7 +14,7 @@ public:
     {
     };
 
-    ~TeamByPower() override
+    ~TeamByPower()
     {
         delete m_playersByCreated;
         delete m_playersByStrength;

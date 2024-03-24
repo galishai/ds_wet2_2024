@@ -16,7 +16,7 @@ public:
     {
     };
 
-    ~TeamByID() override
+    ~TeamByID()
     {
         delete m_playersByCreated;
         delete m_playersByStrength;
