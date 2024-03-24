@@ -60,7 +60,6 @@ void DynamicHashTable::remove(int key)
         m_arr[index]->removeNode(&teamCopy);
         if(m_arr[index]->m_treeSize == 0)
         {
-            delete m_arr[index];
             m_occupancy--;
         }
     }
@@ -98,7 +97,7 @@ void DynamicHashTable::resize()
     {
         if(m_arr[i] != nullptr)
         {
-            InorderNullify(m_arr[i]->m_root);
+            //InorderNullify(m_arr[i]->m_root);
             delete m_arr[i];
         }
     }
