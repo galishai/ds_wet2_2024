@@ -352,7 +352,8 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     }
     else
     {
-        inc = maxNode(team1->m_info->m_playersByCreated->m_root)->m_info->m_created + 1;
+        inc = team1->m_info->m_player_count;
+                // maxNode(team1->m_info->m_playersByCreated->m_root)->m_info->m_created;
     }
     for(int i = 0; i < sizeOfArray2; i++)
     {
