@@ -14,7 +14,11 @@ public:
     {
     };
 
-    virtual ~TeamByPower();
+    ~TeamByPower() override
+    {
+        delete m_playersByCreated;
+        delete m_playersByStrength;
+    }
 
     bool operator==(Team* other) const override
     {
