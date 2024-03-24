@@ -373,8 +373,8 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     Node<PlayerByCreated> *newRootCreated = mergedArrayIntoBalTree(arrayMergedCreated, 0, sizeOfArray1 + sizeOfArray2 - 1);
     Node<PlayerByStrength> *newRootStrength = mergedArrayIntoBalTree(arrayMergedStrength, 0, sizeOfArray1 + sizeOfArray2 - 1);
 
-    delete team1->m_info->m_playersByCreated;
-    delete team1->m_info->m_playersByStrength;
+    //delete team1->m_info->m_playersByCreated;
+    //delete team1->m_info->m_playersByStrength;
 
     team1->m_info->m_playersByCreated = new AVLRankTree<PlayerByCreated>();
     team1->m_info->m_playersByStrength = new AVLRankTree<PlayerByStrength>();
@@ -390,6 +390,22 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     m_teamsByPower->insertNode(updatedTeamPower1);
     m_teamsHash->remove(teamId2);
     m_highestRank = m_teamsByPower->m_root->m_maxRank;
+    for(int i = 0; i < sizeOfArray1; i++)
+    {
+        delete arrayCreated1[i];
+        delete arrayStrength1[i];
+    }
+    for(int i = 0; i < sizeOfArray2; i++)
+    {
+        delete arrayCreated2[i];
+        delete arrayStrength2[i];
+    }
+    delete[] arrayCreated1;
+    delete[] arrayCreated2;
+    delete[] arrayStrength1;
+    delete[] arrayStrength2;
+    delete[] arrayMergedCreated;
+    delete[] arrayMergedStrength;
     return StatusType::SUCCESS;
 }
 
