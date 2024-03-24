@@ -60,6 +60,7 @@ void DynamicHashTable::remove(int key)
         m_arr[index]->removeNode(&teamCopy);
         if(m_arr[index]->m_treeSize == 0)
         {
+            delete m_arr[index];
             m_occupancy--;
         }
     }
