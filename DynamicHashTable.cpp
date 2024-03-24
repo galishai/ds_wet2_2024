@@ -84,10 +84,10 @@ void DynamicHashTable::resize()
             for (int j = 0; j < m_arr[i]->m_treeSize; j++)
             {
                 int newIndex = array[j]->m_teamID % newSize;
-                if (newArr[newIndex] == nullptr)
+                /*if (newArr[newIndex] == nullptr)
                 {
                     newArr[newIndex] = new AVLRankTree<TeamByID>();
-                }
+                }*/
                 newArr[newIndex]->insertNode(array[j]);
             }
             delete[] array;
