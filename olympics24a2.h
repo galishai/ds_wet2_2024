@@ -29,7 +29,7 @@ private:
     AVLRankTreePower m_teamsByPower;
     int m_highestRank;
 
-    int m_timestamp;
+    //int m_timestamp;
 	//
 	// Here you may add anything you want
 	//

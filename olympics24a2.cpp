@@ -3,7 +3,7 @@
 
 olympics_t::olympics_t()
 {
-    m_timestamp = 0;
+    //m_timestamp = 0;
     m_highestRank = -1;
 	// TODO: Your code goes here
 }
@@ -99,15 +99,15 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
     Node<TeamByID>* team = m_teamsByID.findNode(&teamFinder);
     try
     {
-        PlayerByCreated *playerbycreated = new PlayerByCreated(m_timestamp, playerStrength);
+        PlayerByCreated *playerbycreated = new PlayerByCreated(team->m_info->m_player_count, playerStrength);
         team->m_info->m_playersByCreated->insertNode(playerbycreated);
-        PlayerByStrength *playerbystrength = new PlayerByStrength(m_timestamp, playerStrength);
+        PlayerByStrength *playerbystrength = new PlayerByStrength(team->m_info->m_player_count, playerStrength);
         team->m_info->m_playersByStrength->insertNode(playerbystrength);
     }catch(std::bad_alloc&)
     {
         return StatusType::ALLOCATION_ERROR;
     }
-    m_timestamp++;
+    team->m_info->m_player_count++;
     TeamByPower teamPowerFinder(teamId, team->m_info->m_wins, team->m_info->m_power);
     Node<TeamByPower> *teampow = m_teamsByPower.findNode(&teamPowerFinder);
     int original_wins;
@@ -146,6 +146,7 @@ StatusType olympics_t::remove_newest_player(int teamId)
     PlayerByStrength strcopy(newest->m_created, newest->m_strength);
     team->m_info->m_playersByCreated->removeNode(newest);
     team->m_info->m_playersByStrength->removeNode(&strcopy);
+    team->m_info->m_player_count--;
     TeamByPower teamPowerFinder(teamId, team->m_info->m_wins, team->m_info->m_power);
     if(team->m_info->m_playersByCreated->m_treeSize == 0)
     {
@@ -358,7 +359,7 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
         arrayCreated2[i]->m_created += inc;
         arrayStrength2[i]->m_created += inc;
     }
-    m_timestamp += inc;
+    team1->m_info->m_player_count += inc;
     mergeTwoArraysIntoOne(arrayCreated1, arrayCreated2, arrayMergedCreated, sizeOfArray1, sizeOfArray2);
     mergeTwoArraysIntoOne(arrayStrength1, arrayStrength2, arrayMergedStrength, sizeOfArray1, sizeOfArray2);
 
