@@ -64,7 +64,7 @@ StatusType olympics_t::remove_team(int teamId)
         m_teamsByID->removeNode(&teamIDFinder);
         if(m_teamsByPower->m_treeSize >= 2)
         {
-            Node<TeamByPower> *nextMaxPower = m_teamsByPower->select(m_teamsByPower->m_root, m_teamsByPower->m_treeSize - 2);
+            Node<TeamByPower> *nextMaxPower = m_teamsByPower->select(m_teamsByPower->m_root, m_teamsByPower->m_treeSize - 1);
             m_teamsByPower->updateMaxRec(nextMaxPower);
         }
         m_teamsByPower->removeNode(&teamPowerFinder);
