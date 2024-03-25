@@ -589,6 +589,7 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
     int j = m_teamsByPower->rank(highestInRange);
     int i = m_teamsByPower->rank(lowestInRange);
     int middle;
+    TeamByPower *middleTeam = lowestInRange;
     while(num_in_range != 2)
     {
         if (i % 2 == 1 && j % 2 == 0 || j % 2 == 1 && i % 2 == 0)
@@ -598,7 +599,7 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         {
             middle = i + (j - i) / 2;
         }
-        TeamByPower *middleTeam = m_teamsByPower->select(m_teamsByPower->m_root, middle - 1)->m_info;
+        middleTeam = m_teamsByPower->select(m_teamsByPower->m_root, middle - 1)->m_info;
         m_teamsByPower->addWinsToLessEqual(highestInRange, 1);
         m_teamsByPower->addWinsToLessEqual(middleTeam, -1);
         num_in_range /= 2;
@@ -611,8 +612,11 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         TeamByID *winnerByID = m_teamsByID->findNode(&winnerFinder)->m_info;
         winnerByID->m_wins++;
         Node<TeamByPower> *highestnode = m_teamsByPower->findNode(highestInRange);
+        Node<TeamByPower> *runnerup = m_teamsByPower->findNode(middleTeam);
         highestnode->m_maxRank = highestInRange->m_power + highestInRange->m_wins + m_teamsByPower->getAddedWins(highestInRange);
+        runnerup->m_maxRank = runnerup->m_info->m_power + runnerup->m_info->m_wins + m_teamsByPower->getAddedWins(runnerup->m_info);
         m_teamsByPower->updateMaxRec(highestnode);
+        m_teamsByPower->updateMaxRec(runnerup);
     }
     m_highestRank = m_teamsByPower->m_root->m_maxRank;
     return highestInRange->m_teamID;
