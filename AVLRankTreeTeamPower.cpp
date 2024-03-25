@@ -569,21 +569,22 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
         {
             updateHeight(temp->m_left);
             updateSize(temp->m_left);
-            updateMax(temp->m_left);
+            updateMaxRec(temp->m_left);
             balanceNode(temp->m_left);
         }
         if(temp->m_right != nullptr)
         {
             updateHeight(temp->m_right);
             updateSize(temp->m_right);
-            updateMax(temp->m_right);
+            updateMaxRec(temp->m_right);
             balanceNode(temp->m_right);
         }
+        updateMaxRec(temp);
         while (temp != nullptr)
         {
             updateHeight(temp);
             updateSize(temp);
-            updateMax(temp);
+            //updateMax(temp);
             temp = balanceNode(temp);
             temp = temp->m_parent;
         }
@@ -591,6 +592,7 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
         //updateMaxRec(tempUpdateMax);
         return;
     }
+    updateMaxRec(nodeToRemoveParent);
     while (nodeToRemoveParent != nullptr)
     {
         updateHeight(nodeToRemoveParent);
