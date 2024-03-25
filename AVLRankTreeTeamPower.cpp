@@ -131,7 +131,7 @@ void updateSize(Node<TeamByPower> *node)
     node->m_size = getSize(node->m_left) + getSize(node->m_right) + 1;
 }
 
-Node<TeamByPower> *AVLRankTreePower::balanceNode(Node<TeamByPower> *node, int added_wins)
+Node<TeamByPower> *AVLRankTreePower::balanceNode(Node<TeamByPower> *node)
 {
     int heightOfLT;
     int heightOfRT;
@@ -160,20 +160,20 @@ Node<TeamByPower> *AVLRankTreePower::balanceNode(Node<TeamByPower> *node, int ad
         lt = node->m_left;
         if (getHeight(lt->m_left) >= getHeight(lt->m_right))
         {
-            return AVLRankTreePower::LeftLeftRotation(node, added_wins);
+            return AVLRankTreePower::LeftLeftRotation(node);
         } else
         {
-            return AVLRankTreePower::LeftRightRotation(node, added_wins);
+            return AVLRankTreePower::LeftRightRotation(node);
         }
     } else
     {
         rt = node->m_right;
         if (getHeight(rt->m_right) >= getHeight(rt->m_left))
         {
-            return AVLRankTreePower::RightRightRotation(node, added_wins);
+            return AVLRankTreePower::RightRightRotation(node);
         } else
         {
-            return AVLRankTreePower::RightLeftRotation(node, added_wins);
+            return AVLRankTreePower::RightLeftRotation(node);
         }
     }
 }
@@ -218,7 +218,7 @@ void mergeTwoArraysIntoOne(TeamByPower *array1[], TeamByPower *array2[], TeamByP
     }
 }
 
-Node<TeamByPower> *AVLRankTreePower::RightRightRotation(Node<TeamByPower> *nodeB, int added_wins)
+Node<TeamByPower> *AVLRankTreePower::RightRightRotation(Node<TeamByPower> *nodeB)
 {
     Node<TeamByPower> *nodeA = nodeB->m_right;
 
@@ -265,13 +265,13 @@ Node<TeamByPower> *AVLRankTreePower::RightRightRotation(Node<TeamByPower> *nodeB
 
     //nodeB->m_maxRank = max(getMax(nodeB->m_left), getMax(nodeB->m_right));
     //nodeA->m_maxRank = max(getMax(nodeA->m_left), getMax(nodeA->m_right));
-    updateMax(nodeB, added_wins - nodeA->m_addWins);
-    updateMax(nodeA, added_wins);
+    updateMax(nodeB);
+    updateMax(nodeA);
     return nodeA;
 
 }
 
-Node<TeamByPower> *AVLRankTreePower::LeftLeftRotation(Node<TeamByPower> *nodeB, int added_wins)
+Node<TeamByPower> *AVLRankTreePower::LeftLeftRotation(Node<TeamByPower> *nodeB)
 {
     Node<TeamByPower> *nodeA = nodeB->m_left;
 
@@ -319,20 +319,20 @@ Node<TeamByPower> *AVLRankTreePower::LeftLeftRotation(Node<TeamByPower> *nodeB, 
     nodeB->m_addWins = b_old - nodeA->m_addWins;
 
     //nodeB->m_maxRank = max(getMax(nodeB->m_left), getMax(nodeB->m_right));
-    updateMax(nodeB, added_wins - nodeA->m_addWins);
-    updateMax(nodeA, added_wins);
+    updateMax(nodeB);
+    updateMax(nodeA);
     //nodeA->m_maxRank = max(getMax(nodeA->m_left), getMax(nodeA->m_right));
     return nodeA;
 }
 
-Node<TeamByPower> *AVLRankTreePower::RightLeftRotation(Node<TeamByPower> *node, int added_wins)
+Node<TeamByPower> *AVLRankTreePower::RightLeftRotation(Node<TeamByPower> *node)
 {
-    node->m_right = LeftLeftRotation(node->m_right, added_wins);
+    node->m_right = LeftLeftRotation(node->m_right);
     node = RightRightRotation(node);
     return node;
 }
 
-Node<TeamByPower> *AVLRankTreePower::LeftRightRotation(Node<TeamByPower> *node, int added_wins)
+Node<TeamByPower> *AVLRankTreePower::LeftRightRotation(Node<TeamByPower> *node)
 {
     node->m_left = RightRightRotation(node->m_left);
     node = LeftLeftRotation(node);
