@@ -62,12 +62,12 @@ StatusType olympics_t::remove_team(int teamId)
     {
         TeamByPower teamPowerFinder(teamId, team->m_info->m_wins, team->m_info->m_power);
         m_teamsByID->removeNode(&teamIDFinder);
-        m_teamsByPower->removeNode(&teamPowerFinder);
-        Node<TeamByPower> *nextMaxPower = maxNode(m_teamsByPower->m_root);
-        if(nextMaxPower != nullptr)
+        if(m_teamsByPower->m_treeSize >= 2)
         {
-            m_teamsByPower->updateMaxRec(maxNode(m_teamsByPower->m_root));
+            Node<TeamByPower> *nextMaxPower = m_teamsByPower->select(m_teamsByPower->m_root, m_teamsByPower->m_treeSize - 2);
+            m_teamsByPower->updateMaxRec(nextMaxPower);
         }
+        m_teamsByPower->removeNode(&teamPowerFinder);
     }
     if(m_teamsHash->m_occupancy == 0)
     {
