@@ -579,7 +579,11 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
 
     int num_in_range = highrank - lowrank + 1;
     int temp = num_in_range;
-    if(temp <= 1)
+    if(temp == 1)
+    {
+        return lowestInRange->m_teamID;
+    }
+    if(temp == 0)
     {
         return StatusType::FAILURE;
     }
