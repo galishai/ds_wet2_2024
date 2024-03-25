@@ -45,13 +45,13 @@ num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
 num_wins_for_team: SUCCESS, 1
 num_wins_for_team: FAILURE
-get_highest_ranked_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 25
 remove_newest_player: FAILURE
-get_highest_ranked_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 25
 remove_newest_player: FAILURE
-get_highest_ranked_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 25
 remove_newest_player: FAILURE
-get_highest_ranked_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 25
 remove_newest_player: SUCCESS
 get_highest_ranked_team: SUCCESS, 23
 remove_newest_player: SUCCESS
