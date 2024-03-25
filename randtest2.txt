@@ -47,7 +47,7 @@ get_highest_ranked_team: SUCCESS, 43
 remove_team: SUCCESS
 get_highest_ranked_team: SUCCESS, 30
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 24
+get_highest_ranked_team: SUCCESS, 25
 remove_team: SUCCESS
 get_highest_ranked_team: SUCCESS, 16
 remove_team: SUCCESS
