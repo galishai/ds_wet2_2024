@@ -554,11 +554,12 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
             {
             updateMaxRec(nodeToRemoveP);
             }
+            updateMaxRec(tempFather);
             while (tempFather != nullptr)
             {
                 updateHeight(tempFather);
                 updateSize(tempFather);
-                updateMax(tempFather);
+                //updateMax(tempFather);
                 balanceNode(tempFather);
                 tempFather = tempFather->m_parent;
             }
