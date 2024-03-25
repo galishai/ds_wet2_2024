@@ -109,5 +109,5 @@ play_tournament: SUCCESS, 6
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 2
 get_highest_ranked_team: SUCCESS, 16
-play_tournament: FAILURE
+play_tournament: SUCCESS, 6
 num_wins_for_team: SUCCESS, 2
