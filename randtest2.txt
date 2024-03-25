@@ -45,11 +45,11 @@ add_player: SUCCESS
 play_tournament: SUCCESS, 8
 get_highest_ranked_team: SUCCESS, 43
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 28
+get_highest_ranked_team: SUCCESS, 30
 remove_team: SUCCESS
 get_highest_ranked_team: SUCCESS, 24
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 15
+get_highest_ranked_team: SUCCESS, 16
 remove_team: SUCCESS
 get_highest_ranked_team: SUCCESS, 12
 remove_team: SUCCESS
