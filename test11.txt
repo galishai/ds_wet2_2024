@@ -37,13 +37,13 @@ add_player: SUCCESS
 add_player: SUCCESS
 play_tournament: SUCCESS, 119
 play_tournament: SUCCESS, 119
-get_highest_ranked_team: SUCCESS, 17
+get_highest_ranked_team: SUCCESS, 16
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 4
-num_wins_for_team: SUCCESS, 8
-num_wins_for_team: SUCCESS, 3
+num_wins_for_team: SUCCESS, 7
+num_wins_for_team: SUCCESS, 2
 num_wins_for_team: SUCCESS, 2
 num_wins_for_team: SUCCESS, 2
 num_wins_for_team: SUCCESS, 0
@@ -60,20 +60,20 @@ add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 18
+get_highest_ranked_team: SUCCESS, 16
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 4
-num_wins_for_team: SUCCESS, 8
-num_wins_for_team: SUCCESS, 3
+num_wins_for_team: SUCCESS, 7
+num_wins_for_team: SUCCESS, 2
 num_wins_for_team: SUCCESS, 2
 num_wins_for_team: SUCCESS, 2
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 0
 remove_newest_player: SUCCESS
-num_wins_for_team: SUCCESS, 8
-get_highest_ranked_team: SUCCESS, 18
+num_wins_for_team: SUCCESS, 7
+get_highest_ranked_team: SUCCESS, 14
 remove_newest_player: SUCCESS
 remove_newest_player: SUCCESS
 remove_newest_player: SUCCESS
@@ -82,8 +82,8 @@ remove_newest_player: SUCCESS
 remove_newest_player: SUCCESS
 get_highest_ranked_team: SUCCESS, 11
 add_player: SUCCESS
-num_wins_for_team: SUCCESS, 6
-get_highest_ranked_team: SUCCESS, 15
+num_wins_for_team: SUCCESS, 7
+get_highest_ranked_team: SUCCESS, 16
 remove_team: SUCCESS
 remove_team: SUCCESS
 remove_team: SUCCESS
@@ -95,19 +95,19 @@ remove_team: SUCCESS
 remove_team: SUCCESS
 remove_team: SUCCESS
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 7
+get_highest_ranked_team: SUCCESS, 9
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 18
-num_wins_for_team: SUCCESS, 2
-num_wins_for_team: SUCCESS, 4
+get_highest_ranked_team: SUCCESS, 14
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: SUCCESS, 0
 play_match: SUCCESS, 6
-num_wins_for_team: SUCCESS, 2
-num_wins_for_team: SUCCESS, 5
-get_highest_ranked_team: SUCCESS, 19
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: SUCCESS, 1
+get_highest_ranked_team: SUCCESS, 15
 play_tournament: SUCCESS, 6
+num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 2
-num_wins_for_team: SUCCESS, 6
-get_highest_ranked_team: SUCCESS, 20
+get_highest_ranked_team: SUCCESS, 16
 play_tournament: FAILURE
-num_wins_for_team: SUCCESS, 6
+num_wins_for_team: SUCCESS, 2
