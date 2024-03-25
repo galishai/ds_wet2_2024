@@ -506,7 +506,7 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
         {
             nodeToRemove->m_left->m_addWins = e1 - subset_extra;
         }
-        if(nodeToRemove->m_right != nullptr)
+        if(nodeToRemove->m_right != temp && nodeToRemove->m_right != nullptr) //TODO
         {
             nodeToRemove->m_right->m_addWins = e4 - subset_extra;
         }
@@ -547,6 +547,21 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
 
         Node<TeamByPower> *nodeToRemoveP = nodeToRemove->m_parent;
         delete nodeToRemove;
+        int tempextra = getAddedWins(temp->m_info); //TODO
+        if(temp->m_left != nullptr)
+        {
+            updateHeight(temp->m_left);
+            updateSize(temp->m_left);
+            updateMaxRec(temp->m_left);
+            balanceNode(temp->m_left);
+        }
+        if(temp->m_right != nullptr)
+        {
+            updateHeight(temp->m_right);
+            updateSize(temp->m_right);
+            updateMaxRec(temp->m_right);
+            balanceNode(temp->m_right);
+        }
 
         if(flag)
         {
@@ -563,21 +578,6 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
                 balanceNode(tempFather);
                 tempFather = tempFather->m_parent;
             }
-        }
-
-        if(temp->m_left != nullptr)
-        {
-            updateHeight(temp->m_left);
-            updateSize(temp->m_left);
-            updateMaxRec(temp->m_left);
-            balanceNode(temp->m_left);
-        }
-        if(temp->m_right != nullptr)
-        {
-            updateHeight(temp->m_right);
-            updateSize(temp->m_right);
-            updateMaxRec(temp->m_right);
-            balanceNode(temp->m_right);
         }
         updateMaxRec(temp);
         while (temp != nullptr)
@@ -667,6 +667,7 @@ void AVLRankTreePower::insertNode(TeamByPower *new_T) //inserts new node when gu
         {
             if (ptr->m_left == nullptr)
             {
+                temp_extra += ptr->m_addWins; //TODO
                 Node<TeamByPower> *newNode = new Node<TeamByPower>(new_T);
                 newNode->m_addWins -= temp_extra;
                 ptr->m_left = newNode;
@@ -680,6 +681,7 @@ void AVLRankTreePower::insertNode(TeamByPower *new_T) //inserts new node when gu
         {
             if (ptr->m_right == nullptr)
             {
+                temp_extra += ptr->m_addWins; //TODO
                 Node<TeamByPower> *newNode = new Node<TeamByPower>(new_T);
                 newNode->m_addWins -= temp_extra;
                 ptr->m_right = newNode;
@@ -700,7 +702,6 @@ void AVLRankTreePower::insertNode(TeamByPower *new_T) //inserts new node when gu
     {
         ptr->m_height = 1 + max(getHeight(ptr->m_left), getHeight(ptr->m_right));
         updateSize(ptr);
-        updateMax(ptr);
         ptr = balanceNode(ptr);
         ptr = ptr->m_parent;
     }
