@@ -265,8 +265,8 @@ Node<TeamByPower> *AVLRankTreePower::RightRightRotation(Node<TeamByPower> *nodeB
 
     //nodeB->m_maxRank = max(getMax(nodeB->m_left), getMax(nodeB->m_right));
     //nodeA->m_maxRank = max(getMax(nodeA->m_left), getMax(nodeA->m_right));
-    updateMax(nodeB);
-    updateMax(nodeA);
+    //updateMax(nodeB);
+    //updateMax(nodeA);
     return nodeA;
 
 }
@@ -319,8 +319,8 @@ Node<TeamByPower> *AVLRankTreePower::LeftLeftRotation(Node<TeamByPower> *nodeB)
     nodeB->m_addWins = b_old - nodeA->m_addWins;
 
     //nodeB->m_maxRank = max(getMax(nodeB->m_left), getMax(nodeB->m_right));
-    updateMax(nodeB);
-    updateMax(nodeA);
+    //updateMax(nodeB);
+    //updateMax(nodeA);
     //nodeA->m_maxRank = max(getMax(nodeA->m_left), getMax(nodeA->m_right));
     return nodeA;
 }
