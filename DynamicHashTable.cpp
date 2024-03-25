@@ -74,7 +74,7 @@ void DynamicHashTable::resize()
         newSize = m_size * LOAD_FACTOR;
     }*/
     /////loadFactor
-    AVLRankTree<TeamByID> **newArr =  new AVLRankTree<TeamByID> *[newSize];
+    AVLRankTree<TeamByID> **newArr =  new AVLRankTree<TeamByID> *[newSize]();
     for (int i=0; i<m_size; i++)
     {
         if (m_arr[i] != nullptr)

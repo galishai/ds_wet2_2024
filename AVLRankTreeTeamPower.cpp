@@ -592,7 +592,7 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
     {
         updateHeight(nodeToRemoveParent);
         updateSize(nodeToRemoveParent);
-        updateMax(nodeToRemoveParent);
+        //updateMax(nodeToRemoveParent);
         nodeToRemoveParent = balanceNode(nodeToRemoveParent);
         nodeToRemoveParent = nodeToRemoveParent->m_parent;
     }

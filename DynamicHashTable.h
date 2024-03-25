@@ -22,7 +22,7 @@ public:
 
     DynamicHashTable()
     {
-        m_arr = new AVLRankTree<TeamByID>*[INITIAL_SIZE];//////
+        m_arr = new AVLRankTree<TeamByID>*[INITIAL_SIZE]();//////
         m_size = INITIAL_SIZE;
         m_occupancy = 0;
     }
