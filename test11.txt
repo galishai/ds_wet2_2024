@@ -80,7 +80,7 @@ remove_newest_player: SUCCESS
 remove_newest_player: SUCCESS
 remove_newest_player: SUCCESS
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 11
+get_highest_ranked_team: SUCCESS, 12
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 7
 get_highest_ranked_team: SUCCESS, 16
