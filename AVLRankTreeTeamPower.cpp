@@ -434,12 +434,14 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
         {
             nodeToRemove->m_left->m_parent = nodeToRemoveParent;
             nodeToRemoveParent->m_left = nodeToRemove->m_left;
-            updateMaxRec(nodeToRemoveParent);
+            //updateMaxRec(nodeToRemoveParent);
+            updateMaxRec(nodeToRemoveParent->m_left); //TODO
         } else
         {
             nodeToRemove->m_left->m_parent = nodeToRemoveParent;
             nodeToRemoveParent->m_right = nodeToRemove->m_left;
-            updateMaxRec(nodeToRemoveParent);
+            //updateMaxRec(nodeToRemoveParent);
+            updateMaxRec(nodeToRemoveParent->m_right); //TODO
         }
         delete nodeToRemove;
     } else if (nodeToRemove->m_right != nullptr && nodeToRemove->m_left == nullptr) //if has only right son
