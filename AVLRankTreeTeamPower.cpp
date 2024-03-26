@@ -265,8 +265,9 @@ Node<TeamByPower> *AVLRankTreePower::RightRightRotation(Node<TeamByPower> *nodeB
 
     //nodeB->m_maxRank = max(getMax(nodeB->m_left), getMax(nodeB->m_right));
     //nodeA->m_maxRank = max(getMax(nodeA->m_left), getMax(nodeA->m_right));
-    updateMaxRec(nodeB);
-    updateMaxRec(nodeA);
+    //updateMax(nodeB);
+    //updateMax(nodeA);
+    nodeA->m_maxRank = nodeB->m_maxRank;
     return nodeA;
 
 }
@@ -319,8 +320,9 @@ Node<TeamByPower> *AVLRankTreePower::LeftLeftRotation(Node<TeamByPower> *nodeB)
     nodeB->m_addWins = b_old - nodeA->m_addWins;
 
     //nodeB->m_maxRank = max(getMax(nodeB->m_left), getMax(nodeB->m_right));
-    updateMaxRec(nodeB);
-    updateMaxRec(nodeA);
+    //updateMax(nodeB);
+    //updateMax(nodeA);
+    nodeA->m_maxRank = nodeB->m_maxRank;
     //nodeA->m_maxRank = max(getMax(nodeA->m_left), getMax(nodeA->m_right));
     return nodeA;
 }
@@ -563,8 +565,8 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
         {
             updateHeight(temp->m_left);
             updateSize(temp->m_left);
-            balanceNode(temp->m_left);
             updateMaxRec(temp->m_left);
+            balanceNode(temp->m_left);
         }
         if(temp->m_right != nullptr)
         {
@@ -572,7 +574,6 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
             updateSize(temp->m_right);
             updateMaxRec(temp->m_right);
             balanceNode(temp->m_right);
-            updateMaxRec(temp->m_right);
         }
 
         if(flag)
