@@ -511,11 +511,11 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
             nodeToRemove->m_right->m_addWins = e4 - subset_extra;
         }
 
-        if(temp->m_right != nullptr && temp == nodeToRemove->m_right)
+        if(temp->m_right != nullptr) //&& temp == nodeToRemove->m_right)
         {
             temp->m_right->m_addWins += nodeToRemove->m_addWins;
         }
-        if(temp->m_left != nullptr && temp == nodeToRemove->m_right)
+        if(temp->m_left != nullptr) // && temp == nodeToRemove->m_right)
         {
             temp->m_left->m_addWins += nodeToRemove->m_addWins;
         }
