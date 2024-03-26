@@ -23507,7 +23507,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 425070
+get_highest_ranked_team: SUCCESS, 425069
 add_player: SUCCESS
 add_player: SUCCESS
 play_match: FAILURE
@@ -23556,10 +23556,10 @@ add_player: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 428642
+get_highest_ranked_team: SUCCESS, 428641
 add_player: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 428642
+get_highest_ranked_team: SUCCESS, 428641
 add_player: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
