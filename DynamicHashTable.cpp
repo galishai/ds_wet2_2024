@@ -27,7 +27,7 @@ void DynamicHashTable::insert(int key, TeamByID* info)
     //shared_ptr<HashNode> nodeToAdd = make_shared<HashNode>(key, info);
     if (m_occupancy + 1 > LOAD_FACTOR * m_size)
     {
-     //   resize();
+        resize();
     }
     int index = hashFunction(key);/////
     //shared_ptr<HashNode> temp = m_arr[index];
@@ -98,6 +98,7 @@ void DynamicHashTable::resize()
         if(m_arr[i] != nullptr)
         {
             InorderNullify(m_arr[i]->m_root);
+            m_arr[i]->destroyTree(m_arr[i]->m_root);
             delete m_arr[i];
         }
     }
