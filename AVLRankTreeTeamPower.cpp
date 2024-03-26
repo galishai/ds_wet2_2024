@@ -707,6 +707,10 @@ void AVLRankTreePower::insertNode(TeamByPower *new_T) //inserts new node when gu
         ptr = balanceNode(ptr);
         ptr = ptr->m_parent;
     }
+    if(temp != nullptr)
+    {
+        updateMaxRec(temp);
+    }
     m_treeSize++;
 }
 
