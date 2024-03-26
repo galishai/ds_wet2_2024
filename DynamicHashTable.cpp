@@ -27,7 +27,7 @@ void DynamicHashTable::insert(int key, TeamByID* info)
     //shared_ptr<HashNode> nodeToAdd = make_shared<HashNode>(key, info);
     if (m_occupancy + 1 > LOAD_FACTOR * m_size)
     {
-        resize();
+     //   resize();
     }
     int index = hashFunction(key);/////
     //shared_ptr<HashNode> temp = m_arr[index];
