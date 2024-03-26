@@ -96,6 +96,7 @@ void DynamicHashTable::resize()
                 newArr[newIndex]->insertNode(arraycopy[j]);
             }
             delete[] arraycopy;
+            delete[] array;
         }
     }
     for(int i = 0; i < m_size; i++)
