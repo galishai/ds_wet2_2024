@@ -516,6 +516,10 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
             temp->m_addWins = e2 + subset_extra;
             nodeToRemove->m_left->m_addWins = e1 - subset_extra;
             nodeToRemove->m_right->m_addWins = e4 - subset_extra;
+            if(temp->m_right != nullptr)
+            {
+                temp->m_right->m_addWins += e3;
+            }
         }
         else
         {
