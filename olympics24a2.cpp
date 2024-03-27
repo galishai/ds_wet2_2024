@@ -94,6 +94,15 @@ StatusType olympics_t::remove_team(int teamId)
     {
         m_highestRank = m_teamsByPower->m_root->m_maxRank;
     }
+    if(m_teamsByID->m_treeSize > 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize - 1));
+    }
+    else if(m_teamsByID->m_treeSize == 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+    }
 	return StatusType::SUCCESS;
 }
 
@@ -243,6 +252,15 @@ StatusType olympics_t::remove_newest_player(int teamId)
     else
     {
         m_highestRank = m_teamsByPower->m_root->m_maxRank;
+    }
+    if(m_teamsByID->m_treeSize > 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize - 1));
+    }
+    else if(m_teamsByID->m_treeSize == 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
     }
 	return StatusType::SUCCESS;
 
