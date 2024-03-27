@@ -5781,7 +5781,7 @@ add_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-num_wins_for_team: SUCCESS, 7
+num_wins_for_team: SUCCESS, 6
 num_wins_for_team: SUCCESS, 0
 play_match: SUCCESS, 1269
 add_player: SUCCESS
@@ -16300,7 +16300,7 @@ play_tournament: FAILURE
 add_team: SUCCESS
 add_team: SUCCESS
 add_team: SUCCESS
-num_wins_for_team: SUCCESS, 30
+num_wins_for_team: SUCCESS, 15
 play_tournament: FAILURE
 add_player: SUCCESS
 add_team: FAILURE
@@ -19743,7 +19743,7 @@ remove_team: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
-num_wins_for_team: SUCCESS, 3
+num_wins_for_team: SUCCESS, 2
 add_team: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
