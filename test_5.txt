@@ -592,7 +592,7 @@ add_player: SUCCESS
 remove_newest_player: SUCCESS
 add_team: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 1667394
+get_highest_ranked_team: SUCCESS, 1674228
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 1
 play_match: SUCCESS, 436
@@ -601,14 +601,14 @@ num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 1667394
+get_highest_ranked_team: SUCCESS, 1674228
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 1667394
+get_highest_ranked_team: SUCCESS, 1674228
 play_tournament: SUCCESS, 5469
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 1667394
+get_highest_ranked_team: SUCCESS, 1674228
 remove_team: SUCCESS
 num_wins_for_team: SUCCESS, 0
 play_tournament: SUCCESS, 555
@@ -616,7 +616,7 @@ remove_newest_player: SUCCESS
 play_tournament: SUCCESS, 5469
 play_tournament: SUCCESS, 5469
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 1667394
+get_highest_ranked_team: SUCCESS, 1674228
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 0
 remove_newest_player: SUCCESS
@@ -642,7 +642,7 @@ num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 3027648
+get_highest_ranked_team: SUCCESS, 3062400
 unite_teams: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
@@ -651,7 +651,7 @@ add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 2971016
+get_highest_ranked_team: SUCCESS, 3016062
 add_player: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
@@ -680,7 +680,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 remove_team: SUCCESS
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 2773388
+get_highest_ranked_team: SUCCESS, 2877302
 add_player: SUCCESS
 remove_team: SUCCESS
 remove_team: SUCCESS
@@ -742,12 +742,12 @@ play_match: SUCCESS, 4330
 add_player: SUCCESS
 play_match: SUCCESS, 2385
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 2784186
+get_highest_ranked_team: SUCCESS, 2813586
 unite_teams: SUCCESS
 num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 2766216
+get_highest_ranked_team: SUCCESS, 2797444
 add_player: SUCCESS
 add_team: SUCCESS
 play_tournament: FAILURE
@@ -755,7 +755,7 @@ play_tournament: FAILURE
 add_team: SUCCESS
 add_player: SUCCESS
 play_tournament: FAILURE
-get_highest_ranked_team: SUCCESS, 2766216
+get_highest_ranked_team: SUCCESS, 2797444
 remove_newest_player: SUCCESS
 remove_team: SUCCESS
 unite_teams: SUCCESS
@@ -763,7 +763,7 @@ num_wins_for_team: SUCCESS, 0
 play_tournament: FAILURE
 play_tournament: FAILURE
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 2766216
+get_highest_ranked_team: SUCCESS, 2797444
 add_player: SUCCESS
 play_match: SUCCESS, 4370
 num_wins_for_team: SUCCESS, 0
@@ -1267,7 +1267,7 @@ remove_newest_player: SUCCESS
 play_tournament: FAILURE
 unite_teams: SUCCESS
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 12144
+get_highest_ranked_team: SUCCESS, 13666
 add_player: SUCCESS
 add_player: SUCCESS
 remove_team: SUCCESS
@@ -2455,7 +2455,7 @@ remove_newest_player: SUCCESS
 add_team: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 30771
+get_highest_ranked_team: SUCCESS, 46350
 remove_team: SUCCESS
 add_team: SUCCESS
 remove_team: SUCCESS
@@ -3562,7 +3562,7 @@ add_team: SUCCESS
 add_team: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 77454
+get_highest_ranked_team: SUCCESS, 86976
 num_wins_for_team: SUCCESS, 0
 play_tournament: SUCCESS, 4099
 play_tournament: SUCCESS, 4099
@@ -3596,7 +3596,7 @@ add_player: SUCCESS
 play_match: SUCCESS, 4099
 unite_teams: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 124774
+get_highest_ranked_team: SUCCESS, 129094
 num_wins_for_team: SUCCESS, 4
 add_player: SUCCESS
 add_player: SUCCESS
@@ -3608,7 +3608,7 @@ unite_teams: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
 play_tournament: SUCCESS, 5682
-play_tournament: SUCCESS, 5682
+play_tournament: FAILURE
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -3616,7 +3616,7 @@ add_team: SUCCESS
 play_tournament: SUCCESS, 5682
 add_player: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 139752
+get_highest_ranked_team: SUCCESS, 149724
 add_team: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
@@ -3626,7 +3626,7 @@ add_player: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 176423
+get_highest_ranked_team: SUCCESS, 178350
 num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
 play_tournament: FAILURE
@@ -3639,10 +3639,10 @@ num_wins_for_team: SUCCESS, 0
 play_match: SUCCESS, 5682
 add_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 172121
+get_highest_ranked_team: SUCCESS, 174001
 add_team: SUCCESS
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 172121
+get_highest_ranked_team: SUCCESS, 174001
 play_tournament: SUCCESS, 6201
 unite_teams: SUCCESS
 add_team: SUCCESS
@@ -3667,14 +3667,14 @@ add_player: SUCCESS
 add_team: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 172121
+get_highest_ranked_team: SUCCESS, 174001
 add_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 176424
+get_highest_ranked_team: SUCCESS, 178351
 play_match: SUCCESS, 6298
 add_player: SUCCESS
 add_player: SUCCESS
@@ -3683,9 +3683,9 @@ add_team: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
 play_tournament: FAILURE
-get_highest_ranked_team: SUCCESS, 176424
+get_highest_ranked_team: SUCCESS, 178351
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 176424
+get_highest_ranked_team: SUCCESS, 178351
 remove_newest_player: SUCCESS
 unite_teams: SUCCESS
 unite_teams: SUCCESS
@@ -3698,9 +3698,9 @@ add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 play_tournament: FAILURE
-get_highest_ranked_team: SUCCESS, 176424
+get_highest_ranked_team: SUCCESS, 178351
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 176424
+get_highest_ranked_team: SUCCESS, 178351
 play_tournament: SUCCESS, 5682
 play_match: SUCCESS, 6201
 unite_teams: SUCCESS
@@ -3712,18 +3712,18 @@ add_player: SUCCESS
 play_tournament: FAILURE
 add_player: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 180726
+get_highest_ranked_team: SUCCESS, 182700
 add_team: SUCCESS
 play_tournament: SUCCESS, 6201
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 180726
+get_highest_ranked_team: SUCCESS, 182700
 unite_teams: SUCCESS
 play_match: FAILURE
 add_team: SUCCESS
 play_match: FAILURE
 play_tournament: FAILURE
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 228908
+get_highest_ranked_team: SUCCESS, 232364
 num_wins_for_team: SUCCESS, 0
 play_match: FAILURE
 add_player: SUCCESS
@@ -3768,7 +3768,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 249544
+get_highest_ranked_team: SUCCESS, 254344
 add_player: SUCCESS
 unite_teams: SUCCESS
 play_tournament: SUCCESS, 6572
@@ -3778,16 +3778,16 @@ add_player: SUCCESS
 add_player: SUCCESS
 remove_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 236806
+get_highest_ranked_team: SUCCESS, 253703
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 236806
+get_highest_ranked_team: SUCCESS, 253703
 unite_teams: SUCCESS
 play_tournament: FAILURE
 add_team: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 236806
+get_highest_ranked_team: SUCCESS, 253703
 unite_teams: SUCCESS
 add_player: SUCCESS
 play_tournament: FAILURE
@@ -3801,7 +3801,7 @@ add_team: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 236806
+get_highest_ranked_team: SUCCESS, 253703
 play_tournament: FAILURE
 add_player: SUCCESS
 remove_team: SUCCESS
@@ -3810,7 +3810,7 @@ add_player: SUCCESS
 play_tournament: FAILURE
 num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 236806
+get_highest_ranked_team: SUCCESS, 253703
 play_match: FAILURE
 remove_newest_player: SUCCESS
 play_match: SUCCESS, 5608
@@ -3820,10 +3820,10 @@ add_team: SUCCESS
 unite_teams: SUCCESS
 play_tournament: FAILURE
 play_tournament: FAILURE
-get_highest_ranked_team: SUCCESS, 236806
+get_highest_ranked_team: SUCCESS, 253703
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 236806
+get_highest_ranked_team: SUCCESS, 253703
 play_match: FAILURE
 add_team: SUCCESS
 unite_teams: SUCCESS
@@ -3838,12 +3838,12 @@ add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 249544
+get_highest_ranked_team: SUCCESS, 254344
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 249544
+get_highest_ranked_team: SUCCESS, 254344
 unite_teams: SUCCESS
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 249544
+get_highest_ranked_team: SUCCESS, 254344
 add_player: SUCCESS
 remove_newest_player: SUCCESS
 unite_teams: SUCCESS
@@ -3880,14 +3880,14 @@ num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 play_tournament: FAILURE
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 285418
+get_highest_ranked_team: SUCCESS, 287268
 add_player: SUCCESS
 play_tournament: FAILURE
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 293132
+get_highest_ranked_team: SUCCESS, 295032
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 289275
+get_highest_ranked_team: SUCCESS, 291150
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 0
@@ -3901,7 +3901,7 @@ add_player: SUCCESS
 remove_newest_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 300846
+get_highest_ranked_team: SUCCESS, 302796
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -3913,7 +3913,7 @@ remove_newest_player: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 307681
+get_highest_ranked_team: SUCCESS, 318324
 add_player: SUCCESS
 add_team: SUCCESS
 add_team: SUCCESS
@@ -3928,7 +3928,7 @@ unite_teams: SUCCESS
 play_tournament: FAILURE
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 1
-get_highest_ranked_team: SUCCESS, 301836
+get_highest_ranked_team: SUCCESS, 327846
 add_team: SUCCESS
 play_tournament: FAILURE
 play_match: FAILURE
@@ -3944,7 +3944,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 play_tournament: FAILURE
-get_highest_ranked_team: SUCCESS, 320040
+get_highest_ranked_team: SUCCESS, 347130
 play_tournament: FAILURE
 num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
@@ -4000,7 +4000,7 @@ play_tournament: FAILURE
 remove_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 358221
+get_highest_ranked_team: SUCCESS, 375487
 num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
 add_player: SUCCESS
@@ -4022,7 +4022,7 @@ add_team: SUCCESS
 play_tournament: FAILURE
 num_wins_for_team: SUCCESS, 0
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 358221
+get_highest_ranked_team: SUCCESS, 375487
 unite_teams: SUCCESS
 remove_newest_player: SUCCESS
 play_tournament: FAILURE
@@ -4039,7 +4039,7 @@ play_tournament: FAILURE
 play_tournament: SUCCESS, 4566
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 387766
+get_highest_ranked_team: SUCCESS, 404986
 add_team: SUCCESS
 play_tournament: FAILURE
 play_tournament: FAILURE
@@ -4060,7 +4060,7 @@ add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 387766
+get_highest_ranked_team: SUCCESS, 404986
 unite_teams: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
@@ -4291,7 +4291,7 @@ play_tournament: FAILURE
 play_tournament: FAILURE
 add_team: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 42797
+get_highest_ranked_team: SUCCESS, 47687
 unite_teams: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -5503,7 +5503,7 @@ add_player: SUCCESS
 play_tournament: SUCCESS, 2413
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 63432
+get_highest_ranked_team: SUCCESS, 69996
 add_player: SUCCESS
 play_tournament: SUCCESS, 2413
 num_wins_for_team: SUCCESS, 0
@@ -5516,7 +5516,7 @@ num_wins_for_team: SUCCESS, 0
 play_match: FAILURE
 add_player: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 60164
+get_highest_ranked_team: SUCCESS, 68718
 unite_teams: SUCCESS
 remove_newest_player: SUCCESS
 unite_teams: SUCCESS
@@ -5532,9 +5532,9 @@ add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 play_tournament: SUCCESS, 6283
-get_highest_ranked_team: SUCCESS, 49185
+get_highest_ranked_team: SUCCESS, 74004
 play_tournament: SUCCESS, 6283
-play_tournament: FAILURE
+play_tournament: SUCCESS, 6283
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 add_player: SUCCESS
@@ -5544,9 +5544,9 @@ play_tournament: SUCCESS, 6283
 play_tournament: SUCCESS, 6283
 add_team: SUCCESS
 add_team: SUCCESS
-play_tournament: FAILURE
+play_tournament: SUCCESS, 6283
 add_player: SUCCESS
-play_tournament: FAILURE
+play_tournament: SUCCESS, 6283
 remove_newest_player: SUCCESS
 play_tournament: SUCCESS, 6283
 add_player: SUCCESS
@@ -5555,7 +5555,7 @@ add_team: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 58716
+get_highest_ranked_team: SUCCESS, 83304
 play_match: SUCCESS, 6283
 play_match: SUCCESS, 6283
 num_wins_for_team: SUCCESS, 0
@@ -5565,7 +5565,7 @@ add_team: SUCCESS
 play_tournament: FAILURE
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 2
-get_highest_ranked_team: SUCCESS, 61980
+get_highest_ranked_team: SUCCESS, 71689
 add_team: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
@@ -5856,7 +5856,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
 play_tournament: SUCCESS, 2077
-get_highest_ranked_team: SUCCESS, 102032
+get_highest_ranked_team: SUCCESS, 105692
 add_team: SUCCESS
 play_match: FAILURE
 play_tournament: SUCCESS, 2077
@@ -5871,7 +5871,7 @@ play_match: SUCCESS, 2077
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 play_match: SUCCESS, 2077
-get_highest_ranked_team: SUCCESS, 105436
+get_highest_ranked_team: SUCCESS, 109218
 unite_teams: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
@@ -5890,10 +5890,10 @@ add_player: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 5
 num_wins_for_team: SUCCESS, 5
-get_highest_ranked_team: SUCCESS, 144448
+get_highest_ranked_team: SUCCESS, 160356
 num_wins_for_team: SUCCESS, 5
 num_wins_for_team: SUCCESS, 5
-get_highest_ranked_team: SUCCESS, 144448
+get_highest_ranked_team: SUCCESS, 160356
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 5
 remove_newest_player: SUCCESS
@@ -5910,11 +5910,11 @@ remove_newest_player: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
-play_tournament: SUCCESS, 845
+play_tournament: FAILURE
 add_player: SUCCESS
 play_tournament: FAILURE
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 176256
+get_highest_ranked_team: SUCCESS, 187728
 play_tournament: FAILURE
 add_player: SUCCESS
 add_player: SUCCESS
@@ -6027,7 +6027,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 play_tournament: FAILURE
 add_player: SUCCESS
-play_tournament: SUCCESS, 6300
+play_tournament: FAILURE
 remove_team: SUCCESS
 get_highest_ranked_team: SUCCESS, -1
 get_highest_ranked_team: SUCCESS, -1
@@ -7639,7 +7639,7 @@ num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 32412
+get_highest_ranked_team: SUCCESS, 29711
 play_tournament: FAILURE
 num_wins_for_team: SUCCESS, 0
 play_match: FAILURE
@@ -8408,7 +8408,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 54160
+get_highest_ranked_team: SUCCESS, 51452
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -8640,7 +8640,7 @@ remove_newest_player: SUCCESS
 get_highest_ranked_team: SUCCESS, 71459
 num_wins_for_team: SUCCESS, 0
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 71459
+get_highest_ranked_team: SUCCESS, 67698
 add_player: SUCCESS
 add_team: SUCCESS
 remove_team: SUCCESS
@@ -8877,7 +8877,7 @@ remove_team: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
 play_tournament: SUCCESS, 5367
-get_highest_ranked_team: SUCCESS, 24031
+get_highest_ranked_team: SUCCESS, 31033
 remove_team: SUCCESS
 add_player: SUCCESS
 play_tournament: SUCCESS, 5367
@@ -8885,7 +8885,7 @@ play_tournament: FAILURE
 add_team: SUCCESS
 play_tournament: SUCCESS, 5367
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 26701
+get_highest_ranked_team: SUCCESS, 34481
 play_tournament: FAILURE
 remove_team: SUCCESS
 play_tournament: FAILURE
@@ -9198,7 +9198,7 @@ num_wins_for_team: SUCCESS, 0
 play_match: FAILURE
 num_wins_for_team: SUCCESS, 1
 play_tournament: SUCCESS, 2085
-get_highest_ranked_team: SUCCESS, 61643
+get_highest_ranked_team: SUCCESS, 58017
 remove_newest_player: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
@@ -10344,7 +10344,7 @@ add_player: SUCCESS
 unite_teams: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
-play_tournament: FAILURE
+play_tournament: SUCCESS, 3118
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 unite_teams: SUCCESS
@@ -10518,7 +10518,7 @@ add_team: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
 play_tournament: FAILURE
-play_tournament: FAILURE
+play_tournament: SUCCESS, 293
 play_match: FAILURE
 add_team: SUCCESS
 num_wins_for_team: SUCCESS, 0
@@ -10532,7 +10532,7 @@ remove_newest_player: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 69174
+get_highest_ranked_team: SUCCESS, 74970
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 play_match: FAILURE
@@ -10619,7 +10619,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 9050
+get_highest_ranked_team: SUCCESS, 21620
 remove_team: SUCCESS
 play_tournament: FAILURE
 get_highest_ranked_team: SUCCESS, -1
@@ -10789,7 +10789,7 @@ remove_newest_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 35210
+get_highest_ranked_team: SUCCESS, 32695
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
@@ -11197,12 +11197,12 @@ num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 37904
+get_highest_ranked_team: SUCCESS, 38280
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 47520
-get_highest_ranked_team: SUCCESS, 47520
+get_highest_ranked_team: SUCCESS, 49456
+get_highest_ranked_team: SUCCESS, 49456
 remove_newest_player: SUCCESS
 add_player: SUCCESS
 play_tournament: FAILURE
@@ -11211,7 +11211,7 @@ add_team: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
 play_tournament: SUCCESS, 2924
-get_highest_ranked_team: SUCCESS, 47520
+get_highest_ranked_team: SUCCESS, 49456
 play_tournament: SUCCESS, 2924
 play_tournament: SUCCESS, 2924
 unite_teams: SUCCESS
@@ -11223,7 +11223,7 @@ add_player: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 70720
+get_highest_ranked_team: SUCCESS, 73440
 remove_newest_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 play_tournament: SUCCESS, 5373
@@ -11231,7 +11231,7 @@ num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 62798
+get_highest_ranked_team: SUCCESS, 73440
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
@@ -11538,8 +11538,8 @@ play_match: FAILURE
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 81262
-get_highest_ranked_team: SUCCESS, 81262
+get_highest_ranked_team: SUCCESS, 77085
+get_highest_ranked_team: SUCCESS, 77085
 add_player: SUCCESS
 unite_teams: SUCCESS
 play_tournament: SUCCESS, 5609
@@ -12145,7 +12145,7 @@ unite_teams: SUCCESS
 remove_newest_player: SUCCESS
 play_tournament: SUCCESS, 3387
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 43484
+get_highest_ranked_team: SUCCESS, 38675
 add_player: SUCCESS
 add_player: SUCCESS
 remove_team: SUCCESS
@@ -12737,8 +12737,8 @@ add_player: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 1
 add_player: SUCCESS
-play_tournament: SUCCESS, 4452
-get_highest_ranked_team: SUCCESS, 52522
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 52521
 num_wins_for_team: SUCCESS, 0
 play_tournament: FAILURE
 num_wins_for_team: SUCCESS, 0
@@ -12983,18 +12983,18 @@ add_team: SUCCESS
 add_player: SUCCESS
 play_match: SUCCESS, 4528
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 27259
+get_highest_ranked_team: SUCCESS, 31723
 num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
 play_tournament: FAILURE
 add_player: SUCCESS
-play_match: SUCCESS, 4528
+play_match: SUCCESS, 4712
 add_player: SUCCESS
 add_player: SUCCESS
-play_match: SUCCESS, 4528
+play_match: SUCCESS, 4712
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 24950
+get_highest_ranked_team: SUCCESS, 31740
 add_player: SUCCESS
 add_player: SUCCESS
 remove_team: SUCCESS
@@ -13004,13 +13004,13 @@ add_player: SUCCESS
 play_tournament: FAILURE
 add_team: SUCCESS
 play_tournament: FAILURE
-num_wins_for_team: SUCCESS, 3
+num_wins_for_team: SUCCESS, 1
 add_player: SUCCESS
-num_wins_for_team: SUCCESS, 3
+num_wins_for_team: SUCCESS, 1
 add_player: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
-num_wins_for_team: SUCCESS, 3
+num_wins_for_team: SUCCESS, 1
 add_player: SUCCESS
 unite_teams: SUCCESS
 play_match: SUCCESS, 4528
@@ -13866,7 +13866,7 @@ unite_teams: SUCCESS
 play_tournament: FAILURE
 play_tournament: FAILURE
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 14316
+get_highest_ranked_team: SUCCESS, 11244
 add_player: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
@@ -13965,22 +13965,22 @@ add_player: SUCCESS
 add_player: SUCCESS
 play_tournament: FAILURE
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 32748
+get_highest_ranked_team: SUCCESS, 20440
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 32748
+get_highest_ranked_team: SUCCESS, 20440
 add_player: SUCCESS
 play_tournament: FAILURE
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 36792
-play_tournament: SUCCESS, 3196
+get_highest_ranked_team: SUCCESS, 32704
+play_tournament: FAILURE
 play_tournament: SUCCESS, 3196
 add_team: SUCCESS
 num_wins_for_team: SUCCESS, 0
 play_tournament: SUCCESS, 3196
 remove_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 40880
+get_highest_ranked_team: SUCCESS, 30672
 add_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
@@ -14433,7 +14433,7 @@ unite_teams: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
 play_tournament: SUCCESS, 3020
-get_highest_ranked_team: SUCCESS, 90829
+get_highest_ranked_team: SUCCESS, 96211
 play_match: FAILURE
 num_wins_for_team: SUCCESS, 2
 add_team: SUCCESS
@@ -15170,7 +15170,7 @@ unite_teams: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 59908
+get_highest_ranked_team: SUCCESS, 64430
 add_player: SUCCESS
 add_player: SUCCESS
 play_tournament: SUCCESS, 4203
@@ -16129,7 +16129,7 @@ add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
-play_tournament: SUCCESS, 6442
+play_tournament: FAILURE
 remove_team: SUCCESS
 play_tournament: SUCCESS, 6442
 play_tournament: FAILURE
@@ -16139,7 +16139,7 @@ remove_team: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 42282
+get_highest_ranked_team: SUCCESS, 40072
 add_player: SUCCESS
 add_player: SUCCESS
 play_tournament: SUCCESS, 6442
@@ -16155,10 +16155,10 @@ play_match: FAILURE
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 61074
-get_highest_ranked_team: SUCCESS, 61074
+get_highest_ranked_team: SUCCESS, 59664
+get_highest_ranked_team: SUCCESS, 59664
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 61074
+get_highest_ranked_team: SUCCESS, 59664
 unite_teams: SUCCESS
 remove_team: SUCCESS
 remove_newest_player: SUCCESS
@@ -16166,12 +16166,12 @@ remove_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 56376
+get_highest_ranked_team: SUCCESS, 51678
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 51996
+get_highest_ranked_team: SUCCESS, 65772
 play_tournament: SUCCESS, 6442
 add_team: SUCCESS
 unite_teams: SUCCESS
@@ -17137,7 +17137,7 @@ add_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 9980
+get_highest_ranked_team: SUCCESS, 13568
 play_tournament: FAILURE
 add_player: SUCCESS
 unite_teams: SUCCESS
@@ -17215,7 +17215,7 @@ unite_teams: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 26928
+get_highest_ranked_team: SUCCESS, 34416
 play_tournament: FAILURE
 play_tournament: FAILURE
 num_wins_for_team: SUCCESS, 0
@@ -18377,12 +18377,12 @@ play_tournament: FAILURE
 add_team: SUCCESS
 unite_teams: SUCCESS
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 42364
+get_highest_ranked_team: SUCCESS, 47424
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 add_team: SUCCESS
-play_tournament: FAILURE
+play_tournament: SUCCESS, 5307
 play_match: FAILURE
 add_player: SUCCESS
 add_team: SUCCESS
@@ -18390,7 +18390,7 @@ play_match: FAILURE
 play_tournament: SUCCESS, 5307
 play_match: FAILURE
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 59280
+get_highest_ranked_team: SUCCESS, 56316
 add_player: SUCCESS
 unite_teams: SUCCESS
 remove_team: SUCCESS
@@ -18398,12 +18398,12 @@ add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 59808
+get_highest_ranked_team: SUCCESS, 57316
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 57475
+get_highest_ranked_team: SUCCESS, 59808
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -18413,7 +18413,7 @@ num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 69776
+get_highest_ranked_team: SUCCESS, 82992
 add_player: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
@@ -18422,8 +18422,8 @@ play_match: SUCCESS, 6511
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 88921
-get_highest_ranked_team: SUCCESS, 88921
+get_highest_ranked_team: SUCCESS, 91981
+get_highest_ranked_team: SUCCESS, 91981
 add_team: SUCCESS
 num_wins_for_team: SUCCESS, 1
 add_player: SUCCESS
@@ -18438,7 +18438,7 @@ add_player: SUCCESS
 play_match: SUCCESS, 138
 num_wins_for_team: SUCCESS, 1
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 79745
+get_highest_ranked_team: SUCCESS, 94849
 play_tournament: FAILURE
 play_tournament: SUCCESS, 138
 add_player: SUCCESS
@@ -18850,7 +18850,7 @@ unite_teams: SUCCESS
 get_highest_ranked_team: SUCCESS, 49870
 play_tournament: FAILURE
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 49870
+get_highest_ranked_team: SUCCESS, 44883
 num_wins_for_team: SUCCESS, 0
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
@@ -18860,7 +18860,7 @@ num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
 play_match: FAILURE
 play_tournament: FAILURE
-get_highest_ranked_team: SUCCESS, 59844
+get_highest_ranked_team: SUCCESS, 54857
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -19032,7 +19032,7 @@ add_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
-play_tournament: SUCCESS, 5880
+play_tournament: FAILURE
 play_tournament: SUCCESS, 5880
 add_player: SUCCESS
 remove_team: SUCCESS
@@ -19500,7 +19500,7 @@ add_team: SUCCESS
 add_player: SUCCESS
 play_match: FAILURE
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 20385
+get_highest_ranked_team: SUCCESS, 19116
 add_player: SUCCESS
 add_player: SUCCESS
 remove_team: SUCCESS
@@ -21327,7 +21327,7 @@ play_tournament: SUCCESS, 2972
 add_team: SUCCESS
 remove_team: SUCCESS
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 50290
+get_highest_ranked_team: SUCCESS, 45261
 remove_team: SUCCESS
 get_highest_ranked_team: SUCCESS, -1
 play_tournament: FAILURE
@@ -21883,7 +21883,7 @@ add_player: SUCCESS
 play_tournament: FAILURE
 add_player: SUCCESS
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 124066
+get_highest_ranked_team: SUCCESS, 120417
 play_tournament: FAILURE
 add_player: SUCCESS
 play_tournament: FAILURE
@@ -21891,7 +21891,7 @@ add_player: SUCCESS
 unite_teams: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 127715
+get_highest_ranked_team: SUCCESS, 136986
 play_tournament: SUCCESS, 528
 play_match: FAILURE
 num_wins_for_team: SUCCESS, 0
@@ -21921,7 +21921,7 @@ play_tournament: FAILURE
 remove_newest_player: SUCCESS
 play_match: FAILURE
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 137671
+get_highest_ranked_team: SUCCESS, 141259
 play_match: FAILURE
 unite_teams: SUCCESS
 add_player: SUCCESS
@@ -21945,12 +21945,12 @@ num_wins_for_team: SUCCESS, 1
 play_tournament: SUCCESS, 221
 num_wins_for_team: SUCCESS, 1
 add_team: SUCCESS
-play_tournament: SUCCESS, 221
+play_tournament: FAILURE
 add_player: SUCCESS
 add_team: SUCCESS
 unite_teams: SUCCESS
-play_tournament: SUCCESS, 386
-get_highest_ranked_team: SUCCESS, 175152
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 175872
 add_player: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
@@ -21966,7 +21966,7 @@ play_tournament: FAILURE
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 202832
+get_highest_ranked_team: SUCCESS, 204344
 play_tournament: FAILURE
 remove_team: SUCCESS
 add_team: SUCCESS
@@ -22296,7 +22296,7 @@ add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 55454
+get_highest_ranked_team: SUCCESS, 57460
 play_tournament: SUCCESS, 3501
 add_team: SUCCESS
 num_wins_for_team: SUCCESS, 0
@@ -22305,10 +22305,10 @@ play_match: FAILURE
 add_player: SUCCESS
 add_player: SUCCESS
 play_match: SUCCESS, 3501
-get_highest_ranked_team: SUCCESS, 58717
+get_highest_ranked_team: SUCCESS, 60841
 remove_newest_player: SUCCESS
 play_tournament: FAILURE
-get_highest_ranked_team: SUCCESS, 58717
+get_highest_ranked_team: SUCCESS, 60841
 play_tournament: SUCCESS, 3501
 num_wins_for_team: SUCCESS, 1
 add_player: SUCCESS
@@ -23434,7 +23434,7 @@ unite_teams: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 play_tournament: SUCCESS, 3106
-play_tournament: FAILURE
+play_tournament: SUCCESS, 3106
 num_wins_for_team: SUCCESS, 0
 remove_newest_player: SUCCESS
 add_team: SUCCESS
@@ -23563,7 +23563,7 @@ num_wins_for_team: SUCCESS, 1
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 1
 num_wins_for_team: SUCCESS, 1
-get_highest_ranked_team: SUCCESS, 34681
+get_highest_ranked_team: SUCCESS, 30346
 add_player: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
@@ -23573,7 +23573,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 43022
+get_highest_ranked_team: SUCCESS, 45871
 play_tournament: SUCCESS, 2180
 add_player: SUCCESS
 add_team: SUCCESS
