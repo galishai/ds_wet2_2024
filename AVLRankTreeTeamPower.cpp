@@ -282,8 +282,8 @@ Node<TeamByPower> *AVLRankTreePower::RightRightRotation(Node<TeamByPower> *nodeB
     //nodeA->m_maxRank = nodeB->m_maxRank;
     //updateMax(nodeB, nodeB->m_tempExtra);
     //updateMax(nodeA, nodeA->m_tempExtra);
-    updateMaxRec(nodeB);
-    updateMaxRec(nodeA);
+    updateMax(nodeB);
+    updateMax(nodeA);
     return nodeA;
 
 }
