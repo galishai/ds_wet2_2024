@@ -432,7 +432,7 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
         arrayCreated2[i]->m_created = inc + i + 1;
         arrayStrength2[i]->m_created = inc + i + 1;
     }
-    team1->m_info->m_player_count += team1->m_info->m_player_count + team2->m_info->m_playersByCreated->m_treeSize + 1;
+    team1->m_info->m_player_count = team1->m_info->m_player_count + team2->m_info->m_playersByCreated->m_treeSize + 1;
     mergeTwoArraysIntoOne(arrayCreated1, arrayCreated2, arrayMergedCreated, sizeOfArray1, sizeOfArray2);
     mergeTwoArraysIntoOne(arrayStrength1, arrayStrength2, arrayMergedStrength, sizeOfArray1, sizeOfArray2);
 
