@@ -14,12 +14,6 @@ bool isValid(Node<PlayerByCreated> *node)
 
 }
 
-int olympics_t::hi()
-{
-    int a = 1;
-    return 0;
-}
-
 olympics_t::olympics_t()
 {
     //m_timestamp = 0;
