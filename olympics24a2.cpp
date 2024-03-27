@@ -16,7 +16,7 @@ bool isValid(Node<PlayerByCreated> *node)
 
 olympics_t::olympics_t()
 {
-    //m_timestamp = 0;
+    m_timestamp = 0;
     m_highestRank = -1;
     m_teamsHash = new DynamicHashTable();
     m_teamsByID = new AVLRankTree<TeamByID>();
@@ -124,15 +124,15 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
     isValid(team->m_info->m_playersByCreated->m_root);
     try
     {
-        PlayerByCreated *playerbycreated = new PlayerByCreated(team->m_info->m_player_count, playerStrength);
+        PlayerByCreated *playerbycreated = new PlayerByCreated(m_timestamp, playerStrength);
         team->m_info->m_playersByCreated->insertNode(playerbycreated);
-        PlayerByStrength *playerbystrength = new PlayerByStrength(team->m_info->m_player_count, playerStrength);
+        PlayerByStrength *playerbystrength = new PlayerByStrength(m_timestamp, playerStrength);
         team->m_info->m_playersByStrength->insertNode(playerbystrength);
     }catch(std::bad_alloc&)
     {
         return StatusType::ALLOCATION_ERROR;
     }
-    team->m_info->m_player_count++;
+    m_timestamp++;
     isValid(team->m_info->m_playersByCreated->m_root);
     TeamByPower teamPowerFinder(teamId, team->m_info->m_wins, team->m_info->m_power);
     Node<TeamByPower> *teampow = m_teamsByPower->findNode(&teamPowerFinder);
@@ -213,7 +213,7 @@ StatusType olympics_t::remove_newest_player(int teamId)
     PlayerByStrength strcopy(newest->m_created, newest->m_strength);
     team->m_info->m_playersByCreated->removeNode(newest);
     team->m_info->m_playersByStrength->removeNode(&strcopy);
-    team->m_info->m_player_count--;
+    //team->m_info->m_player_count--;
     TeamByPower teamPowerFinder(teamId, team->m_info->m_wins, team->m_info->m_power);
     if(team->m_info->m_playersByCreated->m_treeSize == 0)
     {
@@ -418,7 +418,7 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     InorderTransversalIntoArray(team1->m_info->m_playersByStrength->m_root, arrayStrength1, sizeOfArray1, 0);
     InorderTransversalIntoArray(team2->m_info->m_playersByStrength->m_root, arrayStrength2, sizeOfArray2, 0);
     int inc;
-    if(team1->m_info->m_playersByCreated->m_treeSize == 0)
+    /*if(team1->m_info->m_playersByCreated->m_treeSize == 0)
     {
         inc = 0;
     }
@@ -431,8 +431,8 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     {
         arrayCreated2[i]->m_created = inc + i + 1;
         arrayStrength2[i]->m_created = inc + i + 1;
-    }
-    team1->m_info->m_player_count = team1->m_info->m_player_count + team2->m_info->m_playersByCreated->m_treeSize + 1;
+    }*/
+    //team1->m_info->m_player_count = team1->m_info->m_player_count + team2->m_info->m_playersByCreated->m_treeSize + 1;
     mergeTwoArraysIntoOne(arrayCreated1, arrayCreated2, arrayMergedCreated, sizeOfArray1, sizeOfArray2);
     mergeTwoArraysIntoOne(arrayStrength1, arrayStrength2, arrayMergedStrength, sizeOfArray1, sizeOfArray2);
 
