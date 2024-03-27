@@ -19879,7 +19879,7 @@ num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
 unite_teams: SUCCESS
 play_tournament: FAILURE
-num_wins_for_team: SUCCESS, 0
+num_wins_for_team: SUCCESS, 4
 add_team: SUCCESS
 unite_teams: SUCCESS
 play_tournament: FAILURE
