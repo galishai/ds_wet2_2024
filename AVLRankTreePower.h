@@ -52,6 +52,8 @@ public:
 
     void updateMaxRec(Node<TeamByPower> *node);
 
+    void updateTempExtra(Node<TeamByPower> *node);
+
 };
 
 
