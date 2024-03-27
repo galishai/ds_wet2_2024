@@ -506,12 +506,23 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
             subset_extra += temp1->m_addWins;
             temp1 = temp1->m_left;
         }
-        int e1 = 0;
+        int e1 = nodeToRemove->m_left->m_addWins;
         int e2 = nodeToRemove->m_addWins;
         int e3 = temp->m_addWins;
-        int e4 = 0;
-        int e6 = 0;
+        int e4 = nodeToRemove->m_right->m_addWins;
 
+        if(temp != nodeToRemove->m_right)
+        {
+            temp->m_addWins = e2 + subset_extra;
+            nodeToRemove->m_left->m_addWins = e1 - subset_extra;
+            nodeToRemove->m_right->m_addWins = e4 - subset_extra;
+        }
+        else
+        {
+            temp->m_addWins = e2 + e3;
+            nodeToRemove->m_left->m_addWins = e1 - e3;
+        }
+/*
         if(nodeToRemove->m_left != nullptr)
         {
             e1 = nodeToRemove->m_left->m_addWins;
@@ -535,14 +546,14 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
             nodeToRemove->m_right->m_addWins = e4 - subset_extra;
         }
 
-        if(/*temp->m_right != nullptr*/ temp == nodeToRemove->m_right)
+        /*if(temp->m_right != nullptr && temp == nodeToRemove->m_right)
         {
-            temp->m_addWins += nodeToRemove->m_addWins;
+            temp->m_right->m_addWins += nodeToRemove->m_addWins;
         }
         if(temp->m_left != nullptr && temp == nodeToRemove->m_right)
         {
             temp->m_left->m_addWins += nodeToRemove->m_addWins;
-        }
+        }*/
 
         Node<TeamByPower> *tempFather = temp->m_parent;
         temp->m_left = nodeToRemove->m_left;
