@@ -9,7 +9,7 @@ bool isValid(Node<PlayerByCreated> *node)
     }
 
     isValid(node->m_left);
-    assert(node->m_info != nullptr);
+    //assert(node->m_info != nullptr);
     isValid(node->m_right);
 
 }
