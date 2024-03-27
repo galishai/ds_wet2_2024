@@ -68,6 +68,15 @@ StatusType olympics_t::remove_team(int teamId)
     {
         return StatusType::FAILURE;
     }
+    if(m_teamsByID->m_treeSize > 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize - 1));
+    }
+    else if(m_teamsByID->m_treeSize == 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+    }
     m_teamsHash->remove(teamId);
     TeamByID teamIDFinder(teamId);
     Node<TeamByID>* team = m_teamsByID->findNode(&teamIDFinder);
@@ -203,11 +212,21 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
         }
     }
     isValid(team->m_info->m_playersByCreated->m_root);
+    if(m_teamsByID->m_treeSize > 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize - 1));
+    }
+    else if(m_teamsByID->m_treeSize == 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+    }
 	return StatusType::SUCCESS;
 }
 
 StatusType olympics_t::remove_newest_player(int teamId)
 {
+
 	if(teamId <= 0)
     {
         return StatusType::INVALID_INPUT;
@@ -217,6 +236,15 @@ StatusType olympics_t::remove_newest_player(int teamId)
     if(team == nullptr)
     {
         return StatusType::FAILURE;
+    }
+    if(m_teamsByID->m_treeSize > 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize - 1));
+    }
+    else if(m_teamsByID->m_treeSize == 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
     }
     PlayerByCreated* newest = maxNode(team->m_info->m_playersByCreated->m_root)->m_info;
     PlayerByStrength strcopy(newest->m_created, newest->m_strength);
@@ -325,6 +353,15 @@ output_t<int> olympics_t::play_match(int teamId1, int teamId2)
     temp2->m_maxRank = temp2->m_info->m_wins + temp2->m_info->m_power + m_teamsByPower->getAddedWins(temp2->m_info);
     m_teamsByPower->updateMaxRec(temp2);
     m_highestRank = m_teamsByPower->m_root->m_maxRank;
+    if(m_teamsByID->m_treeSize > 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize - 1));
+    }
+    else if(m_teamsByID->m_treeSize == 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+    }
     return winningID;
 }
 
@@ -496,6 +533,15 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     delete[] arrayMergedCreated;
     delete[] arrayMergedStrength;
     isValid(team1->m_info->m_playersByCreated->m_root);
+    if(m_teamsByID->m_treeSize > 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize - 1));
+    }
+    else if(m_teamsByID->m_treeSize == 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+    }
     return StatusType::SUCCESS;
 }
 
@@ -708,5 +754,14 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         m_teamsByPower->updateMaxRec(runnerup);
     }
     m_highestRank = m_teamsByPower->m_root->m_maxRank;
+    if(m_teamsByID->m_treeSize > 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize - 1));
+    }
+    else if(m_teamsByID->m_treeSize == 1)
+    {
+        m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
+    }
     return highestInRange->m_teamID;
 }
