@@ -17356,7 +17356,7 @@ get_highest_ranked_team: SUCCESS, 923413
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 play_tournament: FAILURE
-num_wins_for_team: SUCCESS, 1
+num_wins_for_team: SUCCESS, 2
 add_player: SUCCESS
 add_player: SUCCESS
 play_tournament: FAILURE
@@ -25292,7 +25292,7 @@ num_wins_for_team: SUCCESS, 0
 play_tournament: FAILURE
 add_player: SUCCESS
 add_team: SUCCESS
-num_wins_for_team: SUCCESS, 3
+num_wins_for_team: SUCCESS, 4
 play_tournament: FAILURE
 add_player: SUCCESS
 add_player: SUCCESS
