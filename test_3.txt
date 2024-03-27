@@ -1575,7 +1575,7 @@ unite_teams: SUCCESS
 add_team: SUCCESS
 num_wins_for_team: SUCCESS, 4
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 44548
+get_highest_ranked_team: SUCCESS, 34356
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -1604,7 +1604,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 72384
+get_highest_ranked_team: SUCCESS, 65000
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -1612,7 +1612,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 80736
+get_highest_ranked_team: SUCCESS, 72500
 unite_teams: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -3694,7 +3694,7 @@ play_match: FAILURE
 add_team: SUCCESS
 unite_teams: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 9266
+get_highest_ranked_team: SUCCESS, 6610
 add_player: SUCCESS
 add_team: SUCCESS
 remove_team: SUCCESS
@@ -4874,7 +4874,7 @@ unite_teams: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 59763
+get_highest_ranked_team: SUCCESS, 44517
 add_player: SUCCESS
 add_player: SUCCESS
 remove_team: SUCCESS
@@ -6119,10 +6119,10 @@ add_player: SUCCESS
 add_player: SUCCESS
 play_match: SUCCESS, 5914
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 144003
+get_highest_ranked_team: SUCCESS, 142491
 add_player: SUCCESS
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 144003
+get_highest_ranked_team: SUCCESS, 142491
 play_match: FAILURE
 add_player: SUCCESS
 add_team: SUCCESS
@@ -6138,7 +6138,7 @@ num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 191205
+get_highest_ranked_team: SUCCESS, 180000
 unite_teams: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
@@ -6150,7 +6150,7 @@ add_team: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 235267
+get_highest_ranked_team: SUCCESS, 225197
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -6608,7 +6608,7 @@ remove_newest_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 50152
+get_highest_ranked_team: SUCCESS, 51546
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -6721,7 +6721,7 @@ num_wins_for_team: SUCCESS, 0
 remove_newest_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 124674
+get_highest_ranked_team: SUCCESS, 123915
 play_match: FAILURE
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
@@ -6731,7 +6731,7 @@ add_player: SUCCESS
 play_match: SUCCESS, 4885
 add_player: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 128453
+get_highest_ranked_team: SUCCESS, 127671
 unite_teams: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
@@ -6763,7 +6763,7 @@ remove_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 172732
+get_highest_ranked_team: SUCCESS, 167994
 add_team: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
@@ -6847,8 +6847,8 @@ remove_newest_player: SUCCESS
 add_player: SUCCESS
 remove_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 12540
-get_highest_ranked_team: SUCCESS, 12540
+get_highest_ranked_team: SUCCESS, 6410
+get_highest_ranked_team: SUCCESS, 6410
 add_team: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
@@ -7688,7 +7688,7 @@ unite_teams: SUCCESS
 add_player: SUCCESS
 play_match: FAILURE
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 162080
+get_highest_ranked_team: SUCCESS, 171160
 play_match: SUCCESS, 1806
 unite_teams: SUCCESS
 unite_teams: SUCCESS
@@ -7697,7 +7697,7 @@ add_team: SUCCESS
 unite_teams: SUCCESS
 remove_newest_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 178288
+get_highest_ranked_team: SUCCESS, 183304
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -7734,7 +7734,7 @@ add_player: SUCCESS
 add_team: SUCCESS
 play_match: FAILURE
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 251224
+get_highest_ranked_team: SUCCESS, 258292
 add_team: SUCCESS
 remove_newest_player: SUCCESS
 add_player: SUCCESS
@@ -8665,7 +8665,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 75400
+get_highest_ranked_team: SUCCESS, 72975
 add_team: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
@@ -8676,9 +8676,9 @@ add_player: SUCCESS
 play_match: SUCCESS, 1870
 unite_teams: SUCCESS
 play_match: SUCCESS, 4190
-get_highest_ranked_team: SUCCESS, 82864
-get_highest_ranked_team: SUCCESS, 82864
-get_highest_ranked_team: SUCCESS, 82864
+get_highest_ranked_team: SUCCESS, 81433
+get_highest_ranked_team: SUCCESS, 81433
+get_highest_ranked_team: SUCCESS, 81433
 unite_teams: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
@@ -9621,7 +9621,7 @@ unite_teams: SUCCESS
 add_team: SUCCESS
 remove_newest_player: SUCCESS
 play_match: SUCCESS, 1519
-get_highest_ranked_team: SUCCESS, 110089
+get_highest_ranked_team: SUCCESS, 108472
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -9630,12 +9630,12 @@ add_team: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 115045
+get_highest_ranked_team: SUCCESS, 106330
 unite_teams: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 115045
+get_highest_ranked_team: SUCCESS, 106330
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 115045
+get_highest_ranked_team: SUCCESS, 106330
 unite_teams: SUCCESS
 remove_team: SUCCESS
 add_team: SUCCESS
@@ -10381,7 +10381,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 56297
+get_highest_ranked_team: SUCCESS, 62852
 unite_teams: SUCCESS
 play_match: FAILURE
 play_match: FAILURE
@@ -11171,12 +11171,12 @@ play_match: SUCCESS, 5315
 unite_teams: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 144720
+get_highest_ranked_team: SUCCESS, 130920
 add_team: SUCCESS
 add_team: SUCCESS
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 144720
-get_highest_ranked_team: SUCCESS, 144720
+get_highest_ranked_team: SUCCESS, 130920
+get_highest_ranked_team: SUCCESS, 130920
 remove_team: SUCCESS
 remove_team: SUCCESS
 remove_team: SUCCESS
@@ -12618,7 +12618,7 @@ remove_newest_player: SUCCESS
 add_player: SUCCESS
 play_match: FAILURE
 add_player: SUCCESS
-play_match: SUCCESS, 6455
+play_match: SUCCESS, 794
 unite_teams: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -14797,7 +14797,7 @@ add_player: SUCCESS
 add_team: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 37928
+get_highest_ranked_team: SUCCESS, 34562
 play_match: FAILURE
 add_player: SUCCESS
 unite_teams: SUCCESS
@@ -14817,9 +14817,9 @@ num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 play_match: SUCCESS, 5713
 play_match: SUCCESS, 1196
-get_highest_ranked_team: SUCCESS, 41378
+get_highest_ranked_team: SUCCESS, 37706
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 41378
+get_highest_ranked_team: SUCCESS, 37706
 add_team: SUCCESS
 play_match: FAILURE
 unite_teams: SUCCESS
@@ -14871,7 +14871,7 @@ add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 175294
+get_highest_ranked_team: SUCCESS, 171266
 remove_team: SUCCESS
 add_team: SUCCESS
 remove_team: SUCCESS
@@ -15306,15 +15306,15 @@ num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
 remove_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 26140
+get_highest_ranked_team: SUCCESS, 26260
 add_team: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
 num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 31368
-get_highest_ranked_team: SUCCESS, 31368
+get_highest_ranked_team: SUCCESS, 31512
+get_highest_ranked_team: SUCCESS, 31512
 remove_team: SUCCESS
 get_highest_ranked_team: SUCCESS, -1
 add_team: SUCCESS
@@ -15917,7 +15917,7 @@ unite_teams: SUCCESS
 remove_newest_player: SUCCESS
 get_highest_ranked_team: SUCCESS, 33401
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 30061
+get_highest_ranked_team: SUCCESS, 28927
 remove_newest_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
@@ -17137,7 +17137,7 @@ add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 51393
+get_highest_ranked_team: SUCCESS, 63601
 remove_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -17366,11 +17366,11 @@ remove_newest_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 23779
+get_highest_ranked_team: SUCCESS, 25615
 unite_teams: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 11130
+get_highest_ranked_team: SUCCESS, 27741
 add_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -17379,7 +17379,7 @@ num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
 unite_teams: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 35470
+get_highest_ranked_team: SUCCESS, 39630
 unite_teams: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_team: SUCCESS
@@ -17555,10 +17555,10 @@ add_player: SUCCESS
 remove_newest_player: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 35105
-get_highest_ranked_team: SUCCESS, 35105
+get_highest_ranked_team: SUCCESS, 28700
+get_highest_ranked_team: SUCCESS, 28700
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 35105
+get_highest_ranked_team: SUCCESS, 28700
 unite_teams: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
@@ -18330,7 +18330,7 @@ add_team: SUCCESS
 num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 23339
+get_highest_ranked_team: SUCCESS, 22870
 add_team: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
@@ -18358,7 +18358,7 @@ add_team: SUCCESS
 add_team: SUCCESS
 add_team: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 43282
+get_highest_ranked_team: SUCCESS, 36171
 add_player: SUCCESS
 add_player: SUCCESS
 play_match: FAILURE
@@ -18372,7 +18372,7 @@ unite_teams: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 76361
+get_highest_ranked_team: SUCCESS, 63346
 add_player: SUCCESS
 remove_team: SUCCESS
 play_match: FAILURE
@@ -18398,7 +18398,7 @@ play_match: SUCCESS, 4252
 unite_teams: SUCCESS
 add_team: SUCCESS
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 76363
+get_highest_ranked_team: SUCCESS, 63348
 play_match: FAILURE
 unite_teams: SUCCESS
 add_player: SUCCESS
@@ -18423,7 +18423,7 @@ unite_teams: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 156420
+get_highest_ranked_team: SUCCESS, 155808
 add_player: SUCCESS
 play_match: FAILURE
 add_player: SUCCESS
@@ -18431,7 +18431,7 @@ add_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 160765
+get_highest_ranked_team: SUCCESS, 160136
 add_player: SUCCESS
 add_team: SUCCESS
 unite_teams: SUCCESS
@@ -18461,20 +18461,20 @@ unite_teams: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 229384
+get_highest_ranked_team: SUCCESS, 223819
 remove_newest_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 229384
-get_highest_ranked_team: SUCCESS, 229384
+get_highest_ranked_team: SUCCESS, 223819
+get_highest_ranked_team: SUCCESS, 223819
 add_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
 play_match: SUCCESS, 6962
 add_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 233713
+get_highest_ranked_team: SUCCESS, 228043
 add_player: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
@@ -18487,7 +18487,7 @@ remove_newest_player: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 253380
+get_highest_ranked_team: SUCCESS, 251760
 add_player: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
@@ -18495,12 +18495,12 @@ add_team: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 play_match: SUCCESS, 5971
-get_highest_ranked_team: SUCCESS, 261827
+get_highest_ranked_team: SUCCESS, 260153
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 1
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 264349
+get_highest_ranked_team: SUCCESS, 253198
 play_match: SUCCESS, 5971
 add_player: SUCCESS
 play_match: SUCCESS, 5971
@@ -19389,7 +19389,7 @@ play_match: SUCCESS, 3430
 unite_teams: SUCCESS
 unite_teams: SUCCESS
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 27886
+get_highest_ranked_team: SUCCESS, 26226
 add_team: SUCCESS
 unite_teams: SUCCESS
 add_player: SUCCESS
@@ -19615,28 +19615,28 @@ add_player: SUCCESS
 add_team: SUCCESS
 unite_teams: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 21480
+get_highest_ranked_team: SUCCESS, 23032
 play_match: FAILURE
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 play_match: FAILURE
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 21480
+get_highest_ranked_team: SUCCESS, 23032
 play_match: FAILURE
 unite_teams: SUCCESS
 unite_teams: SUCCESS
 remove_team: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 21480
+get_highest_ranked_team: SUCCESS, 23032
 add_player: SUCCESS
 add_player: SUCCESS
 remove_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 play_match: SUCCESS, 660
-get_highest_ranked_team: SUCCESS, 29536
+get_highest_ranked_team: SUCCESS, 30856
 add_player: SUCCESS
 play_match: SUCCESS, 660
 num_wins_for_team: SUCCESS, 0
@@ -19644,8 +19644,8 @@ play_match: SUCCESS, 660
 add_player: SUCCESS
 add_team: SUCCESS
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 29538
-get_highest_ranked_team: SUCCESS, 29538
+get_highest_ranked_team: SUCCESS, 30858
+get_highest_ranked_team: SUCCESS, 30858
 add_team: SUCCESS
 play_match: FAILURE
 add_team: SUCCESS
@@ -20806,8 +20806,8 @@ add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 74175
-get_highest_ranked_team: SUCCESS, 74175
+get_highest_ranked_team: SUCCESS, 101798
+get_highest_ranked_team: SUCCESS, 101798
 add_player: SUCCESS
 remove_team: SUCCESS
 add_team: SUCCESS
@@ -20856,14 +20856,14 @@ add_team: SUCCESS
 remove_newest_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 17527
+get_highest_ranked_team: SUCCESS, 18913
 unite_teams: SUCCESS
 unite_teams: SUCCESS
 num_wins_for_team: SUCCESS, 0
 play_match: FAILURE
 play_match: FAILURE
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 17199
+get_highest_ranked_team: SUCCESS, 20447
 add_player: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
@@ -21449,7 +21449,7 @@ remove_team: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 43455
+get_highest_ranked_team: SUCCESS, 45195
 add_player: SUCCESS
 remove_team: SUCCESS
 add_team: SUCCESS
@@ -21462,7 +21462,7 @@ unite_teams: SUCCESS
 get_highest_ranked_team: SUCCESS, 13690
 remove_newest_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 10982
+get_highest_ranked_team: SUCCESS, 13690
 add_team: SUCCESS
 add_player: SUCCESS
 add_player: SUCCESS
@@ -21471,7 +21471,7 @@ add_team: SUCCESS
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 unite_teams: SUCCESS
-play_match: SUCCESS, 1231
+play_match: SUCCESS, 4960
 add_player: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
@@ -21483,7 +21483,7 @@ unite_teams: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 28721
+get_highest_ranked_team: SUCCESS, 38438
 add_player: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
@@ -21505,18 +21505,18 @@ add_player: SUCCESS
 add_team: SUCCESS
 unite_teams: SUCCESS
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 54911
+get_highest_ranked_team: SUCCESS, 56312
 add_player: SUCCESS
 add_player: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 49974
+get_highest_ranked_team: SUCCESS, 60403
 unite_teams: SUCCESS
 play_match: SUCCESS, 4960
 add_player: SUCCESS
 play_match: SUCCESS, 4960
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 61545
+get_highest_ranked_team: SUCCESS, 68145
 play_match: SUCCESS, 2262
 unite_teams: SUCCESS
 num_wins_for_team: SUCCESS, 0
@@ -22166,11 +22166,11 @@ play_match: SUCCESS, 80
 remove_newest_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 58897
+get_highest_ranked_team: SUCCESS, 52993
 num_wins_for_team: SUCCESS, 1
 unite_teams: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 58897
+get_highest_ranked_team: SUCCESS, 52993
 add_player: SUCCESS
 unite_teams: SUCCESS
 add_team: SUCCESS
@@ -22289,11 +22289,11 @@ remove_newest_player: SUCCESS
 add_player: SUCCESS
 remove_newest_player: SUCCESS
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 87466
+get_highest_ranked_team: SUCCESS, 86500
 add_player: SUCCESS
 add_player: SUCCESS
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 101684
+get_highest_ranked_team: SUCCESS, 95796
 add_player: SUCCESS
 add_team: SUCCESS
 play_match: FAILURE
