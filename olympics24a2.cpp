@@ -1,6 +1,19 @@
 #include "olympics24a2.h"
 #include <iostream>
 
+bool isValid(Node<PlayerByCreated> *node)
+{
+    if(node == nullptr)
+    {
+        return true;
+    }
+
+    isValid(node->m_left);
+    assert(node->m_info != nullptr);
+    isValid(node->m_right);
+
+}
+
 olympics_t::olympics_t()
 {
     //m_timestamp = 0;
@@ -108,6 +121,7 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
         }
     }
     Node<TeamByID>* team = m_teamsByID->findNode(&teamFinder);
+    isValid(team->m_info->m_playersByCreated->m_root);
     try
     {
         PlayerByCreated *playerbycreated = new PlayerByCreated(team->m_info->m_player_count, playerStrength);
@@ -119,6 +133,7 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
         return StatusType::ALLOCATION_ERROR;
     }
     team->m_info->m_player_count++;
+    isValid(team->m_info->m_playersByCreated->m_root);
     TeamByPower teamPowerFinder(teamId, team->m_info->m_wins, team->m_info->m_power);
     Node<TeamByPower> *teampow = m_teamsByPower->findNode(&teamPowerFinder);
     int original_wins;
@@ -178,6 +193,7 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
             added_wins = m_teamsByPower->getAddedWins(found->m_info);
         }
     }
+    isValid(team->m_info->m_playersByCreated->m_root);
 	return StatusType::SUCCESS;
 }
 
@@ -218,6 +234,7 @@ StatusType olympics_t::remove_newest_player(int teamId)
         Node<TeamByPower>* temp =  m_teamsByPower->findNode(updatedPower);
         temp->m_maxRank = updatedPower->m_wins + updatedPower->m_power + m_teamsByPower->getAddedWins(temp->m_info); //TODO is temp always a leaf?
         m_teamsByPower->updateMaxRec(temp);
+        isValid(team->m_info->m_playersByCreated->m_root);
     }
     if(m_teamsByID->m_treeSize == 0)
     {
@@ -353,6 +370,8 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
         m_teamsByID->insertNode(team1new);
         team1 = m_teamsByID->findNode(team1new);
     }
+    isValid(team1->m_info->m_playersByCreated->m_root);
+    isValid(team2->m_info->m_playersByCreated->m_root);
     TeamByPower team1PowerFinder(teamId1, team1->m_info->m_wins, team1->m_info->m_power);
     TeamByPower team2PowerFinder(teamId2, team2->m_info->m_wins, team2->m_info->m_power);
     Node<TeamByPower> *team1pow = m_teamsByPower->findNode(&team1PowerFinder);
@@ -410,18 +429,18 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     }
     for(int i = 0; i < sizeOfArray2; i++)
     {
-        arrayCreated2[i]->m_created += inc;
-        arrayStrength2[i]->m_created += inc;
+        arrayCreated2[i]->m_created = inc + i + 1;
+        arrayStrength2[i]->m_created = inc + i + 1;
     }
-    team1->m_info->m_player_count += team1->m_info->m_player_count + team2->m_info->m_player_count;
+    team1->m_info->m_player_count += team1->m_info->m_player_count + team2->m_info->m_playersByCreated->m_treeSize + 1;
     mergeTwoArraysIntoOne(arrayCreated1, arrayCreated2, arrayMergedCreated, sizeOfArray1, sizeOfArray2);
     mergeTwoArraysIntoOne(arrayStrength1, arrayStrength2, arrayMergedStrength, sizeOfArray1, sizeOfArray2);
 
     Node<PlayerByCreated> *newRootCreated = mergedArrayIntoBalTree(arrayMergedCreated, 0, sizeOfArray1 + sizeOfArray2 - 1);
     Node<PlayerByStrength> *newRootStrength = mergedArrayIntoBalTree(arrayMergedStrength, 0, sizeOfArray1 + sizeOfArray2 - 1);
-
-    delete team1->m_info->m_playersByCreated;
+    isValid(newRootCreated);
     delete team1->m_info->m_playersByStrength;
+    delete team1->m_info->m_playersByCreated;
 
     team1->m_info->m_playersByCreated = new AVLRankTree<PlayerByCreated>();
     team1->m_info->m_playersByStrength = new AVLRankTree<PlayerByStrength>();
@@ -458,6 +477,7 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     delete[] arrayStrength2;
     delete[] arrayMergedCreated;
     delete[] arrayMergedStrength;
+    isValid(team1->m_info->m_playersByCreated->m_root);
     return StatusType::SUCCESS;
 }
 
