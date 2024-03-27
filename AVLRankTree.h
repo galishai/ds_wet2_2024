@@ -253,27 +253,7 @@ static int InorderTransversalIntoArray(Node<T> *root, T *array[], int sizeOfArra
 template<class T>
 void mergeTwoArraysIntoOne(T *array1[], T *array2[], T *mergedArray[], int sizeof1, int sizeof2)
 {
-    int i1 = 0, i2 = 0, i3 = 0;
-    while (i1 < sizeof1 && i2 < sizeof2)
-    {
-        if (*array1[i1] < array2[i2])
-        {
-            mergedArray[i3++] = array1[i1];
-            i1++;
-        } else
-        {
-            mergedArray[i3++] = array2[i2++];
-        }
-    }
-    while (i1 < sizeof1)
-    {
-        mergedArray[i3++] = array1[i1++];
-    }
-    while (i2 < sizeof2)
-    {
-        mergedArray[i3++] = array2[i2++];
-    }
-    /*try
+    try
     {
         int i1 = 0, i2 = 0, i3 = 0;
         while (i1 < sizeof1 && i2 < sizeof2)
@@ -311,7 +291,7 @@ void mergeTwoArraysIntoOne(T *array1[], T *array2[], T *mergedArray[], int sizeo
             delete mergedArray[i];
         }
         throw;
-    }*/
+    }
 }
 
 template<class T>
