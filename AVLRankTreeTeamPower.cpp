@@ -495,6 +495,7 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
         delete nodeToRemove;
     } else if (nodeToRemove->m_left != nullptr && nodeToRemove->m_right == nullptr) //if has only left son
     {
+        nodeToRemove->m_left->m_maxRank += nodeToRemove->m_addWins;
         nodeToRemove->m_left->m_addWins += nodeToRemove->m_addWins;
         if (nodeToRemove == m_root)
         {
@@ -519,6 +520,7 @@ void AVLRankTreePower::removeNode(TeamByPower *info) //based on assumption that 
         delete nodeToRemove;
     } else if (nodeToRemove->m_right != nullptr && nodeToRemove->m_left == nullptr) //if has only right son
     {
+        nodeToRemove->m_right->m_maxRank += nodeToRemove->m_addWins;
         nodeToRemove->m_right->m_addWins += nodeToRemove->m_addWins;
         if (nodeToRemove == m_root)
         {
