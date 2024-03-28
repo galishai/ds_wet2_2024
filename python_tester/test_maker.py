@@ -137,7 +137,7 @@ def make_tests(num_tests_to_make):
 def run_tests(num_tests):
     print("Running tests:")
     for i in range(1, num_tests+1):
-        terminal_command = f"./olympics.out < python_tester/tests/test{i}.in > python_tester/tests/test{i}.us"
+        terminal_command = f"./a.out < python_tester/tests/test{i}.in > python_tester/tests/test{i}.us"
         print(terminal_command)
         os.system(terminal_command)
 
