@@ -164,6 +164,7 @@ void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
                     ptr->m_right->m_maxRank += addWins;
                 }
             }
+            updateMax(ptr->m_right, extra_sum);
             ptr = ptr->m_right;
             right_turns++;
         } else
@@ -180,6 +181,7 @@ void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
                     ptr->m_right->m_maxRank -= addWins;
                 }
             }
+            updateMax(ptr->m_right, extra_sum);
             ptr = ptr->m_left;
             right_turns = 0;
         }
