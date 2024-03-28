@@ -1,0 +1,5000 @@
+add_player: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+remove_team: FAILURE
+add_team: SUCCESS
+remove_team: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+remove_team: FAILURE
+play_match: INVALID_INPUT
+add_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: INVALID_INPUT
+num_wins_for_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+unite_teams: INVALID_INPUT
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 0
+play_match: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 0
+play_match: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+add_player: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+remove_team: FAILURE
+add_team: FAILURE
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+play_match: INVALID_INPUT
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 0
+play_match: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+play_match: FAILURE
+remove_team: FAILURE
+unite_teams: INVALID_INPUT
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+add_team: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+remove_team: FAILURE
+add_team: SUCCESS
+unite_teams: SUCCESS
+remove_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 0
+play_tournament: FAILURE
+add_team: SUCCESS
+add_player: SUCCESS
+remove_team: FAILURE
+add_team: SUCCESS
+num_wins_for_team: INVALID_INPUT
+add_team: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+remove_team: FAILURE
+add_team: SUCCESS
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 42870
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 42870
+remove_newest_player: FAILURE
+add_player: FAILURE
+add_team: FAILURE
+remove_team: FAILURE
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+add_player: FAILURE
+unite_teams: SUCCESS
+get_highest_ranked_team: SUCCESS, 42870
+get_highest_ranked_team: SUCCESS, 42870
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+remove_team: SUCCESS
+remove_team: INVALID_INPUT
+add_team: SUCCESS
+unite_teams: FAILURE
+remove_newest_player: SUCCESS
+add_player: SUCCESS
+play_match: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 19015
+remove_team: SUCCESS
+unite_teams: FAILURE
+add_player: SUCCESS
+play_match: FAILURE
+num_wins_for_team: FAILURE
+play_match: INVALID_INPUT
+add_team: SUCCESS
+num_wins_for_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 81908
+add_team: SUCCESS
+add_player: FAILURE
+remove_team: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 81908
+get_highest_ranked_team: SUCCESS, 81908
+remove_team: SUCCESS
+add_team: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+unite_teams: INVALID_INPUT
+remove_newest_player: FAILURE
+add_player: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+play_match: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+add_team: FAILURE
+play_match: FAILURE
+remove_newest_player: INVALID_INPUT
+remove_team: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+add_player: SUCCESS
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+remove_team: SUCCESS
+add_team: SUCCESS
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 76734
+play_tournament: FAILURE
+unite_teams: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 76734
+play_tournament: FAILURE
+num_wins_for_team: INVALID_INPUT
+add_team: SUCCESS
+add_player: SUCCESS
+add_team: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 76734
+play_tournament: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: INVALID_INPUT
+add_player: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+add_player: FAILURE
+remove_team: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 76734
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 76734
+play_match: INVALID_INPUT
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 76734
+play_match: FAILURE
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+remove_team: FAILURE
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 76734
+unite_teams: FAILURE
+play_match: SUCCESS, 3
+get_highest_ranked_team: SUCCESS, 76735
+play_tournament: FAILURE
+unite_teams: SUCCESS
+play_match: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+num_wins_for_team: FAILURE
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 76735
+play_tournament: FAILURE
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+add_player: INVALID_INPUT
+play_match: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: INVALID_INPUT
+remove_newest_player: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+add_team: FAILURE
+remove_newest_player: INVALID_INPUT
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 76735
+add_player: INVALID_INPUT
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 76735
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+remove_newest_player: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 76735
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 76735
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 76735
+play_tournament: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+add_player: SUCCESS
+remove_newest_player: INVALID_INPUT
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 76735
+add_player: FAILURE
+remove_team: SUCCESS
+remove_team: SUCCESS
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 33258
+remove_team: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 33258
+num_wins_for_team: INVALID_INPUT
+remove_team: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 49187
+remove_team: SUCCESS
+unite_teams: SUCCESS
+remove_team: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 49187
+num_wins_for_team: FAILURE
+remove_team: INVALID_INPUT
+unite_teams: FAILURE
+num_wins_for_team: INVALID_INPUT
+remove_newest_player: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 49187
+remove_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+unite_teams: SUCCESS
+remove_team: SUCCESS
+add_player: FAILURE
+num_wins_for_team: INVALID_INPUT
+play_match: FAILURE
+remove_newest_player: FAILURE
+play_match: INVALID_INPUT
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+add_team: SUCCESS
+add_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+play_match: FAILURE
+remove_team: SUCCESS
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+add_player: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+add_player: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_team: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+play_match: INVALID_INPUT
+add_team: SUCCESS
+play_tournament: FAILURE
+remove_team: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 33258
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 33258
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 33258
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 33258
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 33258
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 33258
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 33258
+play_match: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: INVALID_INPUT
+add_team: SUCCESS
+unite_teams: INVALID_INPUT
+remove_newest_player: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+play_match: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+add_player: SUCCESS
+unite_teams: FAILURE
+add_player: FAILURE
+add_team: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 33258
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 33258
+unite_teams: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: INVALID_INPUT
+play_match: INVALID_INPUT
+remove_newest_player: FAILURE
+add_team: SUCCESS
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 33258
+remove_team: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+remove_team: SUCCESS
+add_player: FAILURE
+remove_team: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+add_player: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 33258
+add_player: SUCCESS
+remove_newest_player: INVALID_INPUT
+unite_teams: INVALID_INPUT
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+add_player: SUCCESS
+unite_teams: SUCCESS
+play_match: INVALID_INPUT
+add_team: FAILURE
+add_player: SUCCESS
+play_match: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 44919
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 44919
+play_match: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 44919
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: FAILURE
+play_match: FAILURE
+add_player: SUCCESS
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 44919
+add_team: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+remove_team: SUCCESS
+play_match: FAILURE
+num_wins_for_team: FAILURE
+play_match: INVALID_INPUT
+num_wins_for_team: INVALID_INPUT
+add_team: SUCCESS
+play_match: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 44919
+remove_newest_player: INVALID_INPUT
+play_match: FAILURE
+num_wins_for_team: FAILURE
+add_player: INVALID_INPUT
+remove_newest_player: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 44919
+remove_newest_player: INVALID_INPUT
+add_team: SUCCESS
+play_match: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 44919
+remove_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 44919
+add_player: SUCCESS
+remove_newest_player: FAILURE
+add_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 99818
+add_player: SUCCESS
+unite_teams: SUCCESS
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 99818
+unite_teams: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+remove_team: SUCCESS
+play_match: FAILURE
+play_match: FAILURE
+remove_team: SUCCESS
+add_team: FAILURE
+add_player: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+play_match: INVALID_INPUT
+remove_newest_player: INVALID_INPUT
+add_player: INVALID_INPUT
+add_player: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 44919
+get_highest_ranked_team: SUCCESS, 44919
+add_player: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+add_player: SUCCESS
+play_tournament: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 49891
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+add_team: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 49891
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: INVALID_INPUT
+remove_newest_player: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+unite_teams: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 49891
+add_player: SUCCESS
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 49891
+play_match: INVALID_INPUT
+add_team: FAILURE
+add_player: SUCCESS
+play_match: FAILURE
+remove_team: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 96000
+remove_team: SUCCESS
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+remove_team: SUCCESS
+remove_newest_player: INVALID_INPUT
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 96000
+get_highest_ranked_team: SUCCESS, 96000
+add_player: SUCCESS
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+remove_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 96000
+num_wins_for_team: SUCCESS, 0
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 96000
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 96000
+add_team: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+unite_teams: INVALID_INPUT
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+add_team: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+add_player: SUCCESS
+add_player: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+remove_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+unite_teams: SUCCESS
+remove_team: FAILURE
+remove_team: SUCCESS
+play_match: INVALID_INPUT
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 49891
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: INVALID_INPUT
+remove_team: FAILURE
+add_player: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+remove_team: SUCCESS
+remove_newest_player: FAILURE
+add_team: INVALID_INPUT
+add_player: SUCCESS
+remove_newest_player: FAILURE
+add_team: FAILURE
+remove_newest_player: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 49891
+add_team: SUCCESS
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 49891
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 49891
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 49891
+get_highest_ranked_team: SUCCESS, 49891
+play_match: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+add_team: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+add_player: SUCCESS
+remove_team: INVALID_INPUT
+unite_teams: FAILURE
+add_player: SUCCESS
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 99782
+unite_teams: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+remove_team: SUCCESS
+add_player: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 99782
+play_match: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+add_player: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 99782
+play_match: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 99782
+num_wins_for_team: FAILURE
+add_player: FAILURE
+add_player: SUCCESS
+remove_team: SUCCESS
+remove_team: FAILURE
+play_match: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 99782
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 99782
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 99782
+add_team: FAILURE
+remove_team: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 99782
+remove_newest_player: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+play_tournament: FAILURE
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+remove_newest_player: INVALID_INPUT
+add_player: SUCCESS
+add_team: SUCCESS
+unite_teams: SUCCESS
+unite_teams: FAILURE
+remove_team: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 99782
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+remove_newest_player: INVALID_INPUT
+remove_team: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 99782
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 99782
+play_match: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 99782
+get_highest_ranked_team: SUCCESS, 99782
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 99782
+play_match: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+add_team: INVALID_INPUT
+play_tournament: FAILURE
+add_team: SUCCESS
+add_team: SUCCESS
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 99782
+get_highest_ranked_team: SUCCESS, 99782
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: SUCCESS
+num_wins_for_team: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+remove_team: SUCCESS
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 85416
+get_highest_ranked_team: SUCCESS, 85416
+num_wins_for_team: SUCCESS, 0
+add_team: SUCCESS
+add_player: SUCCESS
+add_team: SUCCESS
+play_match: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+remove_newest_player: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 86154
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 86154
+remove_team: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+unite_teams: SUCCESS
+add_team: SUCCESS
+add_team: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 86154
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+play_match: INVALID_INPUT
+unite_teams: SUCCESS
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 86154
+add_player: INVALID_INPUT
+add_player: INVALID_INPUT
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+add_player: INVALID_INPUT
+add_player: SUCCESS
+add_team: FAILURE
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_team: SUCCESS
+add_team: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+add_team: FAILURE
+add_team: FAILURE
+play_match: INVALID_INPUT
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 86154
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 86154
+add_team: SUCCESS
+remove_team: SUCCESS
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: SUCCESS
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+add_player: SUCCESS
+num_wins_for_team: INVALID_INPUT
+unite_teams: SUCCESS
+get_highest_ranked_team: SUCCESS, 86154
+get_highest_ranked_team: SUCCESS, 86154
+add_player: SUCCESS
+unite_teams: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 86154
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+add_player: INVALID_INPUT
+add_team: INVALID_INPUT
+num_wins_for_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 86154
+remove_team: FAILURE
+add_player: FAILURE
+remove_team: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+add_player: SUCCESS
+add_player: FAILURE
+unite_teams: FAILURE
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: SUCCESS
+add_player: SUCCESS
+add_team: SUCCESS
+play_tournament: FAILURE
+unite_teams: SUCCESS
+play_match: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+remove_newest_player: SUCCESS
+add_team: FAILURE
+remove_team: FAILURE
+play_match: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 85416
+remove_newest_player: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 85416
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 85416
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 85416
+num_wins_for_team: FAILURE
+add_player: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+add_player: SUCCESS
+add_team: SUCCESS
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 85416
+remove_team: SUCCESS
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+remove_newest_player: SUCCESS
+remove_team: FAILURE
+play_match: FAILURE
+remove_newest_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: SUCCESS, 0
+add_team: SUCCESS
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 63228
+remove_newest_player: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+add_player: SUCCESS
+add_player: FAILURE
+remove_newest_player: SUCCESS
+remove_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 63228
+unite_teams: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 63228
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+remove_newest_player: SUCCESS
+remove_team: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 63228
+play_match: FAILURE
+play_tournament: FAILURE
+add_player: SUCCESS
+add_player: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_match: INVALID_INPUT
+remove_team: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 63228
+add_player: SUCCESS
+remove_newest_player: FAILURE
+play_match: FAILURE
+unite_teams: SUCCESS
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 63228
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 63228
+add_team: SUCCESS
+remove_newest_player: INVALID_INPUT
+remove_team: SUCCESS
+add_player: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 49891
+remove_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+unite_teams: FAILURE
+remove_team: SUCCESS
+add_player: INVALID_INPUT
+remove_newest_player: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 49891
+unite_teams: FAILURE
+add_team: SUCCESS
+add_team: FAILURE
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: SUCCESS
+remove_newest_player: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+add_player: SUCCESS
+unite_teams: FAILURE
+add_team: FAILURE
+add_team: SUCCESS
+play_match: INVALID_INPUT
+play_match: INVALID_INPUT
+play_match: FAILURE
+remove_newest_player: SUCCESS
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+add_team: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 60336
+add_team: FAILURE
+unite_teams: FAILURE
+remove_newest_player: INVALID_INPUT
+remove_team: FAILURE
+add_team: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 60336
+add_player: SUCCESS
+add_player: SUCCESS
+add_player: FAILURE
+play_match: FAILURE
+remove_newest_player: SUCCESS
+add_team: SUCCESS
+add_player: SUCCESS
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+unite_teams: SUCCESS
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 60336
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 60336
+remove_team: SUCCESS
+play_match: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 60336
+play_tournament: FAILURE
+add_player: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+add_team: INVALID_INPUT
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+add_player: FAILURE
+add_team: FAILURE
+play_match: SUCCESS, 3
+unite_teams: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 60337
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 60337
+play_match: INVALID_INPUT
+remove_team: SUCCESS
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 60337
+num_wins_for_team: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+remove_newest_player: SUCCESS
+add_player: SUCCESS
+add_player: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 60337
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 60337
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 60337
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+unite_teams: FAILURE
+play_match: SUCCESS, 23
+play_tournament: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 60337
+add_player: SUCCESS
+add_team: INVALID_INPUT
+add_player: SUCCESS
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 67004
+get_highest_ranked_team: SUCCESS, 67004
+add_player: INVALID_INPUT
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+add_player: SUCCESS
+play_tournament: FAILURE
+add_player: FAILURE
+remove_newest_player: SUCCESS
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 101661
+play_match: INVALID_INPUT
+add_team: SUCCESS
+add_player: SUCCESS
+play_tournament: FAILURE
+unite_teams: SUCCESS
+unite_teams: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+add_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 101661
+get_highest_ranked_team: SUCCESS, 101661
+remove_team: FAILURE
+play_match: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 101661
+add_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 101661
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 101661
+play_tournament: FAILURE
+add_player: SUCCESS
+add_team: INVALID_INPUT
+remove_team: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 101661
+play_match: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+remove_newest_player: SUCCESS
+add_player: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 101661
+add_player: INVALID_INPUT
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 101661
+play_match: FAILURE
+play_match: INVALID_INPUT
+play_match: INVALID_INPUT
+unite_teams: FAILURE
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+add_team: SUCCESS
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_team: SUCCESS
+play_match: INVALID_INPUT
+remove_newest_player: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 69006
+add_team: SUCCESS
+remove_team: SUCCESS
+unite_teams: INVALID_INPUT
+play_match: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+remove_newest_player: INVALID_INPUT
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+unite_teams: FAILURE
+remove_newest_player: SUCCESS
+add_team: INVALID_INPUT
+remove_newest_player: INVALID_INPUT
+add_player: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 69006
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 69006
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 80449
+get_highest_ranked_team: SUCCESS, 80449
+add_team: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+add_player: INVALID_INPUT
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 80449
+add_player: INVALID_INPUT
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 80449
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+add_team: FAILURE
+add_player: INVALID_INPUT
+add_player: FAILURE
+add_player: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 80449
+add_player: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+num_wins_for_team: INVALID_INPUT
+add_team: SUCCESS
+num_wins_for_team: INVALID_INPUT
+play_tournament: FAILURE
+remove_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+play_tournament: FAILURE
+add_player: INVALID_INPUT
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 80449
+get_highest_ranked_team: SUCCESS, 80449
+remove_team: INVALID_INPUT
+remove_team: SUCCESS
+play_tournament: FAILURE
+add_player: FAILURE
+remove_team: SUCCESS
+unite_teams: INVALID_INPUT
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 80449
+add_player: INVALID_INPUT
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+unite_teams: SUCCESS
+num_wins_for_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: INVALID_INPUT
+remove_team: SUCCESS
+play_tournament: FAILURE
+play_match: FAILURE
+add_player: SUCCESS
+unite_teams: FAILURE
+add_player: FAILURE
+remove_team: FAILURE
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 80449
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 80449
+get_highest_ranked_team: SUCCESS, 80449
+add_player: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+unite_teams: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 80449
+remove_newest_player: FAILURE
+add_team: INVALID_INPUT
+add_player: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: INVALID_INPUT
+unite_teams: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 80449
+play_tournament: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 80449
+add_team: FAILURE
+add_team: SUCCESS
+add_team: FAILURE
+remove_newest_player: SUCCESS
+remove_team: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 80449
+remove_newest_player: FAILURE
+remove_newest_player: INVALID_INPUT
+num_wins_for_team: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+remove_team: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 80449
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+add_player: INVALID_INPUT
+play_tournament: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 80449
+play_match: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 80449
+play_match: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+add_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+remove_team: SUCCESS
+unite_teams: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+add_team: FAILURE
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+add_team: INVALID_INPUT
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 80448
+remove_team: FAILURE
+play_match: INVALID_INPUT
+remove_team: SUCCESS
+add_team: SUCCESS
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 80448
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_player: SUCCESS
+add_team: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 80448
+unite_teams: INVALID_INPUT
+unite_teams: INVALID_INPUT
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 80448
+play_tournament: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+add_team: SUCCESS
+remove_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+play_match: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+remove_newest_player: INVALID_INPUT
+num_wins_for_team: FAILURE
+unite_teams: INVALID_INPUT
+play_match: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 80448
+unite_teams: INVALID_INPUT
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 80448
+add_team: SUCCESS
+play_match: FAILURE
+remove_newest_player: SUCCESS
+remove_team: INVALID_INPUT
+unite_teams: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+add_player: SUCCESS
+unite_teams: FAILURE
+unite_teams: SUCCESS
+add_player: FAILURE
+add_player: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+remove_newest_player: SUCCESS
+remove_newest_player: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 80448
+remove_newest_player: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+add_player: SUCCESS
+add_player: FAILURE
+add_team: SUCCESS
+add_player: SUCCESS
+add_team: FAILURE
+add_player: FAILURE
+remove_team: SUCCESS
+remove_team: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+add_player: FAILURE
+remove_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: INVALID_INPUT
+play_match: FAILURE
+unite_teams: FAILURE
+remove_team: INVALID_INPUT
+play_match: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 103347
+play_tournament: FAILURE
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+add_player: SUCCESS
+remove_team: SUCCESS
+num_wins_for_team: INVALID_INPUT
+add_team: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 103347
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+remove_team: INVALID_INPUT
+add_team: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 103347
+add_player: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 103347
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 103347
+get_highest_ranked_team: SUCCESS, 103347
+remove_team: SUCCESS
+add_player: FAILURE
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 103347
+add_team: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+play_match: INVALID_INPUT
+unite_teams: SUCCESS
+add_team: SUCCESS
+play_match: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 103347
+add_player: SUCCESS
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 128157
+add_player: FAILURE
+add_team: FAILURE
+remove_team: SUCCESS
+remove_newest_player: INVALID_INPUT
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 128157
+add_team: SUCCESS
+add_team: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 128157
+get_highest_ranked_team: SUCCESS, 128157
+unite_teams: INVALID_INPUT
+remove_team: SUCCESS
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 128157
+add_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+add_team: SUCCESS
+unite_teams: SUCCESS
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 128157
+add_team: SUCCESS
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 128157
+play_tournament: FAILURE
+add_team: SUCCESS
+add_player: INVALID_INPUT
+add_player: FAILURE
+add_player: FAILURE
+unite_teams: SUCCESS
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+remove_team: SUCCESS
+play_match: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 128157
+play_tournament: FAILURE
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 128157
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 128157
+add_team: FAILURE
+add_player: FAILURE
+add_player: SUCCESS
+play_match: FAILURE
+add_team: FAILURE
+remove_team: SUCCESS
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 128157
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+unite_teams: SUCCESS
+add_player: SUCCESS
+play_tournament: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 128157
+add_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 128157
+play_tournament: FAILURE
+unite_teams: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 128157
+remove_newest_player: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 128157
+get_highest_ranked_team: SUCCESS, 128157
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 128157
+add_player: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: SUCCESS, 0
+add_player: SUCCESS
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+play_match: INVALID_INPUT
+unite_teams: FAILURE
+add_player: SUCCESS
+add_team: SUCCESS
+play_match: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 142848
+add_team: SUCCESS
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 142848
+remove_team: SUCCESS
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 142848
+add_team: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 142848
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 142848
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+add_player: SUCCESS
+add_team: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 142848
+remove_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 142848
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 142848
+num_wins_for_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 142848
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 142848
+unite_teams: FAILURE
+play_match: INVALID_INPUT
+add_player: SUCCESS
+add_team: FAILURE
+play_match: INVALID_INPUT
+remove_newest_player: FAILURE
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 171470
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 171470
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 171470
+remove_team: FAILURE
+add_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_team: SUCCESS
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: INVALID_INPUT
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 171470
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+unite_teams: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_team: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+play_match: INVALID_INPUT
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+add_player: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 171470
+num_wins_for_team: INVALID_INPUT
+add_player: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 171470
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 171470
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 171470
+get_highest_ranked_team: SUCCESS, 171470
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 171470
+play_match: INVALID_INPUT
+add_player: FAILURE
+unite_teams: FAILURE
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 171470
+unite_teams: FAILURE
+remove_team: FAILURE
+add_player: FAILURE
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+remove_team: FAILURE
+add_team: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 205764
+unite_teams: SUCCESS
+remove_team: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+remove_newest_player: SUCCESS
+add_team: SUCCESS
+add_team: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 205764
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 205764
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 205764
+add_team: INVALID_INPUT
+add_player: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+play_match: INVALID_INPUT
+add_player: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+add_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+add_player: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 205764
+remove_team: FAILURE
+remove_newest_player: SUCCESS
+play_match: FAILURE
+play_match: INVALID_INPUT
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+add_player: SUCCESS
+remove_newest_player: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 257568
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 257568
+get_highest_ranked_team: SUCCESS, 257568
+remove_team: SUCCESS
+play_match: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+remove_newest_player: FAILURE
+remove_team: INVALID_INPUT
+play_match: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+remove_team: SUCCESS
+play_match: FAILURE
+add_team: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_team: SUCCESS
+remove_team: INVALID_INPUT
+remove_newest_player: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+remove_newest_player: FAILURE
+add_player: SUCCESS
+remove_team: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 257568
+unite_teams: INVALID_INPUT
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 257568
+num_wins_for_team: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 257568
+add_player: SUCCESS
+add_team: SUCCESS
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 257568
+add_team: SUCCESS
+remove_newest_player: FAILURE
+unite_teams: SUCCESS
+play_match: FAILURE
+play_tournament: FAILURE
+add_player: INVALID_INPUT
+add_player: SUCCESS
+unite_teams: FAILURE
+remove_newest_player: SUCCESS
+add_player: SUCCESS
+play_match: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 225372
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+add_player: SUCCESS
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 225372
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 225372
+add_player: INVALID_INPUT
+play_match: FAILURE
+add_player: SUCCESS
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+add_team: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 225372
+add_team: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 225372
+add_team: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: INVALID_INPUT
+add_player: SUCCESS
+play_match: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+unite_teams: SUCCESS
+remove_newest_player: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 225372
+play_match: FAILURE
+remove_team: SUCCESS
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+add_team: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_team: INVALID_INPUT
+num_wins_for_team: INVALID_INPUT
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 225372
+unite_teams: SUCCESS
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+remove_team: FAILURE
+remove_team: SUCCESS
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 80250
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 80250
+unite_teams: SUCCESS
+remove_team: INVALID_INPUT
+add_player: SUCCESS
+add_team: INVALID_INPUT
+remove_team: SUCCESS
+add_team: FAILURE
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 53500
+get_highest_ranked_team: SUCCESS, 53500
+add_player: SUCCESS
+unite_teams: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+unite_teams: SUCCESS
+get_highest_ranked_team: SUCCESS, 53500
+add_player: SUCCESS
+add_team: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 80250
+num_wins_for_team: FAILURE
+remove_team: SUCCESS
+remove_team: SUCCESS
+add_player: FAILURE
+add_player: FAILURE
+num_wins_for_team: INVALID_INPUT
+play_tournament: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 80250
+add_team: SUCCESS
+play_tournament: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: INVALID_INPUT
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 80250
+add_team: SUCCESS
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 80250
+add_team: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 80250
+remove_newest_player: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+add_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 80250
+get_highest_ranked_team: SUCCESS, 80250
+unite_teams: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: FAILURE
+add_player: SUCCESS
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+unite_teams: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+play_match: INVALID_INPUT
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: INVALID_INPUT
+add_team: SUCCESS
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_team: SUCCESS
+add_player: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: INVALID_INPUT
+unite_teams: FAILURE
+remove_team: SUCCESS
+unite_teams: SUCCESS
+num_wins_for_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 83704
+unite_teams: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+add_team: INVALID_INPUT
+remove_team: FAILURE
+remove_team: SUCCESS
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 83704
+remove_newest_player: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+remove_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 83704
+remove_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+add_team: INVALID_INPUT
+add_team: SUCCESS
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+add_team: INVALID_INPUT
+remove_newest_player: FAILURE
+add_team: FAILURE
+unite_teams: SUCCESS
+play_tournament: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 83704
+get_highest_ranked_team: SUCCESS, 83704
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+remove_newest_player: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: INVALID_INPUT
+remove_newest_player: FAILURE
+add_team: FAILURE
+remove_team: SUCCESS
+add_team: FAILURE
+add_player: SUCCESS
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+play_tournament: FAILURE
+add_player: SUCCESS
+unite_teams: FAILURE
+add_player: FAILURE
+remove_team: SUCCESS
+remove_team: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+remove_team: INVALID_INPUT
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+remove_team: INVALID_INPUT
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: INVALID_INPUT
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: SUCCESS
+num_wins_for_team: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+play_match: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+add_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 83704
+unite_teams: FAILURE
+unite_teams: FAILURE
+add_team: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+add_player: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 83704
+remove_team: FAILURE
+unite_teams: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 83704
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+add_team: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+num_wins_for_team: INVALID_INPUT
+remove_team: SUCCESS
+remove_team: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+add_player: SUCCESS
+play_match: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+add_player: INVALID_INPUT
+remove_team: FAILURE
+add_team: INVALID_INPUT
+add_player: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 83704
+remove_team: FAILURE
+add_team: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+unite_teams: FAILURE
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+add_player: SUCCESS
+remove_team: INVALID_INPUT
+add_player: INVALID_INPUT
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+get_highest_ranked_team: SUCCESS, 83704
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+add_team: FAILURE
+remove_team: SUCCESS
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+remove_team: SUCCESS
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+remove_team: INVALID_INPUT
+remove_team: FAILURE
+remove_newest_player: FAILURE
+add_player: SUCCESS
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+play_match: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 83704
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+remove_team: INVALID_INPUT
+remove_newest_player: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_team: INVALID_INPUT
+add_team: SUCCESS
+remove_team: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 83704
+get_highest_ranked_team: SUCCESS, 83704
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+remove_team: FAILURE
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 72393
+play_tournament: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 72393
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: INVALID_INPUT
+add_team: INVALID_INPUT
+unite_teams: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+play_match: INVALID_INPUT
+remove_newest_player: FAILURE
+add_player: INVALID_INPUT
+remove_team: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+remove_newest_player: SUCCESS
+remove_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 72393
+num_wins_for_team: INVALID_INPUT
+add_player: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 72393
+add_player: INVALID_INPUT
+add_player: SUCCESS
+unite_teams: INVALID_INPUT
+play_match: INVALID_INPUT
+add_team: SUCCESS
+unite_teams: FAILURE
+remove_team: SUCCESS
+remove_team: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 72393
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 72393
+remove_newest_player: FAILURE
+add_team: SUCCESS
+remove_team: FAILURE
+remove_team: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+remove_newest_player: FAILURE
+add_player: SUCCESS
+play_match: INVALID_INPUT
+play_match: FAILURE
+add_player: FAILURE
+unite_teams: FAILURE
+unite_teams: INVALID_INPUT
+play_match: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+add_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+add_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 96524
+remove_newest_player: FAILURE
+unite_teams: INVALID_INPUT
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+remove_team: SUCCESS
+add_player: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 96524
+play_match: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+add_team: FAILURE
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 96524
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 96524
+add_team: FAILURE
+remove_team: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 96524
+remove_team: FAILURE
+play_match: INVALID_INPUT
+add_player: FAILURE
+add_player: FAILURE
+add_player: SUCCESS
+play_tournament: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_team: FAILURE
+remove_team: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+remove_newest_player: INVALID_INPUT
+play_match: FAILURE
+num_wins_for_team: INVALID_INPUT
+play_match: INVALID_INPUT
+add_player: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 96524
+add_player: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 96524
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 96524
+remove_team: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 96524
+remove_newest_player: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 96524
+add_player: FAILURE
+play_match: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: INVALID_INPUT
+play_match: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 96524
+remove_team: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 96524
+unite_teams: FAILURE
+add_player: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+remove_team: SUCCESS
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: INVALID_INPUT
+play_match: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+play_match: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+remove_newest_player: INVALID_INPUT
+add_team: SUCCESS
+remove_team: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+num_wins_for_team: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+remove_team: FAILURE
+add_player: SUCCESS
+remove_team: SUCCESS
+remove_newest_player: INVALID_INPUT
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+remove_newest_player: FAILURE
+remove_team: INVALID_INPUT
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 96110
+get_highest_ranked_team: SUCCESS, 96110
+play_tournament: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+num_wins_for_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+add_player: SUCCESS
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: INVALID_INPUT
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+add_player: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+play_tournament: FAILURE
+add_team: FAILURE
+remove_team: FAILURE
+add_team: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 96110
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+remove_team: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+add_team: SUCCESS
+remove_team: SUCCESS
+unite_teams: FAILURE
+add_player: FAILURE
+unite_teams: INVALID_INPUT
+play_match: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+unite_teams: INVALID_INPUT
+add_team: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+play_match: FAILURE
+add_team: SUCCESS
+remove_team: FAILURE
+add_player: SUCCESS
+add_player: INVALID_INPUT
+remove_team: FAILURE
+play_match: INVALID_INPUT
+remove_team: SUCCESS
+play_match: FAILURE
+num_wins_for_team: FAILURE
+add_player: INVALID_INPUT
+add_team: SUCCESS
+play_tournament: FAILURE
+play_match: FAILURE
+add_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+unite_teams: FAILURE
+unite_teams: SUCCESS
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+play_match: FAILURE
+remove_team: SUCCESS
+play_match: FAILURE
+remove_team: FAILURE
+add_team: SUCCESS
+remove_newest_player: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 96110
+remove_newest_player: FAILURE
+play_match: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+unite_teams: INVALID_INPUT
+add_team: INVALID_INPUT
+add_team: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+unite_teams: FAILURE
+unite_teams: SUCCESS
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 96110
+play_match: INVALID_INPUT
+add_player: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+get_highest_ranked_team: SUCCESS, 96110
+add_team: FAILURE
+unite_teams: FAILURE
+add_player: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+num_wins_for_team: INVALID_INPUT
+unite_teams: SUCCESS
+num_wins_for_team: SUCCESS, 0
+unite_teams: INVALID_INPUT
+play_match: INVALID_INPUT
+remove_newest_player: FAILURE
+remove_team: FAILURE
+add_player: SUCCESS
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+add_player: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: INVALID_INPUT
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 96110
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 96110
+num_wins_for_team: SUCCESS, 0
+remove_team: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+remove_newest_player: SUCCESS
+add_player: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+add_team: SUCCESS
+remove_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: SUCCESS
+add_team: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 46867
+add_player: SUCCESS
+play_match: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+add_team: SUCCESS
+play_match: INVALID_INPUT
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 46867
+play_match: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: INVALID_INPUT
+play_match: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 67833
+remove_team: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+unite_teams: SUCCESS
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 67833
+get_highest_ranked_team: SUCCESS, 67833
+play_match: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+add_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: INVALID_INPUT
+unite_teams: FAILURE
+add_player: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 67833
+play_match: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+remove_team: SUCCESS
+add_player: INVALID_INPUT
+remove_team: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+remove_newest_player: SUCCESS
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 67833
+play_match: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 67833
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 67833
+add_player: SUCCESS
+add_team: SUCCESS
+remove_newest_player: FAILURE
+add_team: SUCCESS
+add_team: SUCCESS
+add_player: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+remove_team: SUCCESS
+remove_team: SUCCESS
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 67833
+unite_teams: FAILURE
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 67833
+play_match: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 67833
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 67833
+play_tournament: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+remove_team: SUCCESS
+remove_team: FAILURE
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 67833
+get_highest_ranked_team: SUCCESS, 67833
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+add_player: FAILURE
+remove_newest_player: INVALID_INPUT
+add_player: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_team: SUCCESS
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+add_player: INVALID_INPUT
+add_player: SUCCESS
+remove_team: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 67833
+unite_teams: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+add_player: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 67833
+remove_newest_player: FAILURE
+remove_team: FAILURE
+add_player: SUCCESS
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 67833
+play_tournament: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+remove_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: INVALID_INPUT
+remove_newest_player: INVALID_INPUT
+unite_teams: SUCCESS
+add_player: FAILURE
+play_match: FAILURE
+add_player: INVALID_INPUT
+num_wins_for_team: FAILURE
+add_player: FAILURE
+add_team: INVALID_INPUT
+play_match: FAILURE
+unite_teams: SUCCESS
+play_match: FAILURE
+remove_newest_player: INVALID_INPUT
+remove_team: SUCCESS
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+add_player: SUCCESS
+add_player: SUCCESS
+play_match: FAILURE
+remove_newest_player: INVALID_INPUT
+num_wins_for_team: FAILURE
+add_player: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 90444
+remove_team: FAILURE
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+num_wins_for_team: INVALID_INPUT
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+add_player: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+unite_teams: SUCCESS
+play_match: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 90444
+get_highest_ranked_team: SUCCESS, 90444
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_team: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+play_match: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+remove_team: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+add_player: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: INVALID_INPUT
+remove_newest_player: FAILURE
+add_team: SUCCESS
+add_player: SUCCESS
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+add_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: INVALID_INPUT
+unite_teams: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+remove_newest_player: FAILURE
+play_match: INVALID_INPUT
+play_match: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+remove_newest_player: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_team: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 90444
+add_player: SUCCESS
+play_match: FAILURE
+remove_team: FAILURE
+remove_newest_player: SUCCESS
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 95352
+remove_newest_player: SUCCESS
+remove_newest_player: INVALID_INPUT
+add_player: INVALID_INPUT
+remove_team: SUCCESS
+remove_team: SUCCESS
+play_tournament: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+add_team: INVALID_INPUT
+remove_team: SUCCESS
+play_tournament: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_player: SUCCESS
+add_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 90444
+add_team: SUCCESS
+add_team: SUCCESS
+play_tournament: FAILURE
+add_team: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+num_wins_for_team: INVALID_INPUT
+remove_newest_player: FAILURE
+add_team: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 90444
+add_team: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 90444
+remove_newest_player: INVALID_INPUT
+add_team: SUCCESS
+unite_teams: SUCCESS
+play_match: FAILURE
+add_player: SUCCESS
+remove_team: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 111435
+play_match: INVALID_INPUT
+add_player: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+add_team: INVALID_INPUT
+add_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+remove_newest_player: INVALID_INPUT
+remove_team: FAILURE
+add_team: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 111435
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+remove_team: SUCCESS
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 111435
+get_highest_ranked_team: SUCCESS, 111435
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 111435
+add_player: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 111435
+add_player: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+add_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+add_team: SUCCESS
+play_match: FAILURE
+add_team: FAILURE
+remove_newest_player: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 111435
+get_highest_ranked_team: SUCCESS, 111435
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 111435
+play_match: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 111435
+num_wins_for_team: SUCCESS, 0
+remove_team: INVALID_INPUT
+add_team: SUCCESS
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+add_player: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: SUCCESS
+unite_teams: FAILURE
+remove_team: FAILURE
+add_team: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 111435
+remove_newest_player: FAILURE
+remove_team: FAILURE
+unite_teams: SUCCESS
+add_team: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+play_match: INVALID_INPUT
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 111435
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 111435
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 111435
+play_tournament: FAILURE
+play_match: FAILURE
+add_player: INVALID_INPUT
+unite_teams: INVALID_INPUT
+remove_team: SUCCESS
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 111435
+add_player: SUCCESS
+play_tournament: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 111435
+remove_newest_player: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+add_player: SUCCESS
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 135666
+num_wins_for_team: FAILURE
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 135666
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+play_match: FAILURE
+add_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 63568
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 49834
+add_player: SUCCESS
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+play_match: INVALID_INPUT
+add_player: FAILURE
+unite_teams: SUCCESS
+unite_teams: INVALID_INPUT
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+remove_newest_player: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 49834
+play_match: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+add_player: INVALID_INPUT
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 49834
+num_wins_for_team: SUCCESS, 0
+add_team: INVALID_INPUT
+play_match: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 49834
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 49834
+remove_team: SUCCESS
+play_match: FAILURE
+remove_team: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 43169
+remove_team: FAILURE
+play_tournament: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+add_team: FAILURE
+remove_team: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 43169
+play_tournament: FAILURE
+unite_teams: SUCCESS
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 86338
+play_tournament: FAILURE
+num_wins_for_team: INVALID_INPUT
+add_player: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 86338
+remove_team: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+remove_team: SUCCESS
+remove_team: FAILURE
+remove_team: SUCCESS
+remove_team: SUCCESS
+add_player: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 86338
+play_tournament: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+add_team: SUCCESS
+add_team: SUCCESS
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 43169
+unite_teams: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_player: SUCCESS
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 43169
+unite_teams: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+remove_team: INVALID_INPUT
+play_match: INVALID_INPUT
+unite_teams: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+add_team: FAILURE
+add_player: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+remove_team: SUCCESS
+unite_teams: INVALID_INPUT
+add_player: INVALID_INPUT
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 43169
+add_team: SUCCESS
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 43169
+get_highest_ranked_team: SUCCESS, 43169
+get_highest_ranked_team: SUCCESS, 43169
+play_match: INVALID_INPUT
+play_match: INVALID_INPUT
+add_team: FAILURE
+add_player: SUCCESS
+unite_teams: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 94890
+remove_team: FAILURE
+remove_team: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 94890
+num_wins_for_team: FAILURE
+remove_team: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+unite_teams: FAILURE
+unite_teams: INVALID_INPUT
+num_wins_for_team: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 94890
+play_match: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+add_team: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+num_wins_for_team: FAILURE
+add_player: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+unite_teams: INVALID_INPUT
+play_match: INVALID_INPUT
+add_player: INVALID_INPUT
+add_player: FAILURE
+add_player: INVALID_INPUT
+play_tournament: FAILURE
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 94890
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+add_team: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+remove_team: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 94890
+unite_teams: INVALID_INPUT
+unite_teams: SUCCESS
+unite_teams: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 94890
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+play_match: SUCCESS, 24
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+remove_newest_player: FAILURE
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 94891
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+play_match: INVALID_INPUT
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 94891
+play_match: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 94891
+add_player: SUCCESS
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 94891
+add_team: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+play_match: INVALID_INPUT
+add_team: FAILURE
+add_player: INVALID_INPUT
+unite_teams: INVALID_INPUT
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 94891
+unite_teams: SUCCESS
+num_wins_for_team: FAILURE
+play_match: INVALID_INPUT
+remove_newest_player: INVALID_INPUT
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+remove_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+play_tournament: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 94891
+play_match: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: SUCCESS
+get_highest_ranked_team: SUCCESS, 94891
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 94891
+remove_team: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+remove_team: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+add_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+add_player: FAILURE
+add_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 94891
+get_highest_ranked_team: SUCCESS, 94891
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 94891
+add_team: SUCCESS
+add_team: SUCCESS
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+add_team: SUCCESS
+unite_teams: FAILURE
+remove_team: SUCCESS
+unite_teams: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 80494
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+add_team: SUCCESS
+play_match: INVALID_INPUT
+unite_teams: SUCCESS
+get_highest_ranked_team: SUCCESS, 80494
+get_highest_ranked_team: SUCCESS, 80494
+play_match: FAILURE
+add_team: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 80494
+add_player: SUCCESS
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 80494
+play_match: INVALID_INPUT
+add_team: SUCCESS
+play_match: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+add_player: FAILURE
+remove_team: SUCCESS
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+remove_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+add_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+remove_team: INVALID_INPUT
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_team: FAILURE
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+remove_newest_player: FAILURE
+add_player: SUCCESS
+unite_teams: SUCCESS
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+remove_team: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+add_team: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 43846
+play_match: INVALID_INPUT
+add_team: SUCCESS
+unite_teams: SUCCESS
+remove_newest_player: SUCCESS
+play_match: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+add_team: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+add_player: SUCCESS
+unite_teams: FAILURE
+play_match: INVALID_INPUT
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+unite_teams: FAILURE
+add_team: SUCCESS
+add_team: SUCCESS
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+unite_teams: INVALID_INPUT
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+play_match: INVALID_INPUT
+remove_newest_player: SUCCESS
+play_tournament: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+unite_teams: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+add_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_player: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+get_highest_ranked_team: SUCCESS, 43846
+play_match: FAILURE
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+remove_team: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 43846
+add_player: SUCCESS
+unite_teams: INVALID_INPUT
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 49725
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 49725
+unite_teams: INVALID_INPUT
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+remove_team: SUCCESS
+add_team: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+remove_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 49725
+remove_newest_player: SUCCESS
+play_match: FAILURE
+play_match: INVALID_INPUT
+play_match: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 43846
+remove_team: INVALID_INPUT
+unite_teams: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+add_team: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+add_team: FAILURE
+add_team: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 43846
+unite_teams: SUCCESS
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+remove_team: SUCCESS
+unite_teams: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 43846
+remove_team: SUCCESS
+add_player: SUCCESS
+unite_teams: FAILURE
+add_team: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+add_team: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+num_wins_for_team: SUCCESS, 0
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+unite_teams: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+remove_team: INVALID_INPUT
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+remove_team: FAILURE
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+unite_teams: SUCCESS
+num_wins_for_team: SUCCESS, 0
+remove_team: SUCCESS
+add_team: INVALID_INPUT
+remove_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 48086
+remove_team: SUCCESS
+unite_teams: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 48086
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+add_team: SUCCESS
+add_team: SUCCESS
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+add_team: FAILURE
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+remove_team: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_team: SUCCESS
+remove_team: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+add_team: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+add_player: SUCCESS
+remove_newest_player: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: FAILURE
+remove_team: INVALID_INPUT
+unite_teams: FAILURE
+remove_team: FAILURE
+unite_teams: INVALID_INPUT
+num_wins_for_team: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+add_player: FAILURE
+play_match: INVALID_INPUT
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+unite_teams: INVALID_INPUT
+add_player: SUCCESS
+add_team: SUCCESS
+remove_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+add_player: SUCCESS
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+add_team: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+remove_newest_player: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+add_player: SUCCESS
+play_match: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+add_team: FAILURE
+remove_team: INVALID_INPUT
+play_tournament: FAILURE
+add_player: FAILURE
+add_team: FAILURE
+num_wins_for_team: FAILURE
+add_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 48086
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+play_tournament: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 73082
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 73082
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 73082
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 73082
+play_match: INVALID_INPUT
+remove_team: SUCCESS
+add_player: SUCCESS
+play_match: FAILURE
+add_team: SUCCESS
+add_team: SUCCESS
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 73082
+add_team: SUCCESS
+add_player: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+remove_newest_player: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+add_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 48086
+unite_teams: FAILURE
+remove_team: SUCCESS
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+add_player: SUCCESS
+remove_newest_player: SUCCESS
+remove_team: FAILURE
+add_team: FAILURE
+add_team: SUCCESS
+unite_teams: INVALID_INPUT
+play_match: FAILURE
+unite_teams: SUCCESS
+add_player: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+num_wins_for_team: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+remove_newest_player: FAILURE
+remove_newest_player: SUCCESS
+play_match: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 48086
+add_player: SUCCESS
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+play_match: FAILURE
+remove_newest_player: INVALID_INPUT
+play_match: INVALID_INPUT
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+play_match: INVALID_INPUT
+unite_teams: FAILURE
+remove_team: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+play_match: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+add_player: SUCCESS
+remove_team: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+num_wins_for_team: INVALID_INPUT
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 48086
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 48086
+remove_team: SUCCESS
+remove_team: INVALID_INPUT
+add_team: FAILURE
+remove_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+add_player: SUCCESS
+add_player: FAILURE
+add_team: FAILURE
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 38321
+play_tournament: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 38321
+play_match: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 38321
+get_highest_ranked_team: SUCCESS, 38321
+get_highest_ranked_team: SUCCESS, 38321
+play_tournament: FAILURE
+remove_team: INVALID_INPUT
+add_team: SUCCESS
+unite_teams: SUCCESS
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: FAILURE
+remove_newest_player: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 76642
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 76642
+unite_teams: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 76642
+remove_newest_player: FAILURE
+remove_newest_player: SUCCESS
+play_match: FAILURE
+play_match: FAILURE
+remove_newest_player: INVALID_INPUT
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+unite_teams: INVALID_INPUT
+add_player: FAILURE
+remove_team: SUCCESS
+add_player: FAILURE
+unite_teams: SUCCESS
+get_highest_ranked_team: SUCCESS, 76642
+remove_team: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 76642
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+remove_team: SUCCESS
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 76642
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+remove_team: FAILURE
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+play_match: FAILURE
+add_player: SUCCESS
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 76642
+add_team: SUCCESS
+unite_teams: FAILURE
+add_player: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+remove_team: FAILURE
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+add_player: INVALID_INPUT
+play_match: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+play_match: INVALID_INPUT
+add_player: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_team: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+remove_newest_player: SUCCESS
+add_team: FAILURE
+remove_newest_player: INVALID_INPUT
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 76642
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 76642
+add_team: FAILURE
+unite_teams: SUCCESS
+remove_newest_player: FAILURE
+add_team: FAILURE
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 76642
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 76642
+play_tournament: FAILURE
+add_team: SUCCESS
+add_team: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: FAILURE
+add_player: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 76642
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 76642
+add_team: FAILURE
+play_match: FAILURE
+play_match: FAILURE
+unite_teams: SUCCESS
+unite_teams: INVALID_INPUT
+remove_team: SUCCESS
+num_wins_for_team: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+unite_teams: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 77864
+play_match: INVALID_INPUT
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 77864
+get_highest_ranked_team: SUCCESS, 77864
+play_tournament: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 77864
+unite_teams: SUCCESS
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 77864
+get_highest_ranked_team: SUCCESS, 77864
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 77864
+add_player: SUCCESS
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 77864
+remove_newest_player: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+unite_teams: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+unite_teams: INVALID_INPUT
+play_match: INVALID_INPUT
+add_player: SUCCESS
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: SUCCESS
+unite_teams: FAILURE
+unite_teams: FAILURE
+add_player: SUCCESS
+add_team: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_player: FAILURE
+unite_teams: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+add_player: SUCCESS
+remove_team: INVALID_INPUT
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 97330
+get_highest_ranked_team: SUCCESS, 97330
+remove_newest_player: INVALID_INPUT
+unite_teams: FAILURE
+remove_team: INVALID_INPUT
+remove_newest_player: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_match: SUCCESS, 7
+add_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_team: FAILURE
+num_wins_for_team: FAILURE
+add_player: FAILURE
+play_match: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: SUCCESS
+add_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 97330
+get_highest_ranked_team: SUCCESS, 97330
+play_match: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+add_player: SUCCESS
+play_match: FAILURE
+add_team: SUCCESS
+add_team: FAILURE
+num_wins_for_team: FAILURE
+play_match: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 97330
+num_wins_for_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 97330
+remove_team: SUCCESS
+unite_teams: FAILURE
+remove_team: SUCCESS
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 97330
+remove_newest_player: SUCCESS
+remove_newest_player: SUCCESS
+unite_teams: FAILURE
+add_team: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+add_team: SUCCESS
+remove_team: SUCCESS
+add_player: SUCCESS
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 39453
+num_wins_for_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 39453
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 39453
+remove_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_team: FAILURE
+play_match: INVALID_INPUT
+remove_team: SUCCESS
+unite_teams: INVALID_INPUT
+play_match: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 78906
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 78906
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 78906
+add_player: FAILURE
+add_team: FAILURE
+remove_newest_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+add_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 78906
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 78906
+get_highest_ranked_team: SUCCESS, 78906
+get_highest_ranked_team: SUCCESS, 78906
+play_tournament: FAILURE
+add_team: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 78906
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+add_player: INVALID_INPUT
+add_team: FAILURE
+remove_team: FAILURE
+remove_newest_player: SUCCESS
+play_tournament: FAILURE
+remove_team: FAILURE
+add_player: SUCCESS
+play_match: FAILURE
+remove_team: FAILURE
+unite_teams: FAILURE
+add_player: SUCCESS
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 78906
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 78906
+remove_team: SUCCESS
+add_player: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 78906
+play_match: FAILURE
+play_match: FAILURE
+remove_team: INVALID_INPUT
+remove_team: SUCCESS
+play_match: FAILURE
+remove_team: FAILURE
+add_player: SUCCESS
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 78906
+unite_teams: FAILURE
+play_match: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+remove_team: SUCCESS
+play_tournament: FAILURE
+add_player: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: SUCCESS
+add_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+remove_newest_player: SUCCESS
+play_tournament: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_team: FAILURE
+add_player: FAILURE
+play_match: FAILURE
+play_match: INVALID_INPUT
+remove_team: FAILURE
+add_player: SUCCESS
+unite_teams: SUCCESS
+play_tournament: FAILURE
+add_player: FAILURE
+unite_teams: INVALID_INPUT
+add_team: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+remove_team: FAILURE
+play_match: SUCCESS, 2
+add_player: SUCCESS
+play_match: SUCCESS, 25
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+add_team: SUCCESS
+remove_team: SUCCESS
+unite_teams: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 125149
+play_match: FAILURE
+unite_teams: FAILURE
+play_match: INVALID_INPUT
+num_wins_for_team: INVALID_INPUT
+play_tournament: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+add_player: SUCCESS
+play_match: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+play_match: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+add_team: SUCCESS
+remove_team: SUCCESS
+play_match: FAILURE
+num_wins_for_team: SUCCESS, 1
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 1
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+play_match: FAILURE
+add_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_team: SUCCESS
+remove_team: FAILURE
+num_wins_for_team: SUCCESS, 1
+get_highest_ranked_team: SUCCESS, 125149
+play_match: FAILURE
+add_team: FAILURE
+unite_teams: INVALID_INPUT
+unite_teams: INVALID_INPUT
+add_team: SUCCESS
+remove_team: SUCCESS
+play_match: INVALID_INPUT
+remove_newest_player: FAILURE
+add_team: FAILURE
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+add_team: INVALID_INPUT
+add_player: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+add_team: INVALID_INPUT
+add_player: SUCCESS
+add_team: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+remove_newest_player: SUCCESS
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 125149
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+num_wins_for_team: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+remove_team: SUCCESS
+add_team: SUCCESS
+unite_teams: INVALID_INPUT
+unite_teams: SUCCESS
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 125149
+get_highest_ranked_team: SUCCESS, 125149
+get_highest_ranked_team: SUCCESS, 125149
+add_player: FAILURE
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+play_tournament: FAILURE
+play_tournament: FAILURE
+remove_team: SUCCESS
+play_match: FAILURE
+play_match: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+remove_team: SUCCESS
+remove_team: SUCCESS
+play_match: INVALID_INPUT
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+play_match: FAILURE
+add_player: FAILURE
+num_wins_for_team: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+add_player: SUCCESS
+play_tournament: FAILURE
+add_team: FAILURE
+remove_newest_player: SUCCESS
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+add_team: FAILURE
+add_player: SUCCESS
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 125149
+unite_teams: FAILURE
+remove_team: FAILURE
+add_team: SUCCESS
+play_tournament: FAILURE
+add_player: SUCCESS
+play_tournament: FAILURE
+num_wins_for_team: INVALID_INPUT
+play_match: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+add_team: SUCCESS
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: SUCCESS
+add_player: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+unite_teams: SUCCESS
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+play_match: INVALID_INPUT
+remove_newest_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+play_tournament: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+play_match: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+unite_teams: INVALID_INPUT
+add_team: SUCCESS
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+play_match: INVALID_INPUT
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+remove_team: SUCCESS
+play_tournament: FAILURE
+play_match: FAILURE
+unite_teams: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 125149
+num_wins_for_team: SUCCESS, 1
+get_highest_ranked_team: SUCCESS, 125149
+remove_team: SUCCESS
+add_player: FAILURE
+play_tournament: FAILURE
+add_team: FAILURE
+remove_newest_player: SUCCESS
+unite_teams: INVALID_INPUT
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+unite_teams: SUCCESS
+remove_team: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+unite_teams: SUCCESS
+remove_team: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+unite_teams: INVALID_INPUT
+num_wins_for_team: FAILURE
+add_player: FAILURE
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 125149
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_match: INVALID_INPUT
+num_wins_for_team: SUCCESS, 1
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: INVALID_INPUT
+play_match: FAILURE
+add_team: SUCCESS
+add_team: SUCCESS
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+remove_newest_player: FAILURE
+play_match: FAILURE
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_team: INVALID_INPUT
+remove_newest_player: FAILURE
+remove_team: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+remove_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 125149
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 125149
+play_match: INVALID_INPUT
+add_team: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+add_player: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+num_wins_for_team: FAILURE
+remove_newest_player: FAILURE
+play_match: INVALID_INPUT
+remove_team: SUCCESS
+add_player: SUCCESS
+add_player: INVALID_INPUT
+remove_newest_player: FAILURE
+play_match: INVALID_INPUT
+play_match: SUCCESS, 7
+get_highest_ranked_team: SUCCESS, 125150
+add_player: FAILURE
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+remove_newest_player: FAILURE
+add_team: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: INVALID_INPUT
+play_match: FAILURE
+add_team: FAILURE
+add_team: SUCCESS
+add_player: SUCCESS
+remove_team: FAILURE
+add_team: INVALID_INPUT
+add_player: FAILURE
+play_match: FAILURE
+add_player: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+remove_team: FAILURE
+add_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+play_match: INVALID_INPUT
+remove_newest_player: FAILURE
+unite_teams: INVALID_INPUT
+add_player: SUCCESS
+play_match: FAILURE
+remove_newest_player: SUCCESS
+play_match: FAILURE
+remove_team: SUCCESS
+unite_teams: INVALID_INPUT
+add_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: SUCCESS
+unite_teams: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+remove_team: INVALID_INPUT
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: INVALID_INPUT
+add_player: FAILURE
+get_highest_ranked_team: SUCCESS, 93863
+play_tournament: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 93863
+get_highest_ranked_team: SUCCESS, 93863
+play_match: FAILURE
+unite_teams: SUCCESS
+add_team: SUCCESS
+remove_newest_player: SUCCESS
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: SUCCESS
+remove_team: INVALID_INPUT
+num_wins_for_team: SUCCESS, 0
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 93863
+num_wins_for_team: SUCCESS, 0
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: SUCCESS
+remove_newest_player: FAILURE
+num_wins_for_team: SUCCESS, 2
+add_player: SUCCESS
+unite_teams: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: SUCCESS
+num_wins_for_team: SUCCESS, 0
+add_player: SUCCESS
+add_player: SUCCESS
+remove_team: FAILURE
+remove_team: FAILURE
+num_wins_for_team: FAILURE
+add_player: FAILURE
+num_wins_for_team: INVALID_INPUT
+unite_teams: SUCCESS
+get_highest_ranked_team: SUCCESS, 93861
+play_match: FAILURE
+remove_team: FAILURE
+play_match: FAILURE
+play_match: SUCCESS, 10
+num_wins_for_team: FAILURE
+remove_newest_player: SUCCESS
+add_team: SUCCESS
+play_match: INVALID_INPUT
+remove_newest_player: SUCCESS
+num_wins_for_team: SUCCESS, 1
+remove_newest_player: INVALID_INPUT
+add_player: FAILURE
+add_player: SUCCESS
+num_wins_for_team: FAILURE
+get_highest_ranked_team: SUCCESS, 99790
+add_team: INVALID_INPUT
+add_player: SUCCESS
+play_match: FAILURE
+remove_newest_player: FAILURE
+add_team: SUCCESS
+play_match: FAILURE
+add_player: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_player: SUCCESS
+unite_teams: FAILURE
+add_team: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 99790
+num_wins_for_team: SUCCESS, 0
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 99790
+remove_team: SUCCESS
+add_player: INVALID_INPUT
+add_player: SUCCESS
+add_team: FAILURE
+remove_team: SUCCESS
+unite_teams: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 99790
+unite_teams: INVALID_INPUT
+play_match: FAILURE
+add_team: SUCCESS
+remove_team: SUCCESS
+add_team: FAILURE
+add_player: FAILURE
+num_wins_for_team: FAILURE
+play_match: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+add_team: SUCCESS
+play_match: FAILURE
+unite_teams: FAILURE
+add_player: SUCCESS
+get_highest_ranked_team: SUCCESS, 99790
+play_tournament: FAILURE
+remove_team: FAILURE
+remove_newest_player: INVALID_INPUT
+add_team: SUCCESS
+add_team: FAILURE
+unite_teams: SUCCESS
+play_match: FAILURE
+add_player: FAILURE
+remove_team: SUCCESS
+num_wins_for_team: SUCCESS, 0
+unite_teams: SUCCESS
+play_match: FAILURE
+add_player: SUCCESS
+unite_teams: FAILURE
+unite_teams: FAILURE
+play_tournament: FAILURE
+num_wins_for_team: INVALID_INPUT
+add_player: SUCCESS
+unite_teams: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+num_wins_for_team: FAILURE
+add_team: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 98296
+remove_team: FAILURE
+add_team: SUCCESS
+add_player: FAILURE
+num_wins_for_team: FAILURE
+add_team: FAILURE
+add_team: SUCCESS
+remove_newest_player: FAILURE
+remove_team: SUCCESS
+get_highest_ranked_team: SUCCESS, 98296
+get_highest_ranked_team: SUCCESS, 98296
+remove_team: SUCCESS
+add_team: SUCCESS
+unite_teams: FAILURE
+play_match: FAILURE
+get_highest_ranked_team: SUCCESS, 98296
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+get_highest_ranked_team: SUCCESS, 98296
+play_tournament: FAILURE
+remove_newest_player: FAILURE
+play_tournament: FAILURE
+add_team: SUCCESS
+unite_teams: FAILURE
+add_player: FAILURE
+num_wins_for_team: FAILURE
+unite_teams: SUCCESS
+get_highest_ranked_team: SUCCESS, 98296
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+unite_teams: FAILURE
+play_match: FAILURE
+remove_newest_player: INVALID_INPUT
+play_tournament: FAILURE
+add_player: FAILURE
+unite_teams: INVALID_INPUT
+play_tournament: FAILURE
+add_player: FAILURE
+unite_teams: FAILURE
+get_highest_ranked_team: SUCCESS, 98296
+remove_newest_player: FAILURE
+add_player: FAILURE
+remove_newest_player: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 98296
+add_player: SUCCESS
+remove_newest_player: SUCCESS
+remove_newest_player: FAILURE
+unite_teams: INVALID_INPUT
+num_wins_for_team: INVALID_INPUT
+play_match: SUCCESS, 9
+unite_teams: FAILURE
+add_team: FAILURE
+get_highest_ranked_team: SUCCESS, 98297
+num_wins_for_team: SUCCESS, 1
+play_match: INVALID_INPUT
+add_player: SUCCESS
+remove_team: SUCCESS
+remove_newest_player: SUCCESS
+num_wins_for_team: FAILURE
+num_wins_for_team: SUCCESS, 0
+remove_newest_player: FAILURE
+unite_teams: FAILURE
+play_match: INVALID_INPUT
+get_highest_ranked_team: SUCCESS, 98297
+remove_team: SUCCESS
+add_team: SUCCESS
+add_team: FAILURE
+num_wins_for_team: FAILURE
+play_tournament: FAILURE
+unite_teams: FAILURE
+unite_teams: FAILURE
+play_match: INVALID_INPUT
+remove_newest_player: SUCCESS
+play_match: INVALID_INPUT
+remove_team: FAILURE
+unite_teams: INVALID_INPUT
+num_wins_for_team: FAILURE

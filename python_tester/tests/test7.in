@@ -1,0 +1,5000 @@
+remove_newest_player 5
+remove_newest_player 19
+remove_team 17
+num_wins_for_team 28
+num_wins_for_team 4
+get_highest_ranked_team 
+remove_newest_player 0
+remove_newest_player 1
+remove_team 29
+add_team 25
+add_team 18
+get_highest_ranked_team 
+remove_team 14
+play_match 9 4
+add_player 16 47413
+num_wins_for_team 16
+play_match 0 -2
+add_player 18 49834
+add_team 5
+num_wins_for_team 2
+remove_team 13
+get_highest_ranked_team 
+add_player 2 17259
+num_wins_for_team 0
+num_wins_for_team 22
+play_match 3 10
+remove_team 1
+remove_team 4
+play_match 22 29
+remove_team 18
+num_wins_for_team 23
+num_wins_for_team 8
+get_highest_ranked_team 
+remove_newest_player 4
+remove_team 6
+add_team 2
+remove_team 26
+num_wins_for_team 13
+get_highest_ranked_team 
+remove_team 19
+num_wins_for_team 20
+play_match 26 22
+remove_newest_player 9
+play_match 7 4
+remove_newest_player 4
+play_match 3 10
+add_team 26
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_team 29
+remove_newest_player 3
+get_highest_ranked_team 
+remove_team 28
+remove_team 4
+remove_team -1
+remove_team 11
+play_match -2 16
+remove_team 19
+get_highest_ranked_team 
+remove_team 27
+remove_team 11
+add_player 9 30314
+add_team 28
+play_match 1 10
+play_match 26 15
+get_highest_ranked_team 
+play_match 3 9
+remove_newest_player 0
+get_highest_ranked_team 
+add_player 6 11201
+get_highest_ranked_team 
+remove_team -2
+get_highest_ranked_team 
+remove_newest_player 3
+get_highest_ranked_team 
+play_match 27 29
+get_highest_ranked_team 
+remove_newest_player 21
+get_highest_ranked_team 
+remove_newest_player 2
+remove_newest_player 15
+add_player 22 36998
+add_player 9 33585
+add_team 22
+add_player 25 11617
+num_wins_for_team 27
+remove_newest_player 9
+num_wins_for_team 0
+num_wins_for_team 19
+add_team 2
+remove_team 4
+num_wins_for_team 25
+remove_newest_player 0
+num_wins_for_team 2
+add_player 0 14780
+play_match 16 11
+remove_team 26
+remove_team 18
+remove_team 8
+add_player 0 29632
+get_highest_ranked_team 
+num_wins_for_team 3
+add_player 7 31495
+add_team 17
+add_player 15 22521
+remove_team 23
+play_match 2 14
+num_wins_for_team 26
+remove_team 28
+remove_team 6
+get_highest_ranked_team 
+num_wins_for_team 4
+get_highest_ranked_team 
+play_match 29 29
+add_player 5 10204
+remove_team 25
+play_match 29 3
+get_highest_ranked_team 
+play_match 3 24
+num_wins_for_team 0
+remove_newest_player 4
+num_wins_for_team 15
+num_wins_for_team -2
+add_team 3
+add_team 24
+num_wins_for_team 10
+play_match 2 13
+add_team 27
+remove_team 7
+remove_newest_player 23
+remove_team 26
+add_player 3 41616
+remove_newest_player 5
+remove_newest_player 16
+add_player 21 24491
+remove_team 5
+remove_newest_player 17
+remove_newest_player 25
+num_wins_for_team 14
+add_team 15
+play_match 8 -1
+num_wins_for_team 2
+num_wins_for_team 20
+remove_team 3
+num_wins_for_team 15
+add_player 13 33753
+get_highest_ranked_team 
+add_team 23
+num_wins_for_team 28
+num_wins_for_team -2
+remove_team 12
+add_player 12 24935
+play_match 28 21
+num_wins_for_team 14
+remove_newest_player 22
+add_team 23
+play_match 27 2
+remove_newest_player 26
+get_highest_ranked_team 
+add_player 25 31639
+remove_team 6
+get_highest_ranked_team 
+remove_team 4
+remove_team 22
+add_player -2 11185
+remove_team 0
+get_highest_ranked_team 
+add_team 13
+remove_newest_player 16
+remove_newest_player 5
+play_match 17 14
+remove_newest_player 4
+get_highest_ranked_team 
+add_player 24 34881
+remove_team 28
+remove_team 11
+get_highest_ranked_team 
+add_team 0
+add_team 12
+num_wins_for_team 10
+add_team 14
+remove_newest_player 25
+get_highest_ranked_team 
+add_player 24 12853
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 6
+add_player 12 11084
+remove_team 0
+play_match 16 11
+remove_newest_player 13
+play_match 23 11
+play_match 18 25
+add_player 13 26675
+play_match 27 16
+play_match 24 26
+add_player 29 20156
+num_wins_for_team 1
+remove_newest_player 11
+remove_team 11
+add_player 7 10662
+play_match 12 28
+add_team 19
+play_match 3 4
+num_wins_for_team -2
+remove_team -1
+add_team 27
+remove_newest_player 3
+add_player -1 26750
+add_player 15 47216
+num_wins_for_team 11
+remove_newest_player 19
+add_player 24 19547
+remove_team -2
+add_team 5
+add_team 18
+num_wins_for_team 7
+add_team 22
+num_wins_for_team 14
+add_player -1 40066
+get_highest_ranked_team 
+play_match 24 25
+get_highest_ranked_team 
+num_wins_for_team 4
+play_match 23 28
+add_team 28
+remove_team 4
+remove_newest_player -1
+remove_newest_player 25
+num_wins_for_team 2
+num_wins_for_team 16
+play_match 9 22
+add_team 5
+add_player 21 22224
+remove_team 29
+add_team 16
+num_wins_for_team 24
+remove_team 14
+play_match 24 15
+add_player 17 28880
+play_match 6 5
+remove_newest_player 27
+get_highest_ranked_team 
+remove_team 0
+num_wins_for_team -1
+get_highest_ranked_team 
+remove_newest_player 24
+num_wins_for_team 25
+remove_newest_player 8
+num_wins_for_team 14
+remove_team -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 28
+play_match 16 28
+add_player 0 21802
+remove_team 15
+remove_newest_player 11
+num_wins_for_team 20
+add_team -1
+add_team 4
+add_player 21 41760
+num_wins_for_team 16
+remove_newest_player 25
+add_team 1
+remove_team 26
+remove_newest_player 14
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 24
+play_match 24 12
+play_match 17 13
+remove_team 20
+add_team 5
+play_match 21 13
+remove_team 29
+remove_newest_player 24
+remove_team 6
+num_wins_for_team 16
+remove_team 13
+num_wins_for_team 12
+num_wins_for_team 18
+get_highest_ranked_team 
+play_match 0 5
+remove_team 6
+remove_team 25
+remove_newest_player 8
+add_team 12
+play_match 15 0
+num_wins_for_team 4
+play_match 27 23
+get_highest_ranked_team 
+num_wins_for_team -2
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_team 3
+remove_newest_player 28
+play_match 8 13
+remove_team 26
+add_team 13
+play_match 17 -1
+num_wins_for_team 28
+add_team 1
+remove_team -1
+remove_newest_player 3
+play_match 18 1
+num_wins_for_team 28
+num_wins_for_team 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 9
+play_match 9 27
+add_player 1 30338
+add_player 11 47285
+remove_team 10
+play_match 0 8
+play_match 13 11
+add_team 7
+add_player 21 26213
+remove_team 4
+num_wins_for_team 7
+get_highest_ranked_team 
+num_wins_for_team 22
+get_highest_ranked_team 
+num_wins_for_team 25
+remove_team 2
+add_team 8
+play_match 7 25
+remove_newest_player 13
+play_match 22 -2
+num_wins_for_team 23
+add_player 18 15635
+remove_newest_player 28
+add_player 8 36789
+get_highest_ranked_team 
+add_team 7
+add_player 18 43706
+play_match 24 13
+remove_newest_player -2
+remove_newest_player 24
+remove_team 0
+add_team 23
+num_wins_for_team 0
+remove_newest_player 10
+play_match 1 -2
+play_match 15 17
+remove_team 18
+remove_team 4
+remove_team 26
+add_player 6 28158
+remove_team -2
+play_match 20 25
+get_highest_ranked_team 
+add_team 10
+add_player 3 44848
+add_team 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_team 4
+get_highest_ranked_team 
+add_player 4 28502
+add_team 25
+add_team 24
+add_team 2
+play_match 24 9
+play_match 15 23
+add_player 3 24805
+remove_newest_player 11
+remove_newest_player 17
+get_highest_ranked_team 
+add_team 20
+get_highest_ranked_team 
+add_player 5 39320
+num_wins_for_team 10
+add_player 4 47463
+remove_team 1
+add_player 2 17932
+get_highest_ranked_team 
+remove_team 14
+add_team 5
+add_team 28
+remove_team 3
+remove_newest_player 23
+num_wins_for_team 3
+add_player 19 26134
+play_match 13 26
+num_wins_for_team 7
+add_player 24 31675
+add_player 23 11858
+remove_team 18
+get_highest_ranked_team 
+add_team 23
+play_match 12 14
+get_highest_ranked_team 
+remove_newest_player 23
+remove_team 25
+num_wins_for_team 24
+add_team 4
+remove_newest_player 7
+remove_team 20
+add_team 9
+num_wins_for_team 11
+play_match 17 23
+remove_newest_player 11
+get_highest_ranked_team 
+remove_team 6
+add_team 9
+add_player 8 49485
+add_team -2
+play_match 1 20
+remove_team 24
+play_match 28 28
+get_highest_ranked_team 
+add_player 5 12238
+play_match 29 11
+num_wins_for_team -2
+remove_team 14
+play_match 11 6
+add_team 19
+remove_team 5
+get_highest_ranked_team 
+add_player 2 45300
+add_team 27
+remove_team 0
+play_match 2 6
+remove_newest_player 25
+get_highest_ranked_team 
+remove_newest_player 14
+remove_team 10
+add_team 17
+num_wins_for_team 10
+get_highest_ranked_team 
+remove_newest_player 10
+add_player 2 31301
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 27 20
+remove_team 17
+remove_newest_player 28
+add_player -1 31395
+add_player 8 48840
+play_match 7 5
+play_match 28 -2
+remove_newest_player 28
+play_match 1 19
+remove_newest_player 18
+remove_newest_player 22
+play_match 5 10
+num_wins_for_team 12
+remove_newest_player 28
+remove_newest_player -2
+remove_team 11
+play_match 1 20
+remove_team 24
+remove_newest_player 16
+num_wins_for_team 4
+add_team 13
+add_player 8 25161
+add_team 3
+play_match 19 24
+play_match 20 12
+add_player 4 11923
+get_highest_ranked_team 
+remove_newest_player 26
+remove_team 26
+play_match 7 23
+add_team 10
+num_wins_for_team 27
+num_wins_for_team 23
+remove_team 28
+num_wins_for_team 9
+remove_newest_player 22
+add_player 17 41517
+remove_newest_player 10
+add_team 9
+add_team 24
+play_match -2 9
+add_team 26
+add_player -1 36681
+get_highest_ranked_team 
+add_player 24 31969
+num_wins_for_team 14
+num_wins_for_team 27
+add_player 29 24434
+remove_team 17
+play_match -2 23
+remove_newest_player 21
+get_highest_ranked_team 
+add_player 13 30146
+add_player 25 16772
+add_team 9
+add_player 13 25510
+get_highest_ranked_team 
+remove_team 9
+num_wins_for_team 29
+add_team 17
+add_player 29 28289
+num_wins_for_team 10
+play_match 28 7
+add_player 16 23696
+add_player 4 40915
+add_player 19 26668
+remove_newest_player 24
+play_match 6 1
+add_player 27 11173
+num_wins_for_team 23
+remove_newest_player 13
+get_highest_ranked_team 
+remove_team 27
+remove_team 25
+num_wins_for_team 29
+remove_team 8
+add_team 20
+num_wins_for_team 4
+remove_newest_player 20
+remove_newest_player 21
+add_team 25
+add_team 15
+add_team 11
+get_highest_ranked_team 
+play_match 3 25
+get_highest_ranked_team 
+num_wins_for_team 26
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_team 10
+remove_newest_player 15
+add_team 2
+add_player 17 18284
+add_team 0
+get_highest_ranked_team 
+add_team 8
+num_wins_for_team 27
+remove_newest_player 19
+play_match 19 10
+remove_team 16
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 27 -2
+add_player 9 17898
+get_highest_ranked_team 
+add_team 24
+add_player 17 32170
+get_highest_ranked_team 
+remove_newest_player 25
+num_wins_for_team 23
+add_team 13
+add_player 21 47530
+num_wins_for_team -2
+add_player 14 28291
+remove_team 18
+remove_team 25
+add_team 0
+remove_team 20
+remove_team 28
+remove_newest_player 0
+play_match 3 17
+remove_team 1
+remove_team 21
+play_match 27 23
+remove_team 15
+remove_newest_player 5
+add_team 9
+add_team 15
+play_match 7 2
+get_highest_ranked_team 
+add_team 19
+num_wins_for_team 20
+get_highest_ranked_team 
+remove_team 24
+get_highest_ranked_team 
+remove_team 15
+num_wins_for_team 6
+play_match 5 -2
+play_match 3 6
+add_team -1
+num_wins_for_team 11
+remove_newest_player 27
+num_wins_for_team 27
+play_match 4 19
+add_player 27 45328
+play_match 18 25
+remove_newest_player 29
+play_match 1 26
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 24 47995
+remove_newest_player 20
+remove_newest_player 17
+num_wins_for_team 19
+get_highest_ranked_team 
+add_player 21 17931
+play_match 15 28
+get_highest_ranked_team 
+num_wins_for_team -2
+remove_newest_player 2
+add_team 2
+play_match 29 7
+num_wins_for_team 3
+add_player 25 22341
+get_highest_ranked_team 
+remove_team 18
+num_wins_for_team 26
+add_team 5
+play_match 1 27
+get_highest_ranked_team 
+play_match 17 26
+get_highest_ranked_team 
+num_wins_for_team 8
+add_player 2 38583
+remove_newest_player -2
+remove_newest_player 24
+get_highest_ranked_team 
+remove_newest_player 18
+remove_team 26
+num_wins_for_team 11
+remove_team 23
+play_match 3 13
+num_wins_for_team 19
+add_player 18 35090
+num_wins_for_team 28
+add_team 10
+play_match 18 10
+remove_newest_player 12
+num_wins_for_team -2
+remove_newest_player -1
+add_player 17 23938
+remove_team 12
+play_match 14 28
+num_wins_for_team 8
+play_match -2 24
+remove_team 22
+remove_team 13
+remove_team 6
+remove_team 6
+play_match 25 9
+num_wins_for_team 17
+get_highest_ranked_team 
+add_player 3 19088
+add_player 7 32508
+get_highest_ranked_team 
+remove_team 14
+remove_newest_player 24
+add_team 7
+get_highest_ranked_team 
+num_wins_for_team 9
+add_player 1 28729
+remove_team 15
+get_highest_ranked_team 
+add_team 29
+add_player 29 17810
+remove_newest_player 14
+num_wins_for_team 24
+get_highest_ranked_team 
+add_team 14
+add_player 10 25462
+remove_newest_player 2
+add_team 6
+num_wins_for_team 7
+remove_team 25
+remove_newest_player -1
+play_match 13 18
+remove_team 0
+remove_newest_player 24
+remove_team 11
+add_team 22
+num_wins_for_team 19
+remove_team 28
+num_wins_for_team 21
+remove_team 5
+num_wins_for_team 8
+play_match 27 26
+add_player 27 15025
+remove_newest_player 20
+get_highest_ranked_team 
+add_player 29 22811
+num_wins_for_team 4
+add_player 27 20620
+get_highest_ranked_team 
+play_match 1 23
+num_wins_for_team 11
+num_wins_for_team 23
+play_match 28 -2
+play_match 20 2
+remove_newest_player 6
+add_team 27
+remove_team 7
+add_player 8 49600
+remove_team 4
+add_player -2 23228
+num_wins_for_team 28
+remove_newest_player 19
+num_wins_for_team 0
+add_team 9
+play_match 6 26
+get_highest_ranked_team 
+add_player 28 30032
+add_team 29
+remove_newest_player 24
+play_match 15 13
+num_wins_for_team 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_team 23
+remove_team 21
+add_player 12 42973
+remove_newest_player 13
+get_highest_ranked_team 
+remove_team 24
+play_match 13 12
+play_match 7 15
+num_wins_for_team 10
+play_match 11 16
+get_highest_ranked_team 
+add_team 5
+play_match 11 3
+num_wins_for_team 15
+num_wins_for_team 19
+play_match 11 27
+remove_team 6
+add_team 13
+num_wins_for_team 28
+add_team 22
+add_player 23 36003
+add_team 1
+get_highest_ranked_team 
+num_wins_for_team 6
+play_match 21 5
+num_wins_for_team 24
+add_team 14
+get_highest_ranked_team 
+add_player 11 37422
+play_match 26 20
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 29
+get_highest_ranked_team 
+add_team 11
+get_highest_ranked_team 
+add_player 7 37280
+play_match 21 21
+play_match 20 20
+add_team 12
+remove_newest_player 6
+add_player 15 17170
+get_highest_ranked_team 
+num_wins_for_team 29
+remove_team 21
+add_team 11
+remove_newest_player 14
+remove_newest_player 23
+num_wins_for_team 4
+remove_newest_player 23
+add_player 16 44844
+get_highest_ranked_team 
+remove_team -1
+add_team 0
+num_wins_for_team 21
+remove_team 0
+add_player 13 25697
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 26
+add_team 0
+get_highest_ranked_team 
+remove_newest_player 21
+get_highest_ranked_team 
+add_player 28 49647
+remove_team 25
+get_highest_ranked_team 
+num_wins_for_team 11
+get_highest_ranked_team 
+play_match 28 19
+remove_newest_player 25
+play_match 14 26
+get_highest_ranked_team 
+remove_team 5
+add_team 19
+add_team 10
+add_team 23
+get_highest_ranked_team 
+add_player 8 43922
+add_team 24
+get_highest_ranked_team 
+num_wins_for_team 9
+play_match 3 20
+get_highest_ranked_team 
+add_team 23
+add_team 28
+play_match -1 10
+remove_newest_player 1
+num_wins_for_team 23
+play_match 14 25
+add_player 24 17201
+add_player 4 47233
+add_player 15 20612
+remove_team 3
+add_team 18
+remove_team 24
+add_team 12
+add_player 22 31892
+remove_newest_player 4
+add_team 16
+play_match 19 4
+add_player 14 28473
+add_team 8
+get_highest_ranked_team 
+add_team -2
+remove_team 1
+remove_newest_player 7
+add_team 12
+add_player 5 19671
+remove_newest_player 15
+remove_team 4
+get_highest_ranked_team 
+remove_team 3
+play_match 26 15
+get_highest_ranked_team 
+num_wins_for_team -2
+play_match 4 16
+play_match 26 24
+add_team 29
+add_player 28 48716
+num_wins_for_team -2
+add_player 11 26673
+add_team 11
+add_team 13
+remove_newest_player 6
+num_wins_for_team 15
+add_player 23 40688
+add_team 17
+remove_team 19
+play_match 0 14
+remove_newest_player 10
+remove_newest_player 14
+remove_team 1
+remove_newest_player 3
+add_player 3 43306
+add_player 1 34282
+num_wins_for_team 4
+add_player 5 27403
+remove_team 14
+add_team 5
+add_player 21 23787
+num_wins_for_team 15
+remove_newest_player 21
+get_highest_ranked_team 
+add_player 10 22656
+add_player 23 31651
+add_team -1
+play_match 12 26
+remove_team 3
+remove_team 17
+add_player 24 25267
+play_match -2 15
+play_match 25 15
+get_highest_ranked_team 
+num_wins_for_team 15
+remove_team 28
+num_wins_for_team 21
+remove_newest_player 26
+remove_newest_player 8
+play_match 13 4
+remove_newest_player 15
+remove_newest_player 19
+play_match 4 -1
+num_wins_for_team 20
+add_team 26
+add_team 25
+add_team 14
+remove_newest_player 7
+remove_team 27
+num_wins_for_team 12
+add_player 10 35943
+add_player 14 29164
+add_team 28
+remove_newest_player 6
+play_match 5 2
+add_team 23
+remove_newest_player 16
+play_match 27 20
+remove_newest_player 13
+remove_team 18
+num_wins_for_team 23
+add_player 18 15628
+num_wins_for_team 22
+add_team 27
+remove_team 22
+remove_newest_player 23
+remove_team 0
+get_highest_ranked_team 
+num_wins_for_team 23
+add_player 15 44015
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_team 3
+num_wins_for_team 8
+add_player 26 21757
+play_match 22 5
+get_highest_ranked_team 
+num_wins_for_team 25
+remove_newest_player 22
+num_wins_for_team 1
+num_wins_for_team 0
+get_highest_ranked_team 
+add_player 16 16428
+remove_newest_player 11
+add_team 1
+add_team 16
+num_wins_for_team 23
+add_player 14 40933
+play_match 18 21
+get_highest_ranked_team 
+add_team 10
+remove_team 29
+remove_newest_player 14
+add_team 23
+remove_team 12
+remove_team 3
+num_wins_for_team 28
+remove_team 27
+remove_team 22
+remove_team 4
+remove_newest_player -2
+remove_team 20
+play_match 17 21
+play_match 17 27
+remove_team 29
+add_team 11
+add_team 4
+add_player 19 26239
+add_team 19
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 1
+get_highest_ranked_team 
+remove_newest_player 13
+play_match 2 0
+remove_team -2
+remove_newest_player 3
+add_player 1 33820
+get_highest_ranked_team 
+add_player 12 11622
+get_highest_ranked_team 
+num_wins_for_team 6
+add_player 8 21909
+num_wins_for_team 11
+remove_team 24
+num_wins_for_team 7
+remove_newest_player 22
+add_team 3
+remove_newest_player 10
+remove_team 23
+play_match 15 15
+remove_team 0
+play_match 21 18
+remove_team 12
+add_team 25
+get_highest_ranked_team 
+num_wins_for_team 16
+play_match 1 0
+remove_newest_player 8
+remove_newest_player 10
+play_match 28 19
+play_match 18 19
+num_wins_for_team 12
+play_match 14 6
+add_player 0 49721
+play_match 6 4
+add_player -1 43281
+get_highest_ranked_team 
+remove_team -1
+num_wins_for_team 3
+get_highest_ranked_team 
+add_player 7 22639
+num_wins_for_team 17
+add_player 17 36145
+remove_newest_player 12
+num_wins_for_team 23
+remove_newest_player 0
+num_wins_for_team 29
+get_highest_ranked_team 
+add_team 29
+add_player 4 11139
+num_wins_for_team 25
+play_match 19 5
+add_team 7
+add_player 8 43145
+num_wins_for_team 19
+play_match 13 13
+play_match 20 4
+add_team 18
+get_highest_ranked_team 
+remove_newest_player 19
+add_team 19
+add_player 9 47623
+remove_team -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 5
+get_highest_ranked_team 
+add_player 8 21037
+remove_team 6
+get_highest_ranked_team 
+num_wins_for_team -1
+add_player -1 21680
+remove_team 10
+num_wins_for_team 11
+remove_newest_player 7
+remove_newest_player 13
+remove_team 28
+add_team 7
+add_player 29 36760
+num_wins_for_team 21
+num_wins_for_team 2
+play_match 20 5
+remove_team 0
+remove_newest_player 6
+add_team 23
+remove_newest_player 21
+num_wins_for_team 24
+add_team 29
+num_wins_for_team 11
+remove_newest_player 16
+play_match 7 18
+play_match 27 17
+get_highest_ranked_team 
+remove_team 10
+remove_newest_player 25
+get_highest_ranked_team 
+remove_newest_player 23
+add_team 12
+add_team 25
+num_wins_for_team 23
+play_match 15 28
+add_team 3
+num_wins_for_team 6
+num_wins_for_team 13
+num_wins_for_team 6
+num_wins_for_team 15
+remove_newest_player -2
+play_match 2 29
+get_highest_ranked_team 
+add_team 6
+num_wins_for_team 22
+remove_team 16
+num_wins_for_team 17
+num_wins_for_team 8
+get_highest_ranked_team 
+remove_newest_player 11
+play_match 22 16
+add_team 6
+play_match 17 5
+remove_newest_player 1
+add_player 5 29990
+remove_newest_player 8
+get_highest_ranked_team 
+add_player 9 19413
+add_player 18 38007
+remove_newest_player 26
+add_player -2 43414
+add_team 28
+num_wins_for_team 14
+add_player 1 24072
+num_wins_for_team -1
+play_match 1 14
+add_player 25 21915
+add_team 8
+remove_newest_player 16
+get_highest_ranked_team 
+add_player 1 13394
+play_match 10 23
+remove_team 5
+add_player 8 38157
+remove_team 20
+remove_team 0
+add_team 4
+remove_newest_player 6
+play_match 18 17
+remove_team 14
+add_player 4 36071
+play_match 16 17
+remove_newest_player 22
+get_highest_ranked_team 
+add_team 6
+add_team 4
+num_wins_for_team 0
+play_match 14 16
+add_player 11 49870
+remove_team -1
+play_match -2 -2
+play_match 13 22
+play_match 3 10
+add_team 2
+play_match 1 4
+add_team 25
+get_highest_ranked_team 
+add_team 14
+remove_team 24
+remove_newest_player 16
+num_wins_for_team 20
+play_match 4 6
+add_player 9 40616
+add_player 2 36608
+num_wins_for_team -2
+play_match 29 29
+play_match 4 28
+remove_team 11
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 4 5
+add_player 18 13610
+get_highest_ranked_team 
+add_team -1
+play_match 25 16
+play_match 20 15
+add_player 7 40126
+play_match 14 10
+add_team -2
+get_highest_ranked_team 
+play_match 28 23
+get_highest_ranked_team 
+play_match 24 1
+play_match 28 13
+add_player -1 24399
+add_team 7
+remove_newest_player 17
+remove_newest_player 8
+remove_newest_player 29
+add_team 17
+remove_team 5
+get_highest_ranked_team 
+num_wins_for_team 24
+remove_team 28
+add_player 15 17220
+add_player 19 40439
+add_team -1
+remove_team 5
+play_match 19 12
+num_wins_for_team 4
+num_wins_for_team 11
+get_highest_ranked_team 
+num_wins_for_team -2
+play_match 4 9
+add_team 0
+add_player 21 47449
+remove_newest_player 13
+add_team 16
+get_highest_ranked_team 
+play_match 20 10
+add_player 19 31008
+num_wins_for_team 3
+num_wins_for_team 14
+add_team 19
+get_highest_ranked_team 
+play_match 25 6
+num_wins_for_team 9
+get_highest_ranked_team 
+add_team 7
+num_wins_for_team 15
+get_highest_ranked_team 
+add_player 28 26722
+add_team 15
+remove_newest_player 2
+num_wins_for_team 6
+remove_newest_player 27
+remove_team -2
+remove_team 1
+add_team 8
+num_wins_for_team 26
+num_wins_for_team 27
+num_wins_for_team 29
+add_player 19 43262
+remove_team 22
+play_match 1 16
+remove_newest_player 0
+remove_team 19
+remove_team 8
+add_player 14 10705
+play_match 24 23
+play_match 29 8
+remove_team 23
+get_highest_ranked_team 
+add_player 22 19023
+add_player 0 44020
+add_player 5 41746
+add_team 2
+num_wins_for_team 4
+remove_newest_player 2
+num_wins_for_team 8
+add_team 1
+remove_newest_player 8
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 22
+num_wins_for_team -1
+add_team 0
+add_team -1
+remove_team 19
+play_match 24 -2
+add_player 0 28764
+num_wins_for_team 21
+remove_newest_player 6
+add_team 12
+add_team 8
+play_match 28 22
+remove_team 25
+get_highest_ranked_team 
+play_match 17 29
+remove_newest_player 27
+add_player 7 11506
+num_wins_for_team 23
+add_player 14 33015
+remove_team 11
+add_player 21 37720
+get_highest_ranked_team 
+remove_team 19
+add_team 9
+num_wins_for_team 27
+remove_team 22
+remove_newest_player 25
+add_player 9 33746
+add_team 4
+remove_newest_player 6
+get_highest_ranked_team 
+add_player 22 37769
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team -1
+num_wins_for_team 27
+remove_newest_player 28
+get_highest_ranked_team 
+add_player 28 44716
+add_player 2 12049
+add_team 23
+remove_team 20
+play_match 8 17
+remove_newest_player 27
+get_highest_ranked_team 
+add_player 19 23649
+play_match 25 23
+remove_team 20
+add_team 27
+play_match 22 18
+remove_newest_player 22
+num_wins_for_team 23
+remove_newest_player 28
+remove_newest_player 9
+remove_team 0
+add_player 25 28468
+remove_team 23
+play_match 29 18
+get_highest_ranked_team 
+remove_newest_player -2
+num_wins_for_team 6
+play_match 9 8
+remove_team 21
+num_wins_for_team 8
+remove_newest_player 2
+add_player 28 48720
+add_player 6 26992
+add_player 26 11666
+add_player 5 29636
+play_match 14 22
+play_match 28 16
+num_wins_for_team 28
+num_wins_for_team 14
+add_player 22 39410
+remove_team 15
+add_player 28 16372
+get_highest_ranked_team 
+add_team 12
+remove_team 29
+add_team 0
+remove_newest_player 15
+play_match 17 26
+num_wins_for_team 9
+remove_newest_player 6
+remove_newest_player 12
+remove_team 27
+num_wins_for_team 5
+add_player 7 45951
+add_player 17 28473
+num_wins_for_team -1
+add_player 23 24543
+num_wins_for_team 10
+play_match -1 23
+add_team 16
+get_highest_ranked_team 
+add_team 26
+play_match 9 29
+get_highest_ranked_team 
+add_team -1
+get_highest_ranked_team 
+add_player 21 14951
+add_team 10
+add_player -2 29454
+add_player 5 34344
+add_player 19 42187
+play_match -1 -1
+add_player 12 39598
+add_player -2 41622
+add_player 20 47416
+add_player 28 36859
+play_match 28 7
+play_match -1 0
+remove_team 14
+remove_newest_player 3
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 16 2
+add_team 23
+get_highest_ranked_team 
+add_team 17
+play_match 24 -2
+get_highest_ranked_team 
+num_wins_for_team 26
+add_team 2
+remove_team 22
+num_wins_for_team 0
+add_team 4
+remove_newest_player 22
+add_team 9
+num_wins_for_team 28
+remove_newest_player -1
+remove_newest_player 11
+remove_newest_player 17
+remove_newest_player 1
+remove_team 21
+num_wins_for_team 6
+remove_newest_player 3
+remove_newest_player -1
+play_match 20 20
+remove_newest_player 20
+get_highest_ranked_team 
+add_player 16 47402
+remove_newest_player 4
+num_wins_for_team 8
+add_team 17
+remove_team 4
+add_team -2
+num_wins_for_team 22
+remove_team 2
+add_team 0
+add_team 12
+add_team 16
+num_wins_for_team 3
+num_wins_for_team 13
+play_match 9 29
+remove_newest_player 17
+remove_newest_player 6
+num_wins_for_team 0
+play_match 15 23
+remove_team -2
+play_match -1 2
+remove_newest_player 1
+add_player 23 42827
+add_team 26
+add_player 7 41612
+remove_team 29
+add_player 26 29037
+remove_newest_player 18
+get_highest_ranked_team 
+remove_newest_player 1
+play_match 10 17
+play_match 25 18
+add_player 29 38007
+play_match 26 14
+play_match 18 27
+num_wins_for_team 17
+add_team 7
+remove_newest_player 17
+play_match 11 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 17
+num_wins_for_team 28
+add_team 0
+play_match 15 13
+add_team 29
+add_player 9 41245
+remove_team 7
+add_team 16
+remove_team 0
+remove_newest_player 28
+add_player 28 11790
+remove_team -1
+get_highest_ranked_team 
+add_player 12 30996
+num_wins_for_team 0
+remove_team 11
+add_player 14 27974
+get_highest_ranked_team 
+add_team 0
+remove_team 22
+remove_team 0
+add_team 29
+remove_team 17
+add_player 18 23758
+add_team 7
+add_player 5 22958
+remove_team -1
+remove_newest_player 17
+get_highest_ranked_team 
+add_team 21
+add_team 4
+remove_newest_player 23
+num_wins_for_team 16
+remove_newest_player 8
+remove_newest_player 25
+add_team 19
+add_team 11
+get_highest_ranked_team 
+add_player 15 28102
+add_team 21
+remove_newest_player 24
+play_match 12 7
+play_match 5 28
+remove_newest_player 14
+play_match 2 25
+add_player 21 12388
+remove_team 15
+remove_newest_player 26
+remove_team 28
+add_player 25 21857
+remove_team 13
+get_highest_ranked_team 
+remove_newest_player 5
+remove_newest_player 0
+play_match 15 10
+play_match 23 4
+get_highest_ranked_team 
+remove_team 21
+play_match 4 3
+get_highest_ranked_team 
+add_team 1
+add_team 11
+remove_team 20
+add_player 1 41079
+remove_newest_player 12
+add_team 18
+add_team 23
+num_wins_for_team 23
+play_match 20 25
+get_highest_ranked_team 
+add_team 9
+play_match 14 9
+add_team 15
+add_team 23
+get_highest_ranked_team 
+num_wins_for_team 20
+remove_newest_player 1
+num_wins_for_team 23
+get_highest_ranked_team 
+add_team 12
+num_wins_for_team 1
+remove_newest_player 24
+num_wins_for_team 28
+play_match 13 12
+remove_newest_player 8
+num_wins_for_team 21
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 15
+remove_newest_player 15
+remove_team -1
+remove_newest_player 20
+remove_team 4
+get_highest_ranked_team 
+num_wins_for_team 29
+get_highest_ranked_team 
+play_match 22 25
+play_match 7 0
+remove_team 11
+remove_team 15
+play_match 13 11
+play_match 24 4
+add_player 26 43719
+get_highest_ranked_team 
+add_team 15
+add_player 0 47712
+remove_newest_player 4
+add_player 26 18347
+play_match 10 10
+add_player 29 27217
+remove_newest_player -1
+add_team 22
+remove_newest_player 18
+add_team 13
+remove_newest_player 23
+add_team 14
+remove_team 22
+add_player 11 44944
+add_team 25
+remove_team 3
+add_team 17
+play_match 0 19
+play_match 9 27
+add_player 1 29496
+add_team 25
+num_wins_for_team 3
+add_team 7
+remove_team 19
+remove_team 27
+num_wins_for_team 16
+num_wins_for_team 18
+add_team 22
+remove_newest_player 7
+num_wins_for_team 4
+play_match 9 8
+add_player 19 35149
+add_team 24
+remove_newest_player 22
+add_player 14 16358
+play_match 2 23
+remove_newest_player 1
+num_wins_for_team 1
+remove_team 8
+get_highest_ranked_team 
+add_player 21 15339
+add_player 22 32581
+play_match 4 5
+num_wins_for_team 4
+remove_team 2
+remove_team 5
+play_match 11 5
+add_team 2
+add_player 4 21095
+play_match 26 3
+num_wins_for_team 17
+play_match 25 27
+play_match 5 1
+add_player 7 32418
+get_highest_ranked_team 
+num_wins_for_team 7
+num_wins_for_team 15
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 7
+num_wins_for_team 2
+remove_newest_player 22
+add_player 15 45412
+remove_newest_player 8
+remove_newest_player 13
+remove_newest_player -2
+add_player 12 33501
+num_wins_for_team 17
+add_team 0
+num_wins_for_team 29
+remove_team 12
+play_match 23 24
+get_highest_ranked_team 
+add_player 28 41233
+remove_team 26
+add_team 21
+add_player 22 48842
+play_match 2 2
+play_match -1 25
+remove_newest_player 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player -2 35487
+num_wins_for_team 29
+remove_team 23
+add_team 14
+num_wins_for_team 1
+add_team 9
+remove_team 22
+add_team 0
+add_team 6
+play_match 0 29
+remove_team 4
+play_match 15 26
+play_match -2 25
+remove_team 21
+get_highest_ranked_team 
+play_match 28 14
+add_player 25 26766
+add_team 29
+play_match 8 17
+remove_team 20
+remove_team 15
+get_highest_ranked_team 
+remove_newest_player 0
+add_player 12 37858
+num_wins_for_team -2
+num_wins_for_team 28
+add_player 10 34894
+num_wins_for_team 28
+num_wins_for_team 15
+remove_team -2
+num_wins_for_team 26
+add_team 6
+play_match 28 24
+remove_newest_player -1
+add_player 0 30355
+add_team 16
+get_highest_ranked_team 
+add_team 16
+get_highest_ranked_team 
+add_player 24 16865
+remove_newest_player 5
+remove_team 13
+add_team 5
+get_highest_ranked_team 
+play_match -2 0
+get_highest_ranked_team 
+num_wins_for_team 18
+play_match 20 12
+remove_newest_player 14
+remove_team 4
+remove_newest_player 27
+add_team 29
+num_wins_for_team 8
+play_match 19 22
+num_wins_for_team 17
+play_match 16 3
+num_wins_for_team 5
+play_match 21 7
+add_team 19
+play_match 22 21
+add_player 21 48647
+add_team 20
+add_team 27
+get_highest_ranked_team 
+num_wins_for_team 18
+add_player 22 31015
+num_wins_for_team 21
+remove_team 3
+remove_team 9
+add_player 4 18351
+get_highest_ranked_team 
+add_player -1 36164
+num_wins_for_team 0
+remove_newest_player 20
+remove_team 4
+remove_newest_player 21
+get_highest_ranked_team 
+remove_team 10
+num_wins_for_team 7
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 19
+play_match 19 13
+remove_newest_player 2
+add_team 11
+add_player 20 10020
+num_wins_for_team 26
+add_player 8 36826
+add_player 15 27848
+num_wins_for_team 6
+get_highest_ranked_team 
+play_match 21 23
+play_match 7 4
+add_team 9
+get_highest_ranked_team 
+remove_newest_player 22
+get_highest_ranked_team 
+remove_newest_player 5
+num_wins_for_team 13
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 28 37465
+remove_team 25
+remove_newest_player 6
+remove_team 18
+remove_newest_player 18
+play_match 26 22
+add_team 2
+add_player 14 43042
+add_team 6
+remove_team 0
+get_highest_ranked_team 
+remove_newest_player 1
+add_player 13 17935
+play_match 2 1
+remove_newest_player 26
+add_player 7 33065
+remove_team 20
+get_highest_ranked_team 
+add_player 4 16354
+get_highest_ranked_team 
+remove_team 2
+get_highest_ranked_team 
+remove_newest_player 17
+add_team 18
+remove_team 20
+add_player 17 20002
+remove_newest_player 26
+remove_team 8
+num_wins_for_team 23
+add_team 21
+add_team 9
+add_team 0
+get_highest_ranked_team 
+play_match 26 27
+get_highest_ranked_team 
+add_player 15 43111
+remove_team 5
+remove_team 11
+add_player 19 47320
+play_match 4 1
+num_wins_for_team 19
+add_team 3
+remove_newest_player 20
+remove_team 14
+add_team 11
+num_wins_for_team 24
+add_player 7 10657
+play_match 24 11
+add_team 18
+get_highest_ranked_team 
+remove_newest_player 27
+num_wins_for_team 14
+play_match 3 14
+remove_newest_player 8
+remove_team 5
+get_highest_ranked_team 
+add_player 12 12624
+get_highest_ranked_team 
+remove_newest_player 26
+remove_newest_player 29
+num_wins_for_team 2
+remove_team 20
+remove_team 27
+add_player 2 40339
+add_team 2
+remove_team 15
+remove_team 12
+get_highest_ranked_team 
+add_team 13
+add_team 9
+num_wins_for_team 0
+get_highest_ranked_team 
+add_player 8 31142
+num_wins_for_team 3
+num_wins_for_team 23
+get_highest_ranked_team 
+play_match 19 2
+play_match 24 9
+remove_team 18
+get_highest_ranked_team 
+add_team 15
+get_highest_ranked_team 
+add_team 13
+num_wins_for_team 25
+num_wins_for_team 0
+get_highest_ranked_team 
+add_player 9 28529
+remove_team -2
+num_wins_for_team 25
+play_match -2 3
+play_match 11 5
+play_match 13 29
+get_highest_ranked_team 
+add_team 3
+remove_team 7
+play_match 4 -1
+get_highest_ranked_team 
+num_wins_for_team 12
+remove_team 7
+remove_team 18
+add_team 9
+play_match 4 13
+remove_team 29
+num_wins_for_team 9
+remove_team 2
+remove_team 10
+get_highest_ranked_team 
+play_match 27 6
+remove_team 9
+get_highest_ranked_team 
+remove_team 16
+remove_team 26
+num_wins_for_team 3
+get_highest_ranked_team 
+play_match 7 2
+play_match 24 28
+num_wins_for_team 23
+num_wins_for_team 27
+remove_team 8
+remove_newest_player 26
+num_wins_for_team 18
+remove_newest_player 22
+add_team 4
+remove_newest_player 25
+num_wins_for_team 24
+add_player 21 17312
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 9
+remove_team 25
+add_player 1 43241
+add_team 1
+num_wins_for_team 6
+remove_team 0
+play_match 16 19
+num_wins_for_team 20
+remove_team 25
+play_match 17 20
+play_match 0 25
+num_wins_for_team 23
+remove_team 8
+remove_newest_player 26
+add_team 12
+play_match 7 18
+get_highest_ranked_team 
+play_match 7 10
+add_team 16
+add_player 21 13359
+add_player 10 17430
+add_team 23
+remove_team 24
+get_highest_ranked_team 
+remove_team 1
+remove_team 7
+remove_team 29
+add_player 19 43239
+remove_newest_player 19
+add_player 19 23272
+play_match -1 4
+num_wins_for_team 2
+add_player 17 15877
+add_team 10
+add_player 7 20238
+get_highest_ranked_team 
+add_player 27 39725
+remove_newest_player 11
+num_wins_for_team 1
+remove_newest_player 13
+get_highest_ranked_team 
+remove_newest_player 11
+play_match 12 20
+get_highest_ranked_team 
+remove_team 20
+num_wins_for_team 15
+play_match 21 8
+add_player 5 13281
+play_match -2 -1
+remove_team 3
+remove_newest_player 18
+remove_newest_player 1
+remove_newest_player 22
+play_match 29 3
+remove_newest_player 4
+add_team 8
+remove_team 12
+remove_newest_player 5
+add_player 11 34439
+add_player 19 35029
+remove_newest_player 3
+remove_newest_player 1
+get_highest_ranked_team 
+remove_newest_player 6
+get_highest_ranked_team 
+remove_team 6
+get_highest_ranked_team 
+play_match 27 3
+play_match 29 23
+add_team 5
+add_team 21
+num_wins_for_team 26
+remove_newest_player 0
+remove_newest_player 27
+get_highest_ranked_team 
+remove_newest_player 14
+add_team 7
+remove_team 24
+add_player 6 22964
+get_highest_ranked_team 
+remove_newest_player 27
+num_wins_for_team 21
+remove_newest_player 22
+get_highest_ranked_team 
+play_match 6 0
+play_match 5 9
+play_match 5 24
+remove_team 26
+add_player 24 14064
+add_team 17
+remove_newest_player 6
+get_highest_ranked_team 
+add_player 1 40776
+remove_newest_player 28
+add_player 5 33754
+add_player 22 10721
+play_match 7 8
+get_highest_ranked_team 
+add_player 28 35525
+add_team 23
+get_highest_ranked_team 
+num_wins_for_team 4
+remove_newest_player 15
+num_wins_for_team 12
+play_match 17 25
+get_highest_ranked_team 
+add_player 17 30919
+add_team 18
+add_player 24 49148
+get_highest_ranked_team 
+add_team 11
+get_highest_ranked_team 
+add_team 28
+remove_newest_player 3
+num_wins_for_team 22
+add_team 9
+num_wins_for_team 13
+remove_newest_player 10
+add_team 18
+get_highest_ranked_team 
+remove_newest_player 21
+num_wins_for_team -2
+num_wins_for_team -1
+remove_team 29
+add_team 8
+add_player -1 32128
+remove_team 24
+remove_newest_player 19
+get_highest_ranked_team 
+remove_team 3
+play_match 12 21
+add_team 2
+remove_newest_player 3
+remove_team -2
+play_match 26 24
+get_highest_ranked_team 
+num_wins_for_team 21
+remove_newest_player 27
+num_wins_for_team 19
+remove_newest_player 1
+play_match -2 12
+add_team 8
+remove_team 21
+num_wins_for_team 28
+remove_newest_player 1
+num_wins_for_team 28
+num_wins_for_team 28
+play_match 27 8
+remove_newest_player 26
+remove_team 4
+num_wins_for_team 2
+remove_team 16
+num_wins_for_team 25
+add_team 18
+add_team 17
+get_highest_ranked_team 
+play_match 20 18
+get_highest_ranked_team 
+add_player 21 36219
+add_team 28
+num_wins_for_team 18
+num_wins_for_team 12
+remove_newest_player 15
+get_highest_ranked_team 
+num_wins_for_team 20
+play_match 12 23
+add_team -1
+remove_newest_player 22
+play_match 24 6
+add_team 16
+play_match 4 29
+remove_team 23
+remove_team 9
+get_highest_ranked_team 
+play_match 11 22
+remove_newest_player 29
+add_team 11
+remove_newest_player 7
+add_player 22 27812
+remove_newest_player 14
+play_match 11 15
+remove_newest_player 13
+play_match 21 13
+remove_newest_player 17
+play_match 6 -2
+add_team 21
+add_team 6
+num_wins_for_team 6
+add_player 27 32554
+num_wins_for_team 18
+play_match 24 21
+get_highest_ranked_team 
+play_match 20 -2
+get_highest_ranked_team 
+remove_newest_player 15
+num_wins_for_team 5
+add_team 0
+get_highest_ranked_team 
+add_team 25
+add_team 15
+remove_newest_player 1
+play_match 8 8
+num_wins_for_team 15
+remove_newest_player 7
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 27 22881
+get_highest_ranked_team 
+remove_team 20
+remove_team 9
+remove_team 12
+add_team 20
+add_team 7
+num_wins_for_team 24
+add_player 4 33567
+add_player 27 20655
+add_team -2
+num_wins_for_team 6
+add_player 28 13427
+play_match 3 23
+num_wins_for_team 24
+remove_team 5
+num_wins_for_team 17
+add_player 2 45305
+play_match 12 24
+add_team 1
+num_wins_for_team 14
+add_team 11
+play_match 20 9
+remove_team 14
+remove_team 20
+num_wins_for_team 8
+num_wins_for_team 24
+play_match 6 2
+get_highest_ranked_team 
+play_match 2 18
+add_player 14 12814
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 1
+remove_newest_player 29
+num_wins_for_team -1
+remove_newest_player -2
+remove_newest_player 18
+num_wins_for_team 11
+num_wins_for_team 9
+remove_newest_player 9
+add_player 6 39231
+remove_team 16
+num_wins_for_team 4
+add_player 22 46944
+play_match 9 7
+add_team -1
+num_wins_for_team -2
+add_team 22
+num_wins_for_team 5
+play_match 4 22
+num_wins_for_team 23
+play_match 4 18
+remove_team 14
+add_team 7
+add_team 25
+add_player 7 29148
+add_team 10
+play_match 9 9
+remove_newest_player 8
+get_highest_ranked_team 
+num_wins_for_team 26
+add_player 18 22612
+num_wins_for_team 10
+remove_newest_player 5
+remove_newest_player 19
+add_player 11 41189
+play_match 17 21
+play_match 3 8
+num_wins_for_team 0
+add_player 3 26693
+add_player 18 47010
+num_wins_for_team 26
+remove_newest_player 26
+remove_newest_player 3
+remove_newest_player -1
+add_team -2
+play_match 17 6
+add_player 17 35031
+remove_team 5
+remove_newest_player 14
+add_player 0 43726
+add_team 26
+get_highest_ranked_team 
+add_player 16 29863
+get_highest_ranked_team 
+remove_team 2
+num_wins_for_team 10
+remove_newest_player 3
+remove_newest_player 1
+remove_newest_player 16
+num_wins_for_team 26
+add_team 5
+add_team 15
+remove_newest_player 28
+remove_newest_player 5
+get_highest_ranked_team 
+remove_newest_player 28
+remove_newest_player 24
+add_player 25 24910
+remove_team -1
+remove_team 10
+get_highest_ranked_team 
+remove_team 14
+num_wins_for_team 11
+num_wins_for_team 18
+get_highest_ranked_team 
+add_player 27 46664
+add_player 15 10453
+remove_newest_player 3
+play_match 11 14
+add_team 29
+add_player 2 39394
+add_player 20 49890
+remove_team 27
+add_player 16 43550
+add_player 28 18395
+remove_newest_player 13
+add_team 3
+add_team 28
+add_team 4
+add_team 26
+remove_newest_player 11
+play_match 26 3
+num_wins_for_team 24
+add_team 25
+remove_newest_player 8
+add_player 26 38381
+play_match 15 -1
+get_highest_ranked_team 
+add_player 13 20167
+get_highest_ranked_team 
+play_match 20 0
+add_team 29
+num_wins_for_team -2
+play_match 12 16
+num_wins_for_team 23
+add_player 12 19377
+remove_team 17
+get_highest_ranked_team 
+remove_team 10
+play_match 4 17
+play_match 14 10
+play_match 8 26
+remove_team 11
+num_wins_for_team 24
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_team 24
+remove_team 16
+play_match 4 15
+num_wins_for_team 10
+num_wins_for_team 1
+add_player 6 27317
+add_player 24 46792
+add_team 0
+remove_team 20
+remove_team 28
+num_wins_for_team 3
+add_player 26 48296
+play_match 24 15
+num_wins_for_team 11
+play_match 15 8
+play_match 19 25
+num_wins_for_team 6
+remove_team 1
+remove_team 12
+num_wins_for_team 29
+play_match 22 18
+add_team 26
+add_player 10 36143
+play_match 0 19
+play_match 25 21
+remove_team 18
+get_highest_ranked_team 
+num_wins_for_team 24
+remove_newest_player 23
+play_match 1 11
+add_team 23
+remove_team 19
+remove_newest_player 22
+num_wins_for_team 22
+play_match 15 23
+remove_newest_player 21
+get_highest_ranked_team 
+remove_newest_player 22
+get_highest_ranked_team 
+play_match 4 23
+get_highest_ranked_team 
+add_team -1
+add_team -1
+num_wins_for_team 3
+play_match 28 28
+get_highest_ranked_team 
+add_player 22 10207
+play_match 10 14
+remove_team 16
+add_team 24
+remove_team 29
+get_highest_ranked_team 
+add_team 26
+remove_team 28
+add_team 8
+get_highest_ranked_team 
+add_team 20
+play_match 11 20
+remove_newest_player -2
+add_player 11 47681
+add_team 4
+remove_team 17
+num_wins_for_team 22
+get_highest_ranked_team 
+num_wins_for_team 28
+add_player 26 42128
+play_match 11 4
+remove_newest_player 10
+get_highest_ranked_team 
+add_player 10 46229
+remove_newest_player -1
+get_highest_ranked_team 
+add_player 1 20523
+add_player 6 27923
+add_player 15 49110
+remove_team 3
+num_wins_for_team 10
+remove_team 18
+play_match -2 2
+remove_newest_player 9
+add_team -1
+get_highest_ranked_team 
+play_match 29 8
+add_player 23 34420
+play_match 21 26
+remove_newest_player 12
+num_wins_for_team 5
+remove_team -1
+play_match 19 6
+play_match 7 2
+play_match 17 4
+add_team 10
+remove_newest_player 4
+remove_newest_player 0
+num_wins_for_team 7
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 6
+add_team 19
+add_team 25
+remove_newest_player 28
+remove_team 9
+add_player 24 33090
+get_highest_ranked_team 
+remove_newest_player 16
+num_wins_for_team -2
+remove_team 2
+add_team 17
+remove_team 22
+play_match 17 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 3 29
+add_team 12
+play_match 6 11
+add_player 8 23517
+remove_team -1
+num_wins_for_team 27
+play_match 16 6
+play_match 11 10
+remove_newest_player 14
+remove_newest_player -1
+remove_team 16
+remove_team 10
+remove_team 8
+remove_newest_player 11
+num_wins_for_team 23
+remove_team 16
+num_wins_for_team 20
+add_player 25 45871
+play_match 14 7
+add_player 9 46473
+add_team 13
+play_match 24 20
+num_wins_for_team 14
+remove_newest_player 27
+get_highest_ranked_team 
+add_team 21
+remove_newest_player 28
+add_player 24 22318
+add_player 8 28623
+add_team 8
+play_match 7 20
+remove_team 19
+add_team 8
+remove_newest_player 8
+get_highest_ranked_team 
+remove_team 3
+add_player 21 38476
+add_team 8
+get_highest_ranked_team 
+num_wins_for_team 29
+remove_team 3
+remove_newest_player 1
+play_match 19 0
+get_highest_ranked_team 
+remove_newest_player 9
+add_player 22 36396
+num_wins_for_team 24
+num_wins_for_team 7
+add_team 8
+num_wins_for_team 9
+add_player 7 37843
+get_highest_ranked_team 
+num_wins_for_team 1
+remove_newest_player 12
+get_highest_ranked_team 
+add_player 25 26800
+add_player 16 31045
+remove_team 3
+play_match 2 22
+num_wins_for_team 22
+remove_team 15
+get_highest_ranked_team 
+play_match 22 21
+add_team 23
+remove_newest_player 19
+add_player 7 15052
+num_wins_for_team 15
+remove_team 12
+add_team 0
+add_team 22
+num_wins_for_team 8
+num_wins_for_team 3
+play_match 13 9
+remove_team 25
+remove_team 9
+remove_newest_player 23
+get_highest_ranked_team 
+add_player 9 49883
+play_match 22 26
+add_team 19
+num_wins_for_team 3
+remove_newest_player 10
+remove_team 20
+num_wins_for_team 3
+add_player 12 38806
+remove_newest_player 20
+add_team 28
+play_match 26 17
+remove_team 28
+add_player 8 36507
+num_wins_for_team 18
+add_player 6 26291
+add_team 17
+play_match 26 3
+add_team 18
+play_match 2 2
+num_wins_for_team 26
+add_team 3
+add_player 9 43897
+remove_team 0
+remove_newest_player 19
+remove_team 5
+num_wins_for_team 6
+play_match 28 14
+play_match 1 5
+remove_team 12
+remove_newest_player 7
+get_highest_ranked_team 
+play_match 27 15
+remove_team 12
+add_player 18 34017
+add_team 25
+num_wins_for_team -2
+remove_newest_player 24
+play_match 3 10
+remove_newest_player 3
+get_highest_ranked_team 
+add_team 29
+remove_team 6
+add_player -1 15373
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 8
+add_team -2
+remove_newest_player 6
+remove_team 10
+add_team 12
+num_wins_for_team 16
+num_wins_for_team 2
+get_highest_ranked_team 
+add_team 20
+num_wins_for_team 11
+play_match 25 3
+num_wins_for_team 12
+add_player 18 12374
+remove_newest_player 8
+get_highest_ranked_team 
+remove_team 24
+remove_newest_player 4
+remove_team 19
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 1 29
+get_highest_ranked_team 
+remove_team 9
+add_player 5 41901
+add_player 4 46978
+remove_newest_player 14
+get_highest_ranked_team 
+remove_team -1
+add_team 8
+num_wins_for_team 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 13 18698
+remove_newest_player 23
+num_wins_for_team 22
+get_highest_ranked_team 
+remove_newest_player 13
+add_team 21
+play_match -2 19
+play_match 21 27
+remove_newest_player 10
+add_player 20 11151
+get_highest_ranked_team 
+play_match 25 20
+remove_newest_player 4
+get_highest_ranked_team 
+num_wins_for_team 16
+add_player 29 18150
+add_player 8 14687
+remove_newest_player 26
+remove_newest_player 8
+add_team 12
+add_team 22
+remove_newest_player 14
+remove_newest_player 11
+num_wins_for_team 23
+play_match 4 2
+add_team 18
+num_wins_for_team 0
+num_wins_for_team 4
+get_highest_ranked_team 
+add_team 4
+play_match 1 6
+play_match 29 -1
+play_match 12 25
+get_highest_ranked_team 
+add_team 24
+add_player 7 16890
+add_player 16 43165
+add_team 21
+num_wins_for_team 6
+play_match 21 21
+play_match 10 9
+remove_newest_player 21
+get_highest_ranked_team 
+add_team 9
+remove_newest_player 1
+add_player 12 36157
+remove_team 18
+add_team 23
+get_highest_ranked_team 
+remove_team 4
+get_highest_ranked_team 
+num_wins_for_team 24
+remove_newest_player 10
+get_highest_ranked_team 
+remove_team 5
+num_wins_for_team 14
+remove_team 21
+get_highest_ranked_team 
+add_team 10
+add_player 29 38948
+remove_newest_player 3
+remove_team 2
+remove_team 14
+add_team 23
+remove_newest_player 24
+get_highest_ranked_team 
+remove_team 22
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 22 31706
+add_team 10
+get_highest_ranked_team 
+play_match 12 4
+add_team 6
+add_team 24
+remove_newest_player 6
+get_highest_ranked_team 
+remove_newest_player 19
+play_match 10 8
+remove_team 21
+add_player 17 25713
+remove_newest_player 22
+remove_newest_player 14
+remove_newest_player 8
+add_team 20
+remove_team 26
+remove_newest_player 26
+num_wins_for_team -1
+add_player 14 24233
+add_player 5 46047
+add_player 0 48399
+play_match 24 25
+num_wins_for_team 20
+add_team 25
+add_team 29
+remove_newest_player 18
+remove_team 14
+get_highest_ranked_team 
+play_match 8 13
+remove_newest_player 28
+remove_newest_player 1
+num_wins_for_team -2
+add_team 22
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 26
+add_player 23 40467
+remove_team 10
+remove_team 27
+add_player 22 14052
+remove_newest_player 8
+remove_team 17
+get_highest_ranked_team 
+add_team 23
+num_wins_for_team -1
+num_wins_for_team 24
+remove_newest_player 8
+num_wins_for_team 27
+add_player -1 37342
+play_match 3 14
+get_highest_ranked_team 
+add_team 8
+remove_newest_player 7
+play_match 24 -2
+play_match 12 4
+remove_newest_player 26
+add_player -1 20138
+remove_team 16
+play_match 22 17
+num_wins_for_team 21
+get_highest_ranked_team 
+num_wins_for_team 20
+add_team 22
+remove_team 19
+play_match 2 23
+num_wins_for_team 8
+num_wins_for_team 20
+play_match 6 23
+num_wins_for_team 5
+add_player 12 46963
+num_wins_for_team 27
+num_wins_for_team 14
+remove_newest_player 19
+num_wins_for_team 10
+remove_newest_player 16
+add_team 8
+remove_newest_player 15
+add_team 20
+get_highest_ranked_team 
+remove_newest_player 29
+get_highest_ranked_team 
+add_player 15 48271
+add_team 1
+remove_newest_player 13
+add_team 18
+get_highest_ranked_team 
+add_team 25
+add_team 3
+play_match 19 9
+remove_team -2
+remove_team 29
+num_wins_for_team 4
+num_wins_for_team 16
+remove_newest_player 10
+play_match -2 6
+remove_newest_player 11
+get_highest_ranked_team 
+add_team 14
+add_player 2 39487
+get_highest_ranked_team 
+remove_newest_player 4
+remove_newest_player 24
+remove_team 1
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 7 20724
+get_highest_ranked_team 
+play_match 6 19
+add_team 20
+num_wins_for_team -1
+add_team 17
+remove_newest_player 21
+remove_newest_player 19
+remove_team 22
+get_highest_ranked_team 
+play_match 14 18
+add_team 0
+remove_team 10
+remove_newest_player 4
+num_wins_for_team 20
+num_wins_for_team -1
+play_match -2 4
+get_highest_ranked_team 
+num_wins_for_team 3
+remove_newest_player 26
+num_wins_for_team 8
+get_highest_ranked_team 
+remove_team 3
+get_highest_ranked_team 
+add_player 8 29862
+remove_team 6
+add_team 15
+add_player 19 40340
+remove_team 22
+add_player 15 20030
+remove_team 6
+add_team 17
+remove_newest_player 22
+add_team 17
+remove_team 14
+remove_newest_player 6
+remove_newest_player 21
+add_team 5
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_team 22
+remove_team 17
+get_highest_ranked_team 
+num_wins_for_team 17
+add_team 22
+remove_team -2
+remove_newest_player 10
+add_team 28
+remove_newest_player 27
+play_match 5 14
+num_wins_for_team 26
+remove_team 22
+remove_newest_player 21
+get_highest_ranked_team 
+add_player 27 18217
+add_player 7 30309
+add_player 9 23509
+add_team 1
+remove_team 26
+remove_team 18
+get_highest_ranked_team 
+remove_team 1
+get_highest_ranked_team 
+remove_team 8
+remove_newest_player 24
+num_wins_for_team 6
+play_match -2 12
+num_wins_for_team 3
+add_team 15
+remove_newest_player 14
+get_highest_ranked_team 
+add_team 6
+get_highest_ranked_team 
+play_match -2 17
+play_match -2 8
+play_match 21 1
+play_match -2 8
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 27
+get_highest_ranked_team 
+play_match 27 17
+play_match 2 8
+play_match 15 21
+play_match 21 1
+num_wins_for_team 17
+num_wins_for_team 17
+num_wins_for_team 3
+play_match 12 3
+num_wins_for_team 1
+remove_team 8
+num_wins_for_team 19
+add_team 26
+remove_team 15
+play_match -2 23
+num_wins_for_team 7
+play_match 26 29
+remove_team 17
+remove_team 25
+remove_team 23
+add_team 3
+add_player 2 14525
+add_player 12 25950
+remove_team 13
+add_team 15
+remove_newest_player 22
+play_match 7 14
+num_wins_for_team 23
+add_team 28
+add_team 12
+play_match 0 12
+play_match 3 17
+get_highest_ranked_team 
+remove_team 29
+add_team 18
+remove_newest_player 13
+remove_newest_player 16
+add_team 21
+play_match 13 1
+remove_team 28
+num_wins_for_team 1
+num_wins_for_team 16
+remove_newest_player 10
+get_highest_ranked_team 
+add_team 8
+remove_team 7
+play_match 28 13
+remove_team 8
+add_player 15 46767
+num_wins_for_team 28
+add_player 4 29120
+remove_team 7
+add_team -1
+remove_newest_player 19
+get_highest_ranked_team 
+play_match 25 16
+num_wins_for_team 25
+num_wins_for_team 21
+num_wins_for_team 19
+remove_newest_player 20
+add_team 9
+num_wins_for_team 15
+num_wins_for_team 28
+add_player 17 37665
+add_player -2 17505
+remove_newest_player 5
+num_wins_for_team 4
+add_player 20 27451
+play_match 6 18
+add_player 22 26284
+remove_newest_player 21
+remove_team 1
+add_player 5 42797
+get_highest_ranked_team 
+num_wins_for_team 22
+num_wins_for_team 19
+get_highest_ranked_team 
+add_player 2 48101
+add_team -2
+add_player 12 49821
+play_match 12 4
+add_team 6
+num_wins_for_team 3
+remove_team 25
+remove_newest_player 10
+add_player 13 21044
+remove_newest_player 13
+get_highest_ranked_team 
+remove_newest_player 22
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_team 25
+play_match 3 11
+add_player 9 14438
+add_player 4 31060
+num_wins_for_team 13
+add_player 28 25912
+add_player 16 44593
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 18 24
+add_team 11
+add_player 4 28324
+remove_newest_player 9
+add_team 1
+add_team 19
+add_player 27 41873
+num_wins_for_team 3
+remove_team 9
+remove_newest_player -2
+add_team 18
+remove_newest_player 18
+get_highest_ranked_team 
+remove_newest_player 29
+get_highest_ranked_team 
+num_wins_for_team 20
+num_wins_for_team 10
+add_team -1
+remove_team 23
+play_match 7 12
+get_highest_ranked_team 
+remove_team 11
+play_match 10 5
+add_team 2
+remove_newest_player 26
+add_player -1 31023
+remove_team 10
+play_match 13 10
+add_player 0 39902
+remove_newest_player 14
+num_wins_for_team 1
+add_player -1 46961
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player -2
+add_team 18
+add_team 27
+num_wins_for_team 12
+remove_newest_player 25
+remove_team 6
+add_player 7 43436
+remove_team 1
+add_team 18
+remove_team 23
+get_highest_ranked_team 
+add_team 5
+add_player -1 22326
+add_player -2 49070
+add_team 7
+remove_newest_player 4
+add_team 16
+remove_team 26
+get_highest_ranked_team 
+remove_team 3
+add_player 17 28286
+add_player 7 21255
+remove_newest_player 2
+remove_team 15
+num_wins_for_team 16
+remove_newest_player 7
+play_match 25 29
+remove_newest_player 26
+add_team 29
+remove_newest_player 1
+remove_team 6
+get_highest_ranked_team 
+play_match 2 -1
+add_player 6 20247
+play_match 26 -1
+play_match 13 20
+remove_newest_player -1
+get_highest_ranked_team 
+remove_team 27
+add_player 6 39135
+get_highest_ranked_team 
+remove_newest_player 18
+add_player 18 33808
+play_match 20 19
+remove_newest_player 0
+add_player 28 30655
+play_match 7 16
+remove_newest_player 24
+num_wins_for_team 21
+num_wins_for_team -1
+remove_team 29
+add_team 1
+remove_newest_player 16
+remove_team 27
+remove_newest_player 10
+num_wins_for_team 18
+num_wins_for_team 12
+add_player 4 22529
+remove_newest_player 11
+add_team 12
+remove_newest_player 18
+remove_newest_player -2
+add_team -1
+get_highest_ranked_team 
+add_player 3 47351
+add_player 1 11285
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 26 38356
+add_team 9
+add_player 1 14998
+remove_team 7
+add_player 5 15976
+get_highest_ranked_team 
+add_player -1 39951
+remove_newest_player 16
+num_wins_for_team 18
+remove_newest_player 12
+add_team 13
+play_match 21 16
+add_player 17 29897
+num_wins_for_team 14
+play_match 13 11
+add_player 26 34570
+num_wins_for_team 5
+num_wins_for_team 24
+get_highest_ranked_team 
+num_wins_for_team 3
+add_team 12
+num_wins_for_team 22
+play_match 16 26
+get_highest_ranked_team 
+num_wins_for_team 28
+play_match 14 18
+remove_newest_player 21
+add_team 6
+remove_newest_player 9
+num_wins_for_team 14
+get_highest_ranked_team 
+remove_team 13
+get_highest_ranked_team 
+add_team 3
+add_team 20
+num_wins_for_team 11
+add_player 17 35196
+get_highest_ranked_team 
+play_match 3 25
+play_match 24 27
+play_match 8 16
+add_team 28
+play_match -2 24
+play_match 25 15
+get_highest_ranked_team 
+remove_team 1
+add_player 25 14245
+add_team 26
+add_team 29
+play_match 9 11
+remove_newest_player 23
+add_player 4 36893
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 15
+remove_team -1
+remove_team 29
+get_highest_ranked_team 
+remove_team 20
+add_player 5 44849
+remove_team 15
+add_team 11
+remove_team 6
+add_team 8
+get_highest_ranked_team 
+add_team 3
+num_wins_for_team 28
+remove_newest_player 13
+remove_newest_player 10
+add_player 29 18523
+num_wins_for_team 5
+remove_team 6
+add_player 19 29538
+remove_team 14
+get_highest_ranked_team 
+remove_team 20
+num_wins_for_team 10
+add_team 13
+num_wins_for_team 5
+add_player -1 26082
+num_wins_for_team 28
+num_wins_for_team 21
+play_match 28 14
+remove_team 26
+remove_newest_player -1
+remove_newest_player 28
+num_wins_for_team 28
+play_match 7 3
+add_team -1
+num_wins_for_team 4
+add_team 1
+get_highest_ranked_team 
+play_match 22 20
+add_player 29 10239
+num_wins_for_team 5
+remove_team 23
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 6 34467
+play_match 29 -2
+add_player 11 45799
+get_highest_ranked_team 
+remove_team 4
+get_highest_ranked_team 
+play_match 26 11
+add_player 1 10948
+add_player 14 23273
+remove_team 3
+add_team 26
+remove_newest_player 16
+remove_newest_player 23
+remove_newest_player 3
+remove_team 8
+add_player 5 37212
+remove_newest_player 19
+remove_newest_player 10
+remove_newest_player -1
+add_team 17
+get_highest_ranked_team 
+add_team 29
+get_highest_ranked_team 
+num_wins_for_team -1
+num_wins_for_team 0
+num_wins_for_team 4
+add_player 25 30679
+remove_team 3
+remove_newest_player 12
+remove_newest_player -1
+play_match 23 8
+play_match 3 16
+add_team 23
+remove_newest_player 18
+play_match 6 29
+play_match 4 14
+num_wins_for_team 13
+play_match 3 17
+play_match 18 29
+add_team -1
+remove_team 21
+get_highest_ranked_team 
+remove_newest_player 19
+get_highest_ranked_team 
+add_player 16 36861
+num_wins_for_team 9
+remove_team 25
+num_wins_for_team 23
+num_wins_for_team 28
+get_highest_ranked_team 
+num_wins_for_team 9
+add_player 16 31111
+remove_team 10
+remove_newest_player 14
+num_wins_for_team 7
+add_player 19 18841
+add_player 6 47516
+add_team 8
+add_player 26 39771
+remove_team 6
+add_team 29
+num_wins_for_team 5
+play_match 15 28
+get_highest_ranked_team 
+num_wins_for_team 20
+add_player 20 33294
+remove_team 28
+play_match 9 26
+get_highest_ranked_team 
+num_wins_for_team 26
+add_player 26 31402
+num_wins_for_team 23
+remove_team 8
+play_match 11 20
+remove_team 5
+add_player 29 39142
+get_highest_ranked_team 
+add_team 1
+num_wins_for_team -1
+add_team -2
+add_player 28 43105
+num_wins_for_team 22
+remove_newest_player 1
+get_highest_ranked_team 
+add_player 18 33546
+remove_team 1
+remove_newest_player 14
+play_match 9 18
+add_player -2 21443
+remove_team -2
+add_team 20
+add_team 9
+get_highest_ranked_team 
+num_wins_for_team 29
+num_wins_for_team 7
+add_team 3
+remove_team 29
+remove_team 20
+remove_team 12
+num_wins_for_team 13
+add_team 14
+add_team 11
+get_highest_ranked_team 
+add_player 18 20168
+play_match -1 23
+play_match 10 3
+get_highest_ranked_team 
+num_wins_for_team 27
+add_player 12 22055
+remove_newest_player 11
+add_player 4 21718
+remove_newest_player 17
+get_highest_ranked_team 
+add_team 12
+get_highest_ranked_team 
+remove_team 27
+add_team 5
+remove_newest_player 7
+add_team 3
+play_match 5 0
+add_team 7
+add_team 10
+get_highest_ranked_team 
+add_player 27 49317
+add_team 19
+add_team 17
+remove_newest_player 29
+num_wins_for_team 6
+play_match 0 4
+add_team 0
+play_match 7 13
+add_player 13 38855
+play_match 1 25
+play_match 19 11
+add_team 22
+play_match 20 1
+num_wins_for_team 29
+add_player 11 23765
+num_wins_for_team 22
+num_wins_for_team 23
+add_player 24 47996
+num_wins_for_team 23
+num_wins_for_team 24
+play_match 12 28
+add_player 20 38042
+get_highest_ranked_team 
+remove_team 24
+num_wins_for_team 11
+add_team 10
+num_wins_for_team 22
+num_wins_for_team 5
+remove_newest_player 1
+num_wins_for_team 15
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 6
+add_player 10 12248
+num_wins_for_team 27
+num_wins_for_team 13
+add_player 10 40321
+remove_team 20
+num_wins_for_team 20
+remove_team 21
+play_match 24 1
+add_team 20
+remove_newest_player 17
+num_wins_for_team 11
+get_highest_ranked_team 
+num_wins_for_team 9
+play_match 27 3
+add_player 10 49207
+remove_newest_player 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 24
+play_match 5 23
+play_match 6 10
+remove_team 16
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 9 21200
+remove_team 16
+remove_team 3
+add_team 28
+get_highest_ranked_team 
+remove_newest_player 19
+play_match 3 14
+remove_newest_player 11
+num_wins_for_team 6
+num_wins_for_team 15
+add_player -1 49410
+remove_newest_player -1
+play_match -1 10
+add_player 1 47596
+play_match 29 17
+remove_team 0
+play_match 6 20
+remove_team 17
+remove_newest_player 0
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 2 41563
+play_match 6 7
+get_highest_ranked_team 
+remove_newest_player 15
+num_wins_for_team 13
+play_match 4 23
+remove_newest_player -2
+num_wins_for_team -2
+num_wins_for_team 25
+num_wins_for_team -2
+play_match 8 9
+add_player 17 23118
+num_wins_for_team 19
+remove_team 6
+remove_team 22
+remove_newest_player 11
+remove_newest_player 25
+get_highest_ranked_team 
+add_team 13
+get_highest_ranked_team 
+add_team 0
+play_match -2 0
+add_team 17
+remove_newest_player 16
+add_player 20 22490
+num_wins_for_team 23
+get_highest_ranked_team 
+remove_newest_player 8
+get_highest_ranked_team 
+num_wins_for_team 2
+num_wins_for_team 12
+num_wins_for_team 11
+remove_team 24
+add_team 29
+add_team 7
+get_highest_ranked_team 
+remove_team 8
+num_wins_for_team -1
+get_highest_ranked_team 
+play_match 28 -2
+num_wins_for_team 0
+play_match 4 23
+remove_team 16
+add_player 21 16119
+num_wins_for_team -1
+add_player 8 32316
+get_highest_ranked_team 
+num_wins_for_team 3
+remove_newest_player 18
+remove_newest_player 25
+remove_team 17
+num_wins_for_team 13
+num_wins_for_team 6
+num_wins_for_team 15
+add_player 12 11554
+play_match 9 1
+get_highest_ranked_team 
+remove_newest_player 12
+remove_newest_player 14
+add_team 25
+add_team 17
+add_player 3 15331
+get_highest_ranked_team 
+remove_newest_player 16
+remove_newest_player 10
+remove_team 29
+add_player 16 11000
+num_wins_for_team 15
+num_wins_for_team 12
+add_player 20 11657
+get_highest_ranked_team 
+remove_newest_player 19
+remove_newest_player 17
+remove_team -2
+add_team 18
+add_team 14
+remove_team 8
+play_match 19 25
+get_highest_ranked_team 
+remove_team 11
+get_highest_ranked_team 
+add_player 10 39861
+play_match 26 0
+remove_team 18
+add_team 1
+num_wins_for_team 16
+get_highest_ranked_team 
+remove_team 3
+num_wins_for_team 4
+remove_newest_player 6
+num_wins_for_team 17
+remove_newest_player 27
+add_player 2 10954
+remove_team 26
+num_wins_for_team 14
+num_wins_for_team 17
+get_highest_ranked_team 
+add_team 12
+remove_team 23
+play_match 24 27
+add_player 19 47295
+add_team 2
+add_team 7
+remove_team 2
+remove_team 3
+remove_team 23
+add_player 27 12287
+remove_newest_player 15
+remove_newest_player 15
+remove_team 17
+remove_newest_player 13
+remove_team 14
+add_player 0 15927
+remove_newest_player 14
+play_match 25 13
+get_highest_ranked_team 
+num_wins_for_team 12
+add_team -2
+play_match -1 4
+remove_team 21
+remove_team 21
+add_team 19
+remove_team 13
+get_highest_ranked_team 
+add_team 14
+add_team 7
+num_wins_for_team 12
+num_wins_for_team 24
+add_team 22
+add_team 27
+get_highest_ranked_team 
+num_wins_for_team 13
+add_team 25
+remove_team 8
+add_player -1 22312
+add_team 29
+remove_team 6
+play_match 24 18
+add_team 18
+remove_team 19
+add_team 10
+add_team 20
+num_wins_for_team 11
+num_wins_for_team 17
+remove_newest_player 26
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match -1 22
+add_team 21
+num_wins_for_team 17
+add_team 11
+play_match 5 7
+remove_team 3
+add_player -1 15833
+add_player 8 19657
+num_wins_for_team 13
+add_player 1 24571
+add_team 5
+get_highest_ranked_team 
+remove_newest_player 23
+play_match 26 27
+remove_newest_player 25
+add_player 5 11533
+add_team 12
+num_wins_for_team 13
+play_match 6 21
+num_wins_for_team 14
+remove_team 13
+add_team 21
+remove_team 12
+add_player 3 42308
+num_wins_for_team 13
+num_wins_for_team -2
+remove_newest_player 4
+remove_newest_player 21
+add_player 3 41529
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 13 41505
+add_team 20
+add_team 4
+num_wins_for_team 12
+remove_team 9
+add_team 9
+add_player 3 41671
+num_wins_for_team 21
+num_wins_for_team 3
+get_highest_ranked_team 
+add_team 1
+get_highest_ranked_team 
+add_player 29 19452
+remove_newest_player 28
+add_player -1 31742
+remove_team 19
+add_player 11 18451
+get_highest_ranked_team 
+num_wins_for_team -1
+get_highest_ranked_team 
+add_team 4
+add_team 15
+remove_team 17
+add_team 18
+get_highest_ranked_team 
+play_match 16 18
+num_wins_for_team 17
+remove_team 18
+add_team 19
+play_match 16 15
+num_wins_for_team 16
+remove_team 19
+add_team 10
+play_match 11 26
+add_player 1 26551
+remove_team 8
+play_match 19 27
+play_match 18 16
+add_player 28 35224
+remove_team 27
+get_highest_ranked_team 
+play_match 8 19
+get_highest_ranked_team 
+remove_team -1
+num_wins_for_team -1
+remove_team 9
+remove_newest_player 13
+remove_team 3
+remove_team 7
+add_player -2 39867
+num_wins_for_team 19
+num_wins_for_team 18
+remove_team 9
+play_match 27 11
+add_player 9 46865
+get_highest_ranked_team 
+remove_newest_player 18
+remove_team 28
+remove_team 27
+remove_team 26
+add_player 12 30973
+remove_team 19
+add_player 0 26061
+add_team 16
+num_wins_for_team 25
+num_wins_for_team -2
+remove_newest_player 2
+remove_newest_player 12
+num_wins_for_team 8
+remove_newest_player 0
+add_player 2 38380
+remove_team 29
+remove_newest_player 6
+add_team 10
+add_player 26 33466
+num_wins_for_team 10
+add_team 22
+play_match 13 -2
+num_wins_for_team 29
+add_team -2
+remove_newest_player 16
+add_player 23 45983
+play_match 14 5
+add_team 12
+play_match 23 18
+add_team 17
+remove_newest_player 24
+remove_newest_player 10
+add_team 5
+add_player 12 37152
+add_team 2
+play_match 27 -1
+play_match 20 4
+remove_newest_player 10
+remove_team 14
+remove_team 12
+play_match 7 28
+play_match -1 2
+get_highest_ranked_team 
+play_match 7 19
+remove_team 26
+get_highest_ranked_team 
+add_player 1 21788
+remove_team 3
+add_team 22
+add_team 21
+add_player 27 20112
+remove_newest_player 29
+play_match 18 6
+add_player 0 42105
+play_match 17 18
+play_match 25 0
+add_player 5 23717
+add_team 24
+num_wins_for_team 0
+add_team 11
+add_team 23
+num_wins_for_team 1
+remove_newest_player 24
+num_wins_for_team 5
+add_player 26 29686
+add_team 9
+add_player 10 47184
+remove_team 9
+get_highest_ranked_team 
+remove_team 22
+add_team 23
+add_team 28
+remove_newest_player 14
+remove_newest_player 20
+play_match 26 29
+play_match 18 4
+get_highest_ranked_team 
+remove_newest_player 14
+remove_newest_player 6
+play_match 26 16
+add_team 3
+add_player 20 20345
+get_highest_ranked_team 
+play_match 18 1
+remove_newest_player 26
+get_highest_ranked_team 
+play_match 1 18
+add_player 28 15116
+get_highest_ranked_team 
+add_player 5 19230
+add_team 28
+play_match 18 6
+add_team 14
+add_team 6
+get_highest_ranked_team 
+add_team 0
+num_wins_for_team 24
+remove_newest_player 3
+remove_newest_player 12
+get_highest_ranked_team 
+remove_newest_player 1
+get_highest_ranked_team 
+play_match 4 20
+add_team 24
+add_player 21 10954
+remove_newest_player 18
+play_match 1 19
+play_match 23 8
+remove_team 13
+remove_newest_player 18
+add_team 3
+get_highest_ranked_team 
+add_player 13 35956
+remove_team -1
+play_match 4 0
+add_team 13
+get_highest_ranked_team 
+num_wins_for_team 13
+add_team 28
+add_player 16 11273
+add_team 10
+add_team 7
+add_player 22 37798
+add_team -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_team 21
+play_match 0 0
+get_highest_ranked_team 
+num_wins_for_team 16
+add_player 11 40118
+remove_team 22
+add_team 17
+add_team 25
+num_wins_for_team -1
+remove_newest_player 29
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 21 11610
+add_player 24 20915
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_team 21
+play_match 24 9
+play_match 0 24
+num_wins_for_team 8
+get_highest_ranked_team 
+add_player 21 47026
+play_match 23 5
+get_highest_ranked_team 
+remove_team 14
+add_team 5
+remove_newest_player 2
+add_player 1 40999
+num_wins_for_team 15
+num_wins_for_team 14
+remove_newest_player 20
+remove_team 21
+remove_team 23
+add_team 26
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_team -2
+add_team 28
+num_wins_for_team 18
+add_team 23
+add_team 10
+add_player 8 16051
+remove_team 23
+remove_newest_player 3
+play_match 19 20
+num_wins_for_team 28
+add_player 9 11008
+add_player 17 36832
+remove_team 0
+play_match 16 24
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 25 7
+play_match 22 23
+add_player 20 14262
+get_highest_ranked_team 
+add_team 26
+remove_team 22
+play_match 27 22
+remove_newest_player 24
+add_player 3 37259
+get_highest_ranked_team 
+add_player 0 34350
+num_wins_for_team 8
+play_match 26 24
+remove_team 12
+remove_team 18
+remove_team -2
+remove_team 15
+num_wins_for_team 25
+add_player 14 15330
+play_match 27 3
+play_match 28 26
+num_wins_for_team 11
+remove_team 17
+play_match 17 16
+get_highest_ranked_team 
+remove_newest_player 3
+num_wins_for_team 13
+add_player 29 19077
+remove_team 14
+get_highest_ranked_team 
+add_player 14 33639
+add_player 22 31308
+get_highest_ranked_team 
+add_player 1 32871
+play_match 16 28
+play_match 11 22
+play_match 17 14
+add_player 9 18096
+add_player 8 12854
+play_match 22 27
+remove_team 7
+get_highest_ranked_team 
+remove_team 1
+num_wins_for_team 17
+num_wins_for_team 16
+remove_newest_player 1
+remove_team 21
+add_player 25 15167
+remove_team 1
+get_highest_ranked_team 
+play_match 18 13
+add_team 24
+remove_team -2
+play_match 23 12
+get_highest_ranked_team 
+remove_newest_player 18
+remove_newest_player -1
+add_team 19
+num_wins_for_team 11
+play_match 9 -1
+remove_newest_player 15
+add_team 3
+remove_newest_player 26
+num_wins_for_team -2
+add_team 5
+add_player 4 23563
+get_highest_ranked_team 
+play_match 10 18
+get_highest_ranked_team 
+remove_newest_player 10
+play_match 10 2
+remove_team 17
+num_wins_for_team 0
+play_match 0 24
+add_team 19
+remove_newest_player 7
+play_match 16 24
+num_wins_for_team 8
+get_highest_ranked_team 
+add_player 9 19392
+remove_team 23
+remove_newest_player 21
+play_match 13 2
+add_team 20
+remove_team 11
+add_team 8
+remove_team 27
+play_match -1 12
+add_player 16 43862
+add_player 14 39928
+add_player 26 24068
+play_match 11 9
+add_team 25
+play_match 7 12
+num_wins_for_team 23
+add_player 9 32306
+remove_newest_player 21
+remove_team 24
+add_team 4
+num_wins_for_team 7
+add_team 8
+add_player 19 11821
+remove_newest_player 9
+remove_team 16
+add_team 28
+remove_team 20
+remove_newest_player 26
+get_highest_ranked_team 
+add_player 2 24939
+add_team 24
+play_match 25 3
+play_match 20 14
+num_wins_for_team 0
+remove_team -2
+play_match 22 6
+play_match 1 -2
+add_player 8 44894
+add_player 10 15077
+remove_newest_player 26
+get_highest_ranked_team 
+num_wins_for_team 18
+play_match 19 2
+add_player 4 15726
+get_highest_ranked_team 
+add_player 4 19453
+play_match 11 6
+num_wins_for_team 29
+num_wins_for_team 24
+add_team 27
+add_player 2 33741
+remove_newest_player 20
+add_player 19 26856
+play_match 8 12
+remove_newest_player 23
+play_match 5 17
+remove_newest_player 16
+add_player -2 22459
+remove_team 6
+add_player 6 38484
+remove_team 29
+add_team 4
+num_wins_for_team 9
+remove_newest_player 6
+get_highest_ranked_team 
+add_team 23
+get_highest_ranked_team 
+remove_team 1
+remove_newest_player 18
+num_wins_for_team 0
+play_match 8 18
+remove_newest_player 0
+get_highest_ranked_team 
+add_player 19 32862
+num_wins_for_team 8
+add_team 9
+remove_newest_player 11
+remove_team 24
+remove_team 22
+get_highest_ranked_team 
+remove_team 3
+get_highest_ranked_team 
+num_wins_for_team 5
+add_team 17
+get_highest_ranked_team 
+add_team 8
+remove_newest_player 22
+remove_team 12
+add_team 15
+num_wins_for_team 6
+add_player 14 44101
+add_player 18 35828
+num_wins_for_team 4
+add_team 24
+num_wins_for_team 9
+remove_team 21
+play_match 22 21
+play_match 13 8
+remove_newest_player 9
+add_team 16
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player -2
+play_match 22 -2
+get_highest_ranked_team 
+add_team 17
+add_player 1 36392
+remove_newest_player 21
+remove_newest_player 25
+get_highest_ranked_team 
+add_player -1 20411
+remove_team 17
+add_team 21
+add_player 16 44121
+remove_newest_player 17
+remove_team 2
+remove_team 19
+remove_team 27
+remove_team -1
+get_highest_ranked_team 
+add_team 22
+get_highest_ranked_team 
+remove_team 15
+remove_newest_player -1
+remove_team 20
+num_wins_for_team 10
+remove_team 7
+add_player 26 30035
+play_match 7 -1
+remove_newest_player 7
+add_player 0 17988
+add_team 2
+play_match 14 20
+add_team 5
+play_match 26 21
+add_player 23 38412
+remove_team 7
+remove_team 26
+get_highest_ranked_team 
+remove_newest_player 17
+add_team 25
+num_wins_for_team 16
+remove_newest_player 22
+play_match 26 2
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 25
+remove_team 25
+play_match 11 22
+remove_newest_player 19
+play_match 2 26
+play_match 4 28
+play_match 11 26
+add_team 12
+remove_team 16
+get_highest_ranked_team 
+add_player 11 49333
+add_team 1
+get_highest_ranked_team 
+remove_team 20
+num_wins_for_team 23
+play_match 10 19
+get_highest_ranked_team 
+add_team 7
+add_team 18
+remove_newest_player 27
+add_team 26
+add_player 11 34835
+num_wins_for_team 1
+remove_newest_player -2
+remove_newest_player 22
+num_wins_for_team 18
+add_team 1
+add_player 4 31040
+remove_team 22
+play_match 26 12
+play_match 9 7
+add_team 27
+num_wins_for_team 21
+add_player 16 33047
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 20
+add_player 14 44068
+play_match 5 24
+remove_newest_player 12
+play_match 29 24
+num_wins_for_team 7
+get_highest_ranked_team 
+remove_team 12
+add_player 27 36954
+play_match 29 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 18
+play_match 12 -1
+remove_team 8
+get_highest_ranked_team 
+add_player 24 43804
+num_wins_for_team 2
+remove_team 23
+remove_newest_player 11
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 2 14
+remove_team 29
+add_player 9 47593
+play_match 1 23
+remove_newest_player -2
+remove_team -1
+num_wins_for_team 23
+play_match 1 0
+remove_newest_player 9
+play_match 6 7
+add_team 6
+play_match 20 8
+play_match 4 0
+add_team 26
+remove_team 14
+num_wins_for_team 3
+add_player 27 34390
+remove_newest_player 14
+add_team 2
+remove_team 26
+add_player 10 10721
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_team 18
+add_player 14 34552
+num_wins_for_team 3
+play_match 2 21
+num_wins_for_team 23
+remove_newest_player 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_team 13
+add_team 19
+get_highest_ranked_team 
+play_match 23 26
+get_highest_ranked_team 
+play_match 6 29
+get_highest_ranked_team 
+add_team 28
+remove_team 22
+get_highest_ranked_team 
+add_team 26
+play_match 27 -2
+add_team 19
+add_player 27 44885
+remove_team 3
+get_highest_ranked_team 
+num_wins_for_team 29
+add_team 9
+num_wins_for_team 24
+get_highest_ranked_team 
+remove_newest_player 16
+remove_team 29
+add_player 16 36878
+add_team 11
+num_wins_for_team 11
+remove_newest_player 7
+add_team 19
+play_match 17 23
+remove_newest_player 19
+num_wins_for_team 17
+get_highest_ranked_team 
+remove_newest_player -1
+num_wins_for_team 8
+add_team 26
+remove_team 28
+get_highest_ranked_team 
+remove_team -2
+remove_newest_player 27
+play_match 9 16
+num_wins_for_team 25
+add_player 4 32909
+add_team 14
+add_team 19
+play_match 24 11
+add_team 18
+get_highest_ranked_team 
+add_player 19 35944
+remove_team 8
+add_team 0
+add_team 12
+remove_newest_player 15
+add_player 12 39598
+get_highest_ranked_team 
+num_wins_for_team 27
+get_highest_ranked_team 
+add_team 29
+remove_team 8
+remove_newest_player 25
+remove_newest_player 28
+get_highest_ranked_team 
+num_wins_for_team 9
+play_match -2 18
+add_team 28
+remove_newest_player 14
+add_player 9 11402
+num_wins_for_team 12
+remove_newest_player 22
+get_highest_ranked_team 
+play_match 11 3
+add_team 27
+num_wins_for_team 14
+add_player 24 49440
+remove_team 20
+remove_team 16
+remove_newest_player 0
+remove_newest_player 20
+get_highest_ranked_team 
+add_team 1
+remove_team 5
+remove_team -1
+add_team 27
+get_highest_ranked_team 
+num_wins_for_team 6
+num_wins_for_team 13
+play_match 14 -1
+remove_newest_player 11
+remove_newest_player 19
+remove_team 6
+add_player 17 28543
+add_team 15
+add_team 23
+remove_newest_player 11
+num_wins_for_team 27
+num_wins_for_team 16
+remove_newest_player 16
+add_player 25 46316
+remove_team 14
+add_player 26 33775
+remove_newest_player 12
+num_wins_for_team 5
+remove_newest_player 18
+remove_team 0
+add_player 6 30223
+remove_newest_player 13
+remove_newest_player -2
+get_highest_ranked_team 
+remove_team -2
+add_team 14
+add_player 3 17620
+get_highest_ranked_team 
+play_match 9 25
+add_team -1
+remove_newest_player 29
+num_wins_for_team 2
+remove_team 25
+play_match 29 26
+remove_team 18
+remove_team 15
+play_match 11 23
+play_match 19 2
+play_match 8 9
+remove_newest_player 15
+remove_team 10
+remove_team 13
+remove_team 28
+num_wins_for_team 12
+num_wins_for_team 3
+add_player 6 47966
+remove_team 7
+play_match 14 5
+play_match 17 7
+add_team 21
+num_wins_for_team 21
+remove_newest_player 26
+num_wins_for_team 12
+remove_team 3
+add_team 14
+num_wins_for_team 4
+add_team 22
+num_wins_for_team 16
+get_highest_ranked_team 
+add_player 7 42441
+num_wins_for_team 29
+play_match 12 6
+remove_newest_player 16
+play_match -2 14
+play_match -2 12
+remove_team 6
+add_team 17
+remove_newest_player 5
+play_match 6 23
+add_team -2
+num_wins_for_team 9
+get_highest_ranked_team 
+num_wins_for_team 24
+play_match 5 1
+remove_newest_player 6
+num_wins_for_team 5
+num_wins_for_team 11
+get_highest_ranked_team 
+remove_team 24
+add_player -1 28309
+add_team 1
+get_highest_ranked_team 
+add_team 20
+play_match 0 6
+num_wins_for_team 12
+get_highest_ranked_team 
+play_match -2 10
+add_player 17 48277
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_team 20
+get_highest_ranked_team 
+num_wins_for_team 14
+num_wins_for_team 0
+remove_team 4
+add_player 25 29568
+play_match -1 19
+add_player 23 14009
+get_highest_ranked_team 
+add_team 16
+remove_team 15
+add_player 3 15140
+add_team 14
+add_team 25
+add_team 7
+get_highest_ranked_team 
+add_team 11
+num_wins_for_team 9
+remove_newest_player 16
+remove_newest_player 5
+add_team 8
+remove_newest_player 13
+add_player 29 25576
+play_match 24 16
+get_highest_ranked_team 
+add_team 10
+play_match 21 15
+get_highest_ranked_team 
+play_match -1 7
+num_wins_for_team 5
+play_match 17 19
+remove_team 23
+num_wins_for_team 12
+get_highest_ranked_team 
+num_wins_for_team 18
+add_player -1 41283
+remove_team 15
+num_wins_for_team 13
+remove_team 12
+remove_newest_player 13
+add_player 12 13985
+add_team 15
+add_team -2
+remove_newest_player 14
+get_highest_ranked_team 
+num_wins_for_team 3
+remove_newest_player 29
+add_player 25 15176
+remove_newest_player 12
+get_highest_ranked_team 
+remove_newest_player -2
+play_match 8 0
+num_wins_for_team 4
+add_player 18 29270
+num_wins_for_team 19
+remove_newest_player 28
+get_highest_ranked_team 
+num_wins_for_team 22
+play_match 12 -1
+num_wins_for_team 3
+remove_team 18
+add_player 27 24660
+remove_newest_player 13
+add_team 11
+add_team 20
+get_highest_ranked_team 
+add_player 19 44898
+add_player 7 29524
+remove_newest_player 20
+add_team 6
+remove_newest_player 10
+remove_team 8
+play_match 11 4
+get_highest_ranked_team 
+remove_newest_player 21
+remove_team 21
+get_highest_ranked_team 
+remove_newest_player 11
+add_team 19
+play_match 27 -1
+remove_team 22
+remove_team 1
+add_team 27
+num_wins_for_team 25
+remove_team 12
+add_team 2
+add_team 26
+remove_newest_player 16
+add_team -2
+num_wins_for_team 8
+play_match 26 4
+num_wins_for_team 28
+num_wins_for_team 2
+remove_newest_player 8
+add_team 26
+num_wins_for_team 16
+remove_team 9
+add_team 26
+num_wins_for_team 5
+add_team 15
+remove_newest_player 14
+num_wins_for_team 28
+add_team 25
+add_team 14
+remove_newest_player 15
+play_match 19 26
+add_team -2
+play_match 24 3
+add_player -2 10427
+remove_team 20
+remove_newest_player 5
+add_team -2
+remove_newest_player 26
+add_team 16
+play_match 2 12
+get_highest_ranked_team 
+num_wins_for_team 10
+remove_newest_player 28
+add_team 8
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team -2
+play_match 1 19
+add_player 11 40575
+remove_newest_player 7
+remove_newest_player 0
+play_match 9 29
+add_team 12
+remove_team 20
+num_wins_for_team 8
+add_player 1 49167
+num_wins_for_team 1
+play_match 5 23
+remove_team 1
+get_highest_ranked_team 
+add_player 15 17353
+remove_team 11
+add_team 10
+get_highest_ranked_team 
+play_match 1 27
+remove_newest_player 2
+remove_team 10
+get_highest_ranked_team 
+remove_team 13
+add_player 10 34823
+play_match 2 28
+remove_newest_player 28
+play_match 28 9
+remove_newest_player 24
+remove_team 17
+play_match 15 0
+remove_team 15
+get_highest_ranked_team 
+add_team 19
+remove_newest_player -2
+add_player 28 13648
+remove_team 29
+add_player 18 32562
+num_wins_for_team 4
+remove_team 20
+get_highest_ranked_team 
+add_player 13 19926
+num_wins_for_team 8
+remove_team 26
+add_player 7 25283
+add_team 29
+play_match 3 5
+num_wins_for_team 22
+remove_newest_player 13
+get_highest_ranked_team 
+remove_team 17
+remove_team 11
+num_wins_for_team 1
+num_wins_for_team 22
+remove_newest_player 18
+add_team -1
+add_player 19 47900
+add_team 16
+play_match 5 14
+play_match 4 15
+play_match 29 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 5
+remove_newest_player 3
+add_team 9
+num_wins_for_team 15
+remove_team 28
+num_wins_for_team 26
+add_player 15 45763
+num_wins_for_team 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 23 35740
+remove_newest_player 6
+remove_newest_player 24
+play_match 19 28
+get_highest_ranked_team 
+num_wins_for_team 16
+num_wins_for_team 15
+add_player 7 11155
+remove_newest_player 14
+remove_team -2
+get_highest_ranked_team 
+remove_newest_player -1
+remove_team 24
+add_player 7 35472
+get_highest_ranked_team 
+num_wins_for_team 6
+remove_team 20
+remove_team 17
+play_match 7 21
+remove_newest_player 8
+add_player 5 44865
+num_wins_for_team 0
+add_team 13
+add_player 20 25295
+add_player -1 49260
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_team 28
+add_team 19
+play_match 16 19
+add_team 2
+remove_team 14
+num_wins_for_team 14
+num_wins_for_team 1
+play_match 16 12
+remove_newest_player 28
+add_team 22
+get_highest_ranked_team 
+add_player 7 43887
+remove_newest_player 21
+add_team 12
+add_player 0 36690
+remove_newest_player 18
+add_player -1 24408
+remove_newest_player 14
+num_wins_for_team 21
+play_match 24 2
+add_team 28
+remove_newest_player 22
+remove_newest_player 3
+add_team 29
+remove_newest_player 7
+remove_newest_player 7
+remove_team 21
+play_match 9 15
+add_team 12
+remove_newest_player 6
+add_player 26 23719
+num_wins_for_team 25
+remove_newest_player -2
+play_match 21 -2
+add_team 9
+add_team 27
+remove_team 15
+get_highest_ranked_team 
+add_team 19
+play_match 3 14
+num_wins_for_team 19
+remove_newest_player 4
+add_team 16
+remove_newest_player 7
+add_player 3 49333
+get_highest_ranked_team 
+remove_team 26
+add_player -2 45978
+remove_team 16
+remove_newest_player 11
+play_match 1 11
+add_team 23
+add_team 8
+remove_newest_player 8
+play_match 22 7
+remove_team 3
+add_team 23
+remove_newest_player 0
+remove_newest_player 26
+remove_newest_player 23
+add_player 28 13400
+num_wins_for_team 16
+add_player 8 42939
+add_player 22 25479
+num_wins_for_team 26
+get_highest_ranked_team 
+remove_newest_player 17
+remove_newest_player 8
+remove_newest_player 10
+play_match 9 1
+add_player 26 25802
+add_player 21 11399
+play_match 17 0
+add_team 10
+play_match 3 17
+num_wins_for_team 19
+remove_newest_player 23
+remove_newest_player 10
+remove_team 7
+num_wins_for_team 14
+get_highest_ranked_team 
+remove_newest_player 27
+remove_newest_player 16
+play_match 6 23
+remove_team -1
+add_player 17 42038
+remove_team -1
+remove_newest_player 10
+get_highest_ranked_team 
+add_player 7 21618
+remove_newest_player -1
+add_team 24
+add_team 5
+get_highest_ranked_team 
+num_wins_for_team 5
+add_team 25
+play_match 23 0
+remove_newest_player 22
+remove_newest_player 2
+remove_newest_player 28
+play_match 17 5
+add_player 6 31657
+get_highest_ranked_team 
+remove_team 5
+play_match 20 28
+remove_team 23
+get_highest_ranked_team 
+play_match 15 25
+add_team 9
+add_player 4 15920
+play_match 23 23
+remove_team 2
+num_wins_for_team 8
+play_match 28 29
+add_player 26 41179
+remove_newest_player 2
+play_match 15 19
+play_match 9 14
+play_match 4 13
+add_player 14 23932
+num_wins_for_team -2
+remove_team 2
+add_player 2 37876
+remove_team 0
+play_match 10 4
+play_match 5 7
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 2 28072
+get_highest_ranked_team 
+add_team 23
+num_wins_for_team 12
+remove_team 1
+add_player 27 24622
+add_player 26 48258
+add_team 26
+get_highest_ranked_team 
+add_player 8 27606
+add_player 20 25920
+play_match -1 2
+play_match 9 15
+get_highest_ranked_team 
+remove_newest_player 28
+remove_newest_player 14
+add_team 29
+play_match 6 11
+num_wins_for_team 4
+remove_newest_player 20
+num_wins_for_team 12
+num_wins_for_team 13
+add_team 4
+play_match 28 18
+remove_newest_player 17
+add_team 18
+add_team 16
+remove_newest_player 20
+add_player 20 14425
+get_highest_ranked_team 
+num_wins_for_team 15
+add_team 27
+play_match 24 14
+num_wins_for_team 28
+remove_team 11
+remove_newest_player 27
+remove_team 2
+add_player 20 22784
+remove_team 4
+add_team 26
+add_player 5 34292
+num_wins_for_team 14
+add_team -1
+remove_newest_player 10
+remove_newest_player 12
+play_match 18 22
+play_match 6 22
+num_wins_for_team 7
+play_match 8 2
+play_match 1 11
+remove_newest_player 6
+get_highest_ranked_team 
+add_player 10 20812
+add_player 7 21503
+get_highest_ranked_team 
+remove_team 25
+add_team 17
+num_wins_for_team 23
+remove_newest_player 8
+get_highest_ranked_team 
+add_team 2
+get_highest_ranked_team 
+add_team 12
+get_highest_ranked_team 
+play_match 26 0
+remove_newest_player 21
+num_wins_for_team 22
+remove_team 10
+remove_team 3
+num_wins_for_team 18
+add_team 5
+get_highest_ranked_team 
+add_player -2 31595
+remove_newest_player 17
+add_player 1 31754
+play_match 14 16
+get_highest_ranked_team 
+play_match 29 1
+remove_newest_player 11
+add_team 8
+get_highest_ranked_team 
+remove_team 9
+add_player 11 46191
+add_team 9
+num_wins_for_team 4
+play_match 29 19
+remove_newest_player 24
+add_player 6 35216
+play_match 25 13
+add_team 29
+add_player 1 38060
+add_team 19
+add_team 10
+play_match 2 8
+remove_team 5
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 15 2
+play_match 19 9
+remove_team 8
+add_player 16 24754
+play_match 14 6
+play_match 5 16
+play_match 27 20
+remove_newest_player 16
+add_player 19 48185
+play_match 22 1
+remove_newest_player 24
+add_team 9
+remove_team 27
+get_highest_ranked_team 
+add_team -1
+get_highest_ranked_team 
+remove_newest_player 9
+get_highest_ranked_team 
+play_match 0 5
+remove_newest_player 28
+add_team 29
+add_team 24
+remove_newest_player 8
+remove_newest_player 21
+add_player 15 37077
+num_wins_for_team 13
+add_team 15
+remove_team 19
+get_highest_ranked_team 
+remove_team 0
+play_match 1 28
+add_player 7 11959
+get_highest_ranked_team 
+add_player 14 44925
+remove_team 10
+add_team 18
+add_team 24
+num_wins_for_team 2
+remove_newest_player 4
+add_team 28
+add_player 27 42225
+num_wins_for_team 28
+num_wins_for_team -1
+add_player 16 21828
+remove_newest_player 10
+remove_team 15
+num_wins_for_team 24
+remove_newest_player 26
+add_team 3
+add_player 16 30628
+num_wins_for_team 11
+add_player 10 42327
+add_player 29 37874
+add_player 9 23717
+add_team 25
+get_highest_ranked_team 
+remove_team 26
+remove_team 19
+num_wins_for_team -2
+play_match 16 3
+play_match 24 3
+play_match 24 10
+remove_newest_player 7
+add_player 13 38314
+add_team 27
+remove_newest_player 8
+num_wins_for_team 18
+remove_newest_player 8
+play_match 1 27
+get_highest_ranked_team 
+add_player -1 19229
+num_wins_for_team 13
+add_player 11 36910
+get_highest_ranked_team 
+add_player 25 47735
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_team 24
+play_match 5 28
+remove_team 11
+num_wins_for_team 6
+remove_team 10
+get_highest_ranked_team 
+add_player -1 27382
+add_player 11 19322
+play_match 27 11
+add_team -1
+num_wins_for_team 1
+remove_team 23
+remove_newest_player 6
+add_team 13
+add_player 9 13866
+num_wins_for_team 8
+add_team 27
+play_match 8 23
+add_team 21
+play_match 15 26
+play_match 19 8
+get_highest_ranked_team 
+add_player 4 36926
+remove_newest_player 12
+get_highest_ranked_team 
+remove_team 0
+play_match 21 27
+num_wins_for_team 10
+play_match 6 11
+get_highest_ranked_team 
+add_team 0
+remove_newest_player 9
+get_highest_ranked_team 
+add_team 19
+add_team 2
+add_team 1
+num_wins_for_team -2
+get_highest_ranked_team 
+remove_newest_player 25
+num_wins_for_team 28
+add_player 22 12598
+add_player 25 30107
+num_wins_for_team 12
+get_highest_ranked_team 
+add_team 15
+add_team 29
+add_player -1 31944
+add_player 21 15115
+add_team 17
+remove_team 26
+add_team 8
+get_highest_ranked_team 
+add_player 6 24477
+remove_team 2
+remove_newest_player 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 12 7
+remove_newest_player 3
+get_highest_ranked_team 
+num_wins_for_team -2
+add_team 18
+play_match 5 20
+get_highest_ranked_team 
+remove_team 7
+add_player 28 25348
+get_highest_ranked_team 
+num_wins_for_team 26
+remove_team 13
+play_match 16 11
+add_team 11
+get_highest_ranked_team 
+remove_team 13
+add_team 1
+get_highest_ranked_team 
+remove_team 12
+num_wins_for_team 26
+remove_newest_player 1
+remove_newest_player 25
+get_highest_ranked_team 
+remove_newest_player 23
+play_match 7 29
+num_wins_for_team 2
+play_match 14 25
+add_player 12 46962
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 14
+num_wins_for_team 7
+remove_team 7
+remove_newest_player 8
+num_wins_for_team -2
+play_match 27 27
+remove_team 28
+num_wins_for_team 3
+remove_team 0
+add_player 22 27814
+num_wins_for_team 20
+play_match 29 6
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player -2 41760
+add_team 1
+play_match 2 11
+play_match 10 7
+play_match 24 0
+get_highest_ranked_team 
+add_team 28
+num_wins_for_team 25
+remove_team 2
+remove_newest_player 5
+get_highest_ranked_team 
+remove_team 15
+play_match 28 8
+add_team 17
+add_team 3
+add_team -2
+add_team 13
+remove_team 24
+add_team 20
+get_highest_ranked_team 
+remove_newest_player 4
+get_highest_ranked_team 
+remove_team 8
+add_team 12
+add_player 20 19697
+remove_newest_player 8
+remove_team 25
+add_team 3
+remove_newest_player 5
+num_wins_for_team 19
+add_player 20 40421
+num_wins_for_team 18
+num_wins_for_team 12
+add_team 0
+remove_newest_player 10
+remove_newest_player 24
+play_match 10 -2
+add_team 27
+remove_newest_player 20
+add_team 26
+num_wins_for_team 12
+add_team 10
+remove_newest_player 17
+remove_newest_player 27
+play_match -2 13
+remove_team 15
+play_match 0 8
+add_player 29 18757
+num_wins_for_team 17
+remove_newest_player -2
+play_match 25 7
+num_wins_for_team 7
+num_wins_for_team 3
+remove_team 3
+num_wins_for_team 21
+get_highest_ranked_team 
+remove_team 25
+add_player 27 22527
+num_wins_for_team 3
+add_team 1
+get_highest_ranked_team 
+remove_newest_player 15
+num_wins_for_team 17
+remove_newest_player 24
+add_team 29
+remove_team 16
+add_player 29 10444
+add_player 4 37121
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_team 16
+get_highest_ranked_team 
+num_wins_for_team 28
+num_wins_for_team 14
+add_team 3
+remove_newest_player 0
+num_wins_for_team 18
+remove_team 9
+num_wins_for_team 25
+num_wins_for_team 21
+remove_newest_player 8
+add_team 21
+add_team 29
+play_match 7 9
+play_match 6 26
+remove_team 10
+add_team 10
+remove_team 25
+add_team 15
+play_match 27 0
+num_wins_for_team 17
+num_wins_for_team 15
+play_match 19 -1
+play_match 20 1
+remove_newest_player 28
+remove_team 4
+num_wins_for_team 6
+get_highest_ranked_team 
+add_team 1
+num_wins_for_team 19
+add_player 17 22895
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_player 28 36463
+play_match 12 20
+play_match 15 7
+get_highest_ranked_team 
+remove_newest_player 24
+get_highest_ranked_team 
+num_wins_for_team 11
+remove_newest_player 0
+num_wins_for_team 5
+add_player 13 13594
+add_player 25 31737
+get_highest_ranked_team 
+add_player 9 32452
+add_player 7 42447
+add_player 20 24106
+remove_newest_player 22
+num_wins_for_team 3
+add_player 18 42613
+play_match 11 28
+play_match 15 14
+add_team 23
+remove_team 4
+num_wins_for_team -1
+remove_team 5
+remove_newest_player 25
+get_highest_ranked_team 
+add_team -2
+add_team 0
+play_match 19 21
+num_wins_for_team 18
+remove_team 2
+num_wins_for_team 0
+num_wins_for_team 17
+remove_newest_player 9
+play_match 24 18
+remove_team 22
+remove_team 21
+remove_newest_player 6
+num_wins_for_team 13
+add_player 7 37198
+get_highest_ranked_team 
+play_match 14 28
+play_match 5 -2
+remove_team 13
+remove_newest_player 2
+remove_newest_player 14
+remove_team 25
+play_match 25 25
+num_wins_for_team 21
+num_wins_for_team 2
+num_wins_for_team 14
+remove_team 9
+remove_newest_player 10
+add_player 4 19436
+play_match 1 17
+add_player 16 19193
+remove_team 22
+num_wins_for_team 15
+add_player 17 30294
+remove_newest_player 12
+remove_newest_player 0
+get_highest_ranked_team 
+play_match 9 21
+get_highest_ranked_team 
+add_team 8
+play_match 4 27
+num_wins_for_team 19
+num_wins_for_team 8
+get_highest_ranked_team 
+add_player 8 42154
+remove_newest_player 24
+num_wins_for_team 13
+num_wins_for_team 18
+remove_newest_player 4
+remove_team 2
+remove_newest_player 0
+get_highest_ranked_team 
+add_team 5
+get_highest_ranked_team 
+add_player 20 40735
+remove_newest_player 25
+remove_team 11
+get_highest_ranked_team 
+play_match 5 8
+remove_team 1
+add_player 26 12943
+num_wins_for_team 18
+add_player 9 21304
+num_wins_for_team -1
+add_player 26 44427
+add_team 17
+add_team -2
+remove_team 10
+play_match 17 22
+remove_team 3
+get_highest_ranked_team 
+play_match 16 25
+get_highest_ranked_team 
+add_team 21
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_team 4
+num_wins_for_team 24
+remove_newest_player -2
+add_player 8 46247
+add_team 13
+num_wins_for_team 16
+remove_newest_player 24
+add_player 14 46556
+remove_newest_player 24
+add_team 2
+get_highest_ranked_team 
+num_wins_for_team 25
+get_highest_ranked_team 
+remove_team 25
+add_player 5 22510
+add_player 28 19938
+remove_team 1
+play_match 28 13
+get_highest_ranked_team 
+num_wins_for_team 27
+play_match 17 28
+add_player 9 35155
+play_match 2 17
+get_highest_ranked_team 
+add_player 4 20301
+play_match 18 9
+add_player 23 49008
+get_highest_ranked_team 
+get_highest_ranked_team 
+add_team 29
+play_match 22 3
+remove_team 14
+add_team 9
+remove_newest_player 1
+get_highest_ranked_team 
+remove_newest_player 6
+add_player 22 19080
+add_team 21
+remove_team 4
+num_wins_for_team 10
+add_team 12
+remove_newest_player -1
+play_match 27 3
+add_team 16
+num_wins_for_team 4
+get_highest_ranked_team 
+remove_team 7
+add_player 22 34947
+add_team 22
+remove_team 20
+num_wins_for_team 1
+remove_team 8
+remove_team 9
+add_player 27 41131
+remove_newest_player 9
+add_player 20 11333
+remove_team 25
+add_player -1 37092
+add_team 16
+remove_team 2
+get_highest_ranked_team 
+add_player 28 26456
+remove_team -2
+add_team 22
+remove_team 4
+add_player 26 15591
+remove_team 28
+num_wins_for_team 22
+add_team 11
+get_highest_ranked_team 
+num_wins_for_team 1
+remove_team 11
+get_highest_ranked_team 
+num_wins_for_team 17
+add_team -2
+get_highest_ranked_team 
+remove_team 23
+num_wins_for_team -1
+add_team 23
+play_match -2 15
+remove_team 24
+remove_team 20
+get_highest_ranked_team 
+remove_team 0
+get_highest_ranked_team 
+play_match 6 13
+add_team -1
+get_highest_ranked_team 
+add_player 15 49933
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 16
+num_wins_for_team 26
+play_match 25 2
+add_player 8 18010
+remove_team -2
+get_highest_ranked_team 

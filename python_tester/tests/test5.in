@@ -1,0 +1,5000 @@
+add_player 2 47239
+add_team 23
+add_player 25 27058
+add_player 7 16748
+add_player 11 45344
+remove_newest_player 7
+remove_team 26
+add_player 4 11188
+add_team -1
+add_team 4
+remove_newest_player 29
+play_match 14 21
+add_player 5 17245
+play_match 25 28
+play_match 18 -2
+play_match 14 27
+play_match 12 22
+remove_newest_player 16
+add_player 17 16235
+add_player 15 41814
+remove_team 16
+add_player 4 12106
+remove_team 25
+add_player 11 16814
+add_team 1
+remove_team 23
+remove_newest_player 25
+play_match 27 4
+remove_team 6
+remove_team 15
+remove_newest_player 4
+play_match 15 29
+remove_team 16
+play_match 20 24
+add_team 18
+remove_newest_player 24
+add_player 14 20570
+add_player 0 48936
+add_player 27 49007
+add_player 8 48778
+play_match 0 13
+add_player 2 13739
+play_match 17 28
+remove_newest_player 3
+play_match 13 13
+remove_team 25
+remove_team 16
+add_team 8
+add_player 27 27636
+remove_newest_player 21
+remove_team 19
+add_team 9
+add_player 14 34297
+add_team 21
+play_match 10 0
+add_team 29
+add_player 28 29138
+remove_newest_player 10
+remove_newest_player 27
+play_match 5 10
+remove_team 9
+add_player 25 49762
+add_team 10
+add_player 3 32091
+play_match 29 22
+remove_newest_player 1
+remove_newest_player 15
+remove_team 3
+add_team 25
+remove_team 3
+add_player 11 13478
+add_team 4
+remove_newest_player 22
+remove_team 18
+play_match 9 22
+play_match 19 11
+play_match 12 13
+add_player 10 33422
+remove_newest_player 23
+play_match 28 25
+remove_newest_player 28
+play_match -1 27
+play_match -1 23
+play_match 1 22
+remove_newest_player 3
+add_team 28
+remove_team 7
+remove_team 19
+remove_team 16
+remove_newest_player 29
+remove_team 10
+add_player 11 19898
+play_match 1 29
+remove_team 19
+remove_team 12
+play_match 11 -2
+remove_newest_player 16
+add_team -2
+add_team 15
+play_match 15 20
+play_match 3 14
+play_match 12 16
+add_player 11 24041
+add_team 4
+remove_newest_player 20
+play_match 24 20
+add_player 13 43430
+remove_newest_player 4
+play_match 0 -2
+remove_newest_player 14
+remove_newest_player 14
+remove_team 15
+remove_newest_player 2
+remove_newest_player 10
+add_player 24 23925
+remove_newest_player 9
+remove_newest_player 20
+add_player 7 28404
+remove_team 29
+add_player 18 27862
+play_match 20 15
+add_player 19 41637
+remove_newest_player 2
+add_team 22
+add_player 28 18056
+play_match 13 25
+add_player 9 36220
+play_match 16 -2
+remove_team 15
+remove_team -2
+add_player 6 47645
+play_match 15 15
+remove_newest_player -1
+play_match 9 3
+remove_newest_player 26
+play_match 22 6
+remove_newest_player 20
+play_match 0 13
+remove_newest_player 4
+add_team 24
+remove_newest_player 7
+add_team 3
+add_team 14
+remove_team -2
+remove_newest_player 0
+play_match 17 -2
+play_match 15 -2
+remove_newest_player 4
+remove_newest_player 22
+remove_newest_player 18
+remove_newest_player -2
+add_player 22 29208
+add_player 18 48733
+play_match -2 19
+remove_newest_player 27
+add_team 0
+remove_team 1
+add_team 16
+play_match 29 1
+add_team -2
+play_match 21 22
+remove_team -1
+play_match 18 -1
+add_team 20
+add_player 25 49012
+play_match 9 3
+remove_newest_player 27
+remove_newest_player 22
+add_team 1
+remove_newest_player 26
+add_player 14 45893
+play_match 12 23
+add_player 11 20743
+remove_team -1
+add_player 4 48930
+add_team 16
+add_player 6 26808
+play_match 12 7
+play_match 2 18
+play_match 17 8
+remove_team 18
+remove_newest_player 13
+add_team 7
+remove_team 1
+add_player 24 32662
+add_team 7
+remove_team 17
+remove_team 26
+add_team 7
+remove_team 17
+add_team 26
+add_team 27
+play_match 19 13
+remove_team 24
+remove_team 16
+remove_newest_player 10
+remove_newest_player 10
+remove_newest_player 6
+remove_newest_player 17
+add_player 8 22252
+remove_team 3
+remove_newest_player 5
+add_player 25 34055
+play_match 29 22
+add_player 18 47323
+add_team 29
+remove_team 4
+add_team 11
+remove_team 0
+play_match 3 12
+play_match -2 13
+remove_newest_player 8
+remove_team 14
+add_team -2
+add_player 29 12313
+play_match 14 2
+remove_newest_player 24
+add_player -1 21630
+remove_team 0
+remove_team 23
+add_team 27
+remove_newest_player 10
+remove_newest_player 14
+add_team 16
+add_team 11
+remove_team 25
+add_team 16
+remove_team 2
+play_match 2 29
+remove_newest_player 24
+remove_newest_player 17
+remove_team 25
+remove_newest_player 7
+play_match 11 9
+add_team 14
+add_player -1 23764
+add_team 15
+remove_newest_player 16
+add_team 28
+add_team -1
+remove_newest_player 26
+remove_team 22
+add_player 15 34150
+play_match 24 9
+remove_newest_player 4
+add_team 19
+add_player 17 38196
+remove_newest_player 13
+add_player 2 41317
+remove_newest_player 11
+add_team 28
+remove_team 16
+remove_team 26
+remove_team 8
+play_match 18 11
+play_match 19 8
+play_match 21 1
+remove_team 1
+add_team 11
+add_team 15
+add_team 13
+add_team 5
+add_player 11 41217
+remove_newest_player 29
+remove_team 8
+add_player 21 23914
+remove_team 29
+add_player 1 38423
+remove_team 5
+add_player 16 46806
+play_match 18 25
+remove_newest_player 5
+remove_newest_player -2
+add_team 10
+play_match 14 0
+remove_team -2
+add_team 27
+add_team 15
+remove_team 1
+remove_team -2
+add_team 14
+remove_team 17
+remove_team 25
+play_match 20 10
+add_team 17
+add_team -2
+remove_team 15
+remove_newest_player 22
+play_match 14 2
+remove_newest_player 6
+remove_newest_player 6
+remove_team 5
+add_player 11 31155
+remove_team 21
+add_team 26
+add_team 15
+play_match 2 12
+add_player 28 31969
+add_team 7
+remove_newest_player 16
+play_match 3 8
+play_match 19 14
+remove_newest_player 11
+remove_newest_player 16
+add_team 12
+play_match 4 29
+add_player -1 18536
+remove_team 11
+play_match 1 21
+add_player 12 34664
+add_player 19 31774
+add_team 23
+play_match 27 18
+remove_team 17
+play_match 23 17
+add_player 25 23736
+add_team 22
+play_match 21 3
+play_match 22 26
+remove_newest_player 5
+add_player -1 17579
+add_team 9
+play_match 26 27
+add_team 5
+add_player 8 10498
+remove_newest_player 2
+add_team 23
+play_match 12 22
+add_team 29
+play_match 12 21
+play_match 3 2
+add_team 26
+add_team 3
+play_match 23 9
+add_team 12
+remove_team 11
+play_match 3 13
+add_team 18
+remove_team 22
+remove_newest_player 20
+remove_team 19
+remove_team 11
+play_match 3 0
+add_player 25 25915
+add_player 19 49342
+remove_team 10
+remove_team 24
+remove_team 0
+add_player 9 43046
+remove_newest_player 2
+remove_team 18
+remove_newest_player 1
+remove_newest_player 24
+add_team 11
+add_team 20
+remove_team -1
+remove_team 11
+remove_team 13
+remove_team 25
+play_match 28 21
+remove_newest_player 15
+play_match -1 19
+add_player 11 16707
+remove_team 14
+remove_team 13
+play_match 3 11
+add_player -2 12558
+remove_team 3
+add_team 13
+remove_newest_player 25
+play_match 10 5
+add_team 2
+remove_team 7
+add_player -2 15241
+add_player 22 23153
+remove_team -1
+remove_team 27
+remove_team 28
+add_player 11 24781
+add_player 19 27948
+remove_newest_player 9
+play_match 15 17
+add_team -2
+add_team 15
+remove_team 6
+add_player 1 23809
+add_player 17 24469
+play_match 28 4
+add_team 27
+add_team -2
+play_match 17 27
+add_team 8
+remove_team 1
+add_team 29
+add_player 8 20808
+play_match 5 6
+remove_newest_player 18
+remove_newest_player 19
+remove_newest_player 8
+add_team 16
+remove_newest_player -2
+play_match 20 3
+remove_team 16
+play_match 2 23
+play_match 3 12
+remove_newest_player 29
+remove_team 17
+add_player 15 13728
+remove_newest_player 1
+remove_team 10
+remove_team 29
+add_team -2
+add_player 12 33441
+remove_team 16
+remove_newest_player 15
+remove_team 7
+remove_newest_player 18
+play_match -2 20
+add_player 28 21261
+remove_team 18
+add_team 20
+remove_team 5
+add_player 5 38119
+add_player 13 39469
+add_player 23 33196
+remove_team 5
+remove_newest_player 15
+add_team -2
+add_team 7
+add_player 24 25792
+remove_team 28
+remove_team 27
+add_player -2 18729
+play_match 22 14
+remove_newest_player 13
+remove_newest_player 10
+remove_newest_player 29
+add_team 29
+add_team 27
+remove_team 26
+play_match 4 16
+remove_newest_player 8
+remove_team 24
+play_match 3 20
+remove_newest_player 29
+add_team 22
+play_match 29 25
+remove_newest_player 6
+remove_team 11
+add_player 15 11617
+play_match 6 11
+remove_team 17
+remove_team 24
+remove_newest_player 27
+add_team 7
+add_player 17 34312
+play_match 7 5
+remove_newest_player 3
+add_player 26 42324
+remove_team 4
+remove_newest_player 6
+remove_team 27
+add_team 7
+add_player 9 48037
+remove_team 23
+play_match 17 -2
+add_player 28 45324
+play_match 18 17
+add_team 1
+remove_newest_player 8
+add_player 20 15212
+remove_team 28
+add_player 11 40290
+remove_team 12
+remove_team 18
+add_team 27
+add_team 14
+remove_team 23
+add_team 15
+remove_newest_player 10
+remove_newest_player 28
+add_player 16 30107
+play_match 27 13
+add_player 27 45858
+remove_newest_player 15
+remove_newest_player 6
+remove_newest_player 11
+play_match 5 25
+remove_newest_player 11
+remove_team 19
+remove_newest_player 23
+remove_newest_player 15
+play_match 22 26
+remove_team 20
+add_team 29
+add_team 14
+add_team 27
+add_player 9 33561
+add_team 16
+remove_team 17
+play_match 19 28
+add_player 9 22168
+play_match 23 4
+remove_team 17
+add_player 18 23333
+remove_newest_player 29
+remove_team 20
+play_match 25 24
+play_match 3 26
+add_team 16
+add_player 4 14839
+remove_newest_player 25
+remove_team 19
+remove_team 28
+add_player 27 31609
+play_match 18 6
+remove_newest_player 23
+add_team 10
+add_player 5 36647
+remove_newest_player 11
+add_team 23
+add_player 3 10169
+remove_team 26
+remove_team 13
+add_team 6
+add_player 14 31545
+add_player 20 10504
+remove_newest_player 11
+remove_team 11
+remove_newest_player 27
+remove_team 23
+add_player 24 10472
+add_player 26 47693
+remove_newest_player 24
+add_player 23 45108
+add_team 15
+add_team 23
+play_match 25 28
+play_match 7 -2
+add_team 5
+add_player 18 46418
+play_match 17 26
+remove_newest_player 4
+remove_newest_player 13
+add_team 17
+add_player 24 49155
+remove_newest_player 5
+play_match 19 9
+add_team 29
+remove_team 11
+remove_newest_player 27
+add_team 12
+remove_team 15
+play_match 23 19
+add_player 20 47014
+remove_team 29
+add_player 10 19730
+remove_team 17
+add_player 17 12416
+remove_team 22
+play_match 4 13
+play_match 16 20
+remove_newest_player 18
+remove_newest_player 4
+add_team 24
+add_team 4
+remove_newest_player 1
+add_player 0 14383
+add_team 0
+add_player 24 20344
+add_team 23
+remove_team 17
+add_team 19
+play_match 27 9
+play_match 16 8
+remove_newest_player 27
+play_match 2 -1
+add_player 15 33480
+add_team 17
+play_match 6 18
+add_team 25
+play_match 10 5
+add_player 12 13265
+play_match 21 19
+remove_newest_player 17
+remove_newest_player 20
+add_team 8
+remove_newest_player 8
+play_match -2 5
+add_team 10
+remove_team 16
+remove_team 28
+play_match 7 1
+remove_team 19
+add_team 15
+add_player 1 33043
+remove_newest_player 0
+play_match 6 -1
+remove_newest_player 1
+remove_newest_player 16
+add_player 7 19315
+add_team 8
+play_match 18 3
+remove_newest_player 9
+add_team 22
+remove_newest_player 26
+play_match 8 15
+add_player 27 47796
+remove_team 6
+add_team 13
+add_player 6 26283
+remove_team 13
+remove_team 22
+remove_newest_player 22
+remove_newest_player 4
+remove_newest_player 5
+play_match 16 25
+remove_newest_player 21
+remove_newest_player 15
+add_player 15 37196
+remove_team 9
+add_team 11
+add_team 0
+add_team 5
+remove_newest_player 25
+add_team 8
+add_team 2
+remove_newest_player 5
+remove_team 9
+add_player 13 20779
+add_player 1 20764
+add_team 26
+add_team -2
+remove_newest_player 3
+remove_newest_player 24
+add_player 24 30932
+add_player 15 23297
+remove_newest_player 16
+remove_newest_player 15
+add_team 8
+remove_team 10
+play_match 4 7
+play_match 15 19
+add_team 19
+play_match 12 0
+remove_team 22
+add_team 4
+remove_team 28
+add_player 3 44532
+add_player 8 14521
+remove_team 13
+remove_team 26
+remove_newest_player 21
+add_team 14
+remove_team 11
+add_player -1 41296
+play_match -2 3
+remove_team 7
+add_team 10
+remove_newest_player 0
+add_team 29
+remove_team 22
+add_team 27
+remove_newest_player 24
+play_match 23 14
+add_team 2
+add_team 1
+add_player 25 11576
+add_player 24 30437
+remove_newest_player 2
+remove_newest_player 19
+remove_team 7
+add_team 11
+add_player 3 29845
+remove_newest_player 13
+add_team 20
+add_player 4 45615
+add_player 18 10027
+remove_newest_player 10
+play_match 5 10
+add_player 24 29710
+remove_newest_player 21
+remove_team 26
+add_player 14 35824
+play_match 15 8
+add_team -1
+add_team -2
+add_team 27
+remove_newest_player 24
+remove_team 7
+remove_newest_player 26
+play_match 11 22
+play_match 14 26
+remove_team 24
+add_player 14 12612
+remove_team 13
+add_player 16 39624
+play_match 21 22
+add_player 13 42292
+remove_newest_player 28
+play_match -2 14
+play_match 2 12
+play_match 5 14
+play_match 19 -2
+add_team 7
+add_player 20 15841
+remove_newest_player 24
+remove_newest_player 29
+add_player 19 18861
+add_player 18 47393
+add_team 14
+play_match 19 27
+play_match 6 18
+remove_newest_player 12
+play_match 14 21
+add_player -1 24779
+add_team 1
+add_player 18 20967
+play_match 2 11
+remove_newest_player 15
+remove_newest_player 0
+remove_team 12
+add_player 3 34798
+remove_newest_player 25
+remove_newest_player -1
+add_player -1 15989
+remove_team 4
+play_match 20 26
+remove_team 6
+add_player -2 28639
+add_team -2
+add_team 22
+remove_team 6
+remove_team 10
+remove_team 27
+remove_team 21
+add_player 1 18288
+add_team 22
+remove_team 20
+add_team 1
+remove_newest_player 27
+remove_team 17
+remove_newest_player 4
+play_match 9 22
+add_player 28 49422
+remove_team 7
+add_player 16 27484
+remove_newest_player 19
+remove_newest_player 28
+add_team 16
+remove_newest_player 7
+add_team 3
+remove_newest_player 10
+remove_newest_player -2
+play_match 27 12
+add_player 22 22792
+add_team 24
+play_match 21 14
+remove_newest_player 0
+remove_newest_player 28
+remove_team 28
+play_match 18 23
+remove_team 4
+play_match 5 18
+play_match 14 23
+play_match 21 5
+remove_newest_player 25
+play_match 12 -1
+add_team 15
+remove_team 9
+remove_newest_player 24
+add_player 7 16611
+remove_newest_player 24
+remove_newest_player 0
+add_team 18
+remove_newest_player 23
+remove_team 29
+remove_newest_player 15
+remove_newest_player 16
+add_player -2 17243
+remove_newest_player 24
+play_match 17 17
+remove_newest_player 12
+play_match 7 8
+add_team -1
+add_player 6 28020
+remove_newest_player 11
+add_team 19
+add_team 17
+remove_team 18
+remove_newest_player 16
+add_player 16 35007
+add_team 13
+remove_team 20
+remove_newest_player 26
+add_player 0 36108
+remove_team 26
+remove_team 13
+remove_newest_player 23
+remove_team 15
+remove_newest_player -2
+remove_newest_player 3
+add_team 26
+add_player 9 16841
+add_team 12
+play_match 18 24
+remove_team 4
+remove_team 10
+add_team 3
+add_player 4 13446
+add_team -2
+play_match -2 -2
+play_match 2 20
+play_match 15 11
+remove_newest_player 6
+remove_newest_player 22
+remove_newest_player 16
+play_match 7 8
+add_team 4
+play_match 11 18
+add_team 3
+add_player 10 14576
+remove_newest_player 9
+remove_newest_player 10
+add_team 16
+add_player -2 26812
+play_match 10 6
+add_player 15 41989
+add_player 22 40790
+remove_newest_player 13
+play_match 15 -1
+remove_team 0
+remove_newest_player 2
+add_player -2 17634
+add_team 26
+play_match 7 27
+play_match 2 7
+remove_newest_player 27
+remove_newest_player 25
+play_match 18 5
+remove_team 22
+add_player 20 41197
+play_match 22 18
+add_player 9 45880
+remove_newest_player 25
+remove_newest_player 2
+remove_newest_player -2
+play_match -2 17
+add_player 15 48595
+add_player 17 47889
+add_team 10
+remove_newest_player 18
+play_match 18 12
+play_match 17 13
+add_team 24
+remove_team 15
+play_match 24 19
+add_team 24
+add_player 21 12425
+remove_team 16
+play_match 24 28
+remove_newest_player 11
+add_player 13 33626
+add_player 10 47761
+add_player 29 14746
+remove_team 14
+remove_team 11
+add_player 18 24990
+remove_team 21
+remove_newest_player 1
+add_player 27 33559
+play_match 20 21
+add_team 29
+play_match 19 29
+play_match 26 0
+add_player 26 22434
+add_team 22
+add_player 7 41756
+play_match 3 5
+add_team 4
+add_team 16
+remove_newest_player 13
+remove_newest_player 24
+add_player 15 37263
+add_team 16
+add_player 0 28476
+add_player 29 17586
+add_team -1
+play_match 19 0
+remove_newest_player 21
+remove_newest_player 25
+remove_newest_player 12
+add_player 15 22558
+remove_team 11
+remove_newest_player -1
+remove_newest_player 12
+add_team 13
+add_team 15
+add_team 17
+add_player 26 47961
+play_match 1 25
+remove_team 7
+add_team 4
+add_team -2
+remove_team 24
+play_match -2 2
+remove_team 26
+remove_team 2
+play_match 2 29
+add_team 21
+remove_newest_player 29
+add_player 4 27072
+play_match 21 18
+add_player 10 47595
+add_player 22 15233
+remove_team 26
+add_team 6
+remove_newest_player 29
+remove_newest_player 25
+remove_team -2
+remove_team 20
+remove_team 5
+remove_team 7
+remove_team 20
+remove_team 16
+remove_team 11
+remove_team 17
+remove_newest_player 7
+add_player 11 20536
+add_team 12
+remove_team 29
+play_match 13 12
+play_match 9 6
+add_player 5 20032
+remove_team 15
+add_team 26
+remove_team 13
+add_team 21
+remove_team 8
+add_team 9
+play_match 19 12
+remove_team 26
+add_team 3
+remove_newest_player 9
+add_player 27 12158
+play_match 23 6
+add_player 25 32155
+add_team 4
+add_player 11 16208
+remove_team 25
+remove_team 28
+play_match 7 19
+play_match 16 27
+add_player -1 35293
+play_match 22 13
+play_match 9 3
+play_match 14 5
+add_player 17 11946
+play_match 27 5
+add_team 8
+remove_team 5
+remove_newest_player 2
+add_player 18 49277
+add_team 6
+remove_newest_player 6
+add_team 14
+add_player 8 45085
+add_team 3
+remove_team 10
+remove_newest_player 14
+play_match 15 10
+remove_newest_player 23
+add_player 7 43217
+remove_team 6
+add_team 14
+play_match 5 29
+remove_newest_player 13
+remove_newest_player 9
+add_team 17
+add_team 20
+add_player 15 43889
+remove_newest_player 22
+remove_team 28
+remove_team 15
+remove_newest_player 15
+add_team 11
+add_player 4 30445
+add_player 8 25874
+play_match 15 18
+add_team 19
+play_match 2 14
+remove_team 5
+remove_team 21
+remove_team 4
+remove_newest_player -1
+remove_newest_player 24
+play_match -1 17
+add_player 6 23313
+remove_newest_player 24
+add_player 18 21992
+remove_newest_player 17
+add_player 14 40442
+add_team 24
+remove_newest_player 2
+remove_team 26
+play_match 6 25
+play_match 26 8
+add_player 26 24117
+remove_newest_player 8
+play_match 27 14
+play_match 24 5
+add_player 18 25078
+remove_newest_player 21
+play_match 9 13
+add_player 7 25228
+add_player 17 33459
+add_team 12
+remove_newest_player 9
+remove_newest_player -1
+remove_newest_player 28
+play_match 26 24
+remove_team 7
+add_team 7
+add_player 13 34952
+remove_team 12
+remove_newest_player 16
+add_team -1
+remove_team 19
+add_team 25
+remove_newest_player 14
+add_player 27 21924
+add_player 17 31677
+add_team 15
+add_player 25 36693
+add_team 7
+remove_newest_player 18
+play_match 13 28
+add_team 17
+remove_newest_player 18
+add_team 13
+remove_newest_player 17
+remove_team 29
+play_match 6 17
+remove_team 7
+add_player 2 30144
+remove_team 24
+play_match 5 17
+add_player 23 40599
+play_match 1 4
+add_team 29
+add_team 25
+add_team 10
+play_match 28 19
+play_match 10 0
+add_team 10
+remove_newest_player 3
+remove_newest_player 28
+remove_team 2
+play_match 21 1
+play_match 3 10
+play_match 24 29
+play_match 5 20
+remove_team 21
+add_player 20 20662
+remove_newest_player 6
+remove_team 9
+remove_newest_player 2
+add_team 2
+remove_newest_player 28
+play_match 5 25
+add_player 25 46381
+remove_team 20
+remove_newest_player 9
+remove_team 4
+add_player 21 20546
+add_player 16 38329
+add_team 9
+remove_newest_player 11
+remove_team 13
+play_match 7 12
+remove_team 7
+remove_team 17
+remove_newest_player 22
+add_team 28
+play_match 19 22
+play_match 17 25
+play_match 12 25
+remove_team 1
+remove_newest_player 16
+remove_team 12
+remove_newest_player 16
+remove_newest_player 18
+remove_newest_player 16
+add_player 20 11754
+remove_newest_player 1
+play_match 28 22
+remove_team 28
+remove_newest_player 9
+add_player 29 38105
+add_player 22 45288
+add_team 13
+add_player 22 32862
+play_match 12 14
+remove_newest_player 14
+play_match 17 18
+add_player 18 46943
+add_player 16 28627
+remove_newest_player 0
+add_team 21
+add_team 19
+play_match 16 17
+add_team 18
+add_player 13 12113
+play_match 9 9
+play_match 10 1
+play_match 27 3
+remove_team 6
+remove_newest_player 9
+play_match 25 23
+add_team 26
+add_player 21 44842
+remove_team 3
+remove_newest_player 10
+add_player 22 30516
+play_match 5 6
+play_match 24 1
+remove_newest_player 8
+add_player 11 19576
+remove_newest_player 29
+remove_newest_player 18
+add_team 17
+remove_newest_player 8
+remove_newest_player 6
+add_player 2 39380
+play_match 23 15
+add_team 21
+remove_newest_player 2
+remove_team 2
+remove_team 2
+add_player 13 43768
+remove_team -2
+remove_team 18
+add_player 26 33935
+remove_newest_player 29
+play_match 26 14
+play_match 5 12
+add_team 28
+add_team -1
+remove_newest_player 22
+remove_newest_player 7
+play_match 21 27
+remove_newest_player 16
+remove_team 10
+remove_team -1
+remove_team 0
+remove_team 27
+add_player -2 18230
+remove_newest_player 12
+remove_newest_player 4
+add_player 25 25146
+remove_newest_player 24
+add_player 20 43091
+add_team 22
+remove_newest_player 27
+remove_team 8
+remove_newest_player 12
+remove_newest_player 3
+play_match 25 1
+add_player 27 15958
+add_player 5 24016
+remove_team 9
+add_player 22 15171
+remove_newest_player 18
+remove_team 5
+play_match 16 16
+remove_newest_player 23
+remove_newest_player 18
+add_team 29
+play_match 4 27
+add_team 10
+add_team 11
+add_player 0 33068
+remove_newest_player 18
+add_team 22
+play_match 22 22
+play_match -1 1
+add_team 29
+add_team 11
+remove_team 20
+remove_newest_player 14
+remove_team 18
+play_match 1 6
+add_player 23 31011
+remove_team 16
+remove_newest_player 24
+remove_team -2
+play_match 8 22
+add_player 3 37399
+add_player 19 47980
+add_team 10
+remove_newest_player 7
+remove_newest_player 6
+add_player 10 20957
+add_player 23 41964
+remove_newest_player 4
+remove_team 20
+play_match 10 19
+play_match 18 16
+add_player 7 32722
+add_team 26
+play_match 0 2
+add_player 29 34797
+add_team 19
+play_match 10 6
+remove_newest_player 22
+play_match 5 -1
+remove_team 18
+remove_newest_player 8
+add_player 24 45210
+remove_newest_player -1
+remove_team 10
+remove_newest_player 1
+add_team 20
+play_match 11 9
+add_player 15 29597
+remove_team 25
+play_match 8 17
+add_player 0 48251
+remove_newest_player 13
+add_player 20 21958
+remove_newest_player 9
+remove_newest_player 19
+play_match 15 -2
+remove_team 24
+remove_team 29
+play_match -1 24
+add_team 5
+remove_newest_player 3
+add_team 26
+add_player 25 11867
+add_player 28 42758
+remove_team 28
+add_team 11
+remove_newest_player 4
+add_team 15
+play_match 17 27
+remove_newest_player 14
+add_team 8
+add_team 17
+remove_team -1
+remove_newest_player 4
+add_player 3 11399
+remove_team 11
+add_player 6 20857
+add_player 9 32798
+remove_newest_player 16
+play_match 24 0
+remove_newest_player 26
+add_team 19
+add_player 19 35637
+add_team 28
+add_player 25 29005
+add_team 19
+add_player 2 46902
+play_match 12 2
+add_team -2
+remove_team 3
+add_team 17
+add_player 9 42328
+add_player 23 34314
+remove_newest_player 20
+add_team 11
+remove_newest_player 16
+remove_newest_player 16
+play_match 28 11
+remove_team 27
+remove_newest_player 23
+remove_newest_player 21
+remove_team -1
+remove_newest_player 7
+remove_newest_player 7
+remove_team 2
+add_team 18
+play_match 16 15
+remove_newest_player 11
+add_player -2 24853
+add_team 5
+remove_newest_player 16
+add_team 25
+add_team 9
+remove_newest_player 22
+remove_newest_player 3
+remove_team 26
+remove_newest_player 13
+remove_newest_player 26
+remove_team 7
+add_team 3
+play_match 4 16
+add_team 18
+add_team 5
+remove_team 28
+remove_team 23
+remove_newest_player 20
+add_team 7
+remove_newest_player 14
+add_player 17 21561
+add_team 25
+remove_newest_player 2
+remove_team 9
+add_team 24
+remove_newest_player 5
+remove_team 6
+remove_newest_player -2
+add_team 15
+remove_newest_player 22
+remove_team 4
+remove_newest_player 4
+add_player 3 48671
+remove_newest_player 28
+add_player -1 15105
+remove_newest_player -1
+remove_team 7
+add_player 3 41213
+add_team 22
+add_player 2 10782
+add_team 4
+add_team 4
+add_player 23 15802
+remove_newest_player -2
+add_team 15
+play_match 22 19
+add_team 20
+play_match 22 26
+add_player 0 48894
+remove_newest_player 6
+play_match 2 28
+add_team 26
+remove_team 0
+play_match -2 27
+add_team 21
+play_match 2 7
+add_team 20
+remove_newest_player 1
+remove_team 28
+remove_newest_player 9
+add_player 15 32143
+remove_newest_player 17
+remove_newest_player 23
+play_match -2 20
+remove_team 16
+remove_team 21
+play_match 2 4
+add_team 11
+play_match 27 15
+play_match 28 0
+remove_team 1
+add_player 0 32077
+remove_team 2
+play_match 23 17
+remove_team 18
+add_player 9 45392
+remove_newest_player 12
+remove_newest_player -2
+add_team 22
+add_player 18 45781
+remove_newest_player 0
+add_player 6 23802
+remove_newest_player 1
+remove_newest_player 29
+play_match 13 26
+add_team 25
+play_match 24 9
+add_player 1 37093
+add_team 5
+add_team 20
+add_player 12 39814
+remove_team 1
+remove_team 0
+remove_newest_player 19
+remove_newest_player 7
+remove_team 27
+add_player 9 43359
+play_match 11 10
+add_player 18 11698
+add_player 5 45417
+add_player 7 21283
+play_match 20 19
+add_player 15 40404
+play_match 13 29
+add_player 6 22117
+play_match 14 3
+add_player 24 19573
+play_match 20 7
+add_player 4 15416
+remove_team 8
+play_match 14 21
+remove_team 21
+add_player 3 16356
+add_team 1
+add_player 1 36469
+remove_team -1
+remove_team 28
+remove_team 14
+remove_team 9
+add_team 20
+add_team 9
+add_player 11 14339
+add_team 24
+add_team 15
+add_player 20 20774
+remove_team 3
+remove_newest_player 13
+remove_team 25
+add_team 24
+remove_team 29
+add_player 21 16414
+add_team 3
+add_team 25
+add_player 21 37084
+add_player 8 27097
+add_team 19
+play_match 2 8
+remove_newest_player 16
+remove_team 1
+add_player 16 31138
+add_player -1 44721
+play_match 9 13
+remove_team 24
+remove_team 11
+play_match 1 2
+remove_newest_player 20
+remove_newest_player 28
+add_player 7 44084
+play_match 8 29
+add_team 19
+play_match 27 11
+remove_team 23
+remove_newest_player 27
+play_match 12 29
+add_team 2
+remove_team 19
+remove_newest_player 29
+remove_team 21
+remove_team 13
+remove_team -2
+add_team 20
+remove_team -1
+remove_newest_player 28
+add_team 15
+remove_team 1
+remove_newest_player 2
+remove_newest_player 14
+remove_team 28
+add_team 15
+add_team 20
+play_match 29 -2
+add_team 13
+add_player 10 23584
+remove_team 22
+remove_newest_player 28
+add_player 22 35345
+add_team 8
+remove_newest_player 12
+play_match 15 10
+add_team 22
+remove_newest_player 7
+remove_team 5
+add_player 7 49485
+add_player 5 12952
+play_match 10 -1
+add_team 29
+add_team 13
+remove_newest_player 14
+add_team 18
+remove_team 16
+add_player -1 43604
+add_team 28
+play_match 17 25
+remove_newest_player 9
+add_player 12 22004
+add_player 8 49640
+add_player 15 47530
+add_team 16
+remove_newest_player 0
+add_player 16 32728
+play_match -2 1
+play_match 17 10
+add_team 20
+play_match 6 13
+play_match 2 2
+remove_newest_player 23
+remove_newest_player -2
+add_player 10 36217
+add_player 9 27674
+add_player 0 36868
+add_team 10
+play_match 10 -2
+add_team 0
+remove_newest_player 24
+remove_team 7
+play_match -1 16
+play_match 9 9
+remove_team 24
+add_player -1 38057
+add_player 0 43172
+add_player 28 14278
+add_player 24 36280
+remove_team 9
+add_team 27
+remove_newest_player 13
+add_team 9
+add_team 7
+add_team 5
+remove_newest_player 5
+remove_newest_player 27
+add_player 29 12937
+remove_team 3
+add_player 16 32562
+add_player 4 18144
+remove_newest_player 11
+remove_team 26
+add_player 2 27635
+add_player 11 26285
+remove_newest_player -2
+play_match 7 13
+add_player 4 14502
+remove_team -1
+remove_newest_player 0
+play_match 15 11
+add_player 2 25345
+add_team 16
+add_player 2 30611
+add_player 19 28207
+add_team 4
+add_team 18
+add_player 9 40801
+remove_newest_player 12
+remove_newest_player 3
+play_match 14 15
+add_player 29 28472
+add_player 25 25653
+add_player 17 14497
+add_player 21 29774
+add_team 17
+play_match 21 28
+remove_team 2
+add_player -1 29533
+remove_team 8
+remove_team 23
+remove_newest_player 0
+play_match 18 0
+remove_newest_player -1
+add_team 6
+remove_team 13
+add_player 2 29861
+remove_newest_player -1
+add_team 21
+play_match 7 4
+play_match 24 17
+add_team 27
+add_team 19
+add_team 29
+add_player 2 15395
+play_match 4 23
+add_player 4 29833
+remove_newest_player 5
+add_player 8 48478
+remove_newest_player 10
+add_team -1
+play_match 13 13
+remove_team 20
+add_player 22 41712
+add_player 20 23405
+add_player 11 43877
+add_team 0
+remove_team 28
+remove_team 14
+play_match 4 27
+remove_newest_player 16
+remove_team 0
+add_player 13 44154
+remove_newest_player 13
+add_team 21
+remove_newest_player 19
+play_match 2 22
+remove_newest_player 10
+remove_team 26
+add_team 25
+add_player 10 29666
+remove_team 20
+remove_newest_player 18
+add_player 29 46244
+add_player 17 33512
+remove_team -1
+remove_team 24
+add_team 7
+remove_newest_player 18
+add_player 6 48871
+play_match 25 25
+remove_team 0
+add_team 19
+play_match 9 21
+play_match 7 16
+add_player 2 28695
+remove_team 18
+add_team 3
+remove_team 8
+remove_newest_player 16
+add_player 11 28067
+remove_newest_player 6
+add_player 14 42544
+add_team 27
+remove_newest_player 1
+play_match 20 12
+play_match 16 12
+remove_newest_player 9
+add_player 21 18399
+add_team 21
+add_player 14 41463
+remove_newest_player 9
+play_match 11 12
+add_player 8 39889
+play_match 20 4
+remove_team 26
+add_team 11
+remove_team 8
+add_player 29 37582
+add_team 0
+add_player 19 42321
+play_match 25 -1
+remove_newest_player -1
+add_player 20 33695
+add_team 28
+add_player 9 34300
+remove_newest_player 2
+add_player 20 43850
+add_team 26
+remove_team 28
+add_team 20
+add_team 0
+play_match 16 13
+play_match 26 23
+remove_team 3
+remove_team -1
+add_team 13
+remove_team 29
+play_match 10 -2
+remove_team 0
+remove_team 6
+remove_newest_player 14
+remove_team 20
+add_team 2
+remove_team 6
+add_team 21
+play_match 14 2
+add_player 8 13460
+add_team 1
+remove_team 12
+add_team 26
+add_team 10
+play_match -2 23
+remove_team 29
+remove_team 3
+remove_newest_player 3
+add_player 0 22847
+play_match 9 20
+add_team 23
+add_player 23 24378
+remove_team 23
+play_match 27 10
+play_match 7 9
+add_team 4
+add_team 14
+remove_newest_player 1
+play_match 4 7
+add_player 3 49952
+remove_team -2
+remove_team 24
+remove_newest_player 28
+add_team 19
+add_team 0
+remove_newest_player 14
+play_match 5 5
+remove_newest_player 29
+remove_team 21
+add_player 5 37290
+remove_newest_player 15
+add_player 24 31022
+remove_team 23
+play_match 11 17
+remove_newest_player 25
+remove_team 1
+add_player 7 31645
+remove_newest_player 6
+play_match 14 9
+remove_newest_player 18
+add_team 6
+play_match 23 7
+remove_team 20
+play_match 27 17
+remove_team 28
+add_team 28
+play_match 25 27
+remove_newest_player 20
+remove_team 20
+add_team -1
+remove_newest_player 28
+add_player 16 16729
+play_match 0 10
+remove_newest_player 6
+remove_team 29
+add_team 2
+add_team 25
+remove_newest_player 13
+play_match 26 24
+remove_team 21
+remove_newest_player 22
+add_player 26 35385
+play_match 4 14
+play_match 28 14
+add_player 1 32631
+play_match 18 1
+remove_team -2
+remove_newest_player 8
+remove_newest_player 15
+remove_team 10
+add_player 14 35247
+remove_team 17
+add_team -1
+remove_team 8
+play_match 20 28
+remove_team 9
+remove_newest_player 24
+remove_team 24
+play_match 16 17
+add_team 3
+play_match 18 25
+add_player 22 45099
+play_match -1 3
+remove_team -2
+remove_newest_player 28
+play_match 0 11
+add_team 25
+remove_newest_player 8
+remove_newest_player 14
+remove_newest_player 1
+add_player 29 13974
+add_player 2 24654
+add_team 20
+add_player 10 33718
+add_team 6
+play_match 8 22
+play_match 20 2
+remove_team 16
+remove_newest_player 14
+play_match 18 -1
+add_player 22 12194
+remove_newest_player 17
+add_team -1
+play_match 17 7
+add_team 16
+play_match -2 -2
+play_match 21 20
+remove_newest_player 0
+add_player 18 42516
+play_match 11 1
+add_player 5 24084
+play_match 24 -2
+remove_newest_player 8
+add_player 18 41872
+remove_team 19
+play_match 25 4
+remove_newest_player 0
+play_match 14 17
+add_team 21
+remove_newest_player 18
+play_match 11 9
+add_player 0 27731
+remove_team 8
+add_team 1
+add_team 26
+add_team 28
+play_match 15 12
+add_player 16 42588
+remove_team 13
+remove_team 27
+play_match 18 1
+add_player 0 22719
+add_team 3
+add_player 25 47264
+add_team 4
+remove_team 17
+add_team 1
+remove_newest_player 4
+add_player 7 38501
+play_match 29 12
+add_player 14 43900
+remove_newest_player 0
+play_match 6 1
+remove_team 10
+play_match 4 13
+remove_newest_player 7
+add_player 28 14216
+add_team 22
+play_match 25 0
+remove_newest_player 21
+add_team 2
+remove_team 24
+add_team 6
+add_team 16
+add_team 23
+add_player 26 30293
+remove_team 7
+play_match 13 2
+play_match 17 14
+remove_newest_player 11
+remove_team 24
+add_team 21
+remove_newest_player 5
+remove_team -1
+add_player -1 27583
+play_match 27 5
+play_match 9 18
+remove_team 4
+add_player 16 17742
+remove_newest_player 17
+play_match 17 7
+remove_newest_player 22
+add_player -1 31134
+play_match 17 19
+remove_team 5
+remove_newest_player 13
+add_player -1 23602
+play_match 6 7
+add_team 10
+add_player 11 36568
+remove_team 12
+play_match 21 19
+add_team 5
+add_player 10 16223
+add_player 18 41116
+remove_team 13
+add_team 17
+play_match 26 18
+add_team 3
+play_match 10 16
+remove_newest_player 5
+play_match 21 21
+remove_team 6
+add_team 27
+add_player -2 27370
+play_match 28 16
+add_team 1
+remove_team 15
+add_team -2
+remove_newest_player 2
+remove_team 19
+add_player 18 42849
+remove_team 1
+remove_team 5
+add_team 15
+remove_newest_player 0
+add_team 19
+add_player 18 33545
+remove_team 1
+remove_team 2
+play_match 24 16
+remove_team 5
+add_team 28
+remove_newest_player -1
+remove_newest_player 27
+add_team 14
+add_team 14
+add_player -1 24872
+play_match 21 24
+add_player 23 30475
+remove_newest_player 24
+remove_team -1
+play_match 28 4
+add_team 29
+add_team 18
+add_team 6
+add_team 25
+play_match 14 7
+add_player 11 44849
+add_player 5 17183
+remove_newest_player 11
+remove_team 9
+add_team 2
+remove_newest_player 2
+remove_team 0
+play_match 19 22
+play_match 9 21
+remove_team 17
+remove_team 1
+remove_team 18
+add_player 16 22788
+add_player 17 26165
+remove_newest_player 26
+add_team 0
+remove_newest_player 5
+add_player 7 24937
+remove_team 22
+add_team 25
+remove_team 5
+remove_team 18
+add_team 20
+play_match 10 24
+play_match 5 11
+play_match 22 10
+add_player 19 25512
+remove_team -1
+add_team 1
+add_team 7
+add_player 0 25909
+add_player 14 23192
+remove_newest_player 21
+play_match 8 13
+remove_team 9
+play_match 29 25
+remove_team 16
+remove_team 15
+remove_newest_player 1
+remove_newest_player 15
+add_player 6 32732
+play_match 26 23
+play_match 4 20
+play_match -1 18
+add_team 19
+remove_newest_player 0
+remove_newest_player 9
+remove_team 2
+play_match 3 13
+add_player 16 29704
+remove_newest_player 5
+remove_newest_player 13
+remove_team 4
+remove_newest_player 18
+add_team 2
+add_player 25 43540
+add_team -2
+remove_team -2
+remove_team 18
+remove_team 11
+add_team 17
+add_team 26
+play_match 2 1
+remove_team 24
+play_match 20 4
+play_match 21 23
+add_player 12 31917
+add_player 13 23243
+play_match -1 28
+play_match 12 8
+add_player 16 41799
+remove_newest_player 17
+add_team 28
+remove_newest_player 10
+remove_team 10
+remove_team 3
+add_team 8
+add_team 16
+play_match 19 3
+remove_team 29
+remove_team 21
+add_player 23 44565
+remove_team 12
+add_team 15
+add_team 21
+remove_team -2
+play_match -2 1
+play_match 27 15
+add_player 13 19136
+play_match 23 4
+add_player 21 30235
+remove_newest_player 12
+add_team 4
+add_player 8 15938
+remove_newest_player 19
+add_team 16
+remove_team 26
+remove_team 18
+add_player 11 40470
+add_team 19
+add_team 0
+remove_team 16
+remove_newest_player 26
+add_player 26 37605
+add_team 22
+add_player 5 24601
+remove_team 15
+play_match 17 16
+add_player 26 41211
+remove_team 5
+add_team 23
+add_team 0
+remove_newest_player 20
+add_player 4 13045
+add_team 3
+play_match 24 20
+remove_newest_player 25
+remove_newest_player 7
+play_match 12 1
+add_player 14 24616
+play_match 6 24
+remove_team 18
+remove_team 26
+remove_team 1
+play_match 25 26
+remove_team 3
+add_player 1 16474
+play_match 3 13
+add_team 13
+add_team 26
+add_team 6
+remove_team 23
+remove_newest_player 26
+remove_team 19
+remove_team -2
+play_match 6 29
+add_team 29
+remove_newest_player 26
+add_team 28
+play_match 17 5
+remove_newest_player 12
+play_match 6 -1
+remove_newest_player 5
+remove_team 12
+add_team 7
+add_team 4
+remove_team 29
+play_match 12 17
+add_player 7 26691
+remove_newest_player -1
+play_match 10 23
+play_match 8 15
+add_team 14
+play_match -1 -1
+add_team 25
+play_match 12 28
+play_match 8 19
+add_team 13
+remove_team 18
+add_team 15
+play_match 16 21
+add_player 10 34941
+add_team 9
+add_player 20 21642
+add_team 5
+remove_team 26
+remove_newest_player -1
+remove_newest_player 13
+remove_team 8
+play_match 11 4
+add_player 24 42111
+remove_newest_player 27
+add_team 17
+remove_team 5
+add_player 0 48318
+play_match 27 6
+add_team 2
+play_match 8 12
+add_team 4
+add_team 25
+remove_newest_player 15
+add_team 7
+play_match 21 10
+play_match 23 19
+play_match 19 9
+remove_team 8
+add_team 4
+play_match 29 2
+remove_team 14
+remove_team 10
+add_player 14 39102
+add_player 16 23602
+remove_team 20
+add_player 11 12587
+add_player -1 35938
+add_player 22 27391
+remove_newest_player 29
+remove_newest_player 15
+play_match 13 -2
+play_match 12 6
+play_match 17 14
+add_player 6 47831
+add_team 25
+remove_team 0
+remove_newest_player 29
+remove_team 10
+add_player 24 20086
+add_player 12 25142
+remove_team 29
+play_match 27 -2
+remove_newest_player 3
+play_match 26 17
+play_match 12 14
+add_team 18
+add_team 27
+add_team 18
+remove_newest_player 14
+remove_newest_player 16
+add_team 8
+play_match 27 23
+add_player 12 32697
+play_match 12 21
+add_team 10
+remove_newest_player 15
+add_team 12
+remove_team 10
+add_team 3
+add_player 21 31605
+play_match 11 12
+add_team 13
+add_player 25 41290
+remove_team 13
+remove_newest_player 21
+remove_newest_player 15
+remove_newest_player 9
+remove_newest_player 21
+remove_team 11
+play_match 25 13
+remove_newest_player 21
+remove_team 13
+add_player 20 25390
+add_team 2
+add_team 1
+play_match 8 26
+remove_team 6
+remove_newest_player 15
+remove_newest_player 23
+remove_newest_player 22
+add_player -2 19390
+add_team 22
+play_match 6 13
+play_match -2 2
+add_player 19 22422
+remove_team 9
+add_team 29
+remove_newest_player 13
+play_match 20 7
+add_player 17 25799
+add_team 22
+add_player 16 35932
+remove_newest_player 9
+add_team 19
+remove_newest_player 22
+add_player 11 38167
+remove_team 22
+remove_team -1
+remove_newest_player 3
+add_team 13
+remove_newest_player 20
+remove_team 6
+play_match 24 14
+add_team 26
+play_match 29 8
+add_team 19
+add_player -1 46951
+add_player -1 29572
+add_player 14 15459
+remove_newest_player 4
+remove_team 21
+remove_newest_player 11
+add_team 0
+play_match 15 29
+add_team 4
+add_team 18
+add_player 12 38069
+play_match 17 8
+play_match 21 29
+add_player 4 25447
+add_player 19 20144
+remove_team 23
+remove_newest_player 18
+play_match 9 10
+remove_newest_player -2
+remove_newest_player 17
+play_match 5 -1
+remove_team 25
+play_match 4 -1
+remove_team 2
+add_player 16 33052
+add_player 16 26927
+add_player 10 10664
+add_team 7
+add_team 10
+remove_team 23
+remove_team 16
+remove_team 26
+play_match 19 17
+remove_newest_player 4
+remove_newest_player 28
+remove_team 17
+play_match 4 14
+play_match 28 20
+remove_team 7
+remove_team 23
+play_match 10 11
+play_match 19 29
+add_player 5 19123
+play_match 12 27
+add_player 28 35924
+add_player 28 33094
+add_team 3
+remove_team 9
+add_team 2
+add_player 5 16794
+play_match 15 18
+remove_team 21
+add_team 24
+remove_newest_player 11
+add_team 3
+add_team 13
+play_match 6 29
+remove_newest_player 26
+play_match 6 9
+play_match -2 9
+remove_team 4
+add_player 11 22621
+remove_team 26
+add_team 1
+remove_newest_player 5
+add_team 17
+add_team 21
+remove_team 20
+play_match 25 15
+add_team 5
+add_player 21 46238
+remove_newest_player 24
+add_team 15
+add_team 6
+add_player 18 31438
+remove_newest_player 23
+add_team 0
+add_team 16
+remove_newest_player 3
+remove_team 12
+add_team 29
+play_match -2 -2
+add_player 23 48630
+add_player 2 48063
+remove_newest_player 15
+add_team 26
+remove_team 1
+remove_newest_player 24
+add_team 21
+play_match 21 21
+remove_team 6
+remove_newest_player -2
+add_team 10
+remove_team 22
+add_team 1
+remove_newest_player 19
+add_player 7 41168
+remove_team 21
+remove_newest_player 1
+play_match 15 -1
+add_player 16 28784
+remove_newest_player 4
+remove_team 24
+add_team 24
+play_match 29 28
+add_team 18
+remove_newest_player 6
+add_team 1
+add_team 29
+remove_team -2
+play_match 18 10
+remove_newest_player 22
+play_match 13 25
+play_match 6 10
+play_match 7 19
+remove_team 20
+play_match 15 2
+play_match 27 12
+add_team 17
+remove_newest_player 25
+add_player 15 32891
+remove_newest_player -1
+add_player 22 11043
+remove_team 18
+add_team 1
+play_match 26 1
+add_team -1
+add_team 23
+remove_team 0
+remove_team 1
+remove_newest_player 27
+remove_newest_player 24
+play_match 19 20
+play_match 5 11
+remove_team 14
+add_player 18 31058
+remove_team 5
+remove_team 20
+add_player 23 11130
+remove_newest_player 16
+add_player 16 17367
+remove_team 6
+play_match 11 4
+play_match 22 5
+add_team 20
+add_team 10
+remove_newest_player 24
+play_match 12 8
+add_team 14
+add_player 12 35556
+remove_newest_player 11
+add_team 6
+add_player 1 48441
+add_player 17 30155
+play_match 5 6
+remove_newest_player 27
+remove_team 11
+remove_newest_player 13
+remove_team -2
+remove_team 17
+play_match -2 12
+add_player 10 20453
+add_team 23
+add_team 3
+play_match 6 16
+play_match 13 15
+add_team 29
+play_match 0 6
+add_team 7
+add_player 6 43893
+play_match 11 0
+remove_team 27
+remove_team 23
+add_player 19 34179
+add_player 28 22446
+remove_newest_player 6
+add_player 3 21835
+add_team 19
+remove_team 17
+play_match 22 6
+add_team 24
+add_team 29
+play_match 9 6
+remove_team 14
+remove_newest_player 14
+add_team 22
+add_player 24 26427
+play_match 25 7
+play_match 1 4
+add_team 1
+add_team 24
+play_match 14 8
+remove_newest_player 17
+add_team 17
+remove_newest_player 1
+add_team 11
+remove_newest_player 10
+add_player 28 29335
+add_player 12 22442
+add_player 28 43379
+remove_newest_player 22
+add_player 14 17713
+play_match 9 13
+remove_team 25
+play_match 25 23
+add_team 10
+remove_team 7
+add_player 26 42899
+remove_newest_player 25
+remove_newest_player 5
+play_match 0 23
+remove_newest_player -2
+play_match 3 28
+remove_team 25
+add_team 14
+add_team 13
+add_team 0
+remove_newest_player 1
+play_match 4 18
+add_player 1 36820
+add_team 1
+remove_newest_player 26
+play_match 16 0
+remove_team 10
+add_player 4 12462
+remove_team 14
+remove_newest_player 1
+add_player 3 39073
+remove_newest_player 21
+add_team 2
+add_player 8 46095
+remove_team 8
+play_match 25 -1
+add_team 16
+add_player 17 18597
+add_team 11
+add_team 5
+add_team 18
+add_team 4
+play_match 12 8
+add_player 17 34923
+remove_newest_player 18
+remove_team 14
+add_player 8 49371
+remove_team 0
+remove_team 7
+play_match 22 20
+add_player 1 39235
+remove_newest_player 20
+remove_team 20
+remove_newest_player 3
+add_team 9
+add_player 14 25041
+add_player 0 29907
+add_player 28 31856
+add_team 0
+play_match 14 18
+play_match 24 0
+add_player 8 39166
+remove_team -1
+add_player 25 41563
+remove_newest_player 16
+play_match 24 24
+add_team 9
+remove_team 26
+add_team 11
+remove_newest_player 24
+remove_team 24
+remove_newest_player 11
+play_match 9 17
+add_team 23
+add_team -1
+remove_newest_player 24
+play_match 9 28
+play_match 27 11
+play_match -2 29
+remove_team 26
+remove_team 17
+remove_newest_player 0
+play_match 5 13
+remove_newest_player 19
+remove_newest_player 26
+remove_newest_player 27
+remove_team 27
+play_match 20 6
+remove_newest_player 21
+add_team 21
+add_team 19
+play_match 28 29
+add_team 13
+play_match 5 24
+play_match 24 -1
+play_match 14 22
+remove_newest_player 24
+remove_newest_player 27
+play_match 1 10
+add_team 28
+play_match 11 14
+add_team 29
+add_team -1
+add_team 14
+add_player 13 34891
+play_match 16 25
+add_team 12
+play_match 1 25
+add_team 23
+add_player -1 48713
+play_match 15 2
+remove_newest_player 6
+add_player 28 41892
+add_team 0
+play_match 9 25
+remove_team 21
+remove_newest_player 4
+add_player 3 29871
+remove_team 20
+remove_newest_player 18
+add_player 19 33048
+add_player 7 43164
+add_team 19
+play_match 8 2
+remove_team 2
+add_team 27
+add_player -1 34428
+add_team 16
+remove_newest_player 12
+remove_newest_player 2
+remove_team 20
+add_player 9 19095
+add_team 17
+play_match 7 27
+remove_newest_player -2
+remove_newest_player 21
+remove_team 12
+add_player -1 23408
+add_player 16 49217
+remove_newest_player 19
+remove_newest_player 22
+add_team 2
+remove_newest_player 12
+remove_newest_player 15
+remove_team 13
+add_team 6
+add_player 15 22119
+remove_newest_player 10
+add_team 29
+remove_newest_player 29
+remove_team 8
+remove_newest_player 6
+play_match 8 9
+play_match 16 -2
+remove_team 3
+add_player 4 27415
+play_match 8 11
+add_player 3 48460
+add_player 1 21624
+add_team 28
+add_player 26 10875
+play_match 9 29
+remove_newest_player -1
+play_match 8 13
+add_player 14 19609
+add_player -1 16668
+play_match 5 20
+add_team 15
+play_match 0 8
+remove_newest_player 29
+add_player 11 29956
+remove_team 21
+add_player 29 18735
+add_team 23
+play_match 15 0
+play_match 13 16
+add_player 1 46690
+add_player -2 36411
+add_player 24 11798
+remove_newest_player 4
+add_team 8
+add_player 27 15790
+add_team 20
+remove_newest_player 14
+remove_newest_player 12
+remove_newest_player 5
+add_player 29 49227
+remove_team 0
+remove_team 26
+add_player 6 18399
+add_team 23
+remove_team 25
+play_match 4 3
+remove_team 15
+remove_team 14
+play_match 9 9
+remove_newest_player 14
+add_team 5
+add_player 17 45556
+play_match 5 15
+add_team 9
+remove_newest_player 19
+remove_team 28
+play_match 8 24
+add_player 19 10452
+remove_team 19
+play_match 29 7
+remove_team 9
+add_team 16
+remove_team 5
+add_player 11 21886
+remove_team 19
+add_player 7 42817
+remove_team 6
+remove_team 3
+add_player 7 40074
+add_team 13
+play_match 21 13
+add_player 9 15832
+add_team 9
+remove_team 23
+add_team 14
+add_team 15
+remove_team 9
+add_team 29
+remove_team 13
+play_match 8 11
+add_player 3 23169
+remove_newest_player 18
+remove_newest_player 20
+add_team 11
+remove_team 4
+add_player 10 24125
+remove_newest_player 16
+play_match 29 21
+remove_team 18
+remove_team 12
+play_match 5 12
+remove_newest_player -2
+remove_team 11
+remove_team 29
+remove_team 16
+add_team 6
+remove_newest_player 13
+add_player 15 18413
+add_player 8 48228
+add_player 23 11792
+add_player 20 35150
+play_match 28 24
+remove_newest_player 26
+play_match 25 3
+remove_team 18
+remove_team 0
+add_team 11
+play_match 3 7
+add_player 13 18383
+add_player 19 37345
+add_team 15
+add_team 29
+play_match 11 26
+play_match 12 11
+add_team 26
+play_match -2 26
+remove_newest_player 14
+play_match 18 -2
+add_team 10
+remove_newest_player 22
+play_match 23 16
+remove_newest_player 28
+add_player 6 26969
+add_team 3
+remove_team 26
+remove_newest_player 20
+play_match 13 13
+play_match 26 6
+add_player 6 19392
+add_player 8 40239
+play_match 7 15
+remove_team 20
+remove_newest_player 7
+add_player 28 34168
+play_match 3 -2
+remove_team 3
+remove_team -2
+add_player 29 16003
+remove_newest_player -2
+remove_team -1
+remove_newest_player 22
+add_team 14
+add_player 21 45195
+remove_team 4
+remove_team 6
+play_match -2 1
+play_match 10 1
+remove_team 23
+remove_team 16
+play_match 0 18
+play_match 16 12
+add_team 1
+remove_newest_player 23
+add_player 7 20429
+add_player 26 25879
+remove_team 29
+add_team 27
+add_team 12
+remove_team 3
+add_team 4
+remove_team 10
+remove_newest_player 24
+remove_team 8
+add_player 4 12115
+add_team 11
+play_match 3 10
+play_match -2 2
+play_match 29 22
+add_team 13
+remove_newest_player 5
+remove_team 19
+add_team 1
+remove_team 5
+add_team 27
+remove_team -1
+add_player 16 44692
+add_team 12
+add_team 19
+remove_team 4
+add_team 24
+remove_team 0
+add_team 22
+add_player 16 19054
+remove_team 20
+play_match -2 18
+play_match 13 10
+add_team 3
+remove_newest_player 2
+add_player 26 23757
+add_team 28
+remove_newest_player 13
+remove_team 25
+remove_team 11
+add_player 12 46613
+add_team 18
+add_team 10
+play_match 29 3
+remove_newest_player 9
+add_player 6 22838
+remove_newest_player 23
+remove_team 26
+remove_team 7
+add_team 18
+add_team 10
+add_player 6 28321
+add_team 9
+add_player 27 39518
+remove_newest_player 11
+remove_newest_player 23
+play_match 11 9
+play_match 1 9
+add_team 28
+add_team 9
+remove_team 10
+add_team 16
+add_team 2
+remove_newest_player 22
+remove_newest_player 14
+add_player 13 45219
+add_player 0 13652
+play_match 29 11
+remove_team -2
+play_match 5 10
+remove_newest_player 23
+add_team 1
+play_match 11 -1
+remove_team 15
+play_match -2 29
+remove_newest_player 6
+add_player 17 39808
+add_team 5
+add_player 13 41764
+add_team 18
+add_player 20 10634
+add_player -2 16988
+add_player 23 16773
+remove_newest_player 3
+play_match 0 24
+remove_team 3
+remove_team 24
+add_team -1
+remove_newest_player 29
+remove_team 12
+remove_team 28
+play_match 28 21
+remove_newest_player 2
+remove_newest_player 24
+add_player 23 14674
+remove_team -2
+add_team 16
+add_team 28
+remove_newest_player 29
+add_team 23
+add_player 4 11871
+play_match 5 28
+play_match 0 7
+play_match 23 1
+add_team 22
+remove_team 12
+add_player 24 29526
+add_player 13 49226
+remove_newest_player 21
+remove_newest_player 27
+remove_newest_player 29
+remove_newest_player 20
+play_match 23 28
+remove_newest_player 10
+play_match 16 14
+remove_team -1
+remove_team 22
+add_player 21 48221
+add_player 4 14535
+remove_team 7
+add_player 5 49325
+add_player 17 20701
+remove_newest_player 20
+add_player 21 41538
+add_player 3 11227
+remove_team 9
+add_team 9
+add_team 27
+remove_team 0
+add_team -2
+remove_team 15
+add_team 5
+add_team 12
+remove_team 26
+play_match 23 13
+add_team 5
+remove_newest_player 10
+remove_team 17
+play_match 1 21
+remove_team 14
+play_match -2 16
+add_player 25 21383
+play_match 2 4
+remove_team 18
+add_team 10
+play_match 13 26
+add_player 5 22159
+play_match 20 25
+remove_newest_player 5
+play_match 29 19
+add_team 22
+remove_team 10
+remove_team 3
+add_team 28
+play_match 20 -1
+add_team 27
+remove_newest_player 24
+add_team 10
+play_match 24 18
+remove_team 26
+remove_newest_player 29
+add_team 2
+remove_team 1
+add_player 9 27137
+play_match 26 25
+add_team 7
+add_team 8
+add_player 28 26199
+play_match 5 24
+remove_newest_player 10
+remove_newest_player 17
+remove_newest_player 1
+play_match 20 25
+remove_newest_player 28
+remove_team -2
+remove_team 13
+play_match 9 25
+remove_newest_player 12
+play_match 0 8
+remove_newest_player 0
+remove_team 6
+add_player 18 28147
+remove_team 9
+add_player 23 13926
+remove_team 18
+play_match 19 23
+play_match 24 5
+remove_team 23
+add_team 10
+add_player 21 49119
+remove_newest_player 2
+remove_newest_player 11
+add_team 12
+add_team 3
+add_player 4 44702
+add_player 7 29173
+add_player 21 26537
+play_match 11 11
+add_team 4
+remove_team 20
+add_team -1
+remove_team 17
+remove_team 20
+add_player 16 23954
+add_player 3 30026
+remove_newest_player 29
+remove_newest_player 23
+play_match 9 1
+remove_team 21
+remove_team 5
+remove_team 16
+remove_team 11
+remove_newest_player 10
+add_team 17
+remove_team 27
+remove_team 11
+remove_newest_player 7
+add_team 15
+add_player 13 48357
+add_team 14
+remove_team 24
+remove_team 27
+remove_team 10
+play_match -1 18
+play_match 11 11
+add_team 6
+add_player 9 43247
+add_player 27 48379
+add_team 22
+remove_newest_player 4
+play_match 26 12
+remove_team -1
+remove_team 20
+remove_team 22
+add_team 20
+remove_newest_player 26
+add_player 17 19163
+play_match 16 9
+remove_team 29
+play_match 2 21
+remove_team 3
+play_match 21 3
+remove_team 2
+play_match 24 20
+remove_newest_player 25
+add_player 14 35158
+remove_newest_player 2
+play_match 29 10
+remove_team 26
+play_match 27 19
+add_team 13
+remove_team 14
+add_player 3 10818
+play_match 8 6
+remove_newest_player 0
+play_match 19 28
+add_player 24 34589
+add_player 14 29381
+play_match 4 6
+remove_team 25
+remove_team 25
+remove_newest_player 13
+add_player 14 13041
+add_team 7
+play_match 6 29
+remove_newest_player -2
+play_match 2 20
+remove_team 6
+remove_newest_player 0
+remove_newest_player 12
+add_team 13
+add_player 23 11774
+remove_team 15
+add_team 11
+remove_newest_player 4
+add_team 1
+add_team 6
+add_player 18 36081
+add_team 14
+add_team 23
+add_team 19
+add_team 6
+remove_newest_player 8
+add_player 16 25713
+remove_newest_player 23
+remove_newest_player 0
+play_match 4 23
+remove_newest_player 2
+add_player 29 28545
+remove_team 7
+remove_newest_player 7
+remove_newest_player 13
+add_team 11
+remove_newest_player 22
+play_match 7 -1
+remove_newest_player 10
+remove_team 6
+play_match -1 17
+remove_newest_player 15
+play_match -1 14
+add_player 25 38780
+remove_newest_player 18
+play_match 6 24
+add_team 19
+play_match 20 6
+add_team 22
+remove_newest_player 10
+play_match 29 6
+remove_team 23
+add_player 27 15479
+add_player -2 25381
+remove_team 21
+add_team 19
+remove_team 11
+remove_newest_player 0
+play_match 18 14
+remove_newest_player 3
+remove_team 21
+remove_newest_player 0
+play_match 13 28
+add_team 10
+remove_newest_player 6
+add_team 1
+add_team 13
+play_match -1 18
+remove_team 26
+play_match 22 21
+add_team 3
+add_team -2
+remove_team 10
+add_team 20
+add_team 15
+play_match 25 5
+play_match 21 18
+play_match 4 13
+add_team 17
+remove_team 29
+add_team 15
+remove_team 11
+add_team 0
+add_team 6
+add_player 6 17984
+play_match 22 25
+remove_team 8
+add_player 25 45576
+add_team 10
+add_player 6 30779
+remove_newest_player 20
+add_player 8 43345
+add_player 8 26438
+add_player 9 31942
+add_team 3
+remove_team 9
+play_match 10 22
+add_team 25
+add_team 20
+remove_team 28
+add_player 23 42106
+play_match 8 2
+remove_team 19
+remove_team 13
+add_player 1 14338
+add_player 0 38174
+remove_team 15
+play_match 12 21
+remove_newest_player 29
+play_match 10 14
+play_match 17 8
+remove_team 19
+remove_team 7
+add_team 20
+remove_newest_player 24
+play_match 14 13
+remove_newest_player 5
+play_match 10 13
+remove_newest_player 14
+play_match 9 15
+add_team 2
+add_team 12
+remove_newest_player 28
+play_match 26 5
+play_match 9 23
+play_match 19 -2
+play_match 18 10
+remove_team 4
+remove_team 15
+add_team 11
+add_player 6 15345
+remove_newest_player 23
+play_match 16 20
+add_team 11
+remove_team 6
+play_match 28 -2
+remove_newest_player 2
+remove_team 7
+remove_newest_player 5
+remove_team 9
+remove_team 11
+remove_team 8
+add_team 24
+play_match 21 25
+remove_team 8
+play_match 5 0
+remove_newest_player 5
+add_player 19 15938
+add_team 23
+remove_team 11
+remove_team 29
+play_match 28 15
+add_team 19
+play_match 26 5
+remove_newest_player 22
+remove_team 17
+remove_team 19
+remove_team 5
+remove_team -2
+remove_newest_player 23
+play_match 19 18
+play_match 24 -1
+add_player 23 14137
+remove_newest_player 16
+add_team 28
+add_player 0 44125
+remove_team 17
+remove_team 24
+play_match 24 29
+add_player 26 48491
+play_match 19 17
+add_player 26 39430
+add_player 11 13020
+add_team 17
+add_team -2
+add_team 3
+add_team 29
+add_team -2
+add_player 28 49765
+play_match 12 16
+add_team 20
+add_player 4 13683
+play_match 24 24
+play_match 17 16
+add_player 0 26543
+remove_team -2
+add_player 29 45556
+remove_team 7
+remove_team 19
+remove_newest_player 22
+play_match 0 21
+remove_team 11
+add_team -2
+add_team 28
+remove_newest_player 15
+remove_team 1
+add_player 1 23872
+add_player 29 36435
+remove_team 25
+remove_newest_player 25
+remove_team 4
+play_match 12 15
+add_player 4 42946
+remove_newest_player 8
+remove_team 13
+add_team 4
+add_player 1 39840
+add_team 24
+remove_newest_player 3
+remove_team 19
+add_player 21 14023
+remove_newest_player 19
+remove_newest_player -1
+remove_newest_player 15
+play_match 4 -1
+add_team 15
+play_match 14 9
+remove_team 10
+add_team 12
+remove_newest_player 28
+remove_team 18
+remove_newest_player 14
+play_match 16 4
+remove_newest_player 7
+remove_newest_player 19
+add_team 1
+remove_newest_player 0
+play_match 27 21
+remove_newest_player 8
+remove_team 28
+add_team 24
+add_player 27 13052
+add_team 11
+add_team 14
+remove_newest_player 9
+add_team 8
+remove_newest_player 7
+add_team 3
+add_team 13
+add_team 7
+remove_team 1
+remove_team 21
+add_team 14
+add_team 23
+play_match 16 26
+add_player 6 32400
+add_player 27 23144
+remove_team 3
+add_team 16
+play_match 0 29
+add_team 17
+play_match 18 5
+remove_team 28
+add_team 18
+play_match -2 24
+add_team 29
+remove_newest_player 10
+remove_team 21
+add_player -2 13020
+add_player 4 36836
+remove_team 24
+remove_team 1
+add_team 10
+play_match 19 25
+play_match 15 23
+add_player 23 13411
+add_team 8
+add_team 4
+play_match 29 17
+play_match 16 20
+play_match 2 24
+remove_team 1
+play_match 21 2
+play_match 1 18
+remove_newest_player 29
+remove_team 11
+remove_team 28
+remove_team 2
+remove_team 14
+add_player 17 47450
+remove_team 12
+add_player 23 33987
+remove_team -1
+remove_newest_player 24
+add_player 5 34669
+add_team 5
+play_match -1 20
+add_team 22
+play_match 7 14
+play_match 25 1
+remove_newest_player 12
+add_player -1 43576
+remove_team 25
+add_team 22
+remove_newest_player 8
+remove_newest_player 0
+add_team 12
+add_player -2 12890
+add_player 11 16467
+add_team 22
+remove_newest_player 20
+add_player 24 22261
+remove_newest_player 23
+remove_newest_player 18
+remove_newest_player 13
+play_match 26 29
+remove_newest_player 3
+add_player 10 20975
+remove_team 16
+remove_newest_player 1
+add_team 21
+remove_team 2
+add_team 4
+remove_newest_player -1
+remove_team 7
+remove_newest_player -2
+play_match 5 26
+play_match -1 12
+remove_team 23
+remove_newest_player 8
+remove_team 13
+remove_team 16
+add_player 29 34581
+play_match 22 24
+remove_team 17
+add_player 20 29950
+remove_team 21
+add_team 20
+add_team 11
+play_match 6 21
+play_match 11 4
+play_match 10 0
+play_match 4 -2
+play_match 15 7
+remove_newest_player 0
+remove_newest_player 12
+add_player 29 32679
+play_match 14 11
+play_match 8 7
+play_match 14 22
+add_team -2
+remove_newest_player 5
+add_player 12 12486
+play_match 10 6
+add_player 2 26783
+remove_newest_player 4
+remove_team 16
+remove_newest_player 17
+remove_team 29
+add_team 21
+add_player 0 35785
+add_team 16
+remove_team 10
+play_match 1 29
+add_player 22 40141
+remove_newest_player 25
+add_team 7
+remove_newest_player 26
+remove_newest_player 0
+remove_team -2
+remove_newest_player 0
+remove_newest_player 3
+add_team -1
+remove_newest_player 21
+add_team 28
+remove_team 25
+add_team 25
+remove_team 21
+play_match 25 27
+add_player 7 35830
+add_player -2 47755
+remove_newest_player 18
+add_team -2
+add_player 18 47387
+remove_team 0
+add_player 17 37614
+play_match 3 11
+add_team 2
+add_player 2 46332
+remove_newest_player 18
+remove_team 8
+add_player 2 40286
+play_match 27 8
+remove_team 10
+add_team 15
+add_team 16
+play_match 17 3
+play_match 28 3
+add_player 15 14635
+add_player 17 44345
+add_player 20 10961
+add_player 28 25712
+remove_team 28
+play_match 3 -2
+remove_team 13
+add_player 22 23145
+remove_team 12
+add_team 11
+add_player 2 32762
+play_match 0 22
+remove_team -1
+remove_team 26
+remove_newest_player 20
+remove_newest_player 4
+add_team 26
+remove_newest_player 29
+play_match 17 18
+add_team 20
+remove_team 27
+add_team 17
+remove_newest_player 23
+remove_newest_player 18
+add_team 1
+remove_team 21
+add_team 29
+remove_team 7
+add_team 24
+add_player 6 16341
+play_match 3 17
+add_player 25 16602
+remove_newest_player 18
+remove_team 24
+add_player 18 29037
+add_player 3 24820
+remove_team 19
+remove_team -1
+remove_newest_player 28
+remove_team 27
+play_match -1 26
+remove_team 20
+add_player 29 26356
+remove_newest_player 12
+play_match 2 27
+add_player 13 29771
+remove_newest_player -2
+remove_newest_player 5
+remove_team 10
+add_team 24
+play_match 8 5
+remove_newest_player 21
+remove_team 3
+add_player 1 42854
+add_team 25
+remove_newest_player 4
+remove_team 13
+add_team 12
+remove_newest_player 21
+remove_team 15
+add_team 18
+remove_newest_player 9
+play_match 8 9
+remove_team 21
+remove_newest_player 14
+remove_newest_player 7
+play_match -2 18
+remove_team 29
+remove_newest_player 12
+play_match 7 1
+add_team 26
+remove_newest_player 20
+remove_newest_player -1
+add_team 5
+add_player 15 37622
+remove_team 7
+play_match 24 0
+add_team 18
+remove_newest_player 11
+remove_team 8
+add_team 20
+remove_newest_player 12
+play_match 29 28
+add_player 29 31433
+add_team -2
+remove_newest_player 5
+remove_newest_player 22
+add_player 6 26941
+remove_newest_player 9
+add_team 13
+add_team 19
+play_match 24 20
+remove_newest_player 18
+add_team 6
+add_team 15
+play_match 9 29
+add_team -2
+remove_team 27
+remove_newest_player 11
+play_match 27 29
+remove_newest_player 1
+add_team 5
+remove_newest_player 5
+remove_newest_player 25
+remove_team 19
+remove_team 10
+remove_team 25
+play_match 19 9
+play_match 10 20
+remove_team 13
+add_player 11 14823
+remove_team 7
+add_team 24
+add_player 22 25348
+remove_newest_player 18
+remove_team 6
+play_match 27 -2
+play_match 29 21
+add_team 5
+add_team 13
+remove_newest_player 13
+add_player 2 33189
+remove_newest_player 21
+add_team 11
+remove_team -1
+remove_newest_player 23
+add_player -1 29859
+remove_team 14
+add_team 25
+play_match 8 28
+add_team 8
+add_team 3
+add_team 8
+add_player 10 42336
+play_match 2 28
+add_player 2 30869
+add_team 6
+add_player 0 23167
+add_player 14 22844
+remove_newest_player 25
+remove_newest_player 24
+play_match 24 26
+add_team 6
+add_team 23
+add_team 21
+add_team 28
+remove_newest_player 0
+play_match 11 25
+add_team 11
+add_team 29
+remove_team 25
+remove_team 13
+remove_team 20
+add_player 16 11029
+add_player 14 33413
+add_team 20
+add_team 0
+play_match 19 10
+add_team 3
+remove_team 17
+add_player 27 12571
+add_team 0
+remove_team 2
+remove_newest_player 24
+add_team 10
+play_match 28 25
+add_team 24
+add_player 14 17561
+play_match 29 16
+add_team 16
+add_team 12
+add_player 11 23694
+remove_newest_player 24
+remove_team 2
+play_match 21 13
+play_match 10 18
+remove_newest_player 13
+add_team 26
+add_player 1 28351
+add_team 18
+add_team -2
+play_match 5 13
+remove_newest_player 25
+remove_team 11
+remove_newest_player 7
+remove_newest_player 0
+add_player 6 41307
+remove_newest_player 8
+remove_newest_player 18
+play_match 8 13
+add_player 5 37400
+play_match 15 14
+remove_newest_player 25
+add_player 10 43995
+remove_team 23
+add_team 9
+remove_team 19
+add_player 28 38000
+remove_newest_player 15
+remove_team -1
+remove_newest_player 16
+remove_team 17
+remove_team 9
+play_match 21 5
+add_player 26 36921
+remove_newest_player 22
+add_team 7
+add_team 18
+add_player 9 19019
+remove_newest_player 8
+add_player 8 42621
+add_player -1 11320
+remove_newest_player -2
+add_team 1
+add_team 19
+remove_team 0
+play_match 17 29
+remove_newest_player 13
+remove_team 13
+add_player 19 15783
+add_team -1
+remove_newest_player 9
+add_player 29 31036
+play_match 9 22
+play_match 0 3
+add_player -1 36248
+add_player 21 19632
+add_team 16
+play_match 13 27
+remove_newest_player 2
+add_team 24
+remove_team 18
+add_team 2
+add_player -1 43075
+remove_newest_player 2
+play_match 23 7
+add_team 4
+remove_team 25
+play_match 15 13
+remove_newest_player 24
+remove_newest_player 17
+add_player 7 13062
+play_match -1 5
+add_player 14 20255
+add_player 5 47735
+add_player 29 36240
+remove_newest_player 1
+play_match 5 24
+remove_newest_player 13
+play_match 12 4
+play_match -2 12
+play_match 21 2
+remove_team 11
+remove_team 5
+remove_newest_player 14
+play_match 7 4
+remove_newest_player 5
+remove_team 12
+add_team 24
+add_team 24
+add_player 26 20161
+remove_team 22
+play_match 11 17
+add_team 23
+add_team 7
+play_match 11 7
+remove_team 24
+add_team 8
+remove_newest_player 4
+add_player 28 32883
+add_team 1
+play_match 13 20
+add_team 24
+add_player 8 28184
+add_team 6
+remove_team 23
+add_player 1 41058
+remove_team 13
+remove_newest_player 26
+remove_team 26
+play_match 22 3
+remove_newest_player 14
+remove_newest_player 20
+remove_newest_player 6
+add_player 20 42394
+play_match 5 14
+play_match 29 19
+play_match 27 25
+remove_newest_player 28
+add_team -2
+remove_newest_player 27
+add_player 3 38168
+remove_team 17
+remove_team 14
+remove_team 28
+add_player 18 18990
+remove_newest_player 26
+add_player 13 24652
+add_player 1 45402
+remove_newest_player 2
+remove_team 13
+remove_newest_player 4
+play_match 23 28
+add_team 19
+add_player 20 38531
+remove_team 11
+add_team 8
+add_team 16
+add_team 20
+play_match 4 26
+add_player 9 35378
+add_team 8
+add_team 14
+remove_team -2
+remove_team 16
+remove_newest_player 20
+play_match 5 0
+remove_team 29
+add_team 10
+add_player 10 40962
+play_match 1 14
+play_match 4 25
+add_player 14 46963
+remove_newest_player 11
+remove_team 17
+remove_team 27
+add_player 26 25281
+remove_newest_player 8
+play_match 11 6
+play_match 10 10
+add_team 28
+add_player 16 49184
+add_team 6
+remove_team 10
+remove_newest_player 19
+add_team 29
+remove_team 0
+remove_team 18
+add_player 1 40249
+remove_newest_player 22
+add_player 27 25741
+remove_newest_player 2
+play_match 11 -1
+remove_team 18
+remove_team 1
+remove_newest_player 18
+add_team 7
+add_team 28
+remove_newest_player 5
+remove_team 5
+play_match 28 9
+play_match 12 8
+play_match 17 11
+play_match 6 16
+add_player 23 36497
+remove_newest_player 3
+add_player 8 44544
+play_match 28 27
+remove_newest_player 21
+remove_newest_player 7
+remove_newest_player 20
+add_player 4 49793
+add_player 5 21195
+remove_newest_player 6
+remove_newest_player 7
+remove_newest_player 25
+remove_team 11
+remove_newest_player 6
+add_player 27 15657
+play_match 16 1
+play_match 2 3
+remove_team -1
+play_match 25 0
+add_team 8
+add_player 24 48415
+remove_newest_player 23
+remove_newest_player 26
+add_player 5 41089
+play_match 6 12
+add_player 13 29176
+add_player 10 41740
+remove_team 7
+add_player 23 44292
+play_match 5 2
+add_player 5 48902
+play_match 19 -2
+remove_newest_player 25
+add_team 18
+remove_newest_player 15
+remove_team 10
+remove_team 18
+remove_team 19
+remove_newest_player 4
+play_match 29 24
+add_player 14 29143
+remove_newest_player -2
+remove_team 3
+remove_team 11
+add_team 15
+remove_team 9
+add_player 10 18691
+play_match 28 0
+add_player 14 13701
+remove_team 29
+play_match 19 27
+remove_newest_player 4
+play_match 5 25
+play_match -1 28
+add_player 13 11412
+remove_team 26
+remove_team 20
+remove_newest_player 21
+remove_team 9
+play_match 20 25
+remove_team 28
+remove_team 3
+play_match 4 20
+remove_newest_player -1
+remove_team 4
+play_match 21 8
+remove_newest_player -1
+play_match 29 14
+remove_newest_player 13
+remove_team 28
+add_team 29
+remove_team 0
+remove_newest_player 18
+remove_newest_player 11
+remove_team 2
+remove_newest_player 27
+add_team 20
+add_player 11 27748
+add_player 12 31035
+add_team 7
+remove_newest_player 1
+remove_newest_player 7
+add_player 14 21446
+remove_newest_player -1
+add_player 16 46005
+remove_newest_player 25
+remove_newest_player 25
+remove_newest_player 28
+add_team 13
+play_match 9 -2
+remove_team 14
+remove_newest_player 14
+add_player 28 42796
+remove_team 15
+add_team 8
+remove_team 21
+remove_newest_player 16
+add_player 26 35975
+play_match 12 28
+play_match -1 7
+add_team 1
+remove_newest_player 25
+remove_team 21
+play_match 28 20
+add_team 11
+remove_newest_player 7
+add_team 20
+play_match 15 17
+add_player 0 42892
+add_team 15
+remove_newest_player 26
+remove_team 11
+add_team 25
+add_team 24
+remove_newest_player 14
+remove_newest_player -1
+remove_newest_player 19
+remove_team 2
+add_team 8
+remove_team 8
+add_team 25
+play_match 2 10
+add_team -2
+play_match 16 26
+remove_newest_player 7
+add_player 13 27105
+add_team 4
+remove_newest_player 11
+add_team 3
+play_match 1 15
+remove_team 22
+remove_team 16
+remove_newest_player 25
+remove_newest_player 7
+add_player 13 35366
+add_player -2 28199
+remove_team 29
+remove_team 21
+remove_team 25
+add_player 13 23632
+play_match 23 17
+add_player 26 36367
+play_match 1 0
+play_match 15 18
+play_match 12 5
+play_match 24 24
+remove_team 27
+play_match 29 1
+remove_newest_player 3
+play_match 24 9
+remove_team 3
+add_player 9 38807
+add_player 20 22081
+play_match 23 9
+add_team 21
+play_match 18 -1
+add_team 6
+play_match 19 12
+add_team 25
+add_player 3 13957
+add_player 25 43407
+add_team 17
+play_match 12 -1
+remove_team -1
+remove_team 20
+add_team 21
+remove_team 14
+add_team 10
+add_player 9 34002
+add_team 15
+add_team 10
+remove_team 11
+remove_team 2
+add_team 23
+add_team 0
+add_player 10 45088
+add_team 9
+remove_newest_player 9
+remove_newest_player 19
+remove_team -1
+remove_team 14
+add_player 4 45853
+add_player 21 42960
+remove_team 6
+remove_team 19
+add_team 7
+remove_newest_player 13
+remove_team 0
+remove_team 14
+add_player 26 36404
+add_player 2 24781
+remove_team 1
+play_match 18 10
+remove_team 21
+add_team 22
+add_player 5 28182
+add_player 23 14799
+add_player 0 14720
+add_player 23 21690
+remove_team -1
+add_player 7 33270
+add_team 11
+remove_newest_player 29
+remove_newest_player 2
+add_team 26
+add_player 12 22253
+remove_team 15
+play_match 8 11
+add_team 25
+play_match 13 14
+add_player 4 16072
+remove_team 27
+add_player 20 22779
+remove_newest_player 4
+remove_team 1
+play_match 15 22
+add_player 21 14337
+play_match 4 16
+remove_newest_player 7
+remove_team -1
+add_player 15 43636
+add_team 27
+add_team 7
+play_match 18 5
+remove_newest_player 7
+play_match 22 12
+add_team 5
+play_match 0 27
+remove_team 2
+play_match 16 18
+add_player 0 21207
+add_player 0 46511
+play_match 18 8
+add_player 1 48439
+add_team 3
+remove_team 2
+add_team 26
+add_team 22
+remove_newest_player 24
+remove_newest_player 16
+play_match 15 0
+play_match 19 5
+remove_team 2
+add_team 26
+add_team 5
+remove_newest_player 27
+add_team 25
+remove_newest_player 28
+add_team -2
+add_team 18
+add_team 1
+add_team 28
+add_team 11
+add_team 20
+play_match 2 18
+add_player 26 15019
+add_team 29
+add_team 27
+play_match -1 26
+add_player 9 30141
+add_player 16 25785
+remove_newest_player 9
+add_team 20
+add_team 13
+add_player 6 32769
+add_team 29
+remove_team 15
+remove_newest_player 8
+remove_newest_player 10
+add_player 8 28954
+add_player 21 47915
+play_match 26 14
+remove_newest_player 27
+play_match 26 25
+remove_newest_player 27
+remove_team 11
+add_player 29 23843
+add_player 20 36649
+remove_newest_player 23
+add_team 24
+add_player 23 47740
+remove_team 18
+add_team 23
+play_match 18 -2
+add_player 20 23537
+remove_newest_player 7
+add_player 7 12032
+add_player 5 35378
+play_match 8 4
+add_team 16
+remove_team 21
+remove_newest_player 15
+play_match 8 18
+add_team 7
+remove_team 10
+remove_newest_player 4
+play_match 12 19
+add_team 26
+play_match 22 4
+add_team 6
+add_player 8 29055
+add_player 2 43367
+add_player 29 10757
+remove_team 12
+play_match 24 19
+remove_team 5
+play_match -1 14
+play_match 15 0
+add_team 5
+play_match 24 21
+play_match 28 20
+add_player 9 31581
+remove_team 21
+add_player 10 16458
+play_match 27 9
+remove_newest_player 13
+add_player 19 13891
+add_team -2
+remove_newest_player -1
+remove_team 6
+remove_team 3
+add_player 19 13901
+play_match 5 1
+play_match 24 15
+add_player 15 24715
+add_team 22
+play_match 2 1
+remove_newest_player 16
+add_team 6
+add_team 7
+remove_newest_player 0
+add_team 10
+remove_team 8
+add_player 7 15567
+remove_newest_player 14
+add_player 10 47734
+remove_team 11
+play_match 25 13
+play_match -1 18
+add_player 5 29262
+remove_newest_player 27
+remove_team 27
+remove_newest_player 26
+add_team -1
+add_team 17
+remove_newest_player 24
+remove_team 12
+add_team -1
+remove_newest_player 11
+remove_team 19
+play_match 21 0
+add_player 13 24151
+remove_newest_player 22
+add_team 7
+remove_newest_player 29
+remove_team 8
+remove_team 8
+play_match 16 22
+remove_newest_player 15
+add_player 6 18005
+remove_newest_player 1
+remove_newest_player 27
+add_player 9 16551
+remove_newest_player 4
+play_match 25 7
+remove_newest_player 15
+remove_newest_player 24
+remove_newest_player 15
+remove_team 8
+add_player 5 38094
+remove_newest_player 12
+remove_newest_player 10
+add_team 11
+remove_team 0
+add_team 13
+add_team 6
+add_player 1 18625
+remove_team 11
+remove_newest_player 21
+add_player 4 18721
+add_team 9
+add_player 29 14631
+add_team 16
+add_team 18
+add_player 4 27311
+play_match 11 3
+remove_team 29
+add_team 7
+add_team -1
+add_team 3
+remove_team 23
+play_match 16 2
+add_team 21
+remove_team 24
+remove_team 25
+play_match 6 4
+add_player 27 36490
+add_player 0 28721
+add_team 22
+add_team 7
+play_match 19 4
+remove_newest_player 19
+add_team 1
+add_player 17 23783
+remove_team 13
+remove_newest_player 17
+remove_newest_player 20
+play_match 28 21
+remove_team 24
+add_team 12
+remove_newest_player 20
+add_player 7 21776
+add_player 28 30290
+add_player 21 44669
+play_match 12 6
+add_player 12 19246
+add_player 15 46237
+play_match 5 5
+remove_newest_player 15
+remove_newest_player 25
+add_player 2 31225
+add_team -1
+add_player 13 43885
+add_team 7
+add_player 23 28056
+remove_newest_player 29
+play_match 8 22
+remove_team 22
+remove_newest_player -1
+add_player 5 30284
+add_player 12 15657
+remove_newest_player 5
+add_player 9 13776
+remove_team 19
+remove_newest_player 14
+remove_newest_player 9
+add_player 17 46418
+add_team 6
+remove_team 6
+remove_team 6
+remove_team 12
+remove_newest_player 27
+play_match 15 19
+add_player 17 41775
+add_team 2
+add_player 13 36484
+add_team 25
+add_team 22
+remove_team 29
+play_match 24 18
+add_team 3
+add_player 5 15128
+play_match 8 21
+remove_team 21
+remove_team 8
+remove_newest_player 3
+play_match 10 27
+add_player 27 26532
+remove_newest_player 21
+play_match 20 6
+play_match 12 8
+add_player 29 47747
+remove_team 22
+add_player 5 30582
+remove_team 27
+add_player 28 45287
+remove_newest_player 9
+add_team 22
+add_team 20
+add_team 4
+remove_newest_player 25
+play_match -2 16
+remove_newest_player 21
+remove_team 11
+play_match 1 25
+add_player -2 23939
+add_player 29 12128
+remove_newest_player 7
+remove_newest_player -1
+add_player 11 36700
+play_match 21 2
+remove_newest_player 12
+add_player 0 44110
+add_team 20
+remove_newest_player 5
+remove_team 12
+add_team 12
+play_match 17 16
+play_match 11 17
+play_match 5 21
+add_team 15
+remove_newest_player 4
+add_player 24 41821
+remove_newest_player 24
+remove_newest_player 7
+remove_team 11
+add_team 1
+remove_newest_player 7
+add_player 11 18227
+add_player 8 46081
+add_player 19 45965
+add_team 23
+play_match 11 11
+play_match 8 25
+remove_newest_player 2
+remove_team 7
+remove_team 13
+add_team 17
+add_player 23 37791
+add_player 28 34576
+play_match 23 19
+remove_team 29
+add_team 3
+add_player 4 45177
+play_match 6 9
+remove_newest_player 19
+add_team 23
+remove_team 6
+remove_newest_player 4
+remove_newest_player -2
+play_match 28 -1
+add_team 14
+add_player 24 13610
+add_team 3
+add_team 19
+remove_team 5
+remove_team 7
+remove_newest_player 12
+play_match 14 6
+remove_team 26
+add_team 16
+add_player 19 19435
+add_player 1 19588
+remove_team 7
+remove_team 23
+remove_newest_player 13
+remove_newest_player 4
+play_match 15 21
+remove_newest_player 1
+add_team 14
+remove_team 2
+remove_team 15
+remove_newest_player -1
+play_match 9 9
+remove_newest_player -2
+play_match 29 7
+remove_team 8
+add_team -1
+add_player 22 27684
+add_player 21 42185
+remove_newest_player 8
+play_match 8 23
+add_team 24
+remove_team 6
+remove_team 29
+add_team 2
+remove_newest_player 14
+remove_team 11
+add_player 27 29168
+add_player 27 32628
+add_player -1 27064
+add_player 29 31165
+remove_team 17
+add_team 15
+add_player 13 32850
+remove_newest_player 2
+add_player 2 49125
+add_team 28
+remove_team 7
+play_match 28 27
+remove_newest_player 15
+remove_newest_player 17
+play_match 23 23
+add_player 25 40027
+add_player 29 28973
+play_match 25 24
+play_match 4 3
+play_match 20 12
+play_match 28 10
+add_team 19
+add_player 11 34222
+add_player 2 23589
+add_player 5 45544
+play_match 7 0
+remove_team 23
+remove_newest_player 15
+add_player 25 30551
+add_player 18 33562
+remove_newest_player 4
+remove_team 25
+add_team 20
+add_player 14 39743
+play_match 0 16
+add_player 6 12268
+add_player 22 29381
+remove_team 8
+add_team 16
+add_team 26
+remove_newest_player 15
+add_player 5 33891
+remove_newest_player 25
+remove_newest_player 3
+add_team 0
+add_team 8
+play_match 8 11
+remove_team 3
+remove_team 17
+add_team 20
+remove_team 27
+add_team 24
+add_player 1 20167
+remove_newest_player 3
+add_player 4 27746
+add_player 3 33340
+play_match -1 20
+add_player 27 48730
+remove_newest_player 15
+remove_team 20
+add_player 18 31351
+remove_newest_player 1
+remove_newest_player 20
+remove_newest_player 15
+remove_team 20
+add_team 23
+add_team 28
+remove_team 10
+remove_newest_player -1
+add_player 27 49542
+remove_newest_player 8
+add_player 3 22844
+add_player 25 21277
+remove_newest_player 26
+add_team 22
+remove_team -2
+remove_newest_player 27
+play_match 22 14
+add_player 29 15977
+add_player 27 39751
+play_match 10 27
+remove_team 23
+add_player 9 22055
+remove_team 27
+remove_team 16
+add_team 2
+add_player 29 41551
+add_player 16 25091
+remove_newest_player 18
+remove_newest_player 28
+add_player 4 22042
+add_team -1
+play_match 7 7
+remove_newest_player 9
+add_player 4 47299
+remove_team 24
+add_player 11 12110
+remove_newest_player 8
+remove_team 27
+add_player 8 18675
+remove_team 19
+remove_team 28
+remove_team 22
+remove_newest_player 22
+remove_newest_player 28
+add_team 8
+play_match 29 2
+add_team 5
+play_match 2 17
+remove_team 11
+remove_team 13
+play_match 18 11
+remove_team 26
+remove_newest_player 15
+remove_team 1
+add_team 20
+remove_newest_player 21
+add_player 1 19980
+add_team 0
+add_player 5 42649
+remove_team 14
+add_player 19 37015
+remove_team 28
+add_team 6
+add_team 2
+remove_newest_player 7
+add_team 17
+remove_team 14
+remove_team 3
+remove_team 8
+add_player 0 49208
+play_match 19 -1
+remove_newest_player 4
+remove_newest_player 26
+add_player 18 10815
+add_player -2 25232
+add_team -1
+remove_newest_player 19
+add_player -2 10524
+add_team 0
+add_player 16 41978
+add_player 15 32705
+remove_newest_player 21
+add_team 12
+play_match 4 27
+add_player 6 24696
+add_player 3 47980
+play_match 21 -2
+remove_newest_player 8
+remove_team 5
+play_match 5 23
+play_match 16 6
+add_team 18
+remove_team 0
+play_match 9 11
+add_team 21
+remove_team 4
+add_player 25 20465
+add_player 18 13396
+add_player 22 34592
+add_player 8 46570
+add_team 21
+add_player 17 45234
+remove_newest_player 27
+add_player 11 13257
+remove_newest_player 7
+remove_newest_player 7
+remove_team 19
+play_match 7 1
+add_team 21
+remove_newest_player -2
+remove_newest_player -2
+add_team 14
+play_match 28 -2
+remove_newest_player 29
+play_match 7 1
+remove_team 4
+play_match 27 11
+play_match 0 25
+play_match 10 28
+remove_team 19
+add_team 24
+remove_newest_player 8
+add_team 29
+add_team 25
+remove_newest_player 10
+remove_newest_player 24
+add_player 15 39488
+add_team 5
+play_match 25 3
+add_team 11
+remove_team 26
+remove_team 27
+remove_newest_player 15
+remove_newest_player 23
+play_match 1 21
+add_team 2
+remove_team 25
+add_team 25
+remove_team 17
+add_team 15
+add_player 25 11799
+add_team 27
+add_team 12
+remove_team 0
+remove_team -1
+add_team 2
+add_player 19 14425
+add_player 29 20802
+add_team 3
+remove_newest_player 22
+add_player 28 36182
+remove_team 27
+play_match 16 1
+remove_team -1
+add_team 14
+play_match 3 26
+add_player 0 24541
+add_player 10 49628
+add_team 15
+add_team 21
+play_match 8 15
+remove_newest_player 9
+add_player 24 34608
+remove_team 12
+play_match 13 24
+add_player 0 42082
+add_player 12 14041
+play_match 19 6
+play_match 10 26
+add_player 11 27159
+remove_newest_player -1
+add_team 12
+remove_team 16
+add_player 23 12385
+remove_team 25
+play_match 8 11
+add_player 18 18717
+play_match 27 6
+remove_newest_player 27
+remove_newest_player 10
+remove_newest_player 21
+remove_newest_player 20
+add_team 4
+remove_team 21
+play_match 10 28
+add_player 27 15555
+remove_team 21
+add_player 13 23006
+remove_newest_player 28
+play_match 14 20
+play_match 9 20
+add_player 11 39308
+remove_newest_player 10
+play_match 29 28
+add_player 6 44791
+add_team 27
+remove_team 7
+remove_newest_player 17
+add_team 12
+remove_team 16
+add_team 12
+play_match -2 9
+play_match 4 1
+remove_team 26
+remove_newest_player 2
+add_player 26 14035
+remove_team -2
+remove_newest_player 1
+remove_newest_player 3
+remove_team 0
+add_team 8
+play_match 9 28
+remove_newest_player 1
+remove_newest_player 23
+play_match 21 29
+add_player 20 45587
+add_player 23 37617
+remove_team 25
+remove_team 16
+play_match 13 19
+play_match 3 21
+play_match 2 19
+play_match 28 21
+add_player 25 37204
+remove_newest_player 16
+remove_team 1
+add_player 11 47326
+add_team 8
+add_team -2
+add_team 18
+add_team 27
+add_player 10 22236
+add_player 2 15022
+play_match 3 23
+remove_team 10
+add_team 17
+add_player 25 23661
+remove_newest_player 20
+remove_team 19
+remove_newest_player 19
+play_match 28 21
+add_team 10
+remove_team 1
+add_team 18
+remove_team 1
+add_team 17
+play_match 19 28
+play_match 25 2
+add_player 2 22440
+remove_team -1
+remove_newest_player 4
+play_match 9 5
+remove_team 29
+remove_team 0
+remove_newest_player 2
+play_match 23 2
+remove_team 27
+remove_newest_player 5
+add_player 26 10480
+add_team 9
+add_team 9
+add_player 11 47137
+remove_newest_player 12
+play_match 23 4
+play_match 11 -1
+play_match 25 21
+remove_newest_player 27
+add_player 20 33715
+remove_newest_player 19
+add_team 3
+remove_newest_player 26
+remove_team 20
+add_player 29 48121
+play_match 9 6
+add_player -1 47874
+add_player 19 28356
+remove_newest_player -2
+add_team 5
+add_player 5 32013
+add_team 25
+remove_team 16
+add_player 10 28964
+add_team 23
+remove_team 5
+remove_team 17
+add_player 27 39371
+add_team 8
+add_player 14 33736
+add_team 9
+add_player 0 26382
+add_player 29 20518
+remove_newest_player 25
+remove_team 23
+play_match 18 16
+add_player -1 12758
+add_team 12
+play_match 25 18
+add_player 11 48440
+add_player 21 10365
+add_player 15 21432
+remove_team 6
+add_team 23
+remove_team -1
+remove_newest_player 14
+remove_team 28
+add_player 13 24737
+add_team -1
+add_team 24
+remove_team 16
+add_player 12 31035
+play_match 0 13
+remove_team 23
+remove_newest_player 15
+add_player 1 34680
+play_match 21 26
+remove_team 23
+remove_newest_player 29
+add_player 16 20693
+remove_team 28
+add_player 24 42933
+play_match 3 28
+add_player 15 42434
+remove_newest_player 15
+add_player 5 21994
+add_player 28 26174
+add_player 20 17625
+remove_newest_player 6
+add_player 11 26523
+add_player 27 16993
+play_match 2 22
+remove_newest_player 15
+remove_team 27
+remove_team 22
+add_team 21
+add_player 7 19455
+add_team 5
+add_player 16 33475
+remove_newest_player 29
+play_match 29 0
+play_match 29 3
+remove_team 9
+add_team 2
+play_match 5 24
+add_player 18 29967
+play_match 25 4
+play_match 14 4
+add_team 27
+add_team 20
+add_team 5
+add_team 27
+play_match 14 -1
+play_match -1 -2
+play_match 22 25
+remove_team 11
+add_player 11 22176
+remove_team 7
+remove_team 13
+remove_newest_player 11
+add_player 15 10716
+add_team -2
+add_player -2 27167
+add_player 27 48698
+remove_newest_player 9
+remove_newest_player 16
+add_team 14
+add_player -2 34707
+remove_newest_player 29
+add_team 7
+play_match 6 19
+add_team 25
+remove_team 4
+play_match 26 11
+remove_team 27
+play_match 2 5
+remove_team 11
+remove_newest_player 7
+remove_team 3
+add_player 4 14243
+play_match 22 7
+remove_newest_player 1
+remove_newest_player 7
+remove_team -1
+add_player 8 46025
+play_match 1 -1
+remove_team 7
+add_player 21 40229
+remove_team 23
+play_match 28 21
+remove_newest_player 29
+add_team 13
+remove_newest_player 6
+remove_newest_player 3
+add_team 6
+remove_newest_player 20
+add_player 17 31746
+add_player 28 29055
+remove_team 1
+remove_team 26
+play_match 16 14
+add_player 1 41823
+remove_team 11
+play_match 15 22
+remove_newest_player 9
+remove_team 9
+remove_newest_player 12
+remove_newest_player 24
+remove_team 6
+add_team 1
+add_player 1 20924
+remove_team 24
+add_team 24
+add_team 25
+add_team 10
+remove_team 22
+remove_newest_player -2
+remove_team 8
+add_player 20 31796
+remove_newest_player 20
+add_team 17
+remove_newest_player 29
+add_team 19
+remove_newest_player -2
+remove_newest_player 8
+remove_team 0
+add_player 16 25139
+remove_newest_player 17
+remove_team -2
+remove_team 4
+add_player 24 49173
+remove_newest_player 6
+remove_newest_player 19
+remove_newest_player 13
+add_team 9
+play_match 6 2
+add_team 25
+add_team 16
+add_team 25
+add_player 17 11804
+add_player 4 19571
+add_team 17
+add_player 20 42460
+remove_team -2
+add_team 28
+add_team 13
+remove_newest_player 0
+remove_team 20
+add_player 0 27051
+remove_newest_player 20
+remove_team 26
+add_player 11 37019
+remove_newest_player 14
+add_player 4 26675
+remove_newest_player 21
+add_player 8 12767
+add_team 18
+remove_newest_player -2
+remove_team 10
+add_team 8
+remove_newest_player -2
+add_team 23
+remove_team 13
+remove_newest_player 27
+add_player 23 49068
+remove_team 11
+remove_newest_player 1
+play_match 12 8
+add_team -1
+remove_team 22
+remove_team 4
+play_match 24 24
+add_team 13
+play_match 15 4
+play_match 7 16
+remove_newest_player 0
+play_match 16 4
+remove_team 28
+add_team 12
+add_player 9 32784
+play_match 3 5
+play_match 15 5
+add_player 14 48676
+remove_newest_player 26
+add_team -1
+play_match 12 16
+remove_newest_player 13
+remove_team 14
+remove_team 23
+add_player 16 28327
+add_player 12 46721
+add_team 8
+add_player 21 23778
+remove_newest_player 25
+add_player 19 40511
+add_team 8
+add_team 2
+remove_newest_player 4
+add_player 6 36355
+play_match 29 5
+play_match 6 13
+add_player 12 22540
+add_player 14 17640
+play_match 6 15
+remove_newest_player 19
+remove_team 8
+add_player 10 16666
+add_player 12 34151
+play_match 15 14
+remove_team 3
+remove_newest_player 4
+play_match 2 -2
+add_player 1 33019
+add_team 11
+play_match 29 22
+add_player 3 36137
+remove_team 17
+play_match -1 7
+add_player -2 37583
+play_match 22 25
+remove_newest_player 25
+add_player 1 43580
+remove_newest_player 15
+add_player -2 43666
+add_team 26
+remove_newest_player 0
+play_match 15 8
+add_player 16 29944
+add_player 6 35070
+remove_newest_player 25
+add_player 19 31103
+add_team 4
+add_team 27
+remove_team 13
+add_team 2
+add_player 20 41665
+remove_team 24
+remove_newest_player 2
+remove_newest_player 6
+add_team 20
+play_match 15 6
+remove_newest_player 1
+add_team 23
+remove_team 6
+add_team 0
+remove_team 20
+play_match 4 28
+remove_team 21
+play_match 7 16
+remove_newest_player 11
+remove_team 8
+remove_newest_player 10
+remove_team 9
+remove_team 0
+remove_newest_player 20
+add_team 9
+remove_newest_player 12
+remove_team -1
+play_match 4 27
+add_team 5
+remove_team 26
+add_player 4 22461
+play_match 18 27
+remove_team -1
+remove_newest_player 0
+remove_newest_player 23
+remove_team 10
+add_team 22
+add_team 22
+remove_team 20
+add_team 7
+add_team -1
+play_match 11 -2
+remove_team -2
+add_player -1 37647
+add_team 16
+remove_newest_player 4
+add_team 7
+play_match 15 3
+add_player 1 19472
+remove_newest_player 4
+play_match 18 29
+add_player 15 30677
+remove_team 6
+remove_team -2
+add_team 2
+add_player 7 42903
+play_match 0 0
+add_team 11
+add_player 25 21520
+play_match 16 20
+play_match 6 1
+add_player 18 24839
+remove_team 10
+add_team 23
+add_player 9 17813
+add_player 21 48829
+add_player 24 49704
+add_player 6 30829
+play_match 0 5
+play_match 5 3
+remove_newest_player 26
+remove_newest_player 11
+add_team 11
+remove_team 19
+add_team 29
+add_team 1
+play_match 27 20
+remove_newest_player 9
+remove_team 2
+add_team 4
+remove_newest_player 24
+remove_newest_player 15
+add_team -1
+remove_newest_player -1
+add_team 5
+add_player 21 37485
+add_player 21 18497
+add_player 11 30208
+play_match 17 23
+add_player 11 23831
+play_match 1 12
+remove_team 19
+remove_newest_player 27
+add_team 26
+remove_team 2
+add_team 3
+add_team 0
+add_player 1 37200
+remove_team 2
+play_match 17 17
+add_team 28
+remove_newest_player 20
+play_match 15 13
+remove_newest_player 2
+add_player 7 13108
+remove_newest_player 28
+add_team 23
+play_match 27 24
+remove_newest_player 17
+add_player 10 16522
+play_match 19 23
+add_player 26 18330
+remove_team 9
+add_team 12
+add_team 13
+play_match 21 11
+remove_team -1
+play_match 24 15
+remove_team 6
+add_player 7 42640
+add_team 10
+remove_team -1
+remove_team 12
+play_match 10 12
+remove_team 7
+add_team 18
+remove_newest_player 14
+add_player 4 36473
+play_match 4 5
+remove_team 26
+play_match 13 7
+add_player 27 38616
+remove_team 0
+remove_team 9
+play_match 18 18
+add_team 29
+remove_newest_player 21
+add_team 9
+remove_team 11
+add_team -1
+play_match 19 16
+remove_team 8
+remove_team 28
+add_team 16
+add_player 23 37694
+remove_newest_player 23
+add_player 3 13029
+add_team 21
+add_player 19 21198
+add_team 22
+remove_team 2
+add_player 22 23537
+remove_newest_player 19
+remove_team 6
+remove_newest_player 27
+add_team 17
+remove_newest_player 12
+add_player 6 17776
+remove_team 8
+play_match 28 4
+add_player -1 26553
+remove_team 9
+remove_newest_player 21
+remove_newest_player 23
+add_team 11
+remove_newest_player 25
+add_player 5 31173
+remove_newest_player 5
+add_player 17 16406
+remove_team 14
+add_team 26
+add_player 25 33193
+play_match 0 22
+add_team 5
+add_player 28 13026
+play_match 2 16
+remove_newest_player 17
+remove_team 22
+add_team 3
+play_match 10 7
+add_team 19
+add_team 7
+play_match 15 26
+play_match 14 15
+add_team -2
+play_match 7 22
+add_team 28
+remove_team 9
+add_player 1 30571
+add_player 11 45828
+play_match 22 3
+remove_team 24
+add_team 21
+add_player 4 23919
+add_player 25 20804
+add_player 2 43430
+play_match 12 9
+remove_team 9
