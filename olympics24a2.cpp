@@ -495,6 +495,10 @@ output_t<int> olympics_t::get_highest_ranked_team()
 {
     //std::cout << "max power id: " << maxNode(m_teamsByPower.m_root)->m_info->m_teamID << '\n';
     //std::cout << "max power: " << maxNode(m_teamsByPower.m_root)->m_info->m_power << '\n';
+    if(m_highestRank == 531)
+    {
+        int a = 1;
+    }
     if(m_teamsHash->m_occupancy == 0)
     {
         return -1;
@@ -686,7 +690,7 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
 
 output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
 {
-    TeamByID find(2983);
+    TeamByID find(773);
     Node<TeamByID>* n8 = m_teamsByID->findNode(&find);
     int added_wins;
     /*if(n8 != nullptr)
@@ -856,6 +860,19 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
     int lowrank = m_teamsByPower->rank(lowestInRange);
     int highrank = m_teamsByPower->rank(highestInRange);
 
+    if(n8 != nullptr)
+    {
+        TeamByPower findp(773, n8->m_info->m_wins, n8->m_info->m_power);
+        Node<TeamByPower> *found = m_teamsByPower->findNode(&findp);
+        if(found != nullptr)
+        {
+            int sum_extra = m_teamsByPower->getAddedWins(found->m_info);
+            int total_wins = sum_extra + found->m_info->m_wins;
+            int rank = m_teamsByPower->rank(found->m_info);
+
+        }
+    }
+
 
     int num_in_range = highrank - lowrank + 1;
     int temp = num_in_range;
@@ -891,16 +908,18 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         middleTeam = m_teamsByPower->select(m_teamsByPower->m_root, middle - 1)->m_info;
         m_teamsByPower->addWinsToLessEqual(highestInRange, 1);
         m_teamsByPower->addWinsToLessEqual(middleTeam, -1);
+        m_teamsByPower->updateMaxRec(m_teamsByPower->findNode(middleTeam));
         num_in_range /= 2;
         i = middle;
     }
     if(n8 != nullptr)
     {
-        TeamByPower findp(2983, n8->m_info->m_wins, n8->m_info->m_power);
+        TeamByPower findp(773, n8->m_info->m_wins, n8->m_info->m_power);
         Node<TeamByPower> *found = m_teamsByPower->findNode(&findp);
         if(found != nullptr)
         {
             added_wins = m_teamsByPower->getAddedWins(found->m_info);
+            int total_wins = added_wins + found->m_info->m_wins;
             int n8rank = m_teamsByPower->rank(found->m_info);
             if(n8rank >= lowrank && n8rank <= highrank)
             {
