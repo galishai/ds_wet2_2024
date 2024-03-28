@@ -1939,10 +1939,10 @@ play_tournament: INVALID_INPUT
 play_match: FAILURE
 play_match: FAILURE
 remove_team: FAILURE
-get_highest_ranked_team: SUCCESS, 530
+get_highest_ranked_team: SUCCESS, 532
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 530
-get_highest_ranked_team: SUCCESS, 530
+get_highest_ranked_team: SUCCESS, 532
+get_highest_ranked_team: SUCCESS, 532
 num_wins_for_team: FAILURE
 add_player: FAILURE
 num_wins_for_team: FAILURE
@@ -1961,7 +1961,7 @@ add_team: SUCCESS
 remove_team: FAILURE
 unite_teams: FAILURE
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 530
+get_highest_ranked_team: SUCCESS, 532
 add_player: SUCCESS
 num_wins_for_team: SUCCESS, 0
 add_player: FAILURE
@@ -1975,7 +1975,7 @@ play_tournament: FAILURE
 unite_teams: FAILURE
 num_wins_for_team: FAILURE
 add_player: FAILURE
-get_highest_ranked_team: SUCCESS, 530
+get_highest_ranked_team: SUCCESS, 532
 add_player: FAILURE
 remove_team: FAILURE
 remove_team: FAILURE
@@ -1990,7 +1990,7 @@ num_wins_for_team: FAILURE
 add_team: FAILURE
 add_player: FAILURE
 num_wins_for_team: SUCCESS, 0
-get_highest_ranked_team: SUCCESS, 530
+get_highest_ranked_team: SUCCESS, 532
 unite_teams: FAILURE
 add_player: SUCCESS
 play_match: FAILURE
