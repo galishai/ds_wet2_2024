@@ -8512,22 +8512,22 @@ get_highest_ranked_team: SUCCESS, 2027
 num_wins_for_team: FAILURE
 get_highest_ranked_team: SUCCESS, 2027
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 1921
+get_highest_ranked_team: SUCCESS, 1922
 add_player: FAILURE
-get_highest_ranked_team: SUCCESS, 1921
+get_highest_ranked_team: SUCCESS, 1922
 num_wins_for_team: FAILURE
 unite_teams: INVALID_INPUT
-get_highest_ranked_team: SUCCESS, 1921
+get_highest_ranked_team: SUCCESS, 1922
 add_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 1921
+get_highest_ranked_team: SUCCESS, 1922
 num_wins_for_team: FAILURE
-get_highest_ranked_team: SUCCESS, 1921
+get_highest_ranked_team: SUCCESS, 1922
 play_tournament: INVALID_INPUT
-get_highest_ranked_team: SUCCESS, 1921
+get_highest_ranked_team: SUCCESS, 1922
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 1921
+get_highest_ranked_team: SUCCESS, 1922
 remove_newest_player: FAILURE
-get_highest_ranked_team: SUCCESS, 1921
+get_highest_ranked_team: SUCCESS, 1922
 remove_team: SUCCESS
 get_highest_ranked_team: SUCCESS, 1922
 remove_team: FAILURE
