@@ -104,9 +104,11 @@ void AVLRankTreePower::updateTempExtra(Node<TeamByPower> *node)
 void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
 {
     int right_turns = 0;
+    int extra_sum = 0;
     Node<TeamByPower> *ptr = m_root;
     while (ptr != nullptr)
     {
+        extra_sum = ptr->m_addWins;
         if (*(ptr->m_info) == key)
         {
             if(right_turns == 0)
@@ -132,6 +134,7 @@ void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
                 {
                     ptr->m_right->m_right->m_maxRank -= addWins;
                 }
+                updateMax(ptr->m_right);
             }
             return;
         } else if (*(ptr->m_info) < key)
