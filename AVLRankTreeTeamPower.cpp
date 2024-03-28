@@ -108,7 +108,7 @@ void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
     Node<TeamByPower> *ptr = m_root;
     while (ptr != nullptr)
     {
-        extra_sum = ptr->m_addWins;
+        extra_sum += ptr->m_addWins;
         if (*(ptr->m_info) == key)
         {
             if(right_turns == 0)
@@ -134,7 +134,7 @@ void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
                 {
                     ptr->m_right->m_right->m_maxRank -= addWins;
                 }
-                updateMax(ptr->m_right);
+                updateMax(ptr->m_right, extra_sum + ptr->m_right->m_addWins);
             }
             return;
         } else if (*(ptr->m_info) < key)
