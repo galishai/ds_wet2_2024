@@ -908,7 +908,9 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         middleTeam = m_teamsByPower->select(m_teamsByPower->m_root, middle - 1)->m_info;
         m_teamsByPower->addWinsToLessEqual(highestInRange, 1);
         m_teamsByPower->addWinsToLessEqual(middleTeam, -1);
-        m_teamsByPower->updateMaxRec(m_teamsByPower->findNode(middleTeam));
+        m_teamsByPower->updateMaxTournament(m_teamsByPower->findNode(highestInRange));
+        m_teamsByPower->updateMaxTournament(m_teamsByPower->findNode(middleTeam));
+        //m_teamsByPower->updateMaxRec(m_teamsByPower->findNode(middleTeam));
         num_in_range /= 2;
         i = middle;
     }

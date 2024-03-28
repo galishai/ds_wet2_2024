@@ -71,6 +71,8 @@ void AVLRankTreePower::updateMax(Node<TeamByPower> *node, int addedWins)
     node->m_maxRank = max(node->m_info->m_wins + node->m_info->m_power + addedWins, child_max);
 }
 
+
+
 void AVLRankTreePower::updateMaxRec(Node<TeamByPower> *node)
 {
     int addedWinsPath = this->getAddedWins(node->m_info);
@@ -79,6 +81,17 @@ void AVLRankTreePower::updateMaxRec(Node<TeamByPower> *node)
     {
         updateMax(temp, addedWinsPath);
         addedWinsPath -= temp->m_addWins;
+        temp = temp->m_parent;
+    }
+}
+
+void AVLRankTreePower::updateMaxTournament(Node<TeamByPower> *node)
+{
+    Node<TeamByPower> *temp = node;
+    while (temp != nullptr)
+    {
+        int child_max = max(getMax(temp->m_left), getMax(temp->m_right));
+        temp->m_maxRank = max(temp->m_maxRank, child_max);
         temp = temp->m_parent;
     }
 }
