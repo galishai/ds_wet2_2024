@@ -1,5000 +1,5000 @@
-add_team 5
-remove_team 2
-add_team 15
-remove_newest_player 6
-add_team 14
-add_team 25
-add_team 6
-unite_teams 0 13
-remove_team 5
-remove_team -1
-remove_team 6
-add_player 29 18032
-unite_teams 21 18
-remove_team 6
-unite_teams 29 19
-remove_newest_player 15
-add_player 2 21713
-remove_newest_player 2
-remove_newest_player 16
-add_team 13
-remove_team 0
-unite_teams 9 15
-remove_team 0
-remove_team 1
-add_team 13
-add_player 28 23061
-unite_teams 13 16
-add_player 27 48067
-remove_newest_player 18
-remove_team 13
-unite_teams 22 21
-remove_team 5
+remove_newest_player 12
+unite_teams 5 23
 remove_newest_player 5
-add_player 11 19683
-unite_teams 14 22
-add_team 2
-add_player 18 42841
-remove_newest_player 27
-unite_teams 9 25
-remove_team 1
-add_player 26 27127
-remove_team -2
-add_team 25
-remove_team 5
-add_player 27 11102
-remove_newest_player 25
-add_team 28
-add_team 27
-add_team 2
-unite_teams 16 17
-remove_newest_player 15
-unite_teams 27 18
-remove_team 2
-remove_team 0
-remove_newest_player 21
-unite_teams -1 25
-remove_newest_player 14
-remove_newest_player 5
-add_team 0
-add_player 5 41021
-remove_newest_player 26
-add_player 6 31836
-remove_newest_player 17
-remove_newest_player 20
-add_team 21
-add_team 15
-remove_team 19
-remove_newest_player 23
-add_player 13 49263
-remove_team 9
-remove_newest_player 24
-unite_teams 10 3
-add_team 23
-unite_teams 15 19
-unite_teams 19 28
-unite_teams 3 12
-unite_teams 8 21
-remove_team 17
-remove_team 20
-remove_team 17
-add_team 21
-unite_teams 8 26
-add_team 10
-remove_newest_player -2
-add_team 1
-add_player 2 38295
-remove_newest_player 19
-remove_newest_player 14
-remove_team 16
-unite_teams 23 20
-unite_teams 4 21
-remove_team 10
-add_team 28
-add_player 12 23504
-add_team 10
-remove_newest_player 20
-add_team 20
-remove_newest_player 27
-unite_teams 1 8
-remove_team 6
-remove_newest_player 13
-unite_teams 29 27
-remove_newest_player 11
-remove_newest_player 20
-remove_team 20
-add_player 5 41162
-remove_newest_player 26
-unite_teams 25 22
-unite_teams 13 29
-add_team 4
-remove_team 22
-remove_team 7
-add_player -2 24316
-remove_team 7
-remove_team -2
-add_player 25 19573
-add_player 3 34811
-add_player 25 12072
-add_team 12
-add_team 8
-unite_teams 12 3
-unite_teams 6 20
-unite_teams 16 6
-remove_newest_player 14
-unite_teams 4 17
-remove_team 10
-remove_newest_player 6
-add_player 24 39751
-add_player 13 20613
-remove_team 11
-remove_team 22
-remove_team 13
-add_player 0 33572
 add_team 19
-add_player 14 28603
-add_team 14
-add_player 21 10745
-remove_team 24
-remove_newest_player 29
-remove_team 14
-add_team 6
-add_player 28 16065
-remove_newest_player 12
-add_player -2 33600
-add_team 9
-add_team 26
-remove_team 14
-add_team 12
-remove_newest_player 24
-remove_newest_player 10
-remove_team 10
+unite_teams 14 18
+add_team -1
+remove_newest_player 3
+add_player 27 26054
 add_team 11
-remove_team 22
-add_player 3 26604
-add_player 5 23816
-remove_newest_player 15
-remove_newest_player 25
-add_team 6
-add_player 12 30135
-add_player 15 49245
-add_team 29
-unite_teams 20 26
-unite_teams 23 25
-remove_team 5
-add_player 3 37322
-unite_teams 9 28
-unite_teams 14 28
-unite_teams 29 5
-unite_teams -2 -1
-remove_team 16
-add_team 23
-add_team 2
-remove_team 20
-add_team 2
-remove_team 13
-remove_team 22
-remove_newest_player 20
-add_team 22
-remove_newest_player 14
-add_player 0 46090
-add_player -2 42292
-remove_newest_player 20
-remove_team 23
-remove_newest_player 20
-remove_team 0
-add_player 8 49503
-unite_teams 7 8
-add_player 17 34321
-add_player 27 36526
-remove_team 0
-add_team 10
-unite_teams 17 26
-remove_team 23
-add_team 28
-unite_teams 11 16
-add_team 19
-remove_team 17
-add_player 0 14729
-remove_team 15
-unite_teams 29 25
-add_player -2 44826
-unite_teams 26 1
-remove_newest_player 25
-add_team 25
-remove_newest_player 11
-add_team 27
-remove_team 23
-add_team 5
-remove_newest_player 26
-remove_team 26
-remove_team 3
-add_player 11 18162
-add_team 22
-remove_team 1
-add_player 9 42396
-unite_teams 13 4
-add_team 18
-add_team -2
-add_team 14
-add_team 23
-add_team 18
-add_player 21 12765
-add_team 18
-unite_teams 13 23
-add_team 1
 remove_team 9
-remove_team 18
-add_player 6 39323
-remove_newest_player 8
-remove_team 0
-unite_teams 18 28
-unite_teams 29 6
-remove_newest_player 10
-unite_teams 11 16
-remove_newest_player 14
-add_team -2
-add_player 5 16201
-remove_team 0
-add_player 7 49362
-remove_newest_player 17
-remove_team 12
-remove_newest_player 17
-remove_team 24
-remove_newest_player 25
-remove_team -2
-remove_newest_player 4
-add_team 15
-unite_teams 26 2
-add_player 16 39435
-add_player 27 49141
-remove_team 15
-remove_team 0
-remove_team 17
-remove_newest_player 14
-unite_teams -2 16
-remove_newest_player 29
-unite_teams 15 10
-remove_newest_player 12
-add_player 7 41393
-remove_team 1
-remove_newest_player 14
-unite_teams 1 18
-add_team 11
-add_team 29
-add_player 23 48791
-remove_newest_player 24
-unite_teams 4 10
-add_team 16
-add_player 4 20321
-add_team 27
-remove_team 16
-remove_team 21
-remove_newest_player 0
-remove_team -1
-unite_teams 7 6
-remove_newest_player 27
-unite_teams 12 16
-add_player 17 41898
-add_team -2
-add_player 4 32872
-remove_team 20
-add_team 23
-add_team 20
-add_team 15
-unite_teams 12 8
-remove_newest_player 9
-add_player 18 11139
-remove_team 26
-add_player 20 28864
-remove_newest_player -1
-remove_team -1
-remove_team 7
-add_team 25
-remove_newest_player 29
-remove_newest_player 7
-remove_newest_player 27
-add_team 11
-remove_team 16
-add_player 7 42390
-remove_newest_player 4
-add_team 11
-add_team 3
-remove_newest_player 9
-remove_newest_player 1
-unite_teams 10 14
-remove_newest_player 14
-unite_teams 1 26
-remove_team 24
-remove_newest_player 10
-add_team 13
-remove_newest_player 20
-add_player 7 34432
-add_player 4 46916
-remove_newest_player 16
-add_team 1
-remove_newest_player 4
-remove_team 29
-remove_team 8
-unite_teams 5 9
-remove_newest_player 8
-remove_team 25
-add_player 15 43776
-unite_teams 23 24
-add_team 15
-unite_teams 15 20
-remove_newest_player 10
-unite_teams 27 17
-add_team 28
-add_player 22 32619
-add_player 5 45171
-remove_team 22
-remove_team 11
-remove_team 11
-add_team 28
-add_team 13
-add_player 22 25098
-add_team 19
-remove_team 7
-remove_team 5
-add_player 3 12948
-unite_teams 14 -2
-remove_newest_player 25
-add_player 19 49309
-remove_team 3
-add_player 8 48384
-add_player 28 10418
-add_player 12 30474
-remove_newest_player 8
-add_team 6
-remove_team 22
-add_team 12
-remove_team 3
-remove_newest_player 0
-add_team 3
-add_player 9 29580
-add_player -1 15539
-unite_teams 28 2
-remove_newest_player 23
-remove_team 4
-add_player -1 31038
-remove_newest_player 18
-unite_teams 29 24
-add_player 12 47889
-remove_team 20
-remove_newest_player -2
-add_player 28 19482
-remove_team 19
-add_team 16
-remove_newest_player 12
-remove_newest_player 22
-remove_newest_player 27
-add_player 9 25617
-add_team -2
-add_team 21
-remove_team 11
-remove_newest_player 7
-add_team 15
-add_team -2
-unite_teams 21 2
-add_player 1 46980
-unite_teams 4 13
-remove_team 17
-remove_team 7
-add_player 7 44513
-add_team 29
-add_player 13 11978
-remove_newest_player 9
-remove_team 5
-remove_team 16
-remove_newest_player 19
+add_player 1 38284
+add_player 25 15945
 remove_newest_player 6
-remove_team -1
-unite_teams 18 10
-add_player 9 45165
-unite_teams 22 20
-remove_team 14
-remove_team 7
-remove_team 9
-add_player 12 33575
-remove_newest_player 14
-unite_teams 0 2
-remove_team 14
-add_team -1
-remove_newest_player 12
-remove_newest_player 5
-remove_team 19
-add_team 29
-remove_newest_player 5
-add_team 17
-unite_teams 8 27
-remove_newest_player 1
-remove_team 28
-unite_teams 25 9
-unite_teams -2 27
-remove_team 12
-add_team 11
-add_player 3 34824
-remove_team 20
-remove_team 12
-unite_teams 18 3
-add_team -1
-unite_teams 23 1
-add_player 6 31828
-remove_newest_player 8
 remove_team 25
-unite_teams 16 17
-add_player 5 14954
-remove_newest_player 15
-unite_teams 13 9
-remove_team 13
-remove_newest_player 7
-add_team 11
-remove_team 28
-add_player 27 34732
-add_team 8
-remove_newest_player 14
-remove_newest_player 20
-add_player 8 36319
-remove_team 19
-add_team 15
-remove_team 28
-add_player 9 37674
-remove_team -2
-remove_team 17
-remove_newest_player 23
-add_player 4 49636
-add_player 11 33110
-remove_newest_player 18
-add_player 28 48490
-remove_team 25
-remove_team 22
-remove_team 24
-add_team 17
-add_team 14
-unite_teams 6 6
-add_team 4
-add_team 26
-remove_newest_player 17
-add_team 28
-remove_team -1
-add_team 21
-add_team 12
-add_team 21
-remove_team 19
-unite_teams 10 24
-unite_teams 10 2
-remove_newest_player 6
-remove_newest_player 21
-remove_newest_player 17
-add_team 8
-unite_teams 29 22
-add_player 26 24015
-add_team 16
-unite_teams 7 8
-remove_newest_player 21
-unite_teams 6 27
-add_player 17 37770
-remove_team 13
-add_player 11 25700
-unite_teams 16 4
-remove_newest_player 20
-unite_teams 28 28
-remove_team 5
-remove_newest_player 15
-add_team 1
-add_player 19 39582
-remove_team 19
-unite_teams 19 19
-unite_teams 15 7
-add_player 4 20608
-add_player -2 49272
-unite_teams 12 6
-unite_teams 11 5
-unite_teams 24 17
-add_player 12 42416
-add_player 26 18572
 add_team 27
-remove_team 9
-remove_team 20
-add_player 26 14000
-remove_team 8
-remove_team 9
-add_player 10 16525
-add_player 15 42996
-add_team 5
-remove_newest_player 18
-add_player 7 17104
-add_player 21 49240
-add_player 17 29914
-add_team -1
-remove_team 15
-add_player 15 11464
-add_player 20 22872
-remove_team 8
-remove_team 7
-add_player 10 37614
-remove_newest_player -1
-add_team 15
-add_player 2 33184
-unite_teams 24 15
-add_player 15 26207
-unite_teams 8 16
-remove_team 25
-add_player 20 22045
-add_player 26 20593
-add_team 18
-remove_newest_player 23
-remove_team 11
-unite_teams 21 2
-add_player 15 15308
-remove_newest_player 21
-add_team 4
-add_player 22 48293
-add_player 10 36867
-unite_teams 3 -2
 add_team 24
-remove_team 14
-add_player 15 13612
-remove_newest_player 8
-remove_team 14
-unite_teams -2 20
-add_team 2
-add_player 20 21561
-add_team 8
-add_team 27
-remove_team 27
-remove_newest_player 2
-add_team 25
-remove_team 5
-remove_newest_player 26
-remove_team 16
-add_team 6
-add_team 11
-add_team 18
-remove_team 17
-add_team 23
-add_player 15 16267
-unite_teams 23 7
-remove_newest_player 24
-add_player 11 47952
-add_player 7 21869
-add_team 17
-remove_newest_player 28
-remove_team 26
-remove_team 19
-add_player 22 44245
-add_player 15 47609
-add_team 27
-remove_newest_player 17
-add_player 18 13714
-add_team 9
-remove_newest_player 22
-add_player 24 14654
-remove_team 3
-unite_teams 15 9
-add_player 20 34141
-unite_teams 22 28
-add_player 6 40104
-add_team 16
-add_player 3 49646
-unite_teams 9 25
-unite_teams 25 8
-remove_newest_player 27
-remove_team 27
-remove_team 3
-add_player 18 35295
-remove_team 23
-remove_team 7
-remove_team 3
-remove_team 10
-remove_newest_player 29
-unite_teams 1 21
-remove_newest_player 9
-remove_team 2
-unite_teams 7 5
-add_player 23 24636
-add_player 26 27542
-remove_newest_player 29
-unite_teams -2 17
-add_team 17
-remove_newest_player 11
-remove_team 4
-unite_teams 0 6
-add_team 15
-add_player -1 48316
-remove_newest_player 7
-unite_teams -1 2
-add_player 11 36131
-add_team 10
-remove_newest_player 6
-unite_teams 16 12
-remove_team 3
-add_player 3 19449
-add_player 24 14090
-remove_newest_player 20
-add_team 29
-unite_teams 26 18
-remove_newest_player 29
-add_team 22
-add_player 0 22027
-add_player 12 48560
-remove_newest_player 20
-add_player 20 22197
-remove_team 6
-unite_teams 11 13
-add_team 13
-remove_team 12
-add_player 22 24666
-remove_newest_player 25
-remove_team 17
-unite_teams 20 28
-add_team 10
-add_team 2
-add_team 19
-add_player 24 42496
-add_player 9 13113
-add_player 26 27004
-remove_newest_player 15
-remove_team 27
-add_player 14 29504
-add_team 3
-remove_newest_player 19
-add_team 13
-remove_newest_player 6
-remove_team 18
-add_player 5 44992
-unite_teams 7 22
-remove_team 0
-unite_teams 27 1
-add_team 18
-remove_team 6
-add_team 1
-remove_newest_player 21
-unite_teams 0 1
-add_team 29
-add_player 5 42694
-remove_team 1
-add_team 2
-add_team 10
-remove_team 10
-add_player 7 46891
-add_player 2 22187
-remove_team 5
-remove_team 18
-remove_team 24
-remove_team 5
-remove_team 21
-add_player 26 33284
-remove_newest_player 5
-add_team 19
-add_team 13
-unite_teams 0 18
-unite_teams 11 7
-unite_teams 13 5
-remove_newest_player 22
-unite_teams 16 1
-add_player 22 14470
-remove_newest_player 7
-add_player 21 18356
-remove_newest_player 15
-remove_team 27
-unite_teams 19 3
-add_player 5 28482
-remove_newest_player 9
-remove_newest_player 26
-add_player 20 18647
-unite_teams 21 13
-add_player 1 40087
-add_team 18
-remove_team 8
-remove_team 13
-add_team 23
-remove_team 18
-remove_newest_player -1
-add_team -1
-add_team -2
-add_player 0 11977
-unite_teams 1 20
-unite_teams 13 4
-add_team 10
-add_team 18
-add_team 9
-unite_teams 4 24
-remove_newest_player 12
-unite_teams 15 14
-add_player 22 16889
-remove_team 17
-remove_team 7
-remove_team 26
-remove_team 21
-unite_teams 16 -2
-add_player 7 17800
-remove_newest_player 0
-unite_teams 5 15
-unite_teams 9 27
-remove_newest_player 16
-add_player 15 42877
-add_player 27 30416
-add_team -2
-add_team 8
-add_player 23 38543
-remove_team 29
-remove_team 20
-add_player 29 14028
-remove_newest_player 16
-add_player 4 42249
-add_team 26
-remove_team 8
-remove_newest_player -1
-unite_teams 6 20
-remove_newest_player 14
-add_team 6
-add_team 0
-add_player 20 44037
-add_player 0 25985
-remove_team 15
-add_team 4
-remove_newest_player 2
-unite_teams 1 9
-add_player 23 33737
-add_player 29 34422
-add_player 23 29681
-add_team 20
-add_team -2
-unite_teams 28 2
-remove_team 6
-unite_teams 5 4
-unite_teams 29 8
-add_team 13
-unite_teams 23 17
-add_team 11
-remove_team 13
-remove_team 1
-add_team 3
-unite_teams 9 3
-unite_teams 3 28
-remove_team 28
-add_player 3 22208
-remove_team 20
-remove_team -2
-unite_teams 4 14
-remove_team 8
-add_player 9 14852
-remove_newest_player 27
-add_team 7
-add_team 18
-remove_newest_player -1
-remove_newest_player 24
-remove_newest_player 2
-remove_newest_player 27
-remove_newest_player 5
-add_team 8
-remove_newest_player 16
-unite_teams 15 -2
-remove_newest_player 18
-remove_team 22
-unite_teams 24 8
-remove_newest_player 10
-add_player 3 10790
-remove_team 26
-unite_teams 24 5
-add_player 10 20056
-add_team 29
-add_team 26
-remove_team 13
-remove_team 18
-remove_team 17
-unite_teams 23 28
-remove_newest_player 6
-remove_newest_player -2
-add_player 21 43477
-remove_newest_player 10
-remove_newest_player 26
-remove_newest_player 21
-remove_newest_player 22
-add_player 22 47887
-add_team 29
-add_player 23 20567
-remove_team 26
-add_team 23
-remove_newest_player 16
-remove_team 20
-add_player 0 20786
-add_team -1
-unite_teams 16 3
-remove_newest_player 14
-remove_team 15
-add_player 20 36000
-remove_newest_player 20
-remove_team 5
-add_team 16
-add_team 24
-remove_newest_player 7
-unite_teams 23 4
-add_player 19 36949
-unite_teams 10 14
-add_team 12
-remove_team 4
-remove_team 8
-add_team 14
-add_team 7
-add_team 1
-add_player 22 27122
-unite_teams 27 25
-add_team 15
-add_player 8 40949
-remove_newest_player 4
-unite_teams 25 6
-add_player 0 26475
-remove_newest_player 17
-unite_teams 6 27
-remove_team 6
-remove_team 1
-unite_teams 9 6
-remove_team 19
-add_player 29 40549
-add_team 28
-remove_team 24
-unite_teams 2 21
-add_team 2
-add_player 9 30228
-add_team 29
-add_player 16 22713
-unite_teams 9 13
-remove_team 5
-remove_newest_player 27
-remove_team 6
-add_player 24 28622
-remove_newest_player -1
-remove_newest_player 13
-remove_team 27
-unite_teams 22 23
-add_team 2
-remove_team -2
-remove_team 4
-add_player 22 28228
-add_team 26
-add_player 27 15587
-unite_teams 26 14
-add_team 29
-remove_team 24
-add_team 16
-add_player 0 43081
-remove_team 18
-remove_team 23
-unite_teams 27 13
-remove_team 29
-remove_team 10
-remove_newest_player 21
-add_team 8
-remove_newest_player 8
-unite_teams 11 4
-add_player 25 13662
-add_team 11
-unite_teams 29 1
-remove_newest_player 25
-remove_newest_player -2
-add_player 23 20974
-remove_team 5
-unite_teams 6 6
-remove_newest_player 17
-add_player 2 40507
-remove_newest_player 9
-add_player 0 17094
-add_player 26 26329
-remove_team -2
-remove_newest_player 13
-unite_teams 22 0
-add_player 24 32903
-remove_team 15
-unite_teams 24 4
-remove_team 10
-remove_newest_player -2
-add_player 29 40215
-add_player 1 21180
-unite_teams 14 19
-add_player 11 41778
-remove_team 29
-add_player 9 45452
-remove_team 0
-add_player 2 15285
-remove_team 28
-add_team 20
-remove_newest_player 26
-remove_newest_player 11
-add_player 15 46280
-unite_teams 17 12
-add_player 27 18632
-add_team 28
-remove_team 9
-remove_newest_player 17
-add_team 13
-unite_teams 1 12
-remove_newest_player 23
-remove_newest_player 27
-remove_newest_player 24
-add_team 8
-remove_newest_player 27
-remove_newest_player 8
-remove_newest_player 15
-remove_newest_player 5
-add_player 24 44934
-unite_teams 6 0
-remove_team 19
-add_player 24 40799
-remove_team 25
-unite_teams 28 17
-unite_teams 12 2
-remove_team 27
-unite_teams 7 22
-add_team 2
-remove_team 29
-remove_team 16
-unite_teams 22 5
-add_player 1 36845
-add_team 29
-unite_teams 22 -1
-remove_newest_player 9
-remove_newest_player 12
-remove_team 19
-add_player 19 36343
-unite_teams 8 1
-add_player 19 26128
-remove_newest_player -1
-unite_teams 22 3
-remove_team 5
-unite_teams 0 16
-remove_team 2
-add_player 20 37807
-remove_team 8
-unite_teams 28 2
-add_player 13 46653
-add_team 0
-unite_teams 5 22
-add_team 15
-remove_newest_player 9
-add_team 3
-remove_team 22
-add_team 25
-remove_team 3
-add_player 6 47778
-add_team 10
-remove_team 4
-remove_newest_player 27
-remove_team 2
-add_team 1
-add_player 24 12652
-remove_newest_player 13
-add_player 29 41319
-remove_team 20
-remove_newest_player 26
-unite_teams -2 16
-add_player 19 46866
-remove_newest_player 4
-remove_team 9
-add_player 6 23897
-remove_team 10
-remove_newest_player 21
-unite_teams 25 26
-remove_team 1
-remove_newest_player 10
-add_team -1
-remove_newest_player 18
-unite_teams 21 25
-remove_newest_player 16
-add_player 29 14748
-unite_teams 0 12
-add_team 19
-add_team 14
-remove_newest_player -1
-remove_team 7
-add_team 25
-unite_teams 27 26
-remove_team 7
-add_player 22 24682
-add_player 3 15965
-remove_team 0
-add_player 10 17117
-add_team 27
-unite_teams 5 -2
-add_team 27
-add_team 14
-remove_newest_player 28
-remove_team 14
-add_player 4 38655
-remove_team 1
-unite_teams 0 6
-add_player 9 27665
-add_player 23 10324
-add_team 12
-unite_teams 16 11
-add_team 29
-remove_team 24
-remove_team 1
-add_player 21 49846
-remove_team 21
-unite_teams 22 7
-add_team 25
-remove_newest_player 24
-remove_team 12
-remove_team 5
-remove_team 14
-remove_newest_player 25
-add_player 20 46672
-add_player 2 34257
-add_team 22
-remove_team 13
-remove_team 3
-unite_teams 26 21
-remove_team 17
-unite_teams 3 1
-add_player 11 12052
-add_player 17 11226
-add_team 0
-add_player 27 39922
-add_team 1
-add_team 19
-add_player 28 10452
-add_player 20 18069
-add_player 27 29698
-remove_team 23
-add_team 5
-add_team 29
-remove_team 22
-add_team 28
-add_team 12
-add_player 18 36142
-remove_newest_player 19
-add_team 17
-add_player 6 28658
-add_player 9 48441
-add_team 25
-remove_newest_player 24
-add_player 10 17814
-add_player 17 40927
-remove_newest_player 9
-add_team 24
-unite_teams 19 7
-remove_team 26
-unite_teams 9 2
-unite_teams 8 1
-unite_teams 7 13
-add_player 4 40491
-remove_team 17
-add_player 13 12700
-remove_team -2
-add_player 2 34958
-add_player -1 19693
-remove_newest_player 22
-add_team 5
-unite_teams 9 17
-remove_newest_player 8
-remove_team 11
-add_player 5 28564
-remove_team 21
-remove_newest_player 11
-unite_teams 19 6
-unite_teams 3 3
-remove_newest_player 22
-remove_team 0
-remove_team 28
-remove_team 27
-unite_teams 27 13
-add_team 24
-remove_team 28
-remove_newest_player 16
-remove_team 1
-remove_newest_player 12
-add_player 7 32034
-unite_teams 14 11
-add_team 0
-unite_teams 24 15
-remove_team 13
-unite_teams 26 6
-add_team 23
-add_team 25
-remove_team 14
-add_player 10 25857
-add_team 9
-remove_team 11
-add_team 2
-remove_team 10
-remove_team 25
-unite_teams 15 14
-add_player 11 12401
-remove_team 12
-add_team 3
-add_player 17 39169
-unite_teams 17 17
-add_player 23 37719
-unite_teams 24 12
-remove_newest_player 5
-add_player 28 34288
-unite_teams 9 7
-remove_team 9
-remove_newest_player 16
 unite_teams 1 23
-remove_team 1
-add_team 8
-remove_newest_player 27
-add_team 1
-add_player 29 25248
-add_team 5
-unite_teams 26 9
-remove_team 18
-unite_teams 22 9
-remove_team 23
-remove_team 17
-add_team 5
-remove_newest_player 18
-add_player 9 27745
-unite_teams 5 7
-remove_newest_player 6
-remove_team 10
-remove_newest_player 27
-add_team -2
-unite_teams 24 28
-add_team 11
-remove_newest_player 28
-add_team 29
-remove_newest_player 13
-remove_newest_player 6
-remove_team 23
-unite_teams 29 2
-add_team 22
-remove_newest_player 19
-unite_teams 15 8
-add_team 17
-remove_team 25
-remove_newest_player 8
-add_player 12 39728
-remove_newest_player 22
-remove_newest_player 24
-remove_newest_player 29
-remove_team 0
-add_player 11 30024
-remove_newest_player 9
-add_player 2 47813
-add_team 16
 add_team 4
-add_player 8 27852
-add_player 26 29414
-remove_team 1
-add_player 6 45643
-remove_newest_player 27
-remove_team 15
-add_player 16 19452
-add_player 18 46988
-unite_teams 27 9
-add_team 23
-remove_team -2
-add_player 23 26097
-add_player 8 20218
-add_player 3 39735
-remove_team 12
-unite_teams 19 27
-remove_team 14
-unite_teams 17 27
-remove_newest_player 12
-unite_teams 4 4
-add_team 5
-remove_newest_player 10
-add_player 5 16629
-add_team -1
-add_player 4 11489
-remove_team 27
-remove_newest_player 1
-add_player 2 42016
-remove_team 20
-add_team 1
-add_player 16 46627
-remove_team 21
-add_player 8 11329
-add_player 27 33940
-remove_team 27
-add_player 6 36953
-add_player 0 38727
-add_player 23 15865
-unite_teams 10 22
-add_player -2 24305
-add_player 2 26832
-add_team 22
-add_team 20
-unite_teams 1 5
-add_player 26 36853
-unite_teams 12 16
-add_player -1 17818
-remove_team 21
-add_team 19
-remove_team 21
-add_team 7
-add_player 2 48033
-add_player 1 48598
-remove_team 24
-remove_newest_player 2
-add_team 24
-add_team 24
-add_team 2
-remove_newest_player 5
-remove_team 12
-add_player 1 44455
-unite_teams 14 24
-unite_teams 1 25
-add_team 5
-remove_team 14
-remove_newest_player 6
-unite_teams 23 11
-unite_teams 11 24
-unite_teams 13 11
-unite_teams 21 15
-remove_newest_player 25
-unite_teams 28 29
-remove_team 16
-add_player 6 34630
-add_player 9 39134
-remove_team 15
-add_player 1 40168
-remove_newest_player -1
-remove_newest_player 22
-add_player 16 44430
-unite_teams 25 16
-unite_teams 20 3
-remove_newest_player 19
-remove_newest_player 28
-remove_team 20
-remove_team 16
-add_team 22
-unite_teams 28 7
-add_player 9 23264
-add_player 15 33563
-add_team 26
-remove_team 13
-remove_team 19
-remove_newest_player 17
-unite_teams 28 28
-add_team 21
-add_team 1
-add_player 1 20268
-remove_newest_player 25
-add_team 5
-remove_team 12
-add_player 5 11517
-add_player 23 37148
-remove_team 20
-unite_teams 29 2
-unite_teams -1 11
-add_team 9
-add_team 19
-remove_team 23
-add_player 21 49687
-remove_newest_player -2
-add_team 10
-unite_teams 10 22
-add_team 13
-add_team 26
-add_team 21
-unite_teams 18 29
-unite_teams 21 14
-unite_teams 12 7
-add_team 0
-unite_teams 11 20
-remove_newest_player 0
-add_player 0 11243
-remove_team 14
-unite_teams -1 15
-remove_team 3
-remove_team 29
-unite_teams -1 8
-remove_team 15
-unite_teams 23 8
-add_player -2 13502
-unite_teams 19 2
-add_player 12 39284
-add_player 7 23476
-unite_teams 27 29
-unite_teams 14 7
-add_player 26 40282
-remove_team 29
-add_team 1
-remove_newest_player -2
-remove_newest_player 16
-remove_team 7
-unite_teams 4 -2
-remove_team 27
-add_team 15
-remove_team 1
-unite_teams 19 14
-remove_team 9
-remove_team 10
-remove_team 9
-add_team 0
-add_player 11 33009
-remove_team 7
-remove_team 26
-unite_teams 20 11
-add_team 12
-add_team 22
-remove_newest_player 28
-add_player 6 16772
-remove_newest_player 9
-remove_newest_player 22
-add_team 13
-add_team 3
-unite_teams 11 17
-remove_team 15
-remove_newest_player 24
-unite_teams 3 27
-add_team 7
-add_player 23 37650
-remove_newest_player 12
-unite_teams 19 15
-add_team 17
-add_player 7 27317
-unite_teams 7 18
-remove_newest_player 27
-add_player 11 31284
-unite_teams 22 16
-remove_team 1
-remove_newest_player 15
-remove_newest_player 25
-unite_teams 4 9
-remove_team 14
-add_team 13
-remove_newest_player 13
-remove_newest_player 24
-add_player 2 29376
-unite_teams 15 16
-remove_newest_player 26
-add_player 5 23560
-remove_team 18
-remove_newest_player 0
-add_player 8 33328
-add_player 27 45161
-remove_newest_player 28
-remove_newest_player 8
-remove_team 19
-add_player 26 23505
-remove_team 7
-add_player 21 16000
-remove_team -1
-add_team 21
-remove_team 1
-add_team 24
-remove_newest_player 12
-remove_team 24
-remove_team 20
-add_player 17 40074
-add_player 26 27546
-unite_teams 25 24
-add_team 9
-remove_newest_player 9
-remove_team 28
-remove_team 25
-add_team -1
-add_player 8 22626
-add_player 13 32161
-add_player 9 48548
-add_player 7 40702
-add_player 13 23077
-unite_teams 26 6
-unite_teams 5 9
-add_team 8
-add_team 11
-unite_teams -1 10
-add_player 28 37097
-remove_team 6
-add_team 21
-remove_newest_player 17
-remove_team 3
-remove_team 9
-add_team 2
-unite_teams 6 18
-add_team 7
-add_team 29
-unite_teams 0 -1
-add_player 10 27211
-remove_newest_player 17
-unite_teams 28 19
-add_player 7 27307
-remove_newest_player 17
-add_player 14 30026
-add_player 3 33599
-add_team 5
-add_team 22
-remove_team 7
-unite_teams 29 4
-add_player 7 14854
-add_team 20
-remove_newest_player 0
-add_player 21 29754
-add_team 0
-remove_newest_player 27
-remove_newest_player 18
-remove_team 13
-remove_newest_player 16
-remove_team 1
-remove_team 24
-remove_newest_player 6
-unite_teams 2 19
-unite_teams 24 -2
-remove_team -2
-add_team 19
-remove_newest_player -2
-unite_teams 27 -2
-remove_team 18
-add_team 17
-remove_team 18
-remove_team 29
-add_team 29
-unite_teams 24 13
-unite_teams 22 28
-remove_newest_player 19
-add_team 15
-add_team 5
-unite_teams 27 23
-remove_newest_player 0
-add_player 21 13615
-add_team 18
-add_player 11 34565
-remove_newest_player 25
-unite_teams 22 -1
-add_team 13
-add_team 11
-remove_team 26
-add_team 0
-remove_team 3
-remove_newest_player -1
-remove_newest_player 19
-add_player 12 16928
-add_team 25
-add_team 10
-remove_newest_player 28
-add_team 19
-unite_teams 14 -2
-remove_newest_player -2
-add_team 23
-add_team -2
-add_team 22
-remove_newest_player 11
-remove_newest_player 23
-unite_teams 10 13
-remove_newest_player 5
-add_team 8
-unite_teams 21 26
-remove_newest_player 4
-unite_teams 1 14
-add_team 8
-add_team 15
-remove_team 13
-add_player 27 32777
-add_team 15
-remove_team 9
-add_team 14
-add_player 5 27555
-remove_team 3
-add_player 9 41792
-remove_team 2
-unite_teams 17 24
-remove_team 7
-add_player 24 20231
-remove_newest_player 1
-remove_newest_player 29
-remove_team 28
-add_team 2
-add_team 14
-add_team 28
-add_team 13
-add_player 11 40477
-add_player 22 27191
-unite_teams 1 11
-add_player 22 27923
-unite_teams 12 11
-add_player 7 33020
-remove_team 3
-add_team 23
-add_player 5 34185
-add_team 21
-remove_newest_player 22
-remove_newest_player 4
-add_team 12
-add_player 26 39449
-add_player 17 22194
-add_player 23 32290
-add_team 5
-remove_team 25
-unite_teams 19 11
-add_team 14
-unite_teams 7 9
-remove_team 2
-unite_teams 20 19
-remove_team 22
-add_player -1 38564
-remove_team 9
-add_team 19
-remove_newest_player 29
-add_team 3
-unite_teams 7 12
-remove_newest_player 1
-unite_teams 1 4
-add_player 24 23172
-add_team 12
-unite_teams 6 3
-add_player 21 42858
-remove_newest_player 29
-add_team 17
-add_player -1 41345
-add_player 29 42095
-add_player 22 43120
-unite_teams 21 17
-add_player 8 42357
-remove_team 6
-remove_newest_player 22
-unite_teams 1 9
-add_team 22
-add_player 18 19417
-add_player 5 41485
-remove_newest_player 26
-remove_newest_player 2
-unite_teams 21 23
-add_player 29 41580
-remove_team 4
-add_player 9 25013
-remove_newest_player 12
-remove_team 8
-remove_team 26
-add_player 5 34836
-add_player 29 35599
-add_team 26
-remove_team 22
-add_player 0 48707
-unite_teams 18 22
-add_team 15
-add_player 6 32760
-remove_team 26
-add_player 11 27944
-remove_newest_player 4
-add_player 7 33946
-add_team 11
-unite_teams 9 17
-add_player 19 15872
-add_team 20
-add_player 10 32605
-remove_newest_player 29
-remove_newest_player -2
-remove_team 6
-unite_teams 19 -1
-remove_team 1
-remove_team 2
-remove_newest_player 13
-remove_team 14
-remove_team 20
-remove_team 27
-add_player 8 32945
-remove_team 13
-unite_teams -2 -2
-remove_team 22
-add_team 2
-unite_teams 17 11
-unite_teams 9 16
-add_team 5
-add_player 28 13924
-unite_teams 14 11
-remove_newest_player 24
-remove_team 5
-unite_teams 3 24
-add_team 29
-unite_teams 23 21
-remove_newest_player 12
-add_player 5 48014
-remove_team 26
-remove_newest_player 26
-add_player 16 27934
-add_player 4 16399
-unite_teams -2 5
-remove_newest_player 3
-add_player 19 11025
-remove_newest_player -1
-remove_team -2
-add_player 7 42174
-add_team -1
-unite_teams -2 15
-add_player 28 42506
-add_player 19 43469
-unite_teams 13 13
-add_team 26
-add_player 21 24971
-add_player 5 29702
-add_player 22 44279
-remove_newest_player 13
-add_team 14
-add_team 9
-add_team 15
-remove_newest_player 19
-remove_newest_player 16
-add_team 23
-add_player 24 14263
-remove_newest_player 23
-add_team 1
-unite_teams 23 6
-unite_teams 24 8
-remove_newest_player 21
-add_team 28
-unite_teams 26 -2
-add_team 24
-add_player -2 26190
-unite_teams 16 17
-remove_team 15
-add_player 23 38140
-unite_teams 6 27
-add_team 5
-add_team 17
-remove_team -2
-unite_teams 29 11
-unite_teams 1 11
-remove_newest_player 1
-remove_newest_player 14
-remove_newest_player 11
-unite_teams 24 25
-add_team 25
-add_team 14
-remove_newest_player 9
-add_player 12 41141
-add_player 0 30912
-add_team 8
-remove_newest_player 7
-unite_teams 3 8
-add_player 12 27804
-add_player 8 32420
-remove_team 25
-remove_team 2
-remove_team 15
-add_team 17
-add_player 9 15804
-remove_team 15
-remove_newest_player 22
-add_team -1
-add_team 29
-remove_team 17
-remove_team 9
-add_player 25 34997
-add_player 14 25019
-add_team 2
-add_player 13 20638
-remove_team 14
-remove_team 24
-add_player 13 25532
-add_player 0 28634
-remove_team 21
-remove_team 15
-unite_teams 3 24
-add_player 14 39529
-unite_teams 1 -2
-add_team 7
-remove_newest_player 12
-remove_team 27
-add_team 1
-unite_teams 21 4
-add_player 1 43472
-remove_newest_player 23
-unite_teams 3 18
-add_team 18
-remove_newest_player 23
-unite_teams -2 5
-remove_team -1
-add_team 16
-remove_team 18
-remove_newest_player 17
-remove_team 23
-add_player 26 49029
-add_team 2
-remove_newest_player -2
-remove_team 12
-remove_team 19
-unite_teams 5 8
-add_player -2 45950
-unite_teams -2 14
-remove_team 18
-add_player -2 40658
-add_team 21
-remove_newest_player 2
-remove_newest_player 16
-remove_team 3
-unite_teams 16 18
-unite_teams 21 0
-unite_teams 27 9
-add_player 6 24335
-remove_newest_player 14
-remove_newest_player 1
-remove_team 26
-remove_team 23
-unite_teams 12 11
-add_team 27
-add_player 14 12206
-remove_team -2
-add_team 25
-remove_team 7
-remove_team 0
-add_player 21 43067
-remove_newest_player 1
-remove_team 6
-add_team 23
-add_team 12
-add_player 3 35634
-add_player 1 17610
-unite_teams 12 20
-remove_team -2
-remove_newest_player 6
-add_team 20
-remove_team -2
-remove_newest_player 6
-remove_newest_player 17
-remove_newest_player 18
-add_team 14
-add_team 25
-add_player 2 22100
-unite_teams 9 29
-add_team -1
-remove_newest_player 16
-unite_teams 10 14
-add_player 23 20593
-add_player 22 49272
-add_team 26
-remove_team -1
-add_team 12
-remove_team 10
-remove_team 28
-remove_newest_player 25
-remove_team 5
-add_team 29
-unite_teams 1 8
-add_team 17
-unite_teams 26 21
-add_player 28 14682
-unite_teams 19 22
-add_player 11 35566
-add_team 25
-add_team 14
-remove_team 26
-remove_newest_player 6
+add_player 10 31821
 add_team 4
-add_player 15 44175
-add_team 15
-add_team 11
-add_player 5 29251
-remove_newest_player 12
-remove_team 5
-remove_newest_player 24
-unite_teams -2 19
-remove_team 12
-add_player 9 41831
-unite_teams 2 23
-remove_team 11
-remove_newest_player 25
-unite_teams 25 28
-unite_teams -1 26
-remove_newest_player 28
-remove_newest_player 7
-unite_teams 0 11
-add_team 27
-unite_teams 27 15
-remove_newest_player 7
-remove_team 22
-remove_newest_player 15
-remove_newest_player -2
-add_player 25 36187
-unite_teams 0 29
-remove_team 5
-unite_teams 27 7
-unite_teams 0 19
-remove_team 16
-unite_teams 14 4
-unite_teams 27 4
-add_player 24 24506
-add_team 29
-unite_teams -1 4
-remove_newest_player 27
-remove_newest_player 27
-unite_teams 3 26
-remove_newest_player 12
-add_player 20 43304
-add_team 27
-remove_newest_player 20
-add_team 3
-add_player 24 39918
-unite_teams 9 14
-remove_newest_player 3
-remove_newest_player 20
-add_team 24
-add_player 7 29798
-add_player 21 13341
-add_player 4 23727
-add_team 14
-add_player 14 30448
-remove_newest_player 2
-add_player 18 30614
-unite_teams 2 26
-add_player 17 31688
-unite_teams 1 4
-remove_team 4
-remove_team 20
-remove_newest_player 27
-unite_teams 3 18
-add_team 23
-unite_teams 5 28
-remove_newest_player 3
-unite_teams -1 2
-unite_teams 25 8
-add_team -2
-unite_teams 2 17
-add_team 10
-remove_team 19
-add_team 29
-add_player 20 29730
-remove_newest_player 7
-remove_team 19
-unite_teams 2 13
-remove_team 4
-add_player 4 12169
-add_player 5 16079
-remove_team 27
-remove_team 18
-remove_newest_player 26
-unite_teams 12 18
-add_player 0 48543
-remove_team 5
-remove_team 0
-unite_teams 5 25
-add_player 14 48720
-remove_newest_player 27
-add_player 12 48500
-add_team 19
-remove_team 6
-unite_teams 22 22
+remove_newest_player 18
+add_player 27 28304
 remove_newest_player 0
-add_player 10 46381
-add_team 16
-add_team 10
-remove_newest_player 29
-add_team 29
-remove_newest_player 22
-add_player 6 31284
-unite_teams 5 9
-unite_teams 3 3
-unite_teams 1 27
-add_team 17
-add_team 8
-remove_team 28
-unite_teams 18 17
-unite_teams 22 0
-remove_newest_player 4
-add_team 21
-remove_newest_player 11
-remove_newest_player 0
-remove_newest_player -1
-add_team 22
-remove_team 25
-remove_team 14
-remove_team 24
-add_team 26
-remove_newest_player 7
-add_player 14 18141
-add_team 15
-remove_team 16
-add_player 6 29287
-remove_newest_player 14
-add_player -1 22157
-remove_team 23
-remove_team 14
-remove_newest_player 12
-unite_teams 19 -1
-remove_newest_player 22
-add_player 0 14968
-remove_newest_player 1
-add_team 25
-remove_team 6
-remove_team 20
-add_team 16
-remove_team 7
-unite_teams 15 13
-remove_newest_player 0
-unite_teams -1 11
-remove_newest_player 9
-remove_newest_player 12
-add_player 18 47949
-add_player 27 31391
-add_team 2
-add_team 23
-add_player -2 47574
-add_player -1 47474
-remove_newest_player 4
-unite_teams 14 0
-remove_team 3
-remove_team 13
-remove_newest_player 27
-remove_team 28
-add_team -2
-remove_newest_player 5
-remove_team 20
-unite_teams 21 2
-remove_team 16
-remove_newest_player 2
-remove_team 19
-add_player 5 36748
-remove_newest_player 8
-remove_newest_player 8
-add_player 29 38758
-remove_newest_player 5
-unite_teams 24 27
-remove_newest_player 19
-add_player 23 15081
-add_player 3 49997
-remove_newest_player 23
-remove_newest_player 15
-unite_teams 15 28
-remove_team 14
-unite_teams 5 23
-remove_team 6
-remove_newest_player 10
-unite_teams 17 17
-unite_teams 7 29
-add_player 21 41738
-add_team -1
-add_team 6
-remove_newest_player 23
-unite_teams 28 26
-add_player 25 24384
-unite_teams 29 18
-remove_newest_player 10
-remove_newest_player 2
-unite_teams 2 16
-remove_team 19
-add_team 26
-add_team 16
-unite_teams 4 26
-add_team 13
-remove_team 21
-add_player 14 30352
-remove_newest_player 2
-remove_team 4
-remove_newest_player 11
-remove_newest_player 24
-add_player -2 31518
-remove_newest_player 10
-add_player 26 25213
-add_player -2 38986
-remove_newest_player 10
-add_player 28 47200
-remove_newest_player 17
-add_player 0 47545
-unite_teams 0 2
-add_player 28 21391
-remove_team 1
-remove_newest_player 3
-add_team 22
-remove_team 25
-unite_teams 2 27
-remove_newest_player 14
-add_team 26
-unite_teams 1 19
-remove_team 6
-add_team 13
-add_player 4 15489
-remove_team 8
-unite_teams 11 23
-unite_teams 6 0
-remove_newest_player 14
-remove_newest_player 1
-add_team 16
-add_team 18
-add_player 13 40095
-add_player 12 39104
-remove_newest_player 10
-remove_newest_player 21
-add_player 3 36362
-remove_newest_player 27
-remove_team 16
-add_player 19 46490
-add_player 4 25522
-remove_newest_player 15
-remove_newest_player 6
-remove_newest_player -2
-remove_team 4
-add_player 20 20323
-remove_team 25
-add_player 24 44579
-add_player 27 25252
-add_player 3 25115
-unite_teams 5 -2
-unite_teams 27 23
-remove_team 21
-add_team 18
-add_player 5 34581
-add_player 8 21083
-remove_team 19
-add_player 22 15673
-add_team 11
-unite_teams 14 10
-unite_teams 21 19
-add_team 16
-add_player 13 14765
-remove_team 14
-unite_teams 28 6
-remove_team 14
-add_team 6
-remove_newest_player 1
-add_player 16 34904
-unite_teams 27 15
-remove_newest_player 12
-add_team 18
-unite_teams -1 0
-unite_teams 17 7
-remove_team 21
-add_player 29 24207
-unite_teams 17 4
-add_player 23 39804
-add_team 2
-unite_teams 1 1
-add_team 14
-remove_team 23
-remove_team 3
-remove_newest_player 23
-add_team 2
-add_player 13 23773
-remove_team 10
-remove_newest_player 8
-remove_newest_player 1
-remove_newest_player 6
-add_player 15 22684
-remove_team 29
-add_player 12 23995
-add_player 1 23771
-add_team 5
-unite_teams 3 1
-remove_team 27
-remove_newest_player 12
-add_player 29 13891
-add_team 17
-remove_newest_player 26
-add_player 6 37835
-remove_newest_player 24
-remove_newest_player -1
-remove_newest_player 7
-add_player 4 31987
-remove_newest_player 15
-add_player 1 23279
-add_player 10 41957
-add_team -1
-remove_team -1
-remove_newest_player 23
-remove_team 21
-add_team 28
-remove_newest_player 24
-remove_newest_player 20
-remove_newest_player -1
-remove_team 22
-unite_teams 16 -2
-remove_team 15
-remove_team 28
-remove_team 9
-add_player 1 47841
-remove_newest_player 10
-add_team 28
-add_team 19
-add_team 29
-remove_team 24
-unite_teams 9 26
-remove_team 3
-remove_newest_player 26
-add_team 25
-remove_team -1
-remove_newest_player 6
-remove_newest_player 12
-add_player 3 17679
-add_team 22
-remove_newest_player 14
-remove_newest_player 8
-add_player 12 49273
-unite_teams 14 24
-remove_team 23
-remove_newest_player 11
-remove_newest_player 13
-add_player 11 17290
-add_player 2 32852
-add_team 13
-add_team -1
 unite_teams 19 12
-remove_team 23
-add_team 5
-remove_newest_player 11
-remove_newest_player 23
-add_team 18
-add_team 25
-remove_newest_player 27
-remove_newest_player 1
-unite_teams 16 11
-remove_team 23
-add_team 12
-remove_newest_player 4
-unite_teams 27 13
-add_team 6
-add_team 10
-add_player 9 15290
-add_team 12
-add_player 9 47657
-remove_newest_player -1
-remove_team 26
-remove_team 20
-unite_teams 5 23
-remove_newest_player -1
-unite_teams 24 19
-unite_teams -2 13
-add_team 4
-add_team 7
-add_team 29
-add_team 29
-unite_teams 18 21
-unite_teams 24 -1
-remove_team -2
-add_player -1 17219
-add_team 12
-remove_team 10
-remove_team 25
-add_player 28 41836
-remove_newest_player 12
-unite_teams 22 17
-unite_teams 7 26
-add_player 25 20725
-unite_teams 15 16
-unite_teams 5 9
-add_team 13
-unite_teams 29 -1
-remove_newest_player 19
-unite_teams 10 27
-unite_teams 21 6
-remove_newest_player 7
-add_player 13 49941
-unite_teams 16 0
-remove_newest_player 1
-remove_team 16
-remove_team 21
-unite_teams 7 -2
-add_player 25 49369
-remove_newest_player 5
-add_player 22 26364
-add_player 27 35955
-remove_newest_player 9
-add_player 27 16798
-remove_team 5
-add_player 13 48854
-add_team 8
-add_team 18
-add_player 22 29351
-remove_newest_player 20
-remove_team 25
-add_team 21
-remove_newest_player 9
-remove_team 21
-add_player 26 18617
-remove_newest_player 27
-remove_newest_player 17
-add_player 13 27191
-remove_newest_player 5
-add_team 13
-add_team -1
-remove_team 13
+add_player 20 21627
+remove_team 19
+remove_team 28
 unite_teams 8 27
-add_player 2 35721
-remove_team 2
-remove_team 3
-add_player 11 19052
-add_player 7 32086
-add_team -1
-remove_team 24
-remove_newest_player 1
-unite_teams 27 27
-unite_teams 3 25
-add_team 8
-add_team -2
-add_player 9 32455
-add_team 7
-remove_newest_player 22
-remove_newest_player -1
-unite_teams 23 17
-add_player 28 10302
-add_player 13 14465
-remove_team 21
-unite_teams 27 1
-remove_newest_player 1
-remove_newest_player 26
-remove_team 2
-add_team 21
-unite_teams 20 19
-add_player 20 40999
-remove_team 17
-add_player 11 14791
-remove_newest_player 10
-add_team 17
-add_player 24 12010
-add_player 18 32710
-unite_teams -2 3
-add_team 16
-remove_team 21
-unite_teams 12 9
-unite_teams 16 24
-add_player 8 20618
-remove_team 11
-add_team 4
-unite_teams 2 3
-add_team 12
-add_player 16 31534
-remove_team 2
-add_player -1 38088
-add_player 29 25742
-add_player 25 20770
-add_team 10
-remove_newest_player 29
-remove_newest_player 18
-remove_newest_player 20
-remove_team 28
-add_team -2
-unite_teams -1 2
-add_team 12
-add_player 20 29898
-add_team 28
-add_team 21
-unite_teams 29 15
-unite_teams 11 -1
-remove_team 18
-add_team 6
-unite_teams 3 19
-add_player 3 11147
-remove_newest_player -1
-add_team 21
-add_player -2 19373
-remove_team 28
-add_team 26
-remove_team 23
-remove_newest_player 6
-add_team 24
-remove_newest_player 4
-add_player 14 30078
-add_player 16 19096
-remove_team 23
-unite_teams 20 23
-remove_team 4
-remove_newest_player 11
-add_team 4
-remove_team 26
-remove_newest_player 23
-unite_teams 0 26
-remove_newest_player 7
-add_team 26
-add_team -1
-add_player 16 37849
-remove_newest_player -2
-unite_teams 20 18
-remove_newest_player 23
-add_player 4 17938
-remove_team 29
-add_player 17 30406
-add_team 11
-remove_newest_player 13
-unite_teams -1 28
-add_player 25 11792
-remove_newest_player 29
-add_team 15
-remove_newest_player 7
-add_player 11 14867
-add_team 3
-add_team 7
-remove_team 22
-unite_teams 11 15
-add_team 29
-remove_team 14
-remove_newest_player 27
-add_team 26
-add_team 16
-remove_team 15
-remove_newest_player 22
-unite_teams 7 28
-unite_teams 23 18
-add_team 6
-unite_teams 28 15
-add_team 4
-remove_team 8
-add_team 20
-add_player -1 19666
-add_team 23
-unite_teams 6 5
-remove_team 26
-add_player 27 13301
-remove_team 25
-add_player 3 18659
-remove_newest_player 26
-add_team 7
-add_team 23
-remove_newest_player 8
-unite_teams 10 25
-unite_teams 7 13
-add_player 0 48091
-add_player 10 12439
-remove_newest_player 28
-remove_newest_player 15
-add_player 10 25353
-add_team 12
-unite_teams 26 -2
-add_player 12 23540
-remove_team 25
-remove_newest_player 4
-add_team 24
-remove_newest_player -1
-remove_team 24
-add_team 25
-remove_team 25
-unite_teams 28 5
-add_player 26 21146
-remove_newest_player 16
-add_team 9
-add_player 18 49828
-add_team 0
-remove_newest_player 10
-add_player 28 31815
-add_player 13 23503
-unite_teams 24 4
-unite_teams 19 18
-remove_newest_player 2
-remove_team 7
-remove_newest_player -1
-unite_teams 22 10
-remove_newest_player 5
-add_player 25 37205
-remove_newest_player 29
-add_player 26 28140
-add_player 19 30138
-remove_team 17
-unite_teams 12 4
-remove_team 24
-unite_teams 23 3
-add_player 16 19447
-add_player 3 12981
-unite_teams 13 0
-unite_teams 28 0
-remove_team 6
-unite_teams 5 6
-remove_newest_player 23
-remove_team 1
-remove_newest_player 25
-remove_newest_player 20
-add_team 14
-add_team 4
-add_team 12
-remove_team 10
-unite_teams 23 8
-add_player 28 11459
-add_team 13
-add_team 11
-remove_team -1
-add_player 28 24869
-add_player 16 18631
-add_player 13 10003
-add_player 12 27160
-add_player 20 32842
-remove_newest_player 5
-unite_teams 4 8
-remove_team -2
-remove_team -2
-unite_teams 9 22
-add_player 25 38778
-add_player 3 41923
-unite_teams 5 28
-remove_team 7
-unite_teams 14 8
-remove_team 11
-add_team 23
-add_player 22 45157
-remove_team 0
-remove_newest_player 24
-add_team 5
-remove_team 9
-unite_teams 13 29
-remove_newest_player 25
-add_player 21 43387
-remove_newest_player 21
-unite_teams 1 27
-add_player 25 24893
-unite_teams 16 1
-add_team 3
-add_player -1 25084
-remove_team 24
-unite_teams 13 16
-add_player 10 17829
-unite_teams 14 1
-unite_teams 13 21
-add_team 23
-add_team 24
-remove_newest_player -1
-unite_teams 27 23
-remove_newest_player 20
-remove_team 3
-remove_newest_player 4
-unite_teams 17 20
-add_player 29 21681
-remove_newest_player 4
-add_player -2 44463
-add_team 15
-add_player 16 19230
-add_player 24 16021
-add_team 23
-remove_newest_player 27
-remove_team 15
-remove_newest_player 11
-unite_teams 11 29
-add_team 6
-add_player 16 10340
-unite_teams 18 24
-remove_newest_player 24
-remove_team 5
-add_team 4
-unite_teams 15 20
-remove_newest_player 28
-add_player 28 27227
-remove_newest_player 4
-add_team 10
-add_player 20 14767
-add_team 26
-remove_newest_player 27
-remove_newest_player 4
-remove_team 28
-remove_team 25
-remove_newest_player 26
-add_team 28
-remove_team 4
-unite_teams 0 28
-add_team -1
-unite_teams 2 18
-unite_teams 22 29
-unite_teams 20 25
-remove_team 8
-add_player 18 25919
-add_player 28 24024
-remove_newest_player 2
-unite_teams 16 7
-remove_team 24
-remove_team 4
-remove_newest_player 21
-remove_team 28
-remove_newest_player 7
-remove_team 1
-unite_teams 11 24
-unite_teams 20 -1
-add_player 17 30383
-add_player 19 35976
-remove_newest_player 10
-remove_newest_player 21
-add_team 10
-add_team 4
-unite_teams 17 21
-remove_team 29
-remove_team 0
-add_team 3
-remove_team -1
-add_player 6 49987
-remove_newest_player 2
-add_player 28 42936
-add_player 26 31478
-remove_team 11
-add_team 11
-remove_newest_player 21
-add_team 17
-remove_team 11
-remove_newest_player 13
-add_player 25 49638
-remove_newest_player 12
-add_player 27 39039
-unite_teams -2 17
-add_player 27 42282
-add_player 29 14991
-remove_newest_player 10
-add_player 27 20834
-remove_newest_player 10
-add_player 5 17079
-remove_newest_player 18
-unite_teams 21 21
-add_player 15 26333
-add_player 13 15662
-add_player 17 37689
-add_team 1
-remove_newest_player 18
-remove_newest_player 10
-unite_teams 22 18
-add_team 29
-remove_team 14
-remove_newest_player 19
-unite_teams 0 13
-add_team -1
-add_team 18
-remove_team 17
-unite_teams 22 15
-add_player 21 48424
-add_team 4
-remove_newest_player 9
-add_team 7
-remove_team 15
-remove_team 24
-add_team -1
-unite_teams 3 14
-add_player 23 41259
-add_player 10 31930
-add_team 10
-remove_newest_player 15
-unite_teams 28 0
-add_team 16
-unite_teams 21 1
-add_player 3 40825
-unite_teams 22 13
-add_team 20
-remove_newest_player 27
-remove_team 4
-add_player 8 47908
-remove_team 2
-add_player 2 25239
-remove_team 10
-remove_team 16
-add_player 23 19981
-add_team 28
-add_team 0
-remove_newest_player 13
-add_team 12
-remove_team 7
-remove_newest_player 12
-remove_newest_player 15
-add_player 24 29050
-add_team 24
-remove_newest_player 10
-remove_team -2
-add_player 8 22977
-add_player 28 21440
-remove_team 19
-unite_teams 8 18
-add_team 8
-unite_teams 0 7
-unite_teams 5 4
-add_team 9
-remove_team 23
-remove_team 10
-unite_teams 27 26
-unite_teams 18 15
-add_team 4
-unite_teams 15 18
-add_player 5 15307
-add_team -2
-add_team 0
-remove_newest_player 6
-remove_newest_player 15
-unite_teams 19 27
-unite_teams 21 9
-add_player 19 17803
-add_player 3 39768
-unite_teams 16 25
-add_team 17
-add_player 17 42281
-add_player 3 45082
-add_player 18 30480
-remove_team -2
-add_player 13 47258
-add_player 2 31730
-unite_teams 29 19
-unite_teams -2 15
-unite_teams 14 21
-remove_newest_player 11
-remove_newest_player 16
-add_player 10 42101
-remove_team 21
-unite_teams 17 27
-add_team 0
-add_player 18 19837
-add_team 0
-add_team 12
-add_player 29 10793
-add_player 20 12823
-remove_team 21
-remove_newest_player 5
-add_team 15
-unite_teams 24 -2
-remove_newest_player 26
-add_team 1
-add_player 19 42903
-remove_team 19
-unite_teams -1 18
-add_player 5 23390
-remove_newest_player 13
-add_team 18
-remove_newest_player 9
-add_player 24 43675
-remove_newest_player 16
-remove_team 13
-remove_team 9
-unite_teams 12 23
-remove_newest_player 28
-remove_team 14
-add_player 11 14737
-unite_teams 29 12
-add_team 4
-remove_team 6
-remove_team 0
-unite_teams 6 19
-remove_team 12
-add_player 7 36586
-add_team -1
-remove_team 27
-unite_teams 13 10
-add_team 7
-remove_newest_player 0
-remove_team 13
-remove_newest_player 17
-remove_team -2
-add_player 22 49123
-remove_team 15
-unite_teams 7 3
-add_team 16
-remove_newest_player 13
-add_player 12 48798
-add_team 13
-add_team -2
-add_player 29 29139
-remove_team 4
-unite_teams 19 25
-remove_newest_player 14
-unite_teams -2 16
-remove_team 16
-unite_teams 22 19
-remove_team 17
-remove_team 13
-add_player 7 14346
-remove_team 15
-add_team 23
-add_player 5 41186
-remove_newest_player 11
-add_player 17 15056
-remove_team 7
-add_team 21
-add_team 4
-unite_teams 25 18
-unite_teams 11 8
-add_player 21 44511
-remove_team 6
-remove_newest_player 22
-remove_newest_player 15
-remove_team 5
-remove_team 0
-remove_newest_player 9
-add_player 17 15659
-remove_team 9
-unite_teams 22 16
-add_player 2 37462
-remove_team 29
-unite_teams 22 15
-remove_team 12
 remove_team 20
-unite_teams 5 19
-remove_newest_player 13
-add_team 8
-unite_teams 6 0
-unite_teams 16 7
-remove_newest_player 26
-add_team 1
-add_team 11
-remove_newest_player 29
-unite_teams 13 5
-remove_newest_player -2
-remove_team 17
-add_player 21 19906
-remove_team 19
-unite_teams 19 16
-remove_team 11
-remove_team 18
-remove_newest_player 0
-add_player 16 25560
-remove_team 21
-add_team 24
-unite_teams 11 16
-remove_newest_player 8
-unite_teams 12 -2
-unite_teams 8 -1
-add_team 26
-remove_newest_player 20
-add_player 11 10234
+remove_team 6
+remove_team 1
+add_player 21 12896
+unite_teams 29 25
+unite_teams 28 27
 remove_team 13
-remove_team -2
+remove_team 19
+add_player 27 37134
+unite_teams 18 26
+add_team 27
+remove_newest_player 7
+unite_teams 4 18
+remove_team 14
+add_team 26
 unite_teams 12 7
-remove_team 13
-unite_teams -1 25
-remove_team 9
-add_team 3
-add_team 1
-add_team -1
-add_team 11
-unite_teams 1 13
-remove_newest_player 11
-add_team 17
-unite_teams 12 9
-remove_team 10
-add_team 0
-unite_teams 13 3
-unite_teams 24 21
-remove_team 26
-unite_teams 12 28
-add_player -2 17556
-remove_newest_player 2
-remove_team 26
-add_player 11 48806
-unite_teams 18 7
-unite_teams 5 24
-add_player 13 35952
-remove_team 10
-unite_teams 25 18
-unite_teams -1 4
-remove_newest_player 18
-remove_team 26
-add_team 2
-unite_teams 7 27
-add_player 27 12447
-remove_team 20
-remove_newest_player 13
-remove_team 5
-add_player 13 42962
-add_player 24 39529
-add_team -2
-add_player 1 22937
-unite_teams 26 22
-add_team 28
-remove_team 19
-add_player 2 19560
-add_team 5
-unite_teams 3 18
-add_team 25
-unite_teams 5 8
-remove_newest_player 9
-add_team 23
-remove_newest_player 0
-remove_team 25
-add_player 23 14693
-add_player 24 12702
-unite_teams 5 13
-remove_newest_player 1
-add_player 18 24411
-remove_team 5
-add_team 1
-unite_teams 19 2
-add_team 16
-unite_teams 29 17
-unite_teams 18 2
-remove_newest_player 28
-unite_teams 2 25
-unite_teams 29 27
-add_team 6
-add_team 9
-remove_team 4
-add_team 23
-add_player 6 27395
-add_player 17 30418
-add_team 1
-add_player 19 29971
-add_team 2
-remove_team 23
-remove_newest_player 1
-remove_team 19
-add_player 8 43797
-unite_teams 3 15
-unite_teams 28 8
-unite_teams 16 -2
-remove_newest_player 10
-add_team 18
-add_team 7
-remove_newest_player 21
-unite_teams 19 22
-remove_newest_player 4
-remove_team 10
-remove_team -1
-add_team 24
-add_player 27 13741
-add_player 26 17796
-add_player 9 29527
-add_player 22 13261
-add_player 0 40840
-remove_team 27
-remove_team 1
-add_player 24 45914
-unite_teams 13 3
-remove_team 23
-unite_teams 7 21
-remove_newest_player 1
-add_team 5
-remove_newest_player 28
-unite_teams 18 25
-add_team 14
-remove_newest_player 1
-add_team 15
-unite_teams 2 19
-remove_team 2
-add_team 14
-add_player 6 43628
-remove_newest_player 10
-add_team 10
-add_player 9 27600
-unite_teams 3 17
-remove_newest_player 0
-add_player 22 30109
-add_player 14 37301
-unite_teams 29 13
-remove_team 28
-add_player 18 35594
-remove_team 2
-add_team 24
-add_player -2 40476
-remove_team 3
-add_player 20 33446
-add_team -1
-remove_team 0
-add_team 28
-remove_newest_player 29
-unite_teams 22 8
-add_player 13 31986
-add_player 22 41809
-add_player 27 32329
-add_player 15 38387
-unite_teams -1 1
-remove_newest_player 26
-unite_teams 21 6
-add_player 0 30711
-add_player 13 15560
-unite_teams 11 17
-add_team 23
-add_player 25 45599
-remove_newest_player 18
-remove_newest_player 18
-add_team 10
-remove_newest_player 26
-remove_team 10
-remove_team 23
-unite_teams 2 6
-add_team 24
-remove_team 20
-remove_team 6
-add_player 15 19688
-add_team 29
-add_team 9
+add_team 27
 remove_newest_player 5
-remove_team 12
-unite_teams 10 20
-add_player 24 48862
-remove_newest_player 19
-remove_newest_player 8
-add_team 26
-remove_newest_player 11
-add_team -1
-unite_teams 20 5
-remove_team 23
-remove_team 5
-add_team 29
-unite_teams 29 4
 remove_newest_player 16
-add_team 5
-add_team 9
-add_player 1 13471
-unite_teams 17 22
-remove_newest_player 5
-remove_newest_player 15
-remove_team 20
-remove_newest_player 28
-unite_teams 20 2
-add_player 0 32202
-unite_teams 14 20
-add_player 2 36792
-remove_newest_player 18
-remove_newest_player 16
-remove_team 13
-unite_teams 1 10
+add_player 18 38740
+add_player 21 15330
+remove_team 10
+add_player 9 16508
+remove_newest_player 10
+add_player 22 24905
+unite_teams 10 13
+add_player 1 41952
+add_team -1
 remove_team 4
-unite_teams 17 17
-remove_newest_player 9
-add_player 4 14220
-remove_newest_player 12
-add_player 28 40869
-add_team 5
-add_team 7
-remove_newest_player 14
-add_team 25
-add_team 29
-remove_team 20
-unite_teams 19 28
-add_player 9 26753
-remove_team 5
-unite_teams 11 1
-unite_teams 6 13
-remove_team 13
-remove_team 22
-unite_teams 5 -1
-add_team 3
-remove_newest_player 6
-add_team 29
-add_team 19
-remove_newest_player 17
-add_player 10 46494
-remove_newest_player 23
-unite_teams -2 12
-remove_team 21
-remove_newest_player 7
-add_player 19 22449
-add_team 3
-remove_newest_player 13
-add_player 29 49500
-add_player 29 33009
-unite_teams 7 8
-add_player 3 38063
-remove_newest_player 22
-remove_newest_player 14
-remove_newest_player 5
-remove_newest_player 18
-add_player -2 19221
-unite_teams 17 -1
-unite_teams 25 -1
-add_player 12 34670
-add_player 13 16287
-remove_newest_player 13
-remove_newest_player 5
-remove_newest_player 19
-remove_team 28
-remove_team 24
-add_team 0
-add_team 23
-add_player 12 47264
-add_team 4
-add_team 28
-add_player -2 10289
-add_team 4
-unite_teams 10 -2
-remove_newest_player 13
-remove_newest_player 13
-unite_teams 16 13
+unite_teams 26 24
 remove_team 14
-add_player -1 10642
-add_player 0 12478
-remove_newest_player 3
-add_player 25 41131
-add_team 5
-add_team 18
-add_player 8 19908
-remove_team 23
-remove_team 29
-unite_teams 28 21
-unite_teams 10 2
-remove_newest_player 8
-unite_teams 18 16
-add_player 25 26308
-add_player 18 19993
-add_player 24 41904
-remove_team 9
-remove_team 0
-unite_teams 0 21
-unite_teams 7 18
-add_team 24
-remove_newest_player 9
-remove_team -2
-remove_newest_player 25
-unite_teams 2 15
-remove_team 4
-remove_newest_player 7
-add_team 6
-add_team 4
-remove_team 23
-unite_teams 14 27
-add_player 5 24881
-remove_newest_player 3
-add_team 20
-remove_newest_player 4
-remove_newest_player 11
-add_team 22
-remove_team 8
-remove_newest_player 14
-add_player 21 32223
-unite_teams 24 27
-add_player 23 28048
-remove_team 11
-add_team 24
-remove_team 16
-remove_team 11
-remove_newest_player 23
-unite_teams 29 29
-add_team 27
-unite_teams 8 0
-add_team 19
-add_team 4
-remove_newest_player 28
-add_team 2
-add_team 5
-unite_teams 11 15
-remove_newest_player 18
-remove_team 8
-remove_team -2
-remove_newest_player 28
-add_team 15
-remove_newest_player 5
-add_team 28
-add_player 28 37113
-unite_teams -1 21
-remove_team 4
-add_team 17
-add_team 12
-remove_team 23
-remove_newest_player 14
-add_team -1
-remove_team 4
-add_player 19 47491
-unite_teams 2 8
-unite_teams 25 0
-remove_team 5
-add_player 25 49032
-add_team 4
-unite_teams 26 11
-add_team -1
-add_team 29
-add_player 18 28561
-unite_teams 20 10
-add_player 8 23300
-remove_team 22
-remove_team 11
-remove_team 11
-remove_team 26
-add_player 5 43623
-remove_team 10
-remove_newest_player 5
-unite_teams 1 28
-unite_teams 21 1
-add_player 25 35451
-remove_team 26
-remove_newest_player 14
-add_player 18 27822
-remove_team 23
-add_team 28
-add_team 9
-add_team 25
-remove_team 10
-unite_teams 20 -1
-add_player 10 34833
-remove_newest_player -2
-unite_teams 28 10
 add_team 21
-unite_teams 1 7
-add_player 27 40847
-remove_team 2
-add_player 13 32289
-add_team 17
-remove_newest_player 7
+unite_teams 8 20
+remove_newest_player 25
 remove_newest_player 26
-add_team -2
-add_team 8
-add_team 5
+remove_newest_player 7
 add_team 1
-remove_newest_player 0
-unite_teams 11 9
-add_team 20
-unite_teams -2 1
-remove_newest_player 19
-add_team 9
-unite_teams 16 8
-unite_teams 20 13
-remove_team 27
+remove_newest_player 25
+remove_newest_player -2
 remove_team 4
-add_player 12 12361
-remove_newest_player 22
-add_team 27
-remove_team 5
-unite_teams 13 6
-remove_newest_player 2
+unite_teams 20 12
+unite_teams 15 4
+remove_team 0
+add_player 0 38498
+remove_newest_player 0
+remove_team 19
+remove_newest_player 5
+unite_teams 20 24
+add_team 5
+remove_team 3
+remove_team 26
+remove_team 17
+unite_teams 29 1
+add_player 23 23651
+unite_teams 23 -1
 remove_newest_player 27
-unite_teams 8 1
-add_player 17 37328
-remove_newest_player 22
-unite_teams 20 25
-remove_newest_player 21
-unite_teams 7 4
-remove_newest_player 28
-add_team 27
-add_player 4 29873
-unite_teams 21 29
-unite_teams 7 6
-remove_team 28
-unite_teams -2 15
-unite_teams 16 17
-remove_newest_player 15
-remove_team 10
-remove_team 29
-add_player 11 15249
-remove_newest_player 25
-unite_teams 29 24
-add_player 26 26470
-remove_team 17
-unite_teams 13 24
-remove_team 11
-unite_teams -1 18
-remove_newest_player 14
-remove_newest_player 2
-remove_team 26
-unite_teams 12 11
-remove_team 24
-remove_newest_player 24
-unite_teams 17 26
-remove_newest_player 19
-add_player 24 22792
-add_team 22
-remove_newest_player 24
-add_team 14
-remove_newest_player 13
-remove_newest_player 10
-remove_newest_player 7
-unite_teams 27 13
-add_player 16 48108
-add_team 6
-remove_newest_player 15
-add_team 2
-remove_newest_player 22
-add_player 3 20857
-remove_team 3
-remove_team 2
-unite_teams 13 11
-remove_newest_player -1
-add_player 28 16890
-add_player 22 11996
-add_team 11
-remove_newest_player 9
-unite_teams 29 0
-add_team -2
-add_player 29 46406
-remove_newest_player 25
-remove_team 16
-remove_team 9
-add_team 21
-add_team 14
-add_team 13
 remove_team -2
-remove_team 20
-remove_team 14
-unite_teams 27 29
-unite_teams 29 3
+remove_team 4
 remove_team 7
-remove_team 19
-remove_team 4
-remove_newest_player 20
-add_player 16 43348
-remove_team 4
-remove_newest_player 11
-unite_teams 15 16
-remove_newest_player 26
-add_player 13 45776
-unite_teams -2 16
-unite_teams 26 9
-unite_teams 9 17
-remove_newest_player 15
-add_player 22 33485
-remove_newest_player 1
 remove_team 29
-add_team 0
-remove_team 25
-add_team 15
-remove_newest_player 5
-remove_newest_player 13
-remove_team 11
-add_player 22 18665
-add_team 21
-remove_team 8
-add_player 29 23381
-remove_team 11
-unite_teams 2 3
-unite_teams 15 10
-remove_newest_player 23
-add_team 0
-remove_newest_player 14
-remove_newest_player 11
-unite_teams -2 2
-add_player 18 45590
-add_player -2 22456
-remove_team 28
-remove_newest_player 12
-remove_team -1
-add_team 26
-remove_newest_player 25
-unite_teams 26 14
-unite_teams 10 15
-unite_teams 18 24
-remove_newest_player 4
-add_team 0
-unite_teams 19 28
-unite_teams 10 1
-add_player 15 22370
-remove_team 21
-unite_teams 12 24
-remove_newest_player 25
-add_team 8
-unite_teams 9 1
-remove_newest_player 13
-add_player 11 22013
-add_team -1
-add_team 3
-remove_newest_player 6
-add_player 27 34401
-unite_teams 16 16
-unite_teams 28 9
-add_team 29
-remove_newest_player 13
-add_team 16
-add_player 24 19237
-remove_team 11
-add_player 29 12244
-add_player 19 38883
-add_team 18
-remove_team 16
-remove_team 6
-remove_newest_player 16
-remove_newest_player 3
-add_team -2
-add_team 16
-unite_teams 24 29
-add_team 20
-add_team 5
-remove_team 29
-add_team 25
-remove_newest_player 1
-remove_newest_player 8
-add_team 29
-add_player 11 44944
-add_player 8 42646
-add_player 29 25975
-add_team 10
-remove_team 10
-add_team 19
-add_player 4 45167
-remove_team 6
-unite_teams -2 25
-add_player 28 49879
-remove_newest_player 24
-remove_team -2
-add_player 24 28966
-remove_team 22
-add_player -1 29063
-add_team 1
-remove_team 11
-remove_newest_player 19
-add_team 26
-unite_teams 29 21
-add_player 9 41759
-add_team 12
-add_team 7
-add_team 24
-add_team 5
-add_team 15
-unite_teams -2 19
-remove_team 3
-unite_teams 1 5
-remove_newest_player 15
-remove_newest_player -2
-add_player 5 30722
-remove_newest_player 9
-add_player 18 45612
-add_player 19 28023
-unite_teams 1 -1
-remove_newest_player 12
-unite_teams 10 10
-add_player 17 20435
-unite_teams 9 12
-add_team 14
-unite_teams 10 8
-add_player 19 30320
-add_player 18 14038
-remove_newest_player 2
-remove_newest_player 18
-add_player 15 11220
-remove_newest_player 20
-add_team 28
-unite_teams -1 29
-add_player 15 30015
-remove_newest_player 20
-remove_newest_player 2
-remove_newest_player 1
-remove_team 13
-add_player 8 22443
-add_team 28
-remove_team 11
-add_player 27 45679
-add_team 26
-add_team 8
-add_player -2 35533
-add_team 19
-remove_newest_player 1
-add_player 2 23360
-remove_newest_player 28
-unite_teams 23 18
-add_team 1
-remove_team 2
-remove_newest_player 26
-add_team 0
-unite_teams 18 7
-remove_team 27
-remove_newest_player 9
-add_player 24 38585
-unite_teams 28 28
-unite_teams 23 10
-remove_team 0
-add_player 14 48290
-unite_teams 27 24
-remove_team 14
-unite_teams 5 6
-add_player 11 19676
-remove_newest_player 5
-remove_team 8
-remove_team 17
-add_player 3 32522
-remove_team 15
-remove_newest_player 2
-remove_newest_player 7
-add_player 23 41132
-remove_newest_player -2
-unite_teams 9 21
-add_team 16
-add_team 17
-add_team 13
-remove_newest_player 4
-add_team 9
-add_team 21
-remove_newest_player 29
-unite_teams 2 29
-remove_team 15
-add_team 13
+remove_newest_player 10
+add_player 9 37636
+add_team 27
 unite_teams 12 15
-unite_teams 16 9
-remove_newest_player 24
-remove_newest_player 22
-add_player 18 43229
-remove_newest_player 22
-unite_teams 2 4
-add_player 9 23222
-remove_team 0
-remove_newest_player 6
-unite_teams 26 28
-add_player 20 31047
-remove_team 11
-remove_newest_player 15
 unite_teams 7 15
-unite_teams 27 11
-add_team 16
-remove_team 10
-remove_newest_player 0
-remove_newest_player 13
-remove_team 27
-remove_newest_player 17
-remove_newest_player 20
-add_team 12
-remove_team 15
-add_team 27
-add_player -1 28736
-remove_team 17
-add_player 29 45404
-add_player 6 23823
-add_player 7 42847
-add_team 18
-remove_team -1
-remove_newest_player 1
-remove_newest_player 7
-add_player 11 40751
-remove_team 23
-remove_newest_player 16
-remove_newest_player 29
-add_player 24 16996
-unite_teams 8 26
-unite_teams 18 25
-remove_team 2
-remove_team 17
-add_player 0 43249
-add_player 20 28792
-add_team 13
-remove_team 17
-add_team 6
-remove_newest_player 25
+remove_newest_player 6
+remove_team 7
+add_team 25
 remove_team 13
-add_team 15
-add_team 6
-remove_newest_player 6
-unite_teams 2 18
-remove_newest_player 9
-add_player 2 46212
-remove_newest_player 10
-add_player 22 20888
-add_team 0
-unite_teams 5 10
-add_team 18
-add_player 18 27190
-remove_team 8
-add_player 21 24689
-add_player 0 16239
-remove_newest_player 23
-remove_team 21
-remove_newest_player 27
-unite_teams 27 22
-add_team 15
-add_team 13
-add_player 9 45383
-remove_newest_player 25
-unite_teams 6 19
-add_team 24
-remove_team 24
-add_player 16 32217
+add_player 13 38838
 remove_team -2
-unite_teams 26 27
-add_player 14 34025
-add_player 4 44963
-remove_newest_player 15
-remove_newest_player 14
-add_player 27 49628
-remove_newest_player -1
-unite_teams 13 12
-remove_newest_player 6
-remove_newest_player 0
-remove_team 24
-remove_newest_player 19
-add_player -1 38824
-unite_teams 16 16
-add_player 27 11072
-add_team 21
-remove_team 26
-add_player 29 11593
-remove_newest_player 7
-unite_teams 29 3
-remove_team 3
-remove_newest_player 6
-add_team 1
-remove_newest_player 25
-remove_team 2
-remove_team 2
-add_team 26
-add_player 5 46339
-add_team 7
-unite_teams 11 23
-unite_teams 10 4
-add_player 20 19278
-add_player -2 33650
-add_player 28 17462
-unite_teams 2 2
-unite_teams 12 14
-unite_teams 13 19
-unite_teams 17 26
-remove_team 8
-add_player 5 41151
-remove_team 25
-unite_teams 6 1
-unite_teams 25 -2
-add_team 29
-add_player 26 13870
-remove_newest_player 18
-add_player 11 31730
-add_team 23
-remove_team 8
-remove_newest_player 27
-remove_newest_player 13
 remove_newest_player 16
-remove_team 23
-add_player 8 40407
-add_player 8 24301
-remove_newest_player 0
-unite_teams 25 9
-add_team 1
-add_team 13
-add_player 18 34199
-add_player 1 44183
-unite_teams 10 18
-unite_teams 24 26
-remove_newest_player 7
-remove_newest_player -2
-add_team 9
-add_team 19
-remove_newest_player 20
-unite_teams 3 29
-unite_teams 13 15
-remove_newest_player 29
-add_player 14 27589
-remove_team 27
-remove_team 7
-remove_team 7
-remove_newest_player 6
-add_player 16 32496
-unite_teams 9 17
-add_team 18
-remove_newest_player 12
-remove_newest_player 2
-add_team 28
-add_player 15 39244
-add_player 2 40162
-add_team 7
-add_team 3
-remove_newest_player 21
-add_player 17 44590
-remove_team 4
-remove_newest_player -2
-add_player 0 12368
-remove_newest_player 7
-remove_newest_player 2
-add_team 23
-add_team 29
-remove_team 3
-remove_newest_player 4
-add_team -2
-remove_team 24
-add_player 28 40056
-add_team 26
-add_team 22
-add_player 22 13403
-add_team 20
-remove_newest_player -1
-remove_team 1
-remove_newest_player 2
-add_player 1 46722
-add_team 29
-add_team 21
-add_player 2 10417
-remove_team 14
-add_team 14
-remove_team 17
-remove_newest_player 26
-remove_newest_player 27
-add_team 8
-add_player 22 46902
-add_team 22
-remove_newest_player 11
-unite_teams 27 8
-add_player 6 44843
-add_player 22 33579
-add_team 25
-remove_newest_player 9
-remove_team 0
-add_player 9 25698
-add_player -2 45834
-remove_newest_player 17
-remove_team 20
-unite_teams 29 29
-add_player 28 17742
-remove_newest_player 11
-add_player 12 30428
-unite_teams 3 7
-unite_teams 10 9
-unite_teams 9 15
-add_team 20
-remove_newest_player 28
-remove_team 15
-remove_newest_player 25
-remove_newest_player 21
-remove_newest_player 29
-remove_team 8
-unite_teams 18 28
-remove_newest_player 22
-add_team 21
-remove_team 1
-add_team 16
-remove_team 1
-unite_teams 13 17
-remove_team 12
-remove_newest_player 2
-add_team 18
-remove_newest_player 6
-add_player 29 42824
-add_player 11 11263
-add_team 7
-remove_newest_player 23
-add_team 27
-add_team 1
-add_team 7
-add_team 21
-add_team 12
-unite_teams 15 11
-add_player 9 42726
-add_player 29 13912
-remove_team 23
-remove_newest_player 29
-remove_newest_player 29
-unite_teams 11 5
-add_player 1 31223
-unite_teams 28 0
-remove_newest_player 26
-add_player 2 41492
-add_team 14
-unite_teams -2 4
-add_player 3 45666
-add_player 22 10531
-remove_newest_player 14
-unite_teams 29 13
-add_team 14
-remove_team 18
-unite_teams 23 13
-remove_team -1
-remove_team 16
-remove_team 1
-remove_newest_player 0
-add_team 2
-add_player 18 38183
-add_player 18 11668
-unite_teams 3 4
-remove_team 9
-unite_teams 11 24
-add_player 23 44863
-remove_newest_player 24
-add_player 2 47341
-add_player 1 42710
-unite_teams 7 -1
-add_team 5
-remove_newest_player 7
-add_player 20 26304
-unite_teams 15 8
-unite_teams -2 0
-add_team 6
-remove_newest_player 8
-add_player 25 42860
-add_player 10 19401
-add_team 18
-add_player 18 11749
-remove_newest_player 20
-add_team 18
-add_team 13
-remove_team -1
-remove_team 1
-remove_team -1
-remove_newest_player 11
-unite_teams 4 29
-unite_teams 7 25
-remove_team 24
-remove_team 26
-unite_teams 0 0
-add_team 13
-add_team 9
-add_team 11
-remove_team 27
-add_team 11
-remove_team 29
-add_team 16
-remove_team 8
-remove_newest_player 17
-add_team 22
-add_player 29 34246
-add_player 22 19658
-remove_team 1
-remove_team 23
-remove_newest_player 10
-remove_team 8
-add_team 25
-remove_newest_player 18
-add_team 1
-add_player 1 10375
-remove_newest_player 23
-unite_teams -1 11
-add_team 26
-remove_newest_player 5
-remove_newest_player 11
-unite_teams -1 10
-unite_teams 22 2
-remove_team 24
-add_player 18 23173
-unite_teams 9 1
-add_player 16 23495
-unite_teams 28 23
-unite_teams 12 3
-add_player -2 18963
-add_player 13 42874
-add_player 17 35059
-unite_teams 2 8
-add_player 7 27858
-remove_newest_player 11
-remove_team 8
-remove_newest_player 27
-add_team 27
-unite_teams 9 0
-remove_team 25
-remove_team 12
-remove_newest_player 4
-add_team 7
-add_player -2 49532
-remove_team 27
-unite_teams 24 -1
-remove_team 14
-remove_newest_player 1
-unite_teams 17 4
-add_player 12 49294
-add_player 3 14052
-add_player 28 39145
-add_player 9 11057
-remove_newest_player 7
-remove_team 19
-add_player 13 44965
-remove_newest_player 21
-add_team 3
-add_team 12
-add_team 2
-add_team 20
-remove_newest_player 21
-add_player 2 27890
+unite_teams 29 22
+add_player 10 21370
 remove_team 6
+remove_team 17
+remove_team 4
+add_player 5 11680
+remove_newest_player 26
+unite_teams 5 26
+add_player -1 17080
+add_team 29
 remove_team 29
-remove_newest_player 7
-remove_team 29
-remove_team 19
-remove_team 18
-remove_team 24
-remove_newest_player -1
-add_player 11 37280
-add_team 5
-add_player 23 30349
-add_team 3
-add_player 5 41869
-add_team 4
-add_player 9 15389
-add_player 8 23796
 remove_team 15
-remove_team 23
-remove_newest_player 4
-remove_team 8
-remove_newest_player 15
-remove_team 15
-remove_team 12
-remove_team 2
-unite_teams 22 19
-unite_teams 20 21
-add_team 20
-unite_teams 19 21
-unite_teams 4 22
-add_player 23 31238
-unite_teams 20 18
-remove_team 9
-add_player 25 32703
-add_team 20
-remove_newest_player 3
-add_team 16
-add_player 24 30099
-unite_teams 15 17
-add_player 0 21883
-add_player 19 34889
-remove_team 21
-unite_teams 2 15
-remove_newest_player 1
-add_team 22
-unite_teams 28 -1
-unite_teams 27 18
-remove_newest_player 12
+remove_team 1
+add_player 4 36150
+add_player 1 22575
+unite_teams 28 12
+add_team 25
+add_team 25
+unite_teams 19 27
 unite_teams 17 12
-add_player 26 31939
-add_player -2 18069
-add_team 4
-add_team 16
-remove_newest_player 26
-unite_teams 13 10
-remove_team 26
-unite_teams 13 5
-remove_newest_player 23
-add_player 28 12860
-remove_team 11
-add_team 13
-unite_teams 14 13
-unite_teams 24 29
-add_team 6
-unite_teams 8 18
-add_player 24 31654
-remove_team 12
-add_player 17 18299
-unite_teams 22 8
-remove_newest_player 24
-unite_teams 18 10
-unite_teams 1 14
-remove_newest_player 16
 remove_newest_player 10
-add_team 28
-unite_teams 25 -1
-add_team 21
-remove_team 3
-add_team 5
-add_player 1 11502
-remove_newest_player 17
-unite_teams 13 18
-add_team 6
-add_player 22 19265
-add_team 8
-remove_team 19
-remove_newest_player 26
-remove_team 7
-add_player 12 29807
-add_team 20
-add_player 20 21492
-remove_newest_player 25
-remove_newest_player 25
-unite_teams 17 -2
-add_player 23 34057
-remove_team 1
-add_team 17
-remove_newest_player 23
-unite_teams 4 12
-add_team 8
-remove_team 11
-remove_team 25
-add_team 25
-remove_team 15
-add_team 28
-add_team 2
-unite_teams 26 13
-remove_team 19
-remove_newest_player 3
-unite_teams 1 8
-remove_team 1
-unite_teams 12 9
-remove_newest_player 12
-remove_team -2
-remove_team -1
-add_player 7 37249
-add_team 2
-remove_team -1
-unite_teams 11 7
-add_player 2 36342
-unite_teams 2 9
-unite_teams 7 13
-add_team 18
-add_team 3
-add_player 27 37308
-add_player 26 38207
-remove_newest_player -1
-add_player 0 26856
-add_team 1
-remove_team 22
-add_player 11 12016
-add_team -2
-add_player -1 45719
-remove_team 26
-add_team 10
-unite_teams 14 10
-remove_team 0
-add_player -2 17502
-remove_newest_player 18
-unite_teams 8 8
-remove_newest_player 22
-unite_teams 20 5
-remove_team 24
-add_player 5 26949
-unite_teams 3 16
-unite_teams 26 12
-unite_teams 18 23
-add_team 15
-add_player 9 33311
-remove_newest_player 4
-unite_teams 10 23
-add_team 1
-remove_team 5
-unite_teams 22 7
-add_team 15
-remove_team 9
-add_team 5
-remove_team 24
-add_player 29 24669
-add_team 18
-remove_team 28
-remove_team 4
-add_team 13
-remove_newest_player 29
-add_player 2 35813
-remove_newest_player 20
-remove_newest_player 14
-add_player 16 33496
-remove_team 23
-add_player 25 31814
-add_team 24
-add_team 5
-remove_newest_player 20
-unite_teams 8 6
-remove_newest_player 16
-add_team 25
-add_team 12
-remove_newest_player 22
-remove_newest_player 6
-remove_team 24
-unite_teams 5 11
-unite_teams 12 9
-remove_team 12
-remove_newest_player 2
-remove_newest_player 22
-add_player 21 23238
-remove_team 5
-remove_team 21
-add_team 16
-remove_team 1
-remove_newest_player 14
-add_team 11
-remove_team 18
-add_player -2 14114
-add_team 24
-add_team 23
-remove_team 16
-add_team -2
-add_team 2
-unite_teams 4 5
-unite_teams 26 25
-add_team 0
-unite_teams 12 12
-add_player 1 31149
-remove_newest_player 12
-add_player 1 30781
-add_team 6
-unite_teams 12 7
-remove_team 22
-add_team 16
-remove_team 29
-add_team 10
-remove_team 19
-remove_newest_player 5
-add_team 19
-remove_newest_player 10
-remove_newest_player 22
-add_team 8
-remove_newest_player 29
-remove_team 14
-remove_team 8
-add_team 11
-remove_newest_player 12
-unite_teams 13 7
-add_team 7
-unite_teams 27 17
-unite_teams 27 7
-add_team 1
-add_player 12 29417
-add_player 19 23158
-unite_teams 22 18
-unite_teams 4 9
-add_team 20
-unite_teams 5 21
-add_player 15 44969
-remove_newest_player 27
-add_player 14 17104
-add_team 16
-add_player 3 39661
-unite_teams 27 21
-add_team -2
-add_player 21 25495
-add_team 27
-add_player -2 13362
-remove_newest_player 22
-add_player 21 28396
-unite_teams 13 -2
-remove_newest_player 12
-remove_newest_player 2
-add_team 15
-add_player 0 21569
-add_team 27
-remove_newest_player -1
-remove_newest_player -2
-remove_team 9
-add_player 13 33271
-remove_team 12
-add_player 9 45361
-unite_teams 22 20
-add_player -1 34548
-remove_team -2
-remove_newest_player 2
-remove_newest_player 14
-remove_newest_player 5
-add_team 18
-remove_team 29
-remove_team 6
-remove_newest_player 2
-remove_team 25
-remove_newest_player 4
-add_player 8 27545
-remove_newest_player 16
-unite_teams 6 -1
-add_team -1
-remove_newest_player 26
-remove_newest_player 3
-add_team 13
-remove_team 25
+unite_teams 15 17
+remove_team 20
 remove_team 17
-add_player 13 49912
-unite_teams 15 29
-add_team 29
-add_player 2 20321
-remove_team 22
-remove_team 16
-unite_teams 25 15
+unite_teams 21 21
 remove_team 7
-add_player -1 35832
-add_player 23 37280
-unite_teams 6 15
-add_player 20 32008
-unite_teams 12 13
-remove_team 12
-add_player -2 48157
-unite_teams 19 14
-remove_team 9
-add_player 15 15369
-add_player 12 42972
-remove_team 18
-unite_teams 10 22
-add_team -2
-unite_teams 23 2
-remove_team 14
-remove_newest_player 1
-unite_teams 18 17
-add_player 5 42016
-remove_newest_player 27
-add_team 28
-unite_teams 28 3
-remove_team 12
-unite_teams 21 16
-remove_team 13
-remove_team 13
-add_team 18
-add_player 3 15707
-add_team 25
-remove_newest_player 8
-unite_teams 27 18
-remove_team 23
-unite_teams 12 22
-add_team -2
-remove_newest_player 7
-remove_newest_player 25
-add_player 22 12602
-remove_newest_player 7
-add_team 25
-add_team 17
-remove_newest_player 10
-unite_teams 26 29
-unite_teams 13 6
-remove_newest_player 1
-unite_teams 21 14
-add_team 4
-add_player 6 48616
-unite_teams 22 20
-add_team 11
-add_player 17 34671
-remove_team 20
-unite_teams 1 1
-add_team 20
-remove_newest_player 22
-remove_newest_player -2
-unite_teams -1 3
-remove_team 27
-add_player 5 18031
-add_player 20 36168
-add_player 6 32111
-add_team 4
-add_team 8
-add_player -2 47149
-remove_newest_player 10
-unite_teams -2 13
-add_team 9
-add_team 18
-unite_teams -1 29
-remove_team 5
-remove_newest_player 26
-unite_teams 23 20
-remove_newest_player 15
-unite_teams 13 4
-remove_team 28
-remove_team 12
-add_player 3 23819
-add_player -2 34651
-remove_newest_player 23
-add_team 5
-remove_newest_player 28
-remove_team 2
-add_team 28
-add_team 17
-add_player 22 29913
-remove_newest_player 25
-add_team 13
 add_team -1
-remove_newest_player 26
-add_team 12
-remove_team 5
-unite_teams 10 28
-remove_team 26
-add_player 11 32571
-add_team 19
-add_team 1
-add_player -2 12424
-add_player 27 28209
-unite_teams 17 8
-remove_team 5
-add_player 3 38199
-remove_team 20
-add_player 0 30302
-remove_newest_player -1
-unite_teams 21 12
-unite_teams 20 23
-add_player 19 13294
-add_player 25 17239
-remove_newest_player 13
-unite_teams -2 19
-add_team 14
-add_team 13
-add_team 5
-add_player 5 16970
-unite_teams 6 13
-add_player 13 32786
-remove_newest_player 28
-remove_newest_player 19
-add_team 29
-unite_teams 15 16
-unite_teams 0 3
-add_player 19 19070
-add_team 11
-unite_teams 1 1
-remove_newest_player 29
-unite_teams 15 29
-remove_team 18
-add_team 23
-add_player 24 42256
-add_team 4
-remove_newest_player 10
-remove_team 24
-add_player 4 10941
-add_team 11
-remove_team 16
-remove_team 22
-add_player 17 30088
-remove_team 6
-remove_team 5
-add_team 20
-add_team 26
-unite_teams 9 1
-add_player 0 39506
-remove_team 12
-remove_team 5
-remove_team 6
-add_player 19 14916
-remove_team 18
-unite_teams 20 26
-remove_team 26
-add_player 1 22009
+remove_team -1
 add_team 27
-add_team 28
+add_team 24
+add_team 3
+remove_newest_player 10
+unite_teams 7 21
+remove_newest_player 6
 add_team 13
-unite_teams 25 27
+add_player 16 22730
+remove_team 27
+remove_team 3
+add_team 6
+remove_newest_player -2
+unite_teams 15 23
+unite_teams 25 -2
+add_team 27
+remove_newest_player 18
+remove_team 19
+unite_teams 12 14
+add_player 24 19189
+add_player 17 41993
+remove_newest_player 11
+add_team 16
+remove_team 17
+remove_team 4
+add_player 11 15156
+unite_teams 21 10
+remove_newest_player 28
+remove_newest_player 21
+add_team -1
+add_team 6
+add_team 8
+add_team 24
+add_player 24 32846
+remove_team 20
+unite_teams 15 16
+remove_newest_player 27
+add_team 16
+remove_newest_player 6
+add_team 8
+add_player 8 37449
+add_team 12
+remove_team 15
+remove_newest_player 13
+remove_newest_player 29
+add_team 5
+add_team -2
+remove_team 24
+add_player 0 39366
+add_player 3 12834
+add_player 24 30388
+add_team -1
+add_team 11
+add_team -1
+add_team 1
+remove_newest_player 8
+remove_team 27
+add_team 23
+remove_newest_player 21
+remove_team 26
+add_team 8
+unite_teams 0 22
+add_player 16 32519
+remove_newest_player 25
+unite_teams 1 3
+add_team 2
+add_player 1 25407
+add_team 22
+unite_teams 22 -1
+add_team 3
+remove_team 5
+remove_team 5
+add_player 10 14494
+remove_newest_player 29
+remove_team 16
+add_player 15 10807
+unite_teams 25 12
+remove_team 11
+remove_newest_player 3
+remove_team 29
+add_player 19 37752
+add_player 13 13465
+remove_team 8
+remove_team -2
+remove_team -2
+remove_newest_player 11
+remove_newest_player 11
+unite_teams 6 16
+unite_teams -1 12
+add_player 15 35324
+add_player 24 43128
+remove_newest_player 2
+remove_newest_player 18
+add_team 21
+add_team 2
+add_player 8 19446
+add_team 29
+remove_newest_player 1
+add_player 12 17098
+remove_team 23
+add_team 5
+add_player -1 26197
+unite_teams 3 14
+unite_teams 3 14
+unite_teams 17 24
+remove_newest_player 13
+remove_team 6
+remove_team 3
+remove_team 5
+add_team 15
+add_player 20 41559
+add_player 21 38339
+remove_newest_player 23
+remove_newest_player 21
+remove_newest_player 5
+add_team 17
+add_player 18 17097
+add_player 24 13107
+add_player 21 17635
+remove_newest_player 17
+unite_teams 13 13
+add_team 10
+add_team -1
+add_player 23 43493
+remove_team 27
+add_team 2
+remove_team 9
+remove_team 28
+add_player 8 11898
+add_team 24
+remove_team 1
+unite_teams 2 0
+add_team 17
+remove_newest_player 10
+remove_team -2
+remove_team -1
+unite_teams 5 11
+add_team -1
+unite_teams 6 0
+add_player 20 27248
+add_player 23 32182
+add_team 27
+unite_teams 1 21
+remove_team 6
+remove_team 27
+unite_teams 3 29
+add_player 4 10468
+add_player 12 36939
+add_player 14 43223
+remove_newest_player 22
+unite_teams 11 5
+add_team 5
+unite_teams 3 23
+add_player 11 38184
+remove_team 2
+remove_newest_player 10
+add_team 3
+add_player 21 42402
+add_team 3
+add_player 15 11946
+remove_newest_player 8
+remove_newest_player 29
+unite_teams 14 1
+add_team -2
+unite_teams 21 9
+unite_teams 7 14
+add_team 4
+unite_teams -2 4
+remove_newest_player 17
+add_player 23 42220
+unite_teams 18 1
+unite_teams 16 18
+remove_newest_player 11
+add_team 9
+add_player 10 21944
+unite_teams 19 18
+add_player 27 41995
+remove_newest_player 9
+unite_teams 17 16
+unite_teams 2 29
+add_team -1
+unite_teams 23 3
+remove_newest_player 26
+add_team 29
+add_team 8
+remove_newest_player 23
+add_player 26 40206
+add_player 6 25872
+add_team 6
+unite_teams 26 4
+add_team 28
+remove_team 15
+remove_newest_player 24
+add_team 4
+remove_newest_player 19
+add_player 3 46346
+unite_teams 25 1
+add_team -2
+remove_newest_player 23
+remove_team 19
+add_player 3 47184
+unite_teams -2 18
+add_team 10
+add_player 4 15403
+add_team 18
+remove_team 4
+add_player 15 24727
+unite_teams 14 20
+add_player 20 29798
+add_player 28 32001
+add_team 7
+unite_teams 29 20
+add_player 15 41669
+add_player 4 21162
+add_team 15
+remove_newest_player 4
+unite_teams 3 23
+remove_team 2
+add_player 14 39196
+remove_newest_player 20
+remove_team 27
+remove_team 4
+remove_team 6
+unite_teams 7 17
+remove_team 19
+add_team 15
+unite_teams 25 7
+remove_team 6
+add_player 1 38658
+unite_teams -1 21
+add_player -1 28266
+remove_team 10
+remove_team 9
+add_team 7
+add_player 14 15947
+remove_team 6
+remove_team 20
+remove_newest_player 29
+remove_newest_player 3
+add_team 14
+unite_teams 15 18
+add_team 21
+remove_team 8
+remove_team 25
+remove_team 8
+add_player 16 15329
+add_player 20 18466
+remove_team 1
+unite_teams 15 12
+unite_teams 7 10
+add_team 12
+remove_team 19
+add_player 28 22878
+add_team 21
+add_team 12
+add_team 17
+add_player 17 42355
+add_team 20
+unite_teams -2 27
+add_player 25 17937
+remove_newest_player 7
+remove_newest_player 29
+remove_newest_player 23
+remove_team 2
+add_player 16 31877
+add_team 13
+remove_team 19
+remove_newest_player 28
+remove_team 16
+remove_team 8
+remove_newest_player 18
+add_team 20
+add_team 4
+add_team 24
+remove_team 13
+add_team 1
+add_player 9 49596
+unite_teams -2 1
+remove_newest_player 17
+remove_newest_player 12
+remove_team 19
+add_player 2 18087
+remove_team 2
+remove_team 25
+remove_newest_player 20
+remove_team 5
+add_player 16 10835
+add_player 19 37399
+remove_newest_player 28
+remove_team 27
+add_team 26
+remove_team 9
+add_team 25
+remove_team 21
+remove_team 1
+remove_newest_player 23
+remove_newest_player 17
+add_team 6
+remove_team 12
+add_player 0 48235
+unite_teams 16 2
+unite_teams 8 26
+add_player 7 46213
+remove_newest_player 27
+add_player 8 13530
+add_player 17 39495
+remove_team 20
+unite_teams 22 29
+unite_teams 26 15
+remove_team 13
+add_team 11
+remove_newest_player 5
+unite_teams 4 29
+remove_newest_player 16
+unite_teams 7 22
+add_team 25
+remove_team 8
+remove_team 19
+unite_teams 6 -2
+add_team 28
+remove_newest_player 9
+add_team 27
+remove_newest_player 29
+unite_teams 26 29
+add_player 9 16357
+add_team -2
+add_player 23 21133
+remove_team 6
+remove_newest_player 21
+remove_team 17
+remove_team 5
+add_team 4
+add_player 14 19943
+remove_newest_player 14
+remove_newest_player 8
+unite_teams 25 16
+add_team 5
+remove_team 8
+add_player 19 12834
+add_team 3
+unite_teams 28 20
+add_team 27
+remove_newest_player -1
+remove_team 2
+remove_team 18
+unite_teams -2 13
+add_team 1
+remove_newest_player 21
+unite_teams 11 17
+remove_newest_player 6
+remove_newest_player 16
+remove_newest_player 15
+remove_newest_player 27
+remove_team 20
+add_team 21
+add_team 7
+add_team 23
+add_team 20
+add_team 9
+unite_teams 14 17
+remove_team 21
+remove_newest_player 2
+add_team 13
+remove_team 19
+remove_team -1
+remove_team 21
+add_player 18 21508
+remove_team 8
+add_team 8
+add_player 8 15937
+add_player 0 32397
+remove_team 5
+remove_team 25
+add_player 23 40771
+remove_team 9
+remove_team 24
+add_player 22 19133
+add_player 3 24677
+unite_teams 7 -2
+remove_newest_player 3
+add_team 17
+remove_newest_player 25
+unite_teams 1 27
+unite_teams 15 4
+unite_teams -2 21
+add_team 13
+remove_newest_player -2
+remove_newest_player 5
+remove_newest_player 17
+add_player 13 14680
+unite_teams 17 25
+add_team 24
+remove_team 3
+remove_newest_player -1
+remove_team 17
+add_player 11 18913
+unite_teams 14 2
+add_player 1 18242
+remove_team 23
+unite_teams 11 -1
+unite_teams 2 1
+add_team 17
+add_player 8 18325
+remove_team 7
+add_team 18
+remove_team 24
+remove_team 26
+add_team 20
+remove_team 27
+remove_newest_player 21
+add_team 24
+add_player 7 12919
+unite_teams 4 -2
+unite_teams 11 24
+add_player 26 23076
+unite_teams 14 12
+remove_team 6
+unite_teams 1 9
+unite_teams 15 -1
+add_team 14
+remove_team 22
+add_player 26 22384
+remove_newest_player 18
+remove_team 0
+add_team 0
+remove_team 7
+add_team -1
+remove_team 15
+add_player 6 16223
+add_team 16
 add_team 18
 remove_team 8
+remove_team 27
+add_team -2
+unite_teams 8 2
+remove_team 29
+add_team 17
+add_player 6 28221
+add_player 13 49493
+unite_teams 1 22
+add_team 13
+remove_team 14
+remove_newest_player 20
+unite_teams 11 5
+add_player 23 30295
+add_player 3 30035
+add_player 15 35628
+remove_team 16
+unite_teams 8 4
+remove_team 2
+unite_teams 22 4
+remove_team 4
+unite_teams 7 9
+unite_teams 28 12
+remove_newest_player 11
+add_player -1 39579
+add_team 0
+add_player 8 40010
+unite_teams -1 23
+remove_team 23
+remove_newest_player -2
+unite_teams 0 18
+unite_teams 16 21
+remove_team 0
+unite_teams -1 16
+add_player 24 15916
+add_team 14
+add_team 2
+unite_teams 1 5
+add_team 2
+add_team 9
+remove_newest_player 1
+remove_team 7
+remove_newest_player 13
+remove_newest_player 21
+remove_newest_player 19
+add_player 19 31632
+remove_newest_player 10
+unite_teams 23 16
+add_team 15
+unite_teams 16 16
+add_team 12
+add_team 18
+unite_teams 10 19
+add_player 18 20045
+add_team 25
+remove_newest_player 19
+remove_newest_player -1
+unite_teams 9 24
+add_team 11
+remove_team 28
+remove_team 23
+unite_teams 9 13
+remove_team 28
+add_player 13 32348
+unite_teams 15 7
+remove_team 21
+unite_teams 20 1
+add_player -2 30541
+remove_team 8
+unite_teams 16 5
+remove_team 1
+unite_teams 23 13
+unite_teams 4 25
+add_team 4
+remove_newest_player 14
+unite_teams 6 27
+unite_teams 17 25
+remove_newest_player 15
+unite_teams 29 8
+add_player 24 47838
+unite_teams 16 3
+add_team 17
+unite_teams 2 14
+add_player 16 39590
+add_team 11
+remove_team 24
+add_team 0
+add_team 20
+add_player 21 49595
+unite_teams 22 29
+unite_teams 9 1
+remove_newest_player 25
+unite_teams 11 26
+remove_newest_player 5
+remove_newest_player 6
+unite_teams 23 20
+add_team 12
+add_team 5
+unite_teams 1 23
+remove_newest_player 24
+unite_teams 17 23
+add_team 8
+unite_teams 27 27
+remove_team 14
+remove_team 15
+remove_newest_player 28
+remove_newest_player 20
+unite_teams 13 28
+add_team 10
+add_player 29 48035
+remove_team 10
+add_team 4
+unite_teams 24 26
+add_team 24
+remove_newest_player 11
+add_player 28 44709
+add_team 13
+unite_teams 16 4
+remove_newest_player 21
+remove_team 13
+unite_teams 29 18
+remove_team 9
+add_player 28 17519
+add_team 3
+add_player 23 32246
+remove_newest_player 4
+add_team 6
+remove_team 28
+unite_teams 10 8
+unite_teams 24 3
+remove_newest_player 26
+add_team 8
+add_team 21
+add_player 19 46111
+remove_newest_player 23
+remove_team 27
+remove_newest_player 21
+unite_teams 19 6
+remove_team 23
+unite_teams 8 22
+remove_team 16
+remove_newest_player 28
+remove_team 12
+add_player 26 41547
+unite_teams 12 5
+remove_newest_player 24
+remove_newest_player 28
+remove_newest_player 12
+remove_newest_player 10
+add_player 20 35733
+remove_newest_player 10
+add_team 14
+remove_team 24
+remove_team 28
+unite_teams 11 29
+add_player 0 31643
+unite_teams 11 27
+add_team 5
+add_team 26
+remove_newest_player 17
+add_player 26 26385
+add_player -2 24157
+remove_newest_player 29
+unite_teams 25 27
+unite_teams 21 13
+add_team 18
+unite_teams 0 3
+remove_team 22
+unite_teams 20 15
+unite_teams 2 17
+remove_newest_player 10
+add_player 21 37562
+add_player 9 36200
+unite_teams 19 10
+remove_newest_player 19
+add_team 12
+remove_newest_player 27
+unite_teams -1 18
+remove_team 11
+unite_teams 10 13
+add_player -2 38459
+unite_teams 7 17
+add_team 7
+add_team 12
+unite_teams 4 7
+remove_team 29
+add_player 26 38380
+remove_newest_player 0
+unite_teams 22 18
+add_team 9
+add_player 7 39868
+unite_teams 24 21
+remove_newest_player 4
+add_team 14
+remove_newest_player 2
+add_player 2 12828
+add_player 12 13856
+add_player 9 11958
+unite_teams 26 4
+add_player 23 31509
+add_team 23
+remove_newest_player -2
+remove_team 9
+remove_newest_player 16
+add_player 25 44144
+add_player 15 28472
+remove_team 3
+remove_team 27
+add_team 26
+add_team 22
+add_team 19
+remove_team 21
+remove_newest_player 23
+add_team 18
+unite_teams 18 23
+add_player 10 19825
+remove_team 12
+add_team 21
+add_team 22
+add_player 5 30467
+unite_teams 23 23
+add_player 2 46176
+add_team 15
+add_player 17 12629
+remove_team 19
+remove_team 28
+add_team 14
+add_player 25 16650
+add_team 15
+add_team 23
+add_player 16 20606
+unite_teams 3 23
+remove_newest_player 20
+remove_team 24
+remove_newest_player 9
+unite_teams 23 24
+unite_teams 16 16
+unite_teams 6 27
+add_team 6
+remove_newest_player 8
+remove_team 9
+remove_newest_player 11
+remove_newest_player 16
+add_team 4
+add_team -1
+remove_team -2
+remove_newest_player 15
+add_team -1
+add_team 20
+add_team 0
+remove_newest_player 6
+remove_newest_player 16
+add_player 18 47286
+add_team 16
+add_player 26 20189
+unite_teams 25 21
+add_player 24 15455
+unite_teams 8 22
+unite_teams 18 11
+unite_teams 8 6
+add_team 9
+remove_team -1
+remove_team 26
+unite_teams -1 9
+add_player 5 36579
+add_player 28 15816
+remove_team 15
+add_player 24 10637
+add_player -1 27592
+unite_teams 13 -1
+unite_teams 14 22
+add_team 19
+remove_team 6
+remove_newest_player 18
+unite_teams 24 22
+unite_teams 27 19
+add_player 26 23972
+add_player 16 35410
+remove_team 20
+add_team 0
+add_team 5
+remove_team 9
+add_player 12 24790
+unite_teams 22 6
+unite_teams 1 20
+unite_teams 19 16
+add_player 20 17085
+add_team 28
+add_team 12
+add_player 17 13553
+add_team 6
+remove_newest_player 15
+add_player 24 18406
+remove_team 11
+unite_teams 28 9
+add_team 25
+remove_team 5
+add_player 9 21884
+add_player -2 37530
+add_team 10
+add_player 25 18855
+remove_team 13
+unite_teams 26 22
+add_team 11
+remove_newest_player 22
+add_player 28 19618
+remove_team 28
+remove_team 21
+remove_team 29
+add_team 26
+unite_teams 6 0
+unite_teams 19 0
+remove_team 28
+add_player 14 31982
+add_team 18
+add_player 5 13465
+remove_team 19
+unite_teams 8 14
+add_team 2
+remove_newest_player 7
+add_player 28 14647
+add_player 0 24686
+unite_teams 13 21
+unite_teams -1 19
+add_team 26
+remove_team -2
+add_team 25
+unite_teams 2 24
+add_player 16 31254
+add_team 6
+add_player 5 26799
+remove_newest_player 25
+remove_newest_player 5
+remove_newest_player -1
+unite_teams 8 29
+add_player 13 42762
+unite_teams 15 29
+add_team 9
+add_team 5
+remove_team 9
+add_team 2
+unite_teams 17 17
+remove_newest_player 8
+remove_newest_player 6
+add_team 13
+remove_newest_player 12
+unite_teams 22 8
+add_player 20 12046
+unite_teams 3 23
+remove_team 13
+unite_teams 15 1
+add_team 8
+remove_team 26
+unite_teams 19 26
+unite_teams 6 24
+unite_teams 17 7
+remove_team -1
+unite_teams -1 20
+unite_teams 8 18
+add_player 0 20034
+remove_team 7
+remove_team 25
+unite_teams -1 22
+remove_team 19
+add_team 9
+remove_team 10
+add_team 29
+remove_newest_player 29
+add_team 27
+add_player 3 44172
+add_team 0
+remove_newest_player 3
+add_player 5 37673
+add_player 15 11798
+add_team 14
+add_player 4 47481
+remove_newest_player 11
+remove_team 18
+add_team 2
+add_player 18 12048
+add_team 14
+add_player 29 26163
+add_team 11
+remove_team 21
+remove_team 23
+unite_teams 27 22
+add_team -1
+remove_newest_player 25
+add_team 10
+unite_teams 6 7
+add_player 24 46612
+unite_teams 19 -2
+add_team 0
+add_team 8
+add_player 21 48972
+add_player 18 43704
+remove_team 29
+remove_team 20
+add_team 22
+unite_teams 1 1
+add_player 10 24061
+remove_newest_player 22
+remove_newest_player 15
+add_player 8 27521
+remove_newest_player 9
+remove_team -1
+add_player 15 11371
+unite_teams 8 1
+remove_team 23
+remove_newest_player 22
+add_player 20 46695
+remove_team 0
+unite_teams -1 23
+unite_teams 28 7
+unite_teams 13 4
+add_player 5 26206
+remove_newest_player -2
+remove_newest_player 26
+remove_team 27
+add_player 25 43220
+remove_newest_player 16
+remove_newest_player 16
+add_team 20
+unite_teams 12 0
+add_player 21 37603
+add_team 25
+remove_newest_player -2
+unite_teams 4 4
+add_player 4 48989
+remove_newest_player 14
+remove_newest_player 15
+add_team 1
+remove_team 15
+add_player 29 18120
+unite_teams 2 26
+remove_newest_player 4
+add_player 15 19750
+remove_team 12
+unite_teams 13 20
+remove_newest_player 26
+remove_newest_player 5
+remove_team 27
+unite_teams 1 26
+unite_teams 16 21
+remove_team 5
+add_player 24 37346
+remove_newest_player 25
+remove_newest_player 23
+add_team 11
+remove_newest_player 26
+remove_newest_player 8
+add_player 23 33491
+unite_teams 19 6
+remove_team 0
+add_team 7
+unite_teams 12 13
+add_player 7 31553
+add_player 23 44168
+unite_teams 5 27
+add_team 10
+remove_team 29
+remove_newest_player 3
+unite_teams -2 18
+remove_newest_player 13
+unite_teams 29 29
+add_team 16
+add_player -2 14291
+add_player 0 35176
+remove_newest_player 24
+add_team 22
+add_player 3 12464
+add_team 27
+remove_team 7
+remove_team 7
+remove_newest_player -2
+unite_teams 18 24
+add_player 11 10702
+add_player 12 47672
+add_player 1 39384
+remove_newest_player 20
+remove_newest_player 21
+add_player 21 21823
+add_team 20
+unite_teams 25 22
+add_team 8
+add_team 21
+unite_teams 3 14
+remove_newest_player 14
+add_player 25 33150
+remove_team 20
+add_player 21 15775
+unite_teams 20 20
+unite_teams 17 21
+remove_team 9
+add_team 13
+remove_team 28
+remove_team 3
+add_player 15 17587
+add_player 25 39811
+unite_teams 4 6
+remove_newest_player 13
+add_team 13
+remove_team 16
+remove_team 24
+add_player 29 27747
+remove_team 2
+remove_team 3
+add_team 7
+add_team 14
+add_team 10
+remove_team 8
+remove_team 17
+remove_newest_player 8
+remove_team 28
+remove_team 16
+remove_team 5
+add_player 26 32680
+remove_team 12
+add_player 21 43867
+remove_team 18
+unite_teams 7 18
+unite_teams 16 20
+unite_teams 15 25
+remove_team 29
+unite_teams 28 -2
+remove_newest_player 4
+add_player 28 15836
+remove_newest_player 29
+unite_teams 29 0
+unite_teams 0 7
+add_team 7
+remove_newest_player 29
+unite_teams 29 18
+unite_teams 6 20
+unite_teams 10 -1
+remove_team 2
+add_player 16 11344
+remove_team 21
+add_team 18
+remove_team 15
+unite_teams 18 27
+add_player 11 26888
+add_team 9
+add_team 24
+add_player 22 35389
+remove_team 15
+remove_team 21
+unite_teams 27 10
+add_team 15
+add_player 6 42629
+remove_team 21
+remove_newest_player 21
+add_player 3 21205
+add_team 13
+remove_newest_player 23
+add_player 11 41669
+remove_newest_player 4
+add_player 28 42456
+unite_teams 17 12
+unite_teams 12 8
+add_team 27
+unite_teams 22 22
+add_team 11
+remove_team 16
+add_player 22 25197
+add_team 14
+remove_team 6
+remove_newest_player 8
+add_player 3 33622
+remove_newest_player 28
+remove_newest_player -2
+unite_teams 13 9
+add_team 13
+remove_team -1
+add_team 13
+remove_newest_player 8
+unite_teams 16 24
+remove_team 22
+remove_team 1
+remove_team 14
+remove_newest_player 26
+unite_teams 17 13
+remove_team 24
+remove_newest_player 20
+add_team 28
+unite_teams 0 21
+add_team 17
+remove_newest_player 2
+add_team 0
+unite_teams 24 2
+unite_teams 20 15
+unite_teams 29 14
+remove_team 22
+add_player 14 40325
+remove_team 26
+remove_team 29
+add_player -1 20674
+unite_teams 14 22
+unite_teams 17 8
+add_team 26
+add_team 7
+add_team -2
+add_player 12 23105
+unite_teams 12 3
+remove_newest_player 6
+add_player 13 49891
+unite_teams 27 22
+remove_newest_player 24
+unite_teams 3 8
+add_player 22 10605
+add_player 16 37786
+unite_teams 16 9
+remove_newest_player 2
+add_team 25
+unite_teams 15 22
+add_player 20 25440
+add_player 3 35187
+remove_newest_player 7
+remove_team 1
+add_player 24 22583
+unite_teams 2 22
+add_player 25 30006
+add_player 17 20955
+add_team 5
+add_team 28
+remove_team 17
+remove_team 10
+add_player 12 45812
+remove_newest_player 5
+remove_newest_player 21
+add_team 26
+unite_teams 27 19
+add_player 13 43831
+add_player 26 21504
+add_team 14
+remove_newest_player 22
+remove_newest_player 28
+add_player 13 21391
+unite_teams 11 27
+add_player 7 36638
+unite_teams -2 12
+remove_team 14
+remove_team 26
+remove_team 5
+remove_team 23
+remove_team 1
+unite_teams 2 14
+remove_newest_player 9
+add_player 9 26107
+add_player 7 33213
+add_player 26 34961
+remove_newest_player 15
+remove_team 26
+add_team 12
+remove_newest_player 9
+remove_team 21
+remove_team 11
+add_player 8 22255
+add_player 7 38805
+remove_team 21
+unite_teams 16 5
+add_team 23
+remove_team 18
+add_team 20
+remove_newest_player 14
+remove_newest_player -2
+remove_team 0
+remove_newest_player 5
+add_team 24
+remove_newest_player 27
+add_team 7
+remove_team 24
+add_team 4
+remove_newest_player 29
+add_player 24 10669
+remove_newest_player 16
+remove_team 2
+remove_newest_player 26
+add_team 5
+remove_newest_player 27
+remove_team 10
+remove_newest_player 13
+add_player 15 20867
+unite_teams -2 28
+remove_newest_player 21
+remove_newest_player 3
+remove_team 1
+unite_teams 20 23
+remove_newest_player -1
+remove_newest_player 18
+remove_team 4
+add_team -1
+unite_teams 4 9
+remove_team 21
+add_team 4
+remove_team 29
+remove_team 17
+unite_teams 2 10
+add_team -1
+remove_team 5
+add_team 9
+add_player 15 49913
+add_team 5
+add_team 22
+remove_newest_player 10
+remove_team 24
+add_team 15
+unite_teams 22 23
+remove_team 10
+add_player 14 20481
+add_player 6 39708
+remove_newest_player 9
+remove_team 22
+remove_newest_player 16
+add_team 21
+remove_newest_player 13
+remove_team 0
+remove_team 9
+unite_teams 5 11
+unite_teams 21 13
+add_team 25
+remove_team 29
+add_team 5
+add_team 3
+add_team 24
+add_team 1
+remove_newest_player 26
+add_player 8 37575
+add_team 23
+unite_teams 6 8
+add_team 23
+add_team 26
+remove_team 25
+remove_newest_player 3
+add_team 15
+unite_teams 13 13
+add_team 27
+remove_team -2
+remove_team 7
+remove_newest_player 12
+unite_teams -2 3
+remove_team 28
+remove_newest_player 27
+add_player 0 21752
+unite_teams 25 13
+add_team 24
+remove_newest_player 1
+add_team 17
+add_team -1
+add_team 4
+add_player 5 29378
+remove_newest_player 25
+remove_newest_player -1
+remove_newest_player 22
+remove_team 20
+add_player 15 13663
+remove_team 2
+add_player 26 29039
+add_player 1 40757
+remove_newest_player 15
+remove_newest_player 16
+add_team 5
+add_team 10
+add_player 1 43301
+remove_team 14
+remove_newest_player 16
+unite_teams 23 22
+remove_team -2
+add_team 14
+add_player 1 16852
+unite_teams 4 29
+remove_team 12
+remove_team 25
+add_player 25 14280
+add_player 26 35995
+remove_newest_player -2
+add_team 27
+add_player 14 27756
+add_team 12
+unite_teams 17 19
+remove_team 13
+add_team 11
+add_team 0
+unite_teams 11 2
+add_team 18
+add_player 4 44167
+remove_newest_player 26
+add_player 13 14553
+add_player 24 42036
+remove_team 25
+remove_team 11
+remove_team 20
+add_player 3 28824
+unite_teams 16 0
+remove_team 7
+add_player 29 29055
+remove_newest_player 28
+remove_newest_player 9
+unite_teams 13 3
+remove_newest_player 28
+unite_teams 0 -1
+remove_newest_player 16
+add_player 0 45666
+remove_team 13
+remove_team 7
+remove_newest_player 29
+remove_team 1
+unite_teams 7 4
+add_team 4
+remove_team 18
+remove_newest_player 6
+add_team 19
+remove_newest_player 10
+remove_team 16
+add_team 26
+remove_team 4
+remove_team 15
+remove_newest_player 14
+unite_teams 8 1
+remove_team 18
+add_team 1
+remove_team 24
+remove_newest_player 14
+add_team 20
+add_team 18
+unite_teams 11 18
+remove_team 9
+remove_newest_player 13
+add_team 4
+unite_teams 2 23
+add_team 1
+unite_teams 28 3
+unite_teams 23 7
+add_player 19 47510
+add_team 18
+add_team 11
+remove_team 11
+remove_newest_player 10
+unite_teams 24 9
+remove_team 4
+add_team -2
+add_team 22
+add_player 25 14147
+remove_team 16
+remove_team 29
+remove_team 5
+remove_newest_player 12
+remove_newest_player 9
+remove_team 10
+remove_newest_player 21
+remove_newest_player 3
+remove_newest_player 13
+unite_teams -2 0
+add_player 28 28523
+add_team 10
+remove_newest_player 11
+remove_newest_player 28
+add_player 12 25028
+remove_newest_player 1
+add_team 20
+add_team 12
+remove_team 23
+add_player 23 27003
+unite_teams 18 -1
+add_team 20
+remove_newest_player 16
+remove_newest_player 19
+add_player 8 34729
+add_team 25
+add_team 22
+add_team 17
+unite_teams 18 0
+remove_newest_player 20
+remove_team 15
+remove_newest_player 18
+add_team 0
+add_team 7
+add_player 26 31089
+remove_team 19
+add_team 27
+remove_team 13
+remove_newest_player 26
+add_player 4 39810
+add_team -1
+remove_team 21
+add_team 1
+remove_team 10
+add_player 25 35166
+add_player 12 14308
+add_team 24
+remove_newest_player 24
+unite_teams 7 7
+add_team 20
+add_player 11 45847
+remove_team 20
+unite_teams 15 17
+remove_team 19
+add_player 23 34953
+add_team 25
+remove_team 25
+remove_newest_player 17
+remove_team 22
+unite_teams 11 13
+add_team -1
+remove_newest_player 18
+add_player 16 41063
+add_team 6
+unite_teams 18 6
+unite_teams 22 14
+add_player 1 20549
+remove_newest_player 11
+add_player 13 19501
+add_player 21 42365
+unite_teams 27 16
+remove_team 27
+unite_teams 16 27
+remove_team 9
+remove_newest_player 20
+add_player 19 49390
+add_team 13
+add_player 29 45869
+remove_newest_player 28
+remove_team 20
+add_player 24 30803
+remove_team 7
+remove_newest_player 14
+unite_teams 14 9
+remove_team 14
+remove_team 4
+remove_newest_player 11
+add_player 5 20371
+add_player 20 37809
+unite_teams 10 -1
+add_player 15 12611
+add_team 4
+remove_newest_player 9
+remove_team 13
+remove_newest_player 14
+remove_newest_player 4
+remove_newest_player 18
+unite_teams 23 13
+remove_newest_player 6
+remove_newest_player 25
+unite_teams 23 5
+add_player 4 11271
+remove_newest_player 0
+remove_team 1
+remove_newest_player 15
+unite_teams 13 11
+remove_team 9
+unite_teams 19 9
+add_team 26
+remove_newest_player 9
+remove_team 20
+add_team 15
+remove_team 25
+unite_teams 27 17
+add_team 5
+remove_team 23
+remove_newest_player 26
+unite_teams -2 -1
+add_team 12
+add_team 14
+add_player 15 11725
+remove_team -2
+add_player 28 19770
+remove_team 3
+remove_team 20
+remove_newest_player 15
+remove_newest_player 19
+add_team 7
+remove_team 19
+add_player 3 30067
+add_team 27
+remove_team 18
+remove_team 19
+remove_newest_player 28
+remove_team 20
+unite_teams 9 27
+add_player 19 42751
+unite_teams 12 8
+add_team 24
+add_player 22 29902
+unite_teams 5 29
+add_team 17
+add_player 11 30729
+add_team 13
+unite_teams 11 -1
+unite_teams 18 19
+add_team 2
+add_player 6 38938
+remove_newest_player 11
+unite_teams 28 1
+remove_newest_player 17
+remove_team 25
+remove_newest_player 3
+add_team 3
+remove_newest_player 13
+remove_team 22
+remove_newest_player 22
+unite_teams 29 15
+remove_team 12
+unite_teams -1 -1
+add_team 10
+unite_teams 2 3
+add_player 4 13574
+remove_team 11
+remove_newest_player 19
+add_player 16 42704
+unite_teams 20 17
+remove_team 19
+add_player 26 49074
+add_team 19
+add_player 15 49838
+unite_teams 17 0
+add_team 25
+add_player 20 21382
+add_team 2
+unite_teams 23 29
+remove_team 29
+add_team 29
+add_player 10 18374
+remove_team 3
+unite_teams 5 18
+add_player 21 11107
+add_team 16
+unite_teams 1 22
+remove_newest_player 6
+remove_team 18
+add_team 25
+remove_newest_player 3
+remove_team 3
+unite_teams 10 -2
+add_player 18 18015
+add_player 2 13269
+add_team 12
+remove_team 4
+unite_teams 24 7
+unite_teams 0 4
+add_player 10 42324
+add_team 21
+unite_teams 6 9
+remove_newest_player 4
+unite_teams 22 21
+unite_teams 22 7
+add_team 20
+add_player 4 21061
+add_player 17 49667
+add_team 22
+add_player 15 22245
+remove_newest_player -1
+remove_team 2
+unite_teams 16 -2
+remove_team -2
+add_player 24 21228
+unite_teams 0 20
+remove_newest_player 0
+remove_newest_player 7
+add_player 26 14616
+remove_newest_player 20
+add_team -2
+unite_teams 17 1
+remove_newest_player 14
+unite_teams 16 18
+remove_newest_player 22
+add_player 22 26556
+unite_teams 26 3
+remove_team 22
+remove_team -1
+add_player 14 48212
+remove_newest_player -1
+add_team 12
+remove_team 24
+add_player 28 10100
+unite_teams 25 10
+remove_team 16
+add_team 5
+add_player 15 48145
+add_team 24
+unite_teams 27 8
+add_player 7 30014
+remove_team 11
+add_team 20
+remove_team -1
+add_team 7
+add_player -2 37565
+unite_teams 20 8
+remove_newest_player 23
+remove_team 24
+unite_teams -1 1
+add_player 13 41574
+add_player 15 16478
+remove_team -2
+remove_team 21
+add_player 8 32261
+add_team 24
+unite_teams 5 0
+add_team 27
+unite_teams 12 4
+add_player 26 33480
+remove_team 22
+add_player 7 14227
+remove_team 19
+unite_teams 10 1
+add_player 15 27685
+remove_team 16
+add_team 15
+add_player 6 36184
+unite_teams 3 12
+add_player -1 11022
+remove_newest_player -1
+remove_team 10
+remove_newest_player 11
+remove_team 5
+unite_teams 0 29
+add_player 20 26201
+add_team 8
+add_team 8
+unite_teams 26 17
+remove_team 25
+unite_teams 21 22
+unite_teams 23 24
+add_team 19
+add_player 22 48171
+add_player 22 19699
+add_team 22
+unite_teams 28 -2
+unite_teams 22 18
+unite_teams 12 16
+remove_team 27
+add_player 13 26816
+remove_team 3
+remove_team 8
+add_team -2
+unite_teams 29 12
+remove_team 10
+add_player -2 32456
+remove_newest_player 7
+add_team 27
+add_player 13 27686
+remove_team 27
+add_player 10 42648
+remove_team 24
+unite_teams 12 6
+remove_newest_player 0
+add_team 1
+remove_newest_player 0
+remove_newest_player 3
+add_team 24
+remove_newest_player 23
+remove_newest_player 3
+remove_newest_player 7
+unite_teams 17 11
+remove_team 5
+unite_teams 7 13
+add_team 22
+add_team 17
+unite_teams 23 -2
+unite_teams 23 25
+add_team 25
+add_player 25 39306
+remove_newest_player 16
+unite_teams 14 4
+add_player 25 28982
+add_team 6
+remove_team 2
+unite_teams 5 28
+remove_newest_player 0
+unite_teams 0 28
+remove_newest_player 3
+unite_teams 10 -2
+add_team 4
+unite_teams -2 5
+add_player 8 32197
+add_team 22
+remove_newest_player 2
+remove_team 18
+add_player 24 12399
+remove_team 13
+add_player 26 34703
+add_player 9 19215
+add_player 3 35620
+remove_newest_player 6
+remove_team 13
+add_player 13 17268
+remove_newest_player 4
+unite_teams 8 13
+remove_team 14
+unite_teams 13 7
+remove_newest_player 6
+remove_newest_player 18
+add_team 7
+add_player 18 34806
+remove_team 17
+remove_team 13
+remove_newest_player 2
+add_player 28 12285
+add_player 3 27653
+add_team 23
+remove_newest_player 2
+unite_teams 9 20
+add_player 0 29324
+add_team 3
+remove_team 13
+unite_teams 14 21
+add_player 0 28505
+remove_team 12
+unite_teams 2 21
+add_player 13 24361
+remove_team 6
+remove_newest_player 9
+remove_newest_player 5
+unite_teams 29 17
+add_player -2 49941
+unite_teams 14 10
+add_player 4 46773
+unite_teams 27 6
+remove_team 7
+remove_team 5
+unite_teams 22 15
+remove_team 8
+remove_newest_player 19
+add_team 12
+unite_teams 8 20
+remove_team 6
+add_team 29
+remove_team -2
+unite_teams 12 5
+remove_team 0
+add_team 18
+remove_newest_player 25
+add_team 16
+remove_newest_player 21
+remove_newest_player 20
+remove_team 18
+remove_newest_player 2
+remove_newest_player 1
+add_player 27 27229
+add_team 16
+add_player 20 12356
+add_team 4
+remove_newest_player 27
+add_team 27
+remove_team 4
+remove_newest_player 14
+unite_teams 27 3
+remove_newest_player 19
+unite_teams 11 7
+add_player 15 29438
+unite_teams 3 6
+add_team 10
+unite_teams 6 15
+add_team 12
+unite_teams 12 15
+add_player 14 23793
+remove_team 27
+remove_team 19
+remove_team 12
+remove_newest_player 29
+add_team -1
+add_player 4 45169
+unite_teams -2 15
+remove_team 29
+remove_team 27
+remove_team 13
+add_player 8 21474
+add_team 0
+add_team -1
+add_team 3
+remove_newest_player 12
+add_team 1
+unite_teams 5 5
+remove_newest_player 19
+unite_teams 23 14
+unite_teams 13 4
+remove_newest_player 15
+remove_newest_player 20
+remove_team 9
+add_player 8 19263
+remove_team 16
+unite_teams 2 -2
+remove_newest_player 3
+add_player 17 18302
+unite_teams 10 19
+add_player 4 17229
+remove_team -2
+remove_newest_player -2
+unite_teams 0 12
+unite_teams 8 22
+remove_newest_player 16
+add_player 1 15534
+add_team 13
+unite_teams 1 1
+add_player 21 46944
+remove_team 27
+add_player 4 29752
+add_team 28
+add_player 1 15384
+add_team 22
+add_player 18 44566
+add_player 17 15840
+add_team 12
+remove_newest_player -1
+add_player 15 49958
+add_team 6
+add_player 19 42203
+unite_teams 21 9
+remove_newest_player 13
+remove_newest_player 7
+remove_team 20
+unite_teams 24 27
+add_player 29 21450
+add_team 12
+add_team 24
+add_player 5 41420
+add_team 3
+unite_teams 19 4
+add_team 26
+remove_newest_player 14
+remove_team 29
+remove_team 25
+unite_teams 17 11
+unite_teams 15 4
+remove_team 7
+remove_newest_player 3
+unite_teams 13 4
+remove_team 25
+add_player -2 40162
+remove_team 6
+add_team -1
+remove_newest_player 23
+remove_newest_player 7
+remove_team 0
+unite_teams 13 7
+remove_team 24
+unite_teams 9 25
+unite_teams 26 11
+remove_newest_player 23
+remove_newest_player 10
+remove_team 2
+unite_teams -2 29
+add_team 14
+remove_team 22
+unite_teams 18 8
+remove_newest_player 29
+add_team 9
+add_player 6 19298
+remove_newest_player 26
+unite_teams 8 4
+remove_team 19
+add_team 29
+remove_newest_player 16
+remove_team 8
+add_player 7 28400
+remove_team 3
+remove_newest_player -1
+remove_team 25
+remove_newest_player 10
+add_player 22 40136
+remove_team 17
+remove_team -2
+remove_newest_player 5
+remove_newest_player 9
+remove_newest_player 27
+add_team 5
+add_player 22 18817
+remove_newest_player -2
+add_player 7 10346
+unite_teams 2 27
+add_player 2 11002
+add_team 24
+remove_newest_player 7
+remove_team 25
+remove_team 12
+unite_teams 12 4
+add_team -2
+unite_teams 29 27
+add_player 26 32880
+add_team 3
+add_player 4 10269
+remove_team 21
+remove_newest_player 22
+unite_teams 26 5
+add_player 16 41028
+unite_teams 26 10
+add_team 0
+add_team 25
+add_team 22
+add_team 7
+unite_teams 2 21
+unite_teams 2 4
+remove_newest_player -2
+remove_newest_player 5
+add_player 8 12945
+add_player -2 36489
+add_team 27
+add_player 13 14081
+add_team 7
+remove_team 23
+unite_teams 22 9
+remove_team 10
+unite_teams 0 18
+add_player 26 13700
+remove_team 8
+remove_team 29
+add_player 9 46518
+add_player 10 48259
+remove_newest_player 4
+remove_team -2
+add_team 26
+remove_team 15
+add_team 11
+unite_teams 22 14
+remove_team 6
+add_player 20 25980
+add_player 21 44215
+remove_team 25
+remove_newest_player 5
+remove_newest_player 29
+remove_newest_player 20
+remove_newest_player 14
+remove_newest_player 6
+unite_teams 26 21
+remove_newest_player 22
+remove_newest_player -2
+remove_team 20
+unite_teams 18 26
+remove_newest_player 15
+add_player -1 42057
+unite_teams 7 3
+remove_team 18
+add_team -1
+add_team 13
+unite_teams 0 9
+unite_teams -2 25
+remove_team -1
 remove_newest_player 21
 remove_team 28
+add_team 21
+add_team 25
+remove_team 15
+add_player 20 26327
+unite_teams 5 20
+remove_team 11
+remove_team 27
+remove_newest_player 17
+remove_team 29
+add_team 5
+add_team 18
+unite_teams 1 11
+remove_team 27
+remove_team 14
+add_team 27
+add_player 23 46244
+add_team 4
+unite_teams 6 18
+remove_team 25
+remove_newest_player 13
+add_team 10
+remove_newest_player 3
+unite_teams 26 7
+remove_newest_player 28
+add_team 12
+add_player 1 41628
+add_team 8
+remove_team 26
+remove_team 10
+add_team -1
+add_player 1 48137
+add_player 18 48757
+add_player 26 25429
+add_player 13 35558
+remove_newest_player 17
+remove_newest_player 4
+add_team 1
+add_team 19
+add_team 25
+remove_team -2
+remove_newest_player -1
+add_player 12 38412
+remove_newest_player -2
+unite_teams -1 10
+add_player 6 32719
+remove_team 10
+remove_team 4
+remove_team 20
+remove_team 19
+remove_newest_player 9
+remove_team 17
+add_player 2 27091
+add_player 2 49334
+add_team 14
+remove_newest_player 10
+unite_teams 23 23
+remove_team 10
+add_player 1 25172
+add_player 2 49883
+remove_newest_player 24
+remove_team 27
+add_player 22 21570
+remove_team 16
+add_team 17
+remove_newest_player 26
+remove_newest_player 27
+add_team 4
+add_team 21
+remove_team 15
+remove_team 18
+add_team 24
+unite_teams 12 25
+add_team 3
+unite_teams 13 28
+remove_newest_player 14
+remove_team 12
+remove_team 9
+unite_teams 5 1
+add_player 22 19537
+remove_team 6
+unite_teams 20 14
+remove_newest_player 21
+remove_team 23
+unite_teams 9 29
+remove_team 22
+remove_team 4
+add_team 26
+remove_newest_player -1
+add_player 16 13731
+add_team 26
+add_player 4 27568
+add_team 24
+add_player 5 36928
+remove_newest_player 7
+add_player 16 37735
+remove_team 13
+add_player 16 35443
+unite_teams 5 1
+add_player 17 21958
+remove_newest_player 6
+unite_teams 0 0
+unite_teams 13 4
+remove_team 2
+add_team 19
+remove_newest_player 8
+remove_newest_player 11
+unite_teams 2 29
+remove_team 18
+remove_newest_player 18
+unite_teams 18 13
+remove_team 25
+remove_team 8
+remove_team 11
+add_player 13 18561
+remove_newest_player 27
+remove_team 24
+remove_newest_player 9
+remove_newest_player 12
+unite_teams 12 23
+unite_teams 2 13
+add_player 15 47527
+unite_teams 5 14
+add_player -1 40596
+add_team 1
+add_player 3 32705
+remove_newest_player 5
+remove_newest_player 4
+add_team 13
+remove_newest_player 12
+add_player 24 38890
+add_player 18 40840
+unite_teams -2 22
+unite_teams 26 22
+add_team 16
+remove_newest_player 17
+remove_newest_player 4
+add_team 9
+unite_teams 26 29
+remove_team 12
+add_player 20 49896
+add_team 23
+add_team 4
+unite_teams 10 22
+remove_team 7
+remove_newest_player 22
+add_player 10 26392
+unite_teams 2 5
+unite_teams 3 24
+add_player 9 12605
+unite_teams 0 7
+remove_team 12
+add_player 8 45777
+add_team 16
+remove_team 3
+remove_team 10
+remove_newest_player 29
+add_team 5
+remove_team 13
+unite_teams 20 -1
+remove_newest_player 14
+remove_team 20
+unite_teams 1 0
+add_player 20 12189
+remove_newest_player 17
+remove_team 21
+add_team -1
+add_player 23 42878
+add_team 14
+unite_teams 26 14
+add_team 20
+add_team 9
+remove_newest_player 12
+remove_newest_player 1
+remove_team 7
+add_team 20
+unite_teams 20 28
+add_player 5 14033
+unite_teams 18 24
+add_team 20
+add_team 27
+add_player 17 39390
+add_player 0 26463
+unite_teams 26 20
+remove_team 8
+add_team 15
+add_player 19 34654
+remove_newest_player 23
+remove_team 25
+unite_teams 28 6
+unite_teams -2 -2
+unite_teams 23 23
+remove_team 5
+add_team 17
+unite_teams 17 18
+unite_teams 11 7
+add_player 8 25268
+unite_teams 28 9
+remove_team 25
+add_team 16
+add_team 21
+unite_teams 27 23
+unite_teams 0 6
+add_player 29 32099
+add_team 18
+remove_newest_player 17
+unite_teams 0 5
+add_team -2
+remove_team 28
+remove_team 2
+remove_newest_player 13
+add_team 22
+add_player 15 26036
+remove_team 18
+add_team 6
+unite_teams 6 22
+add_player 27 43050
+unite_teams 15 24
+add_team -1
+add_team 25
+unite_teams 6 4
+add_team 21
+add_player 9 44892
+add_player 3 31175
+remove_newest_player 11
+remove_newest_player 6
+add_player 11 29049
+remove_newest_player 17
+remove_team 17
+remove_team 0
+add_team 6
+unite_teams 3 26
+add_player 1 43190
+unite_teams 3 7
+add_player 6 32415
+add_team 15
+add_team 19
+unite_teams 5 6
+add_player 22 47962
+add_player 25 29343
+remove_team 2
+remove_team 12
+unite_teams 13 27
+add_player 20 32590
+remove_team 7
+unite_teams 19 9
+unite_teams 27 24
+unite_teams 24 21
+add_player 5 36360
+add_player 29 25804
+remove_team 18
+add_player 15 24302
+add_team 25
+remove_team 24
+unite_teams 8 11
+add_player 17 11198
+remove_newest_player 17
+add_player -1 41464
+remove_newest_player 11
+unite_teams 4 18
+add_player 1 26140
+add_player 27 34775
+add_team 4
+remove_newest_player 1
+add_team 6
+add_player 24 40754
+add_team 5
+add_player 28 34153
+unite_teams 18 10
+remove_team 6
+remove_newest_player 26
+remove_team -2
+add_player 4 17485
+add_team 17
+remove_newest_player 20
+add_player 17 21087
+remove_newest_player 18
+add_player 25 22401
+add_team 17
+add_player 11 29658
+unite_teams 12 6
+remove_newest_player 10
+remove_newest_player 8
+remove_newest_player 28
+add_team 29
+unite_teams 7 3
+remove_team 11
+add_team 1
+add_player -2 23576
+remove_newest_player 19
+remove_newest_player 28
+add_player 14 34533
+add_player 2 22070
+remove_team 25
+add_team 12
+add_player -1 10920
+add_team 26
+remove_newest_player 1
+remove_newest_player 12
+add_team 26
+add_player 16 42205
+add_team 29
+remove_team 13
+remove_newest_player 13
+unite_teams 15 17
+remove_team 6
+add_team 11
+add_team 22
+unite_teams 4 13
+add_team 6
+unite_teams 22 8
+unite_teams 0 22
+remove_newest_player 7
+remove_newest_player -1
+add_player 27 11214
+unite_teams 15 6
+remove_team 22
+unite_teams 10 7
+add_team 3
+add_team 9
+remove_newest_player 18
+add_team 25
+add_team 6
+add_player 11 40207
+remove_newest_player 0
+remove_team 1
+add_team 17
+remove_team 27
+remove_team 3
+add_team 23
+add_team 15
+remove_newest_player 22
+unite_teams 8 25
+remove_team 16
+remove_team 9
+remove_newest_player 19
+remove_team 5
+add_team 28
+add_player 7 33763
+unite_teams 14 9
+remove_newest_player 6
+add_player 10 38718
+add_team 13
+add_team 14
+unite_teams 0 23
+add_team 0
+unite_teams 11 12
+remove_newest_player 27
+remove_team 29
+unite_teams 29 16
+unite_teams 7 14
+remove_team 3
+add_player 0 15721
+remove_newest_player 18
+add_player 21 13125
+remove_newest_player 9
+unite_teams 15 17
+remove_newest_player 14
+add_team 26
+remove_newest_player 6
+unite_teams 15 21
+unite_teams 28 -2
+add_team 25
+add_team 1
+remove_newest_player 6
+remove_team 26
+unite_teams 7 11
+add_team 10
+remove_team 29
+unite_teams 18 23
+remove_newest_player 28
+unite_teams 4 9
+add_player -2 37600
+add_team 11
+add_player 21 42082
+remove_team 16
+remove_team 8
+unite_teams 15 3
+add_player 29 24713
+remove_newest_player 16
+add_team 13
+remove_team 4
+unite_teams 2 11
+add_team 5
+add_player 19 39960
+remove_team 9
+add_player 1 36193
+add_player 11 14583
+remove_team 8
+remove_team 10
+add_team 16
+unite_teams 12 16
+unite_teams 0 5
+add_player -1 23678
+unite_teams 26 22
+remove_newest_player 12
+remove_team 17
+add_player 14 42821
+unite_teams 17 20
+remove_newest_player 13
+unite_teams 25 -1
+unite_teams -2 26
+unite_teams 11 17
+add_player 17 20581
+remove_team 10
+remove_newest_player 18
+remove_newest_player 10
+add_player 7 27709
+unite_teams 18 29
+add_team 29
+remove_team 21
+unite_teams 26 8
+remove_newest_player -2
+add_player 3 12690
+add_player 13 48615
+add_team 12
+remove_newest_player 14
+add_team 14
+remove_team 17
+add_team 22
+remove_newest_player 9
+remove_newest_player 17
+remove_team 12
+add_player 17 21407
+remove_newest_player 12
+add_player 17 31014
+remove_newest_player 5
+add_player 8 32581
+unite_teams 19 5
+add_team 17
+unite_teams 20 26
+add_team 12
+remove_team 18
+remove_team 21
+add_team 13
+add_player 23 35674
+remove_team 8
+remove_newest_player 10
+add_team 7
+add_team 7
+add_player 25 29226
+remove_newest_player 15
+remove_newest_player 17
+remove_team 6
+remove_newest_player 27
+remove_team 25
+remove_team 7
+remove_team 11
+remove_newest_player 14
+add_team 24
+add_player 0 48043
+add_player 1 30767
+remove_newest_player 28
+add_team 14
+unite_teams 3 17
+add_player 13 33232
+unite_teams 5 23
+add_team 16
+add_player -2 40299
+add_player 0 17275
+remove_team 19
+add_team 19
+add_player 19 17837
+unite_teams 23 24
+add_team 8
+remove_newest_player 14
+unite_teams -1 1
+add_player 11 36696
+add_team 12
+add_team 1
+add_player 23 20203
+remove_team 14
+remove_team 27
+remove_newest_player -1
+add_team 19
+add_team -2
+remove_newest_player 4
+remove_team 9
+unite_teams 3 14
+add_player 28 16525
+remove_newest_player 10
+unite_teams 25 27
+unite_teams 13 22
+add_player 20 10182
+add_team -1
+add_player 29 21413
+remove_newest_player 29
+add_player 28 35736
+remove_team 27
+add_team 10
+remove_newest_player 28
+unite_teams 22 22
+add_player 13 29578
+unite_teams 10 3
+remove_team 7
+add_player 19 32983
+add_team 12
+add_player 23 32569
+unite_teams -2 21
+remove_newest_player 17
+add_team 21
+add_team 15
+add_player 17 49003
+unite_teams 23 22
+unite_teams 5 0
+remove_newest_player 28
+unite_teams 25 9
+add_team 12
+remove_newest_player 28
+remove_team 13
+add_team 11
+add_team 12
+remove_team 27
+add_team 6
+unite_teams -1 4
+unite_teams -2 27
+remove_newest_player 5
+add_player 13 16678
+remove_newest_player 18
+remove_team 20
+unite_teams 25 3
+remove_newest_player -2
+unite_teams 22 9
+unite_teams 20 20
+add_team -2
+remove_team 17
+add_team 12
+add_team 17
+remove_newest_player 27
+unite_teams 24 27
+add_team 26
+remove_team -1
+unite_teams 26 9
+add_player 8 41070
+remove_newest_player 18
+add_player 11 21340
+add_player 29 28014
+add_player 6 29729
+add_team 25
+remove_newest_player 29
+unite_teams 27 25
+remove_team 0
+remove_team -2
+remove_newest_player 3
+remove_newest_player 16
+unite_teams 21 27
+remove_team 11
+add_team 15
+add_player 29 37292
+remove_newest_player 25
+add_player 9 29981
+remove_team 17
+add_team -1
+add_player 14 26498
+remove_team 10
+unite_teams 19 11
+add_player -1 16636
+unite_teams 12 14
+remove_newest_player 15
+add_team 2
+add_player 8 45734
+add_team 9
+unite_teams 20 13
+unite_teams 10 9
+add_team 11
+add_team 5
+add_player 11 41140
+remove_team -1
+add_player 15 48546
+remove_newest_player 10
+unite_teams 29 0
+remove_newest_player 9
+remove_team 7
+remove_team 4
+add_player 23 19122
+unite_teams 29 15
+remove_team 11
+unite_teams 22 13
+remove_newest_player 8
+unite_teams 26 15
+remove_team 29
+add_player -1 18243
+add_player 18 42842
+remove_newest_player 14
+add_team 22
+remove_team 18
+add_player 4 15814
+add_player 9 28330
+unite_teams 0 1
+remove_newest_player -2
+add_player -1 26692
+add_player 20 18180
+add_player 23 10513
+add_team 14
+remove_newest_player 22
+unite_teams 4 28
+remove_newest_player 26
+unite_teams 24 20
+unite_teams 21 2
+remove_newest_player 3
+remove_newest_player 25
+add_player 27 18772
+add_player 21 25880
+add_player 2 33653
+remove_team 10
+add_team 11
+unite_teams 16 12
+add_player 19 46871
+remove_team 5
+add_team 4
+remove_team 16
+remove_team -2
+add_player 27 47713
+remove_newest_player 12
+add_player 13 12821
+remove_newest_player 10
+unite_teams 10 1
+remove_newest_player 12
+unite_teams 13 22
+remove_newest_player 1
+remove_newest_player 27
+unite_teams 18 12
+add_player 21 35762
+remove_team 20
+remove_newest_player 11
+unite_teams 12 3
+remove_newest_player 10
+remove_newest_player 3
+add_team 21
+add_player 13 28792
+unite_teams 4 18
+unite_teams 3 -2
+remove_team 28
+remove_newest_player 12
+remove_team 3
+unite_teams 25 2
+remove_newest_player 3
+unite_teams 18 25
+add_team 15
+remove_newest_player 27
+remove_newest_player 1
+add_team 14
+unite_teams 9 13
+add_team -1
+remove_team 29
+remove_newest_player 6
+unite_teams 12 7
+remove_team 23
+unite_teams 4 7
+remove_team 11
+remove_newest_player -1
+add_team 26
+add_team 12
+add_team 25
+add_team 20
+remove_team -2
+remove_team 22
+remove_newest_player 18
+add_player 25 49754
+add_player -2 27908
+remove_newest_player 24
+add_team 5
+remove_newest_player 23
+remove_team 11
+remove_team 26
+add_player 14 23714
+remove_team 26
+add_team 16
+unite_teams 29 0
+unite_teams 19 0
+add_team 3
+unite_teams 5 27
+unite_teams 14 8
+unite_teams 23 10
+remove_team 17
+remove_team 12
+unite_teams 29 1
+remove_newest_player 12
+unite_teams 18 14
+remove_newest_player 13
+add_team 15
+remove_team -2
+add_team 16
+add_player 20 24869
+remove_newest_player 6
+add_player 4 49427
+add_player 20 43675
+unite_teams 24 25
+remove_newest_player 5
+remove_team 19
+unite_teams 27 0
+unite_teams 24 14
+unite_teams 14 20
+unite_teams 12 16
+remove_newest_player 29
+remove_team 14
+remove_team 3
+remove_team 7
+add_team 16
+remove_team 26
+unite_teams 2 26
+add_team 24
+add_team 12
+remove_newest_player 5
+add_player 3 29982
+remove_team -1
+unite_teams 7 4
+remove_newest_player 22
+add_player 5 16776
+remove_newest_player 22
+remove_team 24
+add_team 6
+add_team 21
+add_player 1 37573
+unite_teams -1 8
+add_team 0
+unite_teams 11 6
+add_player 25 35063
+add_team 23
+remove_team 2
+add_player 27 36411
+add_team 24
+remove_newest_player 2
+remove_newest_player -2
+add_team 23
+remove_team 5
+add_team 21
+remove_newest_player 28
+remove_team 25
+add_player 0 17882
+remove_team -2
+unite_teams 10 9
+unite_teams 0 25
+unite_teams 10 0
+remove_team 13
+remove_team 11
+remove_team 4
+add_player 10 44821
+remove_team 3
+add_player 23 21525
+add_team 17
+add_team 3
+remove_newest_player 0
+add_team 6
+remove_team 26
+remove_newest_player 6
+remove_team 19
+remove_team 20
+add_team 10
+add_player -1 28134
+add_team 1
+unite_teams 9 4
+add_team 20
+unite_teams 24 24
+remove_newest_player 28
+remove_team 28
+remove_newest_player 22
+remove_team 14
+add_player 15 45121
+add_team 24
+remove_team 19
+remove_team 29
+add_player 23 47703
+remove_team 25
+remove_newest_player 1
+add_player 5 17694
+add_team 19
+remove_newest_player 17
+remove_newest_player 10
+remove_team 1
+unite_teams 27 22
+remove_team 1
+remove_team 22
+remove_newest_player 4
+remove_newest_player 9
+remove_newest_player 27
+remove_newest_player 11
+remove_newest_player 2
+add_player 10 34664
+unite_teams 6 16
+add_team 4
+remove_team 2
+add_team 29
+add_player 2 49236
+remove_team 6
+add_team 25
+remove_newest_player 9
+add_player 18 36631
+remove_newest_player 22
+unite_teams -1 27
+remove_newest_player 18
+remove_newest_player 16
+unite_teams 6 17
+unite_teams 18 28
+remove_team 21
+unite_teams 7 2
+remove_team -1
+remove_newest_player 29
+add_player 14 43778
+remove_newest_player 9
+remove_newest_player 12
+remove_team 19
+add_player 22 36649
+remove_newest_player 17
+add_player 13 44214
+add_player 7 38970
+remove_team 21
+add_player 10 25221
+remove_team 22
+add_team 4
+add_team 16
+unite_teams 6 24
+add_player 21 41121
+add_player 20 12451
+unite_teams 5 -2
+remove_team 13
+unite_teams 28 26
+remove_team 6
+remove_team -1
+remove_newest_player 7
+add_team 27
+unite_teams 14 -2
+add_player 21 19775
+unite_teams 15 8
+add_player -2 44635
+remove_newest_player 23
+unite_teams 12 0
+add_player 4 14193
+remove_newest_player -1
+unite_teams 10 22
+remove_team 6
+remove_team 18
+remove_team 16
+remove_team 3
+add_player 20 32768
+remove_team 11
+unite_teams 20 -2
+add_team 18
+remove_newest_player 20
+remove_newest_player 1
+remove_team 12
+unite_teams 17 14
+remove_team 23
+add_player 27 20343
+add_team 27
+add_player 28 16721
+remove_team 23
+add_team 15
+add_player 23 34074
+add_player 29 41683
+unite_teams 24 3
+add_team 1
+remove_newest_player 4
+add_team 1
+add_team 16
+remove_team 13
+add_team -2
+remove_team 15
+unite_teams 17 10
+add_player 27 35600
+add_team 24
+unite_teams 12 23
+unite_teams 1 11
+remove_team 21
+add_player 14 21876
+remove_team 19
+remove_team 27
+unite_teams 4 4
+remove_team 9
+remove_team 14
+add_player 2 35540
+add_player 24 45836
+add_team 20
+remove_newest_player 22
+remove_newest_player 16
+add_team 13
+remove_team 26
+add_player 17 37202
+unite_teams 16 22
+add_team 15
+remove_newest_player 20
+remove_team 22
+remove_team 8
+remove_team -1
+remove_team 25
+unite_teams 3 0
+remove_newest_player 21
+unite_teams 10 1
+remove_team 0
+remove_newest_player 2
+remove_team 10
+add_player 26 33065
+unite_teams 18 5
+remove_team 28
+add_player 28 41508
+remove_newest_player 4
+add_player 3 16239
+remove_team 16
+unite_teams 3 2
+remove_team 15
+add_team -1
+unite_teams 27 10
+remove_newest_player 9
+remove_newest_player 9
+unite_teams 10 29
+remove_newest_player 16
+remove_newest_player 11
+unite_teams 22 22
+add_team 16
+unite_teams 14 0
+add_player 11 33783
+unite_teams 18 -2
+unite_teams 6 8
+add_player 11 49914
+remove_newest_player 14
+unite_teams 19 1
+remove_team 3
+unite_teams 0 7
+add_team 9
+remove_newest_player 22
+remove_newest_player 2
+unite_teams 23 14
+add_team 7
+remove_newest_player 1
+unite_teams 25 20
+unite_teams 6 9
+add_team 22
+unite_teams 5 15
+remove_newest_player 25
+add_player 2 40291
+add_player 7 20895
+remove_newest_player 27
+add_player 17 11357
+remove_team 17
+remove_newest_player 15
+add_player 17 20019
+remove_newest_player 5
+remove_team 18
+unite_teams 3 7
+add_player 24 27028
+remove_team 20
+remove_team 27
+add_player 20 27820
+remove_newest_player -1
+unite_teams 20 19
+remove_newest_player 25
+add_team 13
+remove_newest_player 13
+unite_teams 21 15
+add_team 4
+remove_team 29
+remove_newest_player 0
+remove_team 21
+add_team 12
+add_team 29
+remove_team 5
+add_team 14
+add_team 0
+unite_teams 24 18
+remove_team 11
+remove_team 2
+remove_team 11
+unite_teams 11 7
+unite_teams -2 29
+unite_teams 26 26
+add_player 20 30960
+unite_teams 28 2
+remove_newest_player 6
+add_team 0
+remove_team 29
+remove_team -2
+remove_team 5
+add_team 26
+add_team -2
+remove_newest_player 23
+add_team 7
+add_player 3 42769
+unite_teams 13 27
+remove_newest_player 10
+remove_team 8
+remove_newest_player -1
+remove_team -1
+add_player 26 34582
+remove_team 13
+add_team 18
+unite_teams 4 28
+add_player 23 24807
+remove_newest_player 29
+remove_newest_player 19
+add_player 19 33137
+unite_teams 1 19
+remove_team -2
+add_team 1
+remove_team 18
+add_player 6 21805
+add_player 16 12974
+remove_team 4
+unite_teams 2 10
+remove_newest_player 6
+remove_newest_player 27
+add_team 26
+remove_team 6
+add_player 22 19187
+add_player 15 26356
+add_player 29 13083
+remove_newest_player 11
+remove_newest_player 5
+add_player 14 30547
+remove_team 20
+add_team 1
+remove_team 20
+add_player 12 15634
+unite_teams 21 20
+add_player 19 22851
+remove_newest_player 8
+unite_teams 11 25
+add_player 18 23866
+remove_newest_player 0
+remove_team 10
+remove_team 0
+add_team 0
+unite_teams 13 20
+remove_team 23
+unite_teams 27 6
+add_team 7
+add_team 12
+add_player 1 31092
+unite_teams 4 27
+unite_teams 18 0
+remove_team 16
+add_team 12
+unite_teams -1 12
+remove_newest_player -1
+remove_newest_player 21
+remove_team 23
+add_team 7
+add_team 13
+unite_teams 6 13
+add_player -2 32784
+add_team 25
+remove_newest_player 2
+remove_newest_player 29
+add_player 7 35546
+add_team 24
+add_team 4
+add_team 18
+remove_team 25
+remove_newest_player 16
+add_player 23 15238
+add_player 21 17095
+remove_newest_player 23
+remove_newest_player 20
+add_player 24 28727
+unite_teams 23 6
+add_player 2 36713
+remove_team 1
+remove_team 18
+add_player 20 29637
+add_team 20
+add_team 18
+remove_newest_player 13
+remove_newest_player 23
+remove_newest_player -2
+remove_newest_player 0
+remove_newest_player -2
+add_team 21
+add_team 5
+add_team 10
+unite_teams 24 8
+unite_teams 16 6
+add_team 22
+add_player 10 10504
+remove_newest_player 2
+remove_newest_player 10
+add_player 13 45566
+remove_newest_player 7
+remove_newest_player 21
+remove_newest_player 21
+unite_teams 22 5
+remove_team 19
+remove_newest_player 15
+add_team 8
+unite_teams 18 25
+add_player 25 27346
+unite_teams 19 2
+unite_teams 15 -2
+remove_team 2
+remove_team 0
+unite_teams 29 16
+remove_newest_player 24
+remove_team 0
+add_player 2 43824
+add_team 10
+remove_newest_player 14
+add_team 18
+add_team 9
+add_team 26
+add_player 12 13952
+add_player 26 19107
+unite_teams 8 18
+unite_teams 2 0
+unite_teams 13 7
+unite_teams 23 2
+remove_newest_player 13
+unite_teams 17 16
+unite_teams 8 17
+remove_newest_player 21
+add_player 21 34463
+remove_team 11
+add_player 28 46368
+unite_teams 15 21
+remove_team 26
+remove_team 10
+add_team 9
+add_team 6
+add_player 20 45019
+unite_teams 15 4
+add_team 13
+add_player 9 49758
+remove_newest_player -2
+add_player 13 42982
+remove_newest_player 25
+add_player 2 29735
+add_team 18
+remove_newest_player 9
+remove_team 27
+add_player 13 32916
+remove_newest_player 27
+remove_newest_player 2
+remove_newest_player 16
+remove_newest_player 26
+add_player 16 12328
+unite_teams 28 5
+add_player 20 48366
+unite_teams 20 18
+unite_teams 11 24
+unite_teams 26 12
+unite_teams 26 17
+remove_newest_player 28
+unite_teams 29 29
+add_team 17
+remove_newest_player 19
+remove_newest_player 16
+unite_teams 9 21
+unite_teams 13 28
+add_team 25
+remove_newest_player 2
+remove_team 22
+add_player 10 27622
+unite_teams -1 6
+unite_teams 10 5
+unite_teams 24 16
+add_team 15
+remove_newest_player 5
+remove_team 4
+add_team 11
+remove_newest_player 4
+remove_team 7
+add_team 12
+add_player 1 12060
+unite_teams 27 10
+remove_newest_player 9
+add_team 28
+add_team 10
+remove_newest_player 29
+remove_team 2
+remove_newest_player 17
+unite_teams 11 15
+remove_team 8
+add_team 10
+add_team 21
+add_player 19 10621
+remove_team 28
+remove_newest_player 26
+add_player -1 49764
+unite_teams 15 6
+add_player 18 26286
+add_player 25 39251
+add_team 5
+remove_team -2
+add_team 29
+unite_teams 13 26
+unite_teams 22 18
+add_team 7
+add_team 10
+add_player 10 48422
+unite_teams 28 26
+unite_teams 27 -2
+add_player 11 21716
+remove_team 22
+add_team 7
+remove_newest_player 21
+add_player 18 17317
+add_team 5
+remove_team 22
+remove_newest_player 9
+add_team 19
+unite_teams 12 14
+remove_newest_player 22
+add_team 0
+remove_newest_player 5
+add_player 25 22990
+add_player -1 11790
+remove_team 21
+unite_teams 26 14
+add_team 4
+unite_teams 18 13
+add_player -2 38593
+add_player 7 43715
+unite_teams 8 1
+remove_team 25
+remove_team 11
+remove_newest_player 18
+add_player 25 18216
+add_player 15 29626
+add_team 23
+remove_newest_player 8
+remove_newest_player 4
+remove_newest_player 7
+add_player 9 23757
+remove_newest_player 26
+add_player 15 32989
+remove_team 8
+add_player 27 46275
+unite_teams 10 16
+remove_newest_player 0
+add_team 3
+add_team 29
+add_player 10 24667
+remove_team 9
+add_player 15 46608
+add_player 20 10589
+add_player 2 42138
+add_player 25 41063
+remove_team 5
+remove_newest_player 28
+unite_teams 13 5
+unite_teams 2 11
+remove_newest_player 13
+remove_team 12
+add_player 11 47587
+remove_newest_player 10
+add_player 4 47214
+unite_teams 23 0
+add_player -1 35099
+unite_teams 14 23
+remove_newest_player 10
+unite_teams 15 3
+add_player 6 29027
+remove_team 27
+add_player 7 43795
+unite_teams 11 26
+add_team 20
+remove_newest_player -1
+remove_team 12
+add_player 1 25177
+remove_newest_player 25
+remove_newest_player 6
+add_player 9 19285
+add_player 20 15978
+add_team 2
+add_player 26 37055
+add_player -1 15409
+remove_newest_player 2
+add_team 24
+remove_team 10
+add_player 4 49577
+add_player 22 41340
+remove_team 1
+remove_newest_player 2
+add_team 7
+unite_teams 25 4
+add_team 19
+add_player 15 23875
+add_player 14 18324
+unite_teams 26 10
+add_player 9 29275
+add_player 25 41723
+remove_newest_player 6
+remove_team 2
+remove_newest_player 29
+unite_teams 12 0
+add_player 11 42548
+unite_teams 23 0
+add_player 10 12097
+add_team 29
+unite_teams 16 10
+remove_team 7
+add_team 4
+add_player 12 48719
+unite_teams 9 12
+unite_teams 28 18
+remove_team 12
+add_player 28 49641
+add_team 12
+remove_team 15
+add_player 9 42075
+add_player 16 21390
+add_player 16 43235
+add_player 27 37211
+add_player 0 20225
+remove_newest_player 3
+remove_team 28
+unite_teams 6 23
+add_team 18
+add_team 7
+remove_team -2
+remove_team 4
+add_player 20 26638
+remove_newest_player 29
+add_team 19
+remove_team 8
+add_team 15
+remove_newest_player 0
+remove_team 26
+remove_newest_player 21
+remove_team 21
+add_team 12
+add_team 11
+remove_team 23
+remove_team 7
+remove_team -1
+remove_team 12
+add_player 11 32238
+unite_teams 24 5
+remove_newest_player 13
+unite_teams 16 0
+remove_team -1
+add_team 11
+unite_teams 1 12
+unite_teams 13 2
+remove_team 4
+unite_teams 7 1
+add_team 16
+add_team 24
+add_player 4 34812
+remove_team 1
+remove_team 29
+remove_newest_player 13
+unite_teams 11 4
+remove_newest_player 6
+add_player -2 12379
+remove_newest_player -1
+add_player 23 33304
+add_player 27 28965
+unite_teams 8 5
+add_player 12 13645
+remove_team 9
+remove_team 4
+unite_teams 20 24
+remove_newest_player 2
+add_team 5
+remove_newest_player 11
+add_team 2
+remove_team -1
+add_team 25
+remove_team 11
+remove_newest_player 3
+add_player 8 41311
+remove_team 6
+remove_newest_player 25
+add_player 6 47561
+remove_team 24
+add_team 19
+unite_teams 12 1
+add_team 7
+add_player 8 16456
+remove_team 21
+unite_teams 17 13
+add_player 5 15294
+unite_teams 17 21
+remove_team 19
+remove_newest_player 0
+remove_team 16
+add_player 11 10673
+unite_teams 17 29
+remove_newest_player 12
+add_player 8 43818
+remove_team 3
+remove_team 23
+unite_teams 23 8
+add_player 3 37092
+remove_team 14
+remove_newest_player 16
+add_team 6
+remove_team 23
+remove_team 15
+add_team 22
+remove_newest_player 7
+remove_team 6
+remove_team 18
+remove_team 12
+remove_team 28
+unite_teams 24 6
+remove_team 6
+add_player 17 26784
+add_player 1 19281
+unite_teams 22 6
+remove_team 11
+remove_team 24
+add_player 1 34416
+unite_teams 25 6
+add_team -1
+remove_newest_player 11
+add_team 24
+remove_team 29
+unite_teams 29 7
+remove_team 24
+remove_team 24
+remove_team 7
+unite_teams 12 24
+add_team 22
+remove_newest_player 13
+add_player -1 38074
+remove_team 15
+unite_teams 18 0
+remove_team 29
+remove_newest_player 3
+add_player 9 49797
+remove_team 4
+add_player 25 17745
+add_player 12 49652
+remove_team 18
+remove_newest_player 14
+add_team 11
+add_team 10
+add_player 15 20301
+add_team 22
+remove_team 4
+remove_team 6
+add_team 26
+remove_team 2
+remove_newest_player 20
+add_team 6
+remove_newest_player 25
+add_team 29
+unite_teams 11 28
+remove_newest_player 24
+remove_newest_player 21
+unite_teams 28 -2
+add_team 27
+remove_newest_player 12
+unite_teams 16 11
+add_player 9 38048
+add_team 10
+add_player 28 44863
+add_team 19
+remove_newest_player 12
+remove_newest_player 29
+remove_newest_player 21
+remove_team 28
+add_player 28 35561
+remove_newest_player 8
+remove_team 1
+remove_team 17
+unite_teams 15 16
+unite_teams 6 25
+add_player 11 13527
+remove_team 13
+unite_teams 15 21
+remove_newest_player 9
+add_player 9 46976
+add_player 26 26562
+add_player -2 42648
+remove_newest_player 25
+unite_teams 25 4
+add_team -2
+remove_team 22
+remove_team 18
+remove_team 12
+unite_teams 5 27
+unite_teams 16 6
+add_team 12
+add_player 29 33749
+add_team 24
+add_team 26
+add_player 18 26104
+add_team 10
+add_player -2 17982
+unite_teams 7 25
+remove_team 12
+add_player 18 25146
+add_player 17 22247
+add_team 22
+add_player 4 24822
+add_player 27 20764
+unite_teams 10 15
+add_team 11
+add_player 3 15548
+remove_newest_player 17
+remove_team 8
+remove_newest_player 3
+remove_team 24
+remove_team 28
+remove_newest_player 21
+remove_team 14
+unite_teams 9 16
+unite_teams 15 10
+remove_newest_player 16
+add_player 28 36344
+remove_newest_player 13
+unite_teams 29 6
+unite_teams 24 18
+add_team 3
+add_team 5
+add_team 19
+add_player 16 14680
+remove_team 11
+remove_team 27
+remove_newest_player 8
+remove_newest_player 7
+add_team 13
+unite_teams 7 28
+unite_teams 2 17
+remove_newest_player 22
+unite_teams 25 17
+add_player 22 30225
+unite_teams 13 15
+add_player 4 41340
+remove_team 9
+unite_teams 1 -1
+remove_team 28
+add_team 5
+remove_newest_player -2
+remove_team 13
+remove_newest_player 4
+add_player 28 47358
+add_player 28 20189
+remove_team 11
+remove_newest_player 2
+remove_newest_player 4
+add_team -1
+remove_team 15
+unite_teams 10 17
+add_player 12 18849
+add_team -2
+add_player 9 31696
+remove_newest_player 1
+add_player 26 26027
+remove_team 22
+unite_teams 4 26
+unite_teams 11 23
+add_player 20 43160
+unite_teams 6 3
+remove_newest_player 0
+unite_teams -2 2
+remove_newest_player 9
+add_player 19 12935
+remove_team 15
+unite_teams 13 20
+unite_teams 23 3
+unite_teams 12 9
+add_team 19
+remove_team 6
+remove_team 0
+unite_teams 6 24
+remove_newest_player 14
+unite_teams 18 4
+add_team 13
+unite_teams 24 13
+remove_team 28
+unite_teams 21 26
+add_player 22 48933
+unite_teams 2 7
+remove_newest_player 23
+remove_newest_player 10
+unite_teams 19 16
+remove_team 25
+add_player 1 38608
+add_team 5
+remove_newest_player 23
+add_team 19
+remove_team 4
+remove_team 22
+remove_team -1
+remove_team 20
+add_player 7 46533
+add_player 13 34957
+unite_teams 6 10
+add_player 21 33456
+add_player 11 17837
+add_team 11
+unite_teams 15 15
+remove_newest_player 25
+remove_team 5
+remove_team 16
+remove_newest_player 2
+unite_teams 0 8
+unite_teams 25 8
+remove_team 7
+unite_teams 25 9
+add_team 11
+add_player 6 46355
+add_player 2 14024
+unite_teams 2 14
+remove_newest_player 23
+remove_team 26
+unite_teams 7 14
+remove_team 16
+add_player 0 17944
+remove_team 25
+add_team 24
+remove_newest_player 5
+remove_newest_player 24
+unite_teams 27 9
+remove_newest_player 20
+remove_newest_player 21
+remove_team 10
+add_player 25 24926
+add_team 26
+add_team -1
+remove_team 12
+add_team 0
+unite_teams 16 5
+add_team 25
+remove_newest_player 5
+remove_newest_player 21
+add_team 9
+add_team 19
+unite_teams 5 6
+unite_teams 27 -1
+add_team 26
+add_player 4 44383
+add_player 12 11264
+add_team 27
+add_player 26 49796
+add_player 8 26852
+unite_teams 4 0
+unite_teams 19 20
+add_player 1 32959
+unite_teams 2 27
+remove_team 16
+add_team 12
+add_player 16 14632
+remove_team 9
+remove_newest_player 2
+unite_teams 8 6
+add_player 0 40522
+add_team 19
+unite_teams 2 2
+remove_team 11
+unite_teams 11 4
+remove_newest_player 28
+add_team 15
+remove_team 21
+remove_newest_player 26
+add_player 12 26545
+add_team 28
+unite_teams 5 21
+unite_teams 12 21
+remove_team 7
+add_player 22 28972
+add_player 14 39011
+remove_team 8
+unite_teams 22 29
+add_team 15
+add_player 12 36489
+add_team 26
+add_team 2
+add_team 22
+unite_teams 18 8
+add_player 5 21597
+add_team 3
+remove_team 21
+remove_newest_player 5
+remove_team 25
+unite_teams 0 17
+add_team 19
+remove_team 9
+add_team 12
+remove_newest_player 16
+add_team 20
+remove_team 19
+remove_newest_player 11
+add_player 4 33920
+remove_newest_player 12
+remove_newest_player 21
+remove_team -2
+add_team 22
+unite_teams 17 8
+add_team 0
+unite_teams 29 26
+unite_teams 26 26
+add_team 29
+unite_teams -2 24
+remove_newest_player 28
+unite_teams 6 18
+remove_newest_player 26
+unite_teams 2 17
+add_team 15
+add_player 3 20344
+add_player 22 41327
+add_player 9 41413
+add_player 18 37328
+remove_newest_player 22
+add_team 6
+add_team 25
+remove_newest_player 7
+remove_team 28
+remove_newest_player 6
 unite_teams 11 18
 remove_newest_player 23
-add_player 6 46451
-add_player 22 30463
-add_team 7
-add_player 13 35762
-remove_team 18
-unite_teams 29 17
-add_team 5
-add_player 9 35328
-unite_teams 10 23
-add_team 19
-unite_teams 11 7
-remove_team 11
-remove_newest_player 19
-add_team 12
-remove_newest_player 2
-add_player 2 14186
-add_team 26
-add_player 23 39675
-unite_teams 21 9
-add_player 17 36865
-remove_newest_player 25
-add_team 7
-add_player 29 18283
-add_team 7
-remove_newest_player 5
-remove_newest_player 23
-add_player 27 35641
-remove_team 26
-remove_team 12
-add_team 5
-add_player 10 28939
-unite_teams 14 16
-remove_team 8
-unite_teams 1 28
-remove_newest_player 29
-add_player 27 41853
+remove_newest_player 7
+add_team 18
+remove_team 27
+unite_teams 4 16
+add_player 29 14888
 remove_newest_player -2
-remove_newest_player 4
-add_player 14 18085
-unite_teams 13 18
-remove_newest_player 8
-remove_newest_player 28
-unite_teams 29 21
-add_player -1 14616
-remove_team 6
-add_team 20
-remove_newest_player 8
-remove_newest_player 2
-remove_team 29
+add_player 5 15351
+unite_teams 22 12
+add_team 29
+add_player 29 20342
+remove_team -2
+add_team 13
+unite_teams 6 24
+unite_teams 23 5
+remove_team 17
+remove_newest_player 25
+unite_teams 15 13
+remove_team 13
+add_player -1 18219
+add_team 9
+unite_teams 25 6
 add_team 25
+remove_team 10
+remove_team 25
+remove_newest_player 1
+add_team 23
+remove_newest_player 15
+add_player 12 18973
+add_team 4
+add_team 11
+unite_teams 1 -2
+remove_newest_player -1
+remove_team 7
+unite_teams 16 20
+add_team 3
+add_team 9
+remove_team -1
+remove_team 23
+remove_team 14
+remove_newest_player 4
+add_player 2 47818
+add_player 22 32589
+add_team 24
+remove_newest_player 1
+remove_newest_player 29
+unite_teams 14 25
+remove_newest_player 6
+add_player 27 10844
+remove_newest_player 11
+remove_newest_player 18
+remove_newest_player 8
+unite_teams 19 15
+remove_team 2
+add_player 26 28119
+remove_team -2
+remove_newest_player 16
+unite_teams 27 5
+add_team 0
+remove_team 6
+remove_team 2
+remove_team 23
+remove_team -1
+add_team 26
+remove_team 11
+remove_newest_player 6
+add_team 10
+remove_newest_player 20
+unite_teams 4 3
+add_team 22
+remove_team 10
+add_player 7 28841
+add_team 23
+add_team 7
+unite_teams 28 8
+add_player 27 10494
+add_player 10 18232
+add_player 28 16680
+remove_team 19
+add_team 3
+add_player 4 18164
+add_player 9 23272
+unite_teams 26 7
+add_team 12
+add_team 20
+unite_teams 21 9
+unite_teams 3 4
+remove_newest_player 14
+add_player 25 13078
+remove_newest_player 1
+remove_team -1
+remove_team 7
+unite_teams 10 19
+unite_teams 28 5
+remove_newest_player 22
+remove_newest_player 3
+remove_team 24
+unite_teams 0 25
+add_player 5 23906
+add_player 7 16452
+remove_newest_player 16
+remove_newest_player 0
+remove_newest_player 9
+remove_team -2
+unite_teams 1 26
+add_team 22
+add_player 26 48355
+add_team 7
+unite_teams 26 -1
+add_team 6
+remove_newest_player 11
+unite_teams 18 5
+remove_newest_player 22
+remove_team -1
+add_team 27
+remove_newest_player 0
+unite_teams 8 5
+unite_teams 1 1
+unite_teams 3 6
+remove_team 22
+add_player 24 45249
+unite_teams 16 -1
+remove_newest_player 1
+remove_newest_player 13
+remove_newest_player 27
+unite_teams 0 19
+remove_newest_player 11
+remove_team 1
+unite_teams 29 4
+remove_team 4
+remove_team 12
+add_player 24 24497
+remove_newest_player 14
+remove_newest_player 24
+add_player 18 33286
+unite_teams 29 1
+remove_newest_player 13
+add_player 4 45283
+add_team 11
+add_player 25 28563
+remove_team 18
+remove_team 5
+unite_teams -1 15
+remove_team 23
+remove_newest_player 4
+unite_teams 3 19
+remove_team 21
+remove_newest_player 9
+add_team 27
+remove_newest_player 8
+add_player 9 18166
+add_team 0
+add_player 20 40255
+add_player 25 36170
+add_player 21 31252
+remove_team 27
+add_player 26 18113
+add_player 11 46516
+add_team 3
+remove_newest_player 27
+remove_team 29
+remove_team 4
+remove_newest_player 1
+add_team -1
+remove_team 6
+remove_team 10
+remove_newest_player 29
+remove_team 11
+unite_teams 2 13
+unite_teams 10 22
+add_player -1 18447
+remove_newest_player 3
+add_team 14
+remove_team 23
+add_player -2 24805
+unite_teams 4 29
+add_player 10 15384
+remove_newest_player 1
+remove_newest_player 20
+add_player 4 26031
+add_player 22 39914
+remove_newest_player -2
+add_player 0 46489
+add_team 3
+add_team 7
+remove_newest_player 15
+add_player 19 15491
+remove_newest_player 1
+remove_team 28
+unite_teams 5 -2
+add_team 27
+unite_teams -2 22
+add_player 15 23845
+add_player 19 22904
+add_team 14
+remove_newest_player 13
+remove_newest_player -2
+add_player 14 29709
+add_team 9
+add_player 28 30320
+unite_teams -2 21
+unite_teams 0 2
+add_team 22
+remove_team 21
+add_player 15 40261
+unite_teams 5 25
+unite_teams 7 12
+remove_newest_player 28
+add_player 17 39752
+add_team 1
+unite_teams 28 19
+add_team 27
+add_team 29
+remove_newest_player 7
+unite_teams 19 27
+unite_teams 25 6
+remove_newest_player -1
+add_player 23 26130
+unite_teams 16 14
+remove_team 28
+unite_teams 13 8
+remove_team 15
+remove_team 26
+add_team -2
+remove_team 19
+remove_team 13
+remove_newest_player 6
+remove_newest_player 27
+remove_team 9
+unite_teams 21 28
+remove_newest_player 23
+remove_team 20
+unite_teams 15 9
+remove_newest_player 2
+add_team 13
+add_team 26
+add_team 20
+remove_team 6
+remove_newest_player 11
+remove_newest_player 7
+add_player 11 26574
+remove_team 0
+add_team 13
+remove_team 9
+remove_team 5
+remove_team 18
+unite_teams 8 25
+unite_teams 19 2
+remove_team 15
+remove_newest_player 26
+remove_newest_player 19
+remove_team 5
+remove_newest_player 28
+unite_teams 23 4
+add_player 8 44845
+add_team 5
+add_player 1 23340
+remove_team 7
+add_team 20
+remove_team -1
+add_team 17
+unite_teams 25 10
+remove_team 15
+add_player 4 20383
+add_team 20
+remove_newest_player 16
+remove_newest_player 0
+remove_team -1
+remove_newest_player 29
+add_player 4 22323
+remove_team 15
+add_player 7 44696
+unite_teams 21 5
+remove_team 15
+remove_team 16
+unite_teams 5 15
+remove_team 1
+add_team 5
+remove_team 26
+add_player 19 38566
+remove_team 4
+remove_newest_player 20
+remove_newest_player 16
+remove_newest_player 29
+remove_newest_player 21
+remove_team 16
+add_player 18 34704
+add_team 3
+remove_newest_player 22
+add_player 29 33448
+add_team 23
+add_player 7 35262
+remove_team -2
+unite_teams 26 7
+unite_teams 15 24
+unite_teams 3 24
+remove_newest_player 0
+add_player 21 20599
+add_team 8
+add_player 11 18717
 remove_newest_player 5
 remove_newest_player 11
-add_team 1
-remove_team 20
-remove_team 24
-add_team 20
-remove_team 10
-remove_newest_player 21
+remove_team 12
 remove_team -2
-add_team 10
-remove_newest_player 26
-remove_newest_player 20
-unite_teams 21 27
-add_team 27
-remove_team 6
-remove_newest_player 20
+remove_newest_player 1
+add_team 13
+add_player 7 21548
+add_player 22 42355
 remove_newest_player 13
-unite_teams 0 1
-unite_teams 12 5
-remove_team 21
-add_player 11 46669
-unite_teams 24 3
-unite_teams 22 2
-add_player 3 11512
-remove_newest_player 6
-remove_newest_player 3
-add_team 9
-unite_teams -2 -1
-add_team 1
-remove_team 11
-remove_newest_player -2
-remove_team 19
-remove_team 28
-remove_team 26
-unite_teams 10 18
-remove_team 5
-remove_team 14
-unite_teams 0 25
-unite_teams 5 -2
-remove_team -1
-unite_teams -1 19
-add_player 23 40330
-add_player 2 46729
-remove_newest_player 23
-remove_team -2
-remove_team 24
-unite_teams 17 20
-add_player 16 31896
-add_player 29 12383
-add_player 25 46107
-remove_team 3
-add_team 6
-unite_teams 2 28
-unite_teams 6 16
-remove_newest_player 4
-remove_newest_player 10
-add_team 11
-remove_team 14
-unite_teams 10 4
+remove_newest_player 24
 remove_newest_player 14
+unite_teams 10 29
+add_team 11
+add_team 6
+unite_teams 26 5
+remove_team 8
+add_player 27 14321
+remove_newest_player 4
+remove_team 14
+unite_teams -2 12
+remove_team 25
+remove_team 10
+remove_team 21
+add_player -2 43824
+add_player 8 17644
+unite_teams 16 25
+add_team 16
+add_player -2 36812
+unite_teams 11 21
+remove_newest_player 29
+unite_teams 5 22
+add_team 5
+remove_newest_player 9
+add_player 3 27916
+remove_team 15
+unite_teams 5 7
+add_team 8
+remove_newest_player 6
+unite_teams 17 24
+unite_teams 4 -2
+remove_newest_player 7
+unite_teams 9 26
+remove_newest_player 16
+add_player 22 12334
+add_player -1 31705
+remove_team 9
+add_team 4
+add_team 6
+unite_teams 1 21
+add_team -2
+remove_newest_player 26
+unite_teams 23 7
+remove_team 19
+add_team 12
+unite_teams 22 7
+unite_teams 29 15
+add_team 15
+add_player 4 26725
+unite_teams 21 10
+add_player 6 41443
+unite_teams 17 24
+add_team 22
+remove_team 7
+add_player 21 32273
+remove_team 4
+add_player 26 39090
+remove_newest_player -1
+remove_team 20
+remove_team 5
+remove_team 15
+unite_teams 4 22
+remove_newest_player 16
+add_player 27 37457
+unite_teams 21 23
+add_team 9
+add_player 28 10167
+remove_team 9
+remove_team 0
+add_player 3 42596
+add_team 11
+add_team 27
+remove_newest_player 9
+remove_newest_player 9
+add_player 4 35910
+add_player 9 48096
+remove_team 6
+remove_team 24
+remove_newest_player 20
+add_team 0
+add_team 14
+add_player 19 47323
+unite_teams 15 17
+remove_newest_player 16
+remove_team 1
+remove_team 11
+add_player 3 35920
 remove_team 3
-add_player 11 16030
+remove_team 7
+remove_team 0
 unite_teams 26 12
-remove_team 26
-add_player 22 12288
-remove_newest_player 5
-add_player 4 48910
+add_player 28 10112
+add_player -2 19485
+add_player 0 12158
+remove_team -1
+remove_newest_player 21
+add_player 21 22010
+remove_team 18
+remove_team 10
+add_player 4 34564
+remove_team 12
+unite_teams 7 6
+add_team 18
+unite_teams 9 14
+unite_teams 3 17
+add_team 0
+remove_newest_player 19
+unite_teams 19 1
+remove_newest_player 14
+add_player 1 19596
+add_team 13
+unite_teams 28 9
+unite_teams 10 27
+remove_team 1
+add_team 6
+add_team 2
+add_team 29
+remove_team 19
+remove_team 2
+add_player 0 34884
+add_team -2
+add_player 6 43031
+add_player 24 17406
+unite_teams 6 6
+remove_newest_player 17
+unite_teams 26 21
+add_team 16
+unite_teams 23 -2
+remove_team 5
+remove_team 17
+unite_teams 25 12
+unite_teams 8 27
+add_team 18
+add_player 22 44745
+remove_newest_player 21
+add_player 19 11470
+unite_teams 0 14
+remove_newest_player 23
+add_player 20 43913
+add_player 18 30994
+remove_newest_player 8
 add_team 21
 remove_team 26
-add_team 14
-add_team 29
-add_player 17 36805
-remove_team 6
-unite_teams 1 29
-add_player 5 38984
-add_team 20
-unite_teams 5 10
-add_player 28 19943
-add_player 1 13793
-unite_teams 22 29
-remove_newest_player 19
+unite_teams 18 6
+remove_team 4
+add_team 11
 remove_newest_player 3
-unite_teams 13 6
-unite_teams 13 12
-unite_teams 21 21
+remove_newest_player 16
+unite_teams 29 3
+add_player 10 42167
+add_team 3
+unite_teams 11 0
+remove_team 25
+remove_team 12
+unite_teams 18 21
+remove_team 9
+add_team 6
+remove_newest_player -1
+unite_teams 6 0
+add_team 1
+remove_team 19
+remove_team 14
+remove_team 14
+add_player 26 29071
+remove_newest_player 1
+add_team -1
+add_team 21
+unite_teams 8 12
+add_team 5
+add_player 14 31083
+unite_teams 11 13
+remove_team 7
+unite_teams 22 13
+remove_newest_player 14
+add_player 25 36920
+add_team 2
+remove_newest_player 20
+unite_teams 18 1
+unite_teams 8 0
+add_team 3
+unite_teams 3 9
+unite_teams 20 3
+unite_teams 5 28
+unite_teams 2 20
+remove_team 29
+remove_newest_player -1
+add_player 21 33022
+unite_teams 25 13
+add_player 12 20040
+add_team 21
+add_team 20
+add_player 1 31253
+unite_teams 12 0
+unite_teams 0 20
+add_team 26
+add_team 18
+unite_teams 4 -1
+remove_newest_player 12
+add_team -1
+add_player 11 25817
+add_player 27 19828
+add_team 5
+remove_team 9
+unite_teams 2 5
+add_player 0 10362
+add_team 9
+remove_newest_player 12
+add_player 26 39249
+remove_newest_player 23
+remove_team 3
+add_team 9
+unite_teams 4 8
+unite_teams 27 11
+unite_teams 19 2
+unite_teams 16 26
+remove_newest_player 10
+unite_teams 15 11
+unite_teams 8 6
+unite_teams 26 17
+remove_newest_player 14
+unite_teams 17 11
+add_team 4
+unite_teams 14 -1
+add_team 15
+add_player 6 30579
+remove_newest_player 20
+add_team 21
+remove_team 25
+add_team 21
+add_team 19
+add_team 24
+add_team 15
+unite_teams 8 10
+unite_teams 25 14
+remove_team 0
+remove_team 10
+unite_teams 9 19
+remove_team 19
+remove_team 17
+remove_team 23
+add_player 18 27586
+unite_teams 7 4
+unite_teams 8 22
+add_team 15
+remove_newest_player 18
+remove_team 2
+add_player 0 28441
+remove_newest_player 17
+remove_newest_player -2
+add_player 2 46738
+add_team 8
+add_player 4 13641
+remove_team 12
+remove_team 26
+remove_newest_player 22
+unite_teams 1 22
+add_team 20
+remove_team 20
+remove_team 27
+add_team 4
+remove_newest_player 22
+add_player -2 41803
+add_team 18
+add_player 9 32649
+remove_newest_player 18
+remove_team 8
+remove_team 16
+add_player 10 30269
+add_team 15
+unite_teams 17 16
+unite_teams 29 15
+remove_team 2
+add_player 0 15406
+add_team 20
+unite_teams -2 -1
+unite_teams 5 15
+unite_teams 16 24
+remove_team 7
+remove_newest_player 8
+add_team 17
+unite_teams 18 16
+remove_team 16
+add_team 25
+remove_newest_player 11
+remove_team 1
+add_player 0 13071
+remove_team 25
+unite_teams 1 24
+add_player 17 38474
+remove_team 2
+remove_newest_player -2
+add_team 24
+remove_team 23
+add_player 18 45924
+remove_team 9
+add_team 5
+add_team 19
+unite_teams 21 6
+unite_teams 16 1
+add_team 17
+remove_newest_player 1
+unite_teams 7 25
+unite_teams 7 4
+remove_team 11
+unite_teams 9 16
+add_team 19
+remove_team 13
+remove_newest_player 12
+remove_team 8
+unite_teams 14 18
+add_team 21
+unite_teams 25 13
+add_player 2 39716
+remove_team 26
+remove_newest_player 1
+remove_team 6
+add_player 3 13755
+remove_newest_player 29
+remove_team 1
+add_player 16 14876
+add_team 25
+remove_newest_player 13
+add_player 23 11867
+remove_team -2
+remove_team 20
+unite_teams 10 1
+remove_team 16
+remove_newest_player 18
+remove_team 4
+remove_team 21
+remove_newest_player 27
+unite_teams 14 27
+add_player 16 13087
+add_player 20 41477
+unite_teams 20 5
+add_player 0 28972
+remove_newest_player 4
+unite_teams 0 21
+remove_team 26
+add_player 0 16684
+add_player 26 22544
+remove_newest_player 8
+add_player 22 33301
+add_player 7 27890
+unite_teams 19 9
+add_player 24 29034
+add_team 29
+remove_team 17
+remove_newest_player 19
+add_player 27 21065
+add_team 14
+remove_newest_player 2
+add_team 28
+add_player 22 16927
+unite_teams 19 12
+unite_teams 6 15
+unite_teams 9 3
+add_player 5 38576
+add_player 13 30819
+unite_teams 17 23
+add_player 5 20754
 unite_teams 16 -1
+remove_team 9
+add_player 18 47277
+remove_newest_player 16
+remove_newest_player -1
+add_player -2 41723
+add_team -1
+unite_teams 27 28
+add_player 5 26822
+remove_newest_player 0
+add_player 4 36570
+remove_newest_player 0
+remove_team 26
+add_team 22
+unite_teams 13 19
+remove_newest_player 15
+add_team 22
+remove_team 26
+remove_team 25
+add_player -1 22768
+remove_team 15
+add_team 10
+add_team -2
+remove_newest_player 7
+add_team 4
+remove_team -2
+add_player 15 21106
+remove_team 5
+add_player 18 12233
+remove_newest_player 16
+remove_newest_player 9
+add_team 0
+remove_newest_player 7
+unite_teams 15 1
+remove_team 20
+add_team 0
+add_player 12 17820
+add_team 13
+remove_newest_player 6
+remove_team 18
+add_team 21
+add_team 2
+unite_teams 23 29
+remove_team 5
+unite_teams 17 26
+remove_newest_player 20
+remove_newest_player 4
+unite_teams 15 25
+remove_newest_player -1
+remove_newest_player 10
+add_team 7
+unite_teams 16 26
+remove_team 24
+add_team 7
+add_player 0 28267
+add_team 1
+remove_team 0
+add_team 6
+add_player 28 31181
+add_player 14 23688
+add_team 3
+add_team 11
+unite_teams 27 15
+add_player 29 34940
+remove_newest_player 7
+remove_newest_player 12
+add_player 19 14425
+unite_teams 11 -2
+remove_newest_player 0
+add_player 22 35782
+add_team 10
+add_player 9 28352
+remove_newest_player 3
+add_player 11 22028
+remove_newest_player 15
+remove_newest_player 27
+add_team 1
+remove_team 15
+unite_teams 27 3
+remove_newest_player 17
+unite_teams 17 -1
+remove_newest_player 22
+remove_newest_player 14
+remove_newest_player 29
+unite_teams 29 21
+remove_newest_player 12
+add_player 26 32760
+add_team -2
+unite_teams 25 24
+unite_teams 21 3
+add_player -1 18911
+add_player 14 47839
+remove_team -1
+remove_newest_player 10
+add_team 10
+unite_teams 8 24
+add_player 25 16227
+unite_teams 4 12
+unite_teams 11 -2
+remove_newest_player 24
+add_player 2 33099
+remove_team 26
+add_player 22 22852
+unite_teams 24 22
+unite_teams 11 10
+unite_teams 19 6
+add_team 0
+add_team 19
+unite_teams 9 17
+add_player 27 22430
+add_player 7 32975
+remove_team 6
+add_player 24 15555
+remove_newest_player 5
+remove_team 4
+unite_teams 20 25
+unite_teams 29 26
+remove_newest_player 18
+add_player 7 43203
+unite_teams 21 6
+add_team 18
+unite_teams 6 -1
+add_player 29 43732
+add_player -2 26405
+unite_teams 2 4
+remove_team 10
+add_player 17 29903
+unite_teams -2 9
+remove_newest_player 2
+remove_newest_player 19
+remove_team 19
+remove_newest_player 24
+remove_team 18
+remove_newest_player 14
+remove_newest_player 11
+add_team 29
+add_player 13 19286
+unite_teams 21 6
+remove_team 27
+remove_newest_player 19
+add_team 13
+add_team 21
+remove_newest_player 18
+unite_teams 28 -2
+remove_team 23
+remove_team 10
+add_player 5 41541
+add_player 10 36612
+remove_team 21
+remove_team 1
+add_player 3 42643
+remove_team 26
+unite_teams 26 2
+remove_team 25
+remove_team 14
+remove_newest_player 2
+unite_teams 10 12
+add_player 20 36203
+add_team 11
+remove_team 14
+add_player 8 19896
+remove_newest_player 28
+add_team 10
+remove_team -1
+remove_newest_player 23
+unite_teams 3 -1
+remove_team 19
+unite_teams 5 20
+remove_team -2
+add_player 22 19111
+add_player 23 41360
+add_team -2
+remove_newest_player 5
+add_player 20 28486
+add_team 14
+remove_team 13
+unite_teams 8 23
+add_player 21 45343
+unite_teams 29 12
+unite_teams 7 8
+remove_team 25
+remove_newest_player 19
+remove_newest_player 15
+remove_team 29
+add_player -2 26611
+remove_newest_player 3
+unite_teams 26 6
+unite_teams 4 7
+add_player 12 20730
+remove_newest_player 22
+remove_newest_player 16
+remove_team 24
+add_player 11 22687
+unite_teams 17 16
+remove_newest_player 27
+unite_teams 19 -1
+unite_teams 26 27
+unite_teams -2 16
+unite_teams 6 3
+add_team 25
+add_player 18 27380
+add_player 10 15434
+add_team 23
+remove_team 13
+remove_newest_player 16
+add_player 2 32325
+add_team 26
+remove_team 27
+unite_teams 6 11
+add_player 17 49588
+add_player 15 16310
+add_player 28 49350
+add_player 14 34953
+remove_newest_player 12
+add_team 9
+remove_newest_player 5
+unite_teams 21 20
+remove_team 2
+remove_newest_player 23
+add_player 24 25063
+remove_team 24
+unite_teams 20 25
+unite_teams 20 6
+remove_team 11
+remove_team 10
+remove_team 25
+add_player 26 46721
+remove_team 8
+unite_teams -1 10
+unite_teams 0 29
+add_team 17
+add_player 25 48568
+unite_teams 21 6
+remove_team 21
+remove_team 2
+unite_teams 4 19
+remove_newest_player 12
+unite_teams 27 8
+add_team 14
+remove_team 25
+remove_newest_player 3
+remove_newest_player 17
+unite_teams 27 0
+add_player 16 33954
+remove_newest_player 24
+add_team 22
+remove_team 28
+add_player 21 47662
+unite_teams 1 3
+unite_teams 18 8
+add_player 5 38438
+add_player 11 18275
+remove_newest_player 20
+remove_newest_player 3
+add_player 2 17993
+add_team 17
+remove_newest_player 20
+remove_team 3
+add_team 21
+remove_team 11
+add_player 18 15235
+remove_team 24
+remove_newest_player 10
+add_player 26 13640
+add_player 23 49708
+unite_teams -2 1
+unite_teams 1 10
+add_team 5
+unite_teams 29 25
+add_player 19 15090
 remove_team 22
+unite_teams 22 0
+unite_teams 28 27
+add_player 4 28777
+unite_teams 26 27
+remove_team 16
+remove_newest_player 20
+remove_team 14
+add_team 22
+add_team 26
+unite_teams 13 25
+add_team -2
+remove_newest_player -2
+unite_teams 1 10
+remove_team 14
+add_player 11 34992
+add_player 21 38359
+remove_newest_player 14
+add_player 16 46017
+remove_team 17
+add_player 16 36183
+remove_team 7
+remove_team 14
+add_team 24
+remove_newest_player 15
+add_team 3
+remove_team 3
+remove_team 3
+add_team 20
+remove_newest_player 9
+add_team 19
+add_player 0 16041
+remove_newest_player 6
+add_team 13
+add_team 29
+remove_team 7
+unite_teams 28 24
+remove_newest_player 9
+remove_newest_player 1
+add_player 13 26722
+remove_team 9
+add_team 12
+add_team 16
+add_player 29 22154
+unite_teams 9 26
+add_team 24
+add_team 0
+remove_team 17
+remove_team 20
+remove_newest_player 4
+add_team -2
+add_team 19
+unite_teams 23 15
+unite_teams -2 11
+remove_team 4
+unite_teams 28 15
+add_team 1
+remove_team 29
+unite_teams 23 8
+add_team 3
+remove_team 19
+remove_newest_player 6
+add_player 18 18223
+add_team 23
+remove_team 17
+unite_teams 17 19
+unite_teams 27 25
+add_player 6 15790
+add_team 14
+remove_team 23
+add_player 13 48007
+remove_team -2
+remove_team 2
+add_team 3
+unite_teams 12 17
+remove_newest_player 8
+add_player 12 40358
+add_team 17
+add_player 16 29841
+remove_team 22
+add_player 16 42542
+add_player 16 25663
+remove_team 26
+add_team 10
+remove_newest_player 2
+unite_teams 12 29
+unite_teams 17 12
+remove_newest_player -1
+add_player 13 45278
+remove_newest_player 19
+remove_newest_player 24
+remove_newest_player 23
+unite_teams -1 19
+unite_teams 16 13
+add_player 11 23085
+add_team 0
+remove_team -2
+remove_team 2
+remove_newest_player 0
+unite_teams 1 20
+add_player -2 26413
+add_team 20
+add_player -1 32665
+unite_teams 0 26
+unite_teams 20 22
+add_player 29 37461
+remove_newest_player 6
+add_team 28
+remove_team 10
+add_team 18
+unite_teams 16 14
+remove_team 9
+add_player 18 41313
+remove_team 16
+unite_teams 9 19
+unite_teams 3 3
+add_team 24
+add_player 0 25646
+remove_team 19
+add_player 2 10921
+remove_team 3
+add_player 28 37713
+remove_newest_player 16
+remove_team 24
+remove_newest_player 19
+remove_newest_player 18
+remove_newest_player 12
+add_team 29
+remove_team 11
+remove_newest_player 1
+unite_teams 27 2
+unite_teams 12 11
+remove_newest_player 26
+add_player 9 33673
+add_team 18
+add_player 3 48268
+unite_teams 5 12
+add_team 27
+add_player 5 22672
 add_team 11
 unite_teams 2 10
-add_player 21 36821
-add_team 9
-unite_teams 4 -1
-remove_newest_player 29
-remove_newest_player -1
-add_player 23 18216
-add_team 16
-remove_team 23
-remove_team 16
-remove_team 5
-remove_team 14
-unite_teams 17 0
-remove_newest_player 1
-remove_newest_player 17
-remove_team 17
-remove_newest_player 19
-remove_team 24
-add_team 10
-remove_newest_player 4
-add_player 13 38041
-unite_teams 7 29
-add_player 28 15115
-unite_teams 14 9
-remove_newest_player 7
-add_team 9
-add_team 20
-add_team 22
-add_player 15 24316
-remove_team 8
-remove_team 26
-remove_team 11
-unite_teams 7 -1
-unite_teams 26 23
-add_team 19
-remove_newest_player 8
-unite_teams 1 6
-add_player 25 39029
-remove_team 6
 remove_newest_player 25
-remove_team 13
-add_player 9 30121
-remove_team 21
-unite_teams -2 5
-add_team 5
-add_team 23
-unite_teams 5 13
-add_team 2
-add_player 25 41265
-remove_newest_player 11
-add_team 3
-add_player 9 45844
-remove_team 8
-remove_team 28
-add_player 5 44051
-add_player -1 17416
-remove_team 14
-add_team 22
-unite_teams 1 -2
-remove_team 26
-add_player 12 37528
-remove_newest_player 25
-add_team 27
-add_team 2
-remove_team 18
-add_team 27
-remove_team 16
-add_team 8
-unite_teams -1 2
-add_team -1
-remove_team 0
-remove_newest_player 19
-add_player 19 44998
-unite_teams 21 8
-unite_teams 10 18
-add_player -2 27688
-add_player 5 44829
-add_player 22 27200
-remove_newest_player 21
-add_team 24
-unite_teams 7 18
-remove_team 17
-unite_teams 18 25
-add_team -2
-remove_newest_player 28
-add_player 6 38246
-add_player 23 45843
-add_player 22 10117
-remove_team 13
-add_player 29 36275
-unite_teams 4 21
-add_team 17
-remove_team 4
-remove_newest_player 27
-unite_teams 8 21
-remove_newest_player 23
-add_team 24
-remove_newest_player 21
-remove_team 6
-add_team 11
-add_team 12
-remove_newest_player 7
-remove_team 17
-unite_teams 0 2
-unite_teams 12 22
-add_player 25 17258
-remove_newest_player 12
-add_player 13 38448
-unite_teams 17 0
-remove_team 21
-add_player 0 16191
-add_team 1
-add_team 1
-remove_newest_player 11
-add_team 9
-add_team 16
-add_team 5
-add_team 17
-unite_teams 25 23
-remove_newest_player 0
-remove_team 29
-unite_teams 22 8
-unite_teams 8 11
-unite_teams 16 17
-remove_team 13
-unite_teams 24 13
-add_player -2 14515
-remove_newest_player 2
-unite_teams 24 -1
-unite_teams 15 6
-unite_teams 14 20
-remove_newest_player 9
-add_player 4 37195
-remove_team 19
-add_team 16
-unite_teams -2 28
-add_player 28 17143
-add_player 22 34786
-add_team 8
-add_team 23
-unite_teams 1 22
-add_player 24 17721
-remove_newest_player 9
-remove_team -1
-remove_newest_player -2
-remove_team -1
-add_player 24 10753
-add_player 6 47555
-add_team 26
-add_team 22
-add_team 15
-add_team 3
-remove_team 0
-unite_teams 19 3
-unite_teams 8 5
-add_player 19 27922
-add_team 19
-add_player -2 49562
-unite_teams 26 17
-add_team 10
-unite_teams -1 25
-remove_team 0
-remove_team 5
-add_team 25
-unite_teams 19 8
-add_team 11
-add_player 11 24898
-add_team 3
-add_team 4
-unite_teams 11 3
-add_team 11
-unite_teams 1 17
-add_team 10
-add_player 2 46789
-remove_newest_player 2
-remove_team 7
-add_player 25 38328
-remove_newest_player 14
-remove_team 7
-remove_team -2
-remove_team 2
-add_player 6 25898
-add_team 15
-unite_teams 4 3
-add_player 23 39123
-remove_team 13
-remove_team 14
-unite_teams 26 -1
-remove_newest_player 16
-add_team -1
-add_player 10 34189
-remove_newest_player 8
-remove_newest_player 4
-add_team 1
-unite_teams 26 2
-unite_teams 22 14
-remove_newest_player 22
-add_player 5 11922
-remove_team 23
-add_team 24
-add_team 26
-remove_team -1
-add_team 19
-add_team 5
-unite_teams 7 20
-remove_newest_player 10
-remove_team 25
-unite_teams 19 18
-remove_newest_player 25
-add_player 15 44962
-add_team 2
-remove_team 7
-unite_teams 7 0
-add_team -2
-remove_team 24
-add_team 10
-add_team 29
-add_player 24 46499
-remove_newest_player 6
-remove_newest_player 15
-add_player 2 27474
-remove_newest_player -2
-add_team 23
-add_team 12
-add_player 8 20182
-remove_newest_player 7
-add_player 15 14191
-remove_team 7
-unite_teams 29 12
-unite_teams 5 26
-add_player 12 25680
-add_team 29
-remove_newest_player 7
-remove_team 2
-add_team 2
-add_player 18 43367
-unite_teams 14 2
-remove_team 6
-remove_team 28
-unite_teams 25 23
-unite_teams 25 5
-remove_newest_player 21
-unite_teams 8 24
-remove_newest_player 7
-remove_newest_player -1
-add_player 12 45238
-remove_team 16
-add_player 19 16568
-remove_team 1
-remove_newest_player 10
-unite_teams 25 26
-remove_newest_player 21
-add_player 3 25247
-add_team 10
-remove_newest_player 29
-unite_teams 10 27
-remove_newest_player 8
-remove_team 29
-add_player 28 25903
-remove_newest_player 11
-add_player 3 34637
-unite_teams -2 28
-unite_teams 14 5
-remove_team 8
-add_player 12 10498
-unite_teams 17 -1
-remove_team 6
-unite_teams 19 19
-unite_teams 15 28
-add_player 8 19029
-unite_teams 15 17
-add_player 23 21988
-unite_teams 19 0
-add_player -1 19161
-add_player 3 14107
-add_team 21
-remove_team -1
-add_team 7
-add_team 2
-add_player 19 13585
-unite_teams 18 0
-remove_team 9
-add_team 10
-remove_team 27
-remove_team -1
-unite_teams 25 5
-remove_newest_player 0
-remove_newest_player 10
-unite_teams 0 19
-unite_teams 0 28
-unite_teams 12 19
-add_player 8 12388
-add_player 25 18155
-remove_team 2
-add_player -2 25476
-add_team 14
-unite_teams 12 20
-add_team 20
-unite_teams 22 12
-add_team 2
-add_team 13
-remove_team 11
-remove_team 3
-unite_teams 5 29
-remove_team 17
-remove_newest_player 28
-remove_newest_player 15
-add_team 22
-add_team 9
-add_team 5
-unite_teams 17 13
-unite_teams 28 29
-add_player 24 39230
-add_player 1 35906
-remove_team 27
-remove_newest_player 2
-remove_newest_player 27
-unite_teams 1 14
-remove_newest_player 2
-add_team 9
-remove_team 18
-remove_team 9
-remove_newest_player 22
-remove_newest_player 16
-remove_team 19
-add_team 18
-remove_newest_player 27
-remove_team 8
-unite_teams 14 24
-add_team 13
-unite_teams 3 12
-add_player 9 25073
-add_player 17 18611
-add_player 4 36039
+unite_teams 13 23
+add_player 14 27160
 unite_teams 12 6
-unite_teams 1 19
-add_team 13
-remove_team 16
-add_team 26
-remove_team 0
-add_team 13
-remove_newest_player 22
-remove_team 19
-remove_team 6
-remove_team 11
-remove_team 17
-add_team 7
-remove_team 6
-unite_teams 25 0
-add_team 8
-unite_teams 24 5
-add_team 25
-remove_newest_player 3
-unite_teams 0 3
-remove_newest_player 0
-add_player 6 15194
-unite_teams 16 12
-add_player -2 16297
-add_player 2 36389
-remove_newest_player 14
-unite_teams 17 25
-add_team 5
-add_player 18 34406
-add_team 11
-remove_team 27
-remove_team 1
-unite_teams 15 11
-remove_newest_player 28
-unite_teams 11 24
-add_player 18 35820
-remove_team 15
-remove_team 6
-add_team 24
-add_player 0 14993
-unite_teams 17 20
-remove_newest_player 23
-remove_team 1
-add_team -2
-remove_team 9
-remove_newest_player 21
-add_player 12 30255
-remove_team 11
-remove_team 3
-unite_teams 13 27
-add_player 27 46461
-remove_team 11
-remove_newest_player 1
-remove_team 2
-add_player 15 35286
-remove_newest_player 9
-add_team 3
-remove_team 10
-remove_team 2
-add_team 28
-add_player 10 43207
-unite_teams -2 26
-remove_team 11
-add_player 19 49911
-remove_newest_player 3
-remove_team 8
-remove_team 2
-remove_team 8
-unite_teams 13 23
-add_team -1
-unite_teams 1 20
-add_player 4 10330
-remove_newest_player 26
-remove_newest_player 14
-remove_newest_player 11
-remove_team 29
-remove_newest_player 15
-remove_newest_player 20
-add_team 1
-add_team 3
-add_player 20 45742
-remove_team 12
-unite_teams 8 24
-unite_teams 6 1
-remove_team 5
-add_team 0
-remove_team 7
-add_team 0
-add_player 22 10688
-remove_newest_player 0
-remove_team 20
-unite_teams 21 10
-remove_team 0
-add_team 2
-add_player -2 19981
-remove_team 28
-remove_newest_player 6
-add_team 24
-unite_teams 9 29
-add_player 27 26872
-remove_team 17
-remove_team 15
-remove_newest_player 13
-unite_teams 20 12
-add_team 24
-remove_team 2
-remove_newest_player 11
-remove_newest_player 1
-add_team 28
-unite_teams 5 13
-remove_newest_player 1
-unite_teams 21 20
-add_team 1
-remove_newest_player 0
-remove_team 29
-remove_newest_player 26
-remove_newest_player 22
-remove_newest_player 14
 remove_newest_player 4
-remove_team 1
-remove_team 7
-add_team 25
-remove_team 23
-remove_newest_player 10
-remove_team 1
-remove_newest_player 23
-add_player 5 16408
-add_player 0 41021
-remove_team 26
-remove_newest_player 4
-add_team 5
-add_team 9
-add_team -1
-add_team -1
-add_team 21
-remove_team 23
-add_player 14 39418
-add_team 20
-unite_teams 3 10
-unite_teams 5 28
-unite_teams 4 1
-unite_teams 12 18
-remove_team 11
-add_player 12 15416
-add_team 2
-unite_teams 10 12
-add_team 11
-add_team 23
-remove_newest_player 12
-unite_teams 4 19
-unite_teams 29 18
-add_team 24
-remove_newest_player 14
-add_team 12
-add_team 25
-remove_team 17
-remove_newest_player 14
-remove_newest_player 3
-remove_newest_player 4
-add_team 10
-add_team 19
-add_player 7 39596
-add_player 11 36021
-unite_teams 11 22
-add_team 24
-remove_newest_player 18
-add_team 28
-unite_teams 9 8
-remove_newest_player 5
-unite_teams 9 26
-add_player 12 40913
-remove_team 9
-add_team 4
-unite_teams 16 25
-add_team 26
-add_team 7
-remove_team -2
-add_player 22 27962
-remove_newest_player 16
-add_player 21 47073
-unite_teams 25 5
-remove_team 10
-unite_teams 29 21
-add_player 5 32759
-remove_newest_player 2
-remove_newest_player 18
-remove_newest_player 19
-remove_newest_player 27
-unite_teams 24 2
-unite_teams 26 9
-add_team 22
-remove_newest_player 9
-add_player 24 38019
-add_player 28 26736
-add_player 24 15263
-remove_newest_player 18
-unite_teams 17 23
-add_player 15 37416
-unite_teams 14 5
-remove_team 24
-remove_team 9
-unite_teams 20 1
-remove_newest_player 14
-unite_teams 8 13
-remove_newest_player 29
-remove_team 28
-add_player 18 11846
-remove_team 15
-remove_team 22
-add_team 19
-remove_team 6
-add_player 26 43254
-add_player 5 18748
-add_player 22 25856
-add_player 17 20378
-unite_teams 26 8
-add_team 22
-add_team 22
-add_team 10
-add_player 14 19389
+remove_team -1
+add_player 1 11890
+unite_teams 16 20
 remove_newest_player 17
-add_team 11
-unite_teams 24 7
-add_player 21 48069
-remove_team -2
-add_team 23
-remove_newest_player 19
-remove_team 4
-remove_team 18
-add_player 8 45552
-remove_newest_player 11
-remove_team 26
-add_team 24
-unite_teams 8 12
-remove_newest_player 12
-unite_teams 5 26
-remove_newest_player 18
-unite_teams 13 22
-unite_teams 13 18
-add_team -2
-remove_team 17
-add_player 4 45739
-unite_teams 18 10
-add_player -1 32876
-remove_team 12
-add_player 13 10565
-add_team 9
-add_player -1 36058
-remove_team 11
-remove_newest_player 18
-add_player 25 20047
-remove_newest_player 11
-add_team 21
-remove_team 0
-add_player 29 30173
-unite_teams 21 19
 unite_teams 5 23
-unite_teams 1 -2
-add_team 20
-unite_teams 6 16
-add_team 4
-remove_team 8
-add_player 2 20249
-add_team 15
-remove_team 19
-add_team 18
-unite_teams 15 26
-unite_teams -1 11
+unite_teams 13 28
+add_team -2
+remove_newest_player 29
+remove_team 16
+unite_teams 5 16
+remove_team 25
+remove_team 24
+add_team 22
+unite_teams 18 1
 remove_team 28
-remove_newest_player 9
+add_player -2 10107
+add_player 29 46344
+remove_team 12
+unite_teams -2 0
+unite_teams 8 26
 remove_team 20
-add_team 10
-remove_newest_player 25
-add_team -1
-add_player 16 20707
-add_team 7
-remove_team -2
-remove_team 0
-remove_newest_player 0
-add_team -1
+add_team 17
 remove_team 2
-remove_newest_player -2
-remove_team 27
-add_team 2
-add_player 16 22917
-unite_teams 4 9
-unite_teams 17 23
-add_player 22 13149
-remove_team 0
-remove_team 21
-add_player 29 26165
-unite_teams 16 7
+add_player 15 16481
+remove_newest_player 24
+remove_team 24
+add_player 0 34934
+unite_teams 1 13
+unite_teams 7 2
+remove_newest_player 14
+unite_teams 1 16
+unite_teams 20 10
+add_player 11 34159
+remove_newest_player 22
+unite_teams 5 11
+add_team 4
+add_team 20
 add_team 11
-remove_newest_player 20
-remove_team 14
-add_player 8 38664
-remove_team 10
-add_player 5 42036
-remove_newest_player 1
-add_player 24 37055
-remove_newest_player 21
-add_team 3
-remove_team 10
-remove_team 21
-add_team 0
-remove_newest_player 26
-unite_teams 27 5
-add_team 25
-add_team 6
-add_team 12
-unite_teams 25 20
-remove_newest_player 23
-unite_teams 28 29
-add_player 5 17251
-add_team 8
-remove_team 23
-add_team 9
-remove_newest_player 26
-unite_teams 11 22
-unite_teams -1 23
-add_player 24 45473
-unite_teams -2 29
-remove_newest_player 11
-unite_teams 18 16
-add_team 5
-add_team 28
-unite_teams 5 1
-remove_team 4
+remove_newest_player -1
 remove_team 18
-add_player 9 22941
-remove_team 28
-remove_newest_player 28
-add_team 1
-add_team 12
-add_team 16
-add_player 29 14308
-add_team 7
-remove_newest_player 13
-unite_teams 13 23
-remove_team 28
-remove_team 7
-unite_teams 8 12
+add_team 17
+add_team 11
+remove_newest_player 2
+remove_team -1
+remove_team 1
+remove_team 1
+unite_teams 14 18
+remove_team 0
+add_team 4
+add_player 13 13745
+add_player 5 12550
 remove_team 21
-remove_team 8
-remove_newest_player 3
-remove_team 9
-add_team 5
-add_team 6
-unite_teams 4 28
-remove_team 19
-unite_teams -1 6
-unite_teams 0 3
-add_player 29 31443
-add_player 21 30933
-add_team 12
-remove_team 4
+remove_team 11
+remove_newest_player -1
+add_player 15 39067
+add_player 4 22751
 add_team 18
+remove_newest_player 6
+remove_team 9
+remove_team 23
+remove_newest_player 29
+unite_teams 23 28
+remove_team 17
+unite_teams 20 8
+add_player 6 17886
+unite_teams 3 1
+remove_newest_player 9
+remove_team 22
+remove_newest_player 11
+add_player 13 11480
+remove_newest_player 12
+unite_teams 14 7
+unite_teams 5 3
+unite_teams 7 23
 add_team 11
-add_team 11
-unite_teams 22 11
-unite_teams 5 27
+add_team -1
+add_player -1 21992
+add_player 9 37296
+unite_teams 24 -2
+unite_teams 10 28
+add_team 6
+unite_teams 5 16
+unite_teams 29 23
+remove_newest_player 12
+unite_teams 5 1
+remove_team 19
+add_player 10 23040
+remove_newest_player 14
+add_player 6 37127
+unite_teams 25 7
+add_player 6 13915
+add_team 16
+unite_teams 29 21
+remove_newest_player 21
+add_team 12
+remove_team 18
+remove_team 28
+unite_teams -2 -1
+remove_team 22
+unite_teams 19 14
+remove_team 12
+remove_team 15
+remove_newest_player 10
+remove_newest_player 18
+remove_team 6
+remove_newest_player 23
+remove_newest_player 9
+add_team 19
+unite_teams 7 29
+unite_teams 6 2
+add_player 22 41837
+add_team 29
+unite_teams 8 11
+remove_team -1
+remove_newest_player -1
+remove_team -1
+remove_newest_player 9
+add_player 11 48181
+remove_team 29
+add_team 3
+add_team 18
+add_player 24 31061
+add_player 9 48964
+unite_teams 3 12
+add_player 28 14584
+add_team 22
+remove_team 9
+unite_teams 6 2
+unite_teams 21 24
+add_team 5
+add_player 28 22799
+remove_newest_player 23
+remove_team 25
+remove_newest_player 19
+remove_newest_player 19
+unite_teams 26 16
+unite_teams 8 13
+add_team 13
+unite_teams 20 20
+add_team 8
+remove_newest_player 18
+remove_newest_player 3
+add_team 2
+unite_teams 5 8
+remove_newest_player 5
+add_team 18
+remove_newest_player 12
+add_team 19
+unite_teams 3 22
+unite_teams 26 0
+add_team 1
+unite_teams 23 7
+unite_teams 7 29
+add_player 0 12665
+add_team 1
+remove_newest_player -2
+remove_team 23
+remove_newest_player 16
+add_player 1 13297
+unite_teams 16 8
+remove_newest_player 7
+remove_newest_player 20
+remove_newest_player 3
+remove_team 3
+add_team 9
+remove_newest_player 27
+unite_teams 8 12
+add_player 18 32163
+add_team 24
+add_player 22 42620
+remove_team 10
+add_player 6 14829
+remove_newest_player 16
+remove_newest_player 14
+add_player 29 28530
+remove_newest_player 25
+add_team 9
+add_player 1 24130
+remove_team -2
+add_team 19
+add_player 2 48847
+add_team 21
+remove_newest_player -1
+add_team 15
+unite_teams 13 7
+unite_teams -1 -1
+unite_teams 16 6
+unite_teams -1 3
+remove_team 25
+unite_teams 0 8
+add_team 20
+remove_newest_player 5
+add_player 15 10608
+remove_newest_player 29
+add_player -2 18295
+remove_team 8
+add_team 5
+remove_team 5
+unite_teams 23 1
+add_player 19 10242
+add_player 9 39006
+unite_teams 14 29
+remove_newest_player 7
+add_player 2 26209
+unite_teams 11 19
+remove_newest_player 2
+unite_teams 0 4
+unite_teams 23 26
+remove_newest_player 2
+unite_teams 5 12
+add_player 11 38912
+add_team 7
+remove_newest_player 29
+remove_team 9
+unite_teams 8 21
+remove_newest_player 4
+add_team 27
+add_player 14 43633

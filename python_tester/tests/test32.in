@@ -1,0 +1,5000 @@
+play_tournament 2524 5528
+num_wins_for_team 19
+unite_teams 11 18
+play_tournament 2329 6487
+play_match 28 5
+num_wins_for_team 26
+remove_newest_player 5
+play_match 2 0
+play_match 3 4
+play_tournament 974 6908
+remove_newest_player 26
+remove_newest_player 6
+num_wins_for_team 9
+play_tournament 1600 7087
+unite_teams 13 10
+unite_teams 10 21
+num_wins_for_team 21
+num_wins_for_team 0
+remove_newest_player 20
+play_match 5 29
+play_tournament 2969 6054
+play_match 19 0
+num_wins_for_team 17
+num_wins_for_team 1
+play_tournament 1481 7075
+play_match 16 17
+get_highest_ranked_team 
+remove_newest_player 28
+num_wins_for_team 24
+num_wins_for_team 18
+play_match 6 11
+get_highest_ranked_team 
+num_wins_for_team 16
+get_highest_ranked_team 
+num_wins_for_team 6
+play_tournament 1580 6794
+play_tournament 2209 7030
+num_wins_for_team 12
+get_highest_ranked_team 
+num_wins_for_team 5
+num_wins_for_team 23
+remove_newest_player 13
+num_wins_for_team 8
+play_tournament 2983 5963
+play_match 22 26
+play_match 22 8
+get_highest_ranked_team 
+unite_teams 20 10
+play_match 27 1
+play_match 10 -2
+play_tournament 1919 7445
+unite_teams -1 3
+play_tournament 2646 6220
+num_wins_for_team 17
+num_wins_for_team 17
+unite_teams 17 21
+num_wins_for_team 4
+play_match 20 12
+play_tournament 2520 7750
+unite_teams 14 24
+get_highest_ranked_team 
+play_tournament 2167 6550
+unite_teams 1 25
+get_highest_ranked_team 
+play_match 3 -1
+play_tournament 3433 6716
+play_tournament 2391 7496
+get_highest_ranked_team 
+unite_teams 6 5
+play_tournament 866 5651
+unite_teams 7 0
+num_wins_for_team -2
+play_tournament 2291 6571
+remove_newest_player 27
+remove_newest_player -1
+play_tournament 1738 6124
+play_tournament 2398 5992
+num_wins_for_team 3
+remove_newest_player 8
+play_tournament 1552 6826
+play_tournament 2400 5103
+play_tournament 3079 6893
+num_wins_for_team 13
+unite_teams 24 9
+unite_teams 28 16
+play_match 10 14
+num_wins_for_team -2
+remove_newest_player 28
+num_wins_for_team 11
+num_wins_for_team 17
+play_tournament 3264 6265
+play_tournament 1574 5349
+play_tournament 3243 5558
+num_wins_for_team 13
+play_tournament 1339 5129
+play_tournament 1322 5126
+play_match 19 18
+unite_teams 22 25
+remove_newest_player -2
+play_tournament 3022 6529
+get_highest_ranked_team 
+remove_newest_player 11
+play_tournament 1529 5057
+play_match 28 11
+unite_teams 0 29
+get_highest_ranked_team 
+unite_teams 12 22
+play_match 29 9
+num_wins_for_team 23
+num_wins_for_team -2
+num_wins_for_team 19
+get_highest_ranked_team 
+num_wins_for_team 18
+play_tournament 2864 7653
+unite_teams 11 14
+unite_teams 3 15
+unite_teams -2 5
+play_tournament 1440 6038
+play_match 6 27
+play_match 8 27
+play_tournament 2279 6129
+num_wins_for_team 29
+num_wins_for_team 2
+remove_newest_player 27
+play_tournament 810 6942
+num_wins_for_team 4
+unite_teams 6 29
+play_tournament 2447 7097
+play_match 3 15
+remove_newest_player 27
+remove_newest_player 27
+num_wins_for_team 19
+num_wins_for_team 6
+unite_teams 20 3
+num_wins_for_team 0
+play_tournament 3059 6550
+num_wins_for_team 1
+unite_teams 19 13
+play_match 17 5
+play_tournament 813 7668
+get_highest_ranked_team 
+play_match 7 4
+play_tournament 1849 6593
+play_match 29 13
+play_tournament 1157 7520
+remove_newest_player 23
+play_match 1 -1
+unite_teams 10 0
+play_tournament 1461 5646
+remove_newest_player 16
+play_match -2 12
+play_tournament 3113 6166
+unite_teams 11 17
+num_wins_for_team 13
+num_wins_for_team 23
+remove_newest_player 24
+remove_newest_player 10
+remove_newest_player 29
+num_wins_for_team -1
+num_wins_for_team 22
+unite_teams 2 7
+unite_teams 1 13
+unite_teams 5 28
+unite_teams 25 1
+play_tournament 3346 5877
+num_wins_for_team 7
+remove_newest_player 13
+num_wins_for_team 20
+play_tournament 1835 6436
+remove_newest_player 22
+play_match 29 11
+play_match 17 -1
+num_wins_for_team 11
+num_wins_for_team 23
+play_tournament 1864 6073
+play_tournament 2949 5704
+play_tournament 985 7081
+remove_newest_player 13
+play_match 1 -1
+play_tournament 3073 5753
+remove_newest_player 20
+unite_teams 7 7
+play_match 23 22
+play_match 27 -2
+play_tournament 1139 7076
+num_wins_for_team 7
+play_match 28 6
+play_match 29 4
+get_highest_ranked_team 
+remove_newest_player 1
+remove_newest_player 8
+num_wins_for_team 10
+play_tournament 1638 5802
+play_tournament 3481 6426
+get_highest_ranked_team 
+remove_newest_player 3
+get_highest_ranked_team 
+play_tournament 1036 6269
+remove_newest_player 6
+unite_teams 3 13
+num_wins_for_team -1
+num_wins_for_team 26
+remove_newest_player 20
+get_highest_ranked_team 
+play_tournament 3073 6675
+remove_newest_player 1
+remove_newest_player 15
+num_wins_for_team 20
+play_tournament 1767 7152
+play_tournament 2363 6393
+get_highest_ranked_team 
+num_wins_for_team 2
+unite_teams 18 18
+num_wins_for_team 25
+play_tournament 1133 5853
+play_match 25 17
+num_wins_for_team 29
+num_wins_for_team 4
+num_wins_for_team 10
+play_tournament 2486 6748
+play_tournament 2540 6162
+play_tournament 1822 7139
+unite_teams 22 11
+play_tournament 1588 5927
+get_highest_ranked_team 
+num_wins_for_team 23
+num_wins_for_team 13
+play_match -2 -2
+num_wins_for_team 10
+remove_newest_player 22
+play_tournament 1146 5021
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 1
+play_match 11 14
+remove_newest_player 4
+remove_newest_player 2
+play_tournament 912 6840
+get_highest_ranked_team 
+remove_newest_player 12
+play_tournament 2607 7573
+play_tournament 2751 7919
+remove_newest_player 21
+play_match 26 16
+play_tournament 3451 7903
+unite_teams 12 6
+num_wins_for_team 7
+unite_teams 10 24
+unite_teams 25 26
+unite_teams 5 16
+num_wins_for_team 7
+play_tournament 1135 7870
+num_wins_for_team 25
+num_wins_for_team 28
+play_tournament 2160 6658
+play_tournament 2782 6427
+play_match 20 9
+play_tournament 2070 7481
+unite_teams 9 8
+num_wins_for_team 11
+play_tournament 1321 6979
+play_tournament 1562 7549
+play_tournament 1621 6788
+get_highest_ranked_team 
+play_tournament 2894 7175
+get_highest_ranked_team 
+play_match 7 -1
+get_highest_ranked_team 
+num_wins_for_team 3
+unite_teams 1 1
+remove_newest_player 4
+unite_teams 16 18
+num_wins_for_team 19
+play_match 17 2
+play_tournament 1840 5372
+play_tournament 1840 6232
+get_highest_ranked_team 
+remove_newest_player 17
+play_tournament 2809 5496
+unite_teams 21 -1
+get_highest_ranked_team 
+play_tournament 2721 6307
+num_wins_for_team 21
+unite_teams 23 26
+num_wins_for_team 16
+num_wins_for_team 17
+get_highest_ranked_team 
+play_tournament 1890 7824
+play_tournament 1321 7734
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 10 20
+play_tournament 1190 6991
+remove_newest_player 5
+num_wins_for_team 27
+play_tournament 1076 5254
+num_wins_for_team 12
+play_tournament 2949 5708
+unite_teams 27 16
+num_wins_for_team 3
+play_tournament 2812 7139
+get_highest_ranked_team 
+num_wins_for_team 0
+play_match 13 19
+remove_newest_player 23
+unite_teams 15 6
+num_wins_for_team 27
+num_wins_for_team 24
+num_wins_for_team 26
+remove_newest_player 9
+unite_teams 20 5
+remove_newest_player -2
+play_tournament 2737 7839
+num_wins_for_team 23
+remove_newest_player 18
+play_match 5 13
+num_wins_for_team 29
+play_match 16 5
+remove_newest_player 10
+num_wins_for_team 18
+get_highest_ranked_team 
+num_wins_for_team 11
+num_wins_for_team 8
+unite_teams 15 9
+play_tournament 3088 5841
+play_tournament 1351 7292
+play_match 23 2
+get_highest_ranked_team 
+num_wins_for_team 7
+unite_teams 20 8
+get_highest_ranked_team 
+remove_newest_player 2
+num_wins_for_team 13
+remove_newest_player 3
+num_wins_for_team 28
+play_tournament 2972 6329
+play_tournament 2227 6433
+remove_newest_player 5
+play_match 9 16
+get_highest_ranked_team 
+play_tournament 1048 6866
+num_wins_for_team 7
+num_wins_for_team -1
+num_wins_for_team 29
+play_match 13 6
+play_tournament 1752 7255
+get_highest_ranked_team 
+play_tournament 2964 5980
+remove_newest_player 25
+get_highest_ranked_team 
+play_match 11 29
+play_tournament 3433 5917
+num_wins_for_team 16
+remove_newest_player 15
+play_tournament 2184 6784
+play_tournament 1722 7233
+play_tournament 970 6678
+num_wins_for_team 19
+num_wins_for_team 3
+remove_newest_player 1
+unite_teams 5 19
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 10
+play_tournament 2256 7030
+play_tournament 1720 7990
+play_match 14 -1
+get_highest_ranked_team 
+play_tournament 1070 6694
+num_wins_for_team 7
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 2771 7067
+num_wins_for_team 7
+get_highest_ranked_team 
+num_wins_for_team 25
+get_highest_ranked_team 
+num_wins_for_team 10
+remove_newest_player 22
+num_wins_for_team 29
+num_wins_for_team 7
+play_match 28 22
+get_highest_ranked_team 
+num_wins_for_team 20
+play_tournament 1184 7098
+remove_newest_player 8
+unite_teams 26 13
+play_tournament 1364 6386
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 1
+unite_teams 21 16
+num_wins_for_team 23
+play_tournament 2690 7701
+unite_teams 21 7
+num_wins_for_team -2
+play_tournament 2388 6686
+play_tournament 1458 7008
+unite_teams 0 11
+play_tournament 1738 6096
+get_highest_ranked_team 
+play_tournament 2551 5855
+unite_teams 20 10
+num_wins_for_team 28
+unite_teams 3 26
+num_wins_for_team 19
+play_tournament 1271 5934
+play_tournament 3279 6876
+play_match 26 20
+play_tournament 1455 5924
+num_wins_for_team 6
+get_highest_ranked_team 
+play_tournament 3205 6726
+unite_teams 14 1
+play_match 23 6
+get_highest_ranked_team 
+num_wins_for_team 24
+num_wins_for_team 7
+play_match 9 6
+play_match 2 27
+num_wins_for_team 14
+get_highest_ranked_team 
+num_wins_for_team 28
+num_wins_for_team -2
+unite_teams 19 14
+play_match 15 18
+play_tournament 2312 7897
+get_highest_ranked_team 
+play_tournament 955 6043
+num_wins_for_team 20
+num_wins_for_team 25
+play_tournament 2438 5137
+num_wins_for_team 3
+unite_teams 13 9
+get_highest_ranked_team 
+play_tournament 1994 5445
+play_match 21 8
+remove_newest_player 2
+unite_teams 27 28
+num_wins_for_team 16
+play_tournament 1758 6497
+unite_teams 9 -1
+get_highest_ranked_team 
+num_wins_for_team 9
+unite_teams 29 15
+num_wins_for_team 13
+play_tournament 2582 7014
+unite_teams 25 11
+num_wins_for_team 17
+num_wins_for_team 6
+get_highest_ranked_team 
+play_tournament 3437 5551
+remove_newest_player 20
+play_tournament 1015 6953
+num_wins_for_team 28
+play_match 2 4
+remove_newest_player 21
+play_match -2 24
+remove_newest_player 26
+play_tournament 2147 7189
+get_highest_ranked_team 
+play_tournament 1166 7451
+play_tournament 891 5114
+play_tournament 882 7736
+play_tournament 2107 5054
+remove_newest_player 13
+num_wins_for_team 7
+play_tournament 3304 7471
+play_tournament 2674 6740
+play_tournament 2082 5988
+get_highest_ranked_team 
+play_tournament 902 5737
+get_highest_ranked_team 
+num_wins_for_team 2
+play_tournament 1862 6285
+unite_teams 1 18
+get_highest_ranked_team 
+unite_teams 6 28
+play_tournament 1154 5286
+get_highest_ranked_team 
+play_tournament 965 5799
+play_tournament 2454 7632
+unite_teams 20 -1
+unite_teams 22 5
+num_wins_for_team -2
+play_tournament 2954 5807
+unite_teams 4 27
+unite_teams 4 27
+unite_teams 20 5
+get_highest_ranked_team 
+remove_newest_player 7
+play_tournament 2816 7937
+play_tournament 800 5632
+play_match 24 14
+unite_teams 24 27
+get_highest_ranked_team 
+num_wins_for_team 13
+num_wins_for_team 17
+play_match 29 11
+unite_teams 6 23
+play_tournament 3324 6146
+play_tournament 1692 6145
+unite_teams 21 7
+num_wins_for_team 2
+play_match 1 24
+play_match 0 26
+play_match 26 5
+num_wins_for_team 14
+num_wins_for_team 7
+play_match 19 4
+get_highest_ranked_team 
+unite_teams 8 26
+get_highest_ranked_team 
+play_match 26 18
+num_wins_for_team 0
+play_tournament 1383 5223
+play_tournament 2480 5243
+unite_teams 4 28
+num_wins_for_team 18
+unite_teams 21 25
+unite_teams 27 19
+play_match 6 27
+unite_teams 0 7
+unite_teams 20 18
+play_tournament 1876 6855
+unite_teams 19 8
+unite_teams -2 24
+num_wins_for_team 1
+play_tournament 940 6160
+play_tournament 2859 6740
+remove_newest_player 5
+num_wins_for_team 21
+play_tournament 1846 5432
+play_match 16 23
+play_match 25 0
+play_tournament 1661 6321
+get_highest_ranked_team 
+play_tournament 2016 6678
+unite_teams 28 14
+num_wins_for_team 18
+play_match 15 12
+unite_teams 29 21
+play_tournament 2486 6638
+remove_newest_player 28
+remove_newest_player -2
+remove_newest_player 19
+get_highest_ranked_team 
+unite_teams 11 -1
+num_wins_for_team 29
+num_wins_for_team 9
+remove_newest_player 17
+num_wins_for_team 11
+num_wins_for_team 26
+play_match 12 12
+num_wins_for_team 25
+remove_newest_player 13
+num_wins_for_team 24
+remove_newest_player 13
+num_wins_for_team 18
+unite_teams 17 12
+play_tournament 1604 7747
+num_wins_for_team 2
+play_match 18 27
+play_match 29 25
+play_tournament 2849 6071
+num_wins_for_team 17
+num_wins_for_team 21
+play_tournament 884 6727
+play_match 15 20
+unite_teams 0 8
+remove_newest_player 11
+unite_teams -1 23
+play_tournament 1404 7837
+remove_newest_player 24
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 22
+play_tournament 904 7617
+play_match 22 14
+num_wins_for_team 23
+get_highest_ranked_team 
+num_wins_for_team 2
+unite_teams 23 10
+remove_newest_player 10
+num_wins_for_team 23
+play_match 24 22
+unite_teams 8 5
+play_tournament 1873 5439
+num_wins_for_team 6
+remove_newest_player 10
+remove_newest_player 25
+unite_teams -1 28
+play_match 8 21
+play_match 14 6
+remove_newest_player 17
+remove_newest_player 19
+remove_newest_player 5
+play_match 16 13
+get_highest_ranked_team 
+remove_newest_player 18
+play_tournament 2058 5991
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 27
+get_highest_ranked_team 
+unite_teams 9 11
+play_tournament 3415 6868
+num_wins_for_team 2
+play_match 0 15
+unite_teams 19 4
+unite_teams 4 16
+remove_newest_player 18
+get_highest_ranked_team 
+num_wins_for_team 9
+remove_newest_player 6
+play_match 26 10
+play_tournament 1649 5202
+unite_teams 3 23
+num_wins_for_team 11
+get_highest_ranked_team 
+remove_newest_player 22
+remove_newest_player -2
+num_wins_for_team 17
+remove_newest_player 16
+play_match 1 14
+unite_teams 12 12
+play_tournament 2901 5480
+play_tournament 3130 7704
+get_highest_ranked_team 
+play_tournament 1261 6565
+remove_newest_player 29
+remove_newest_player 1
+num_wins_for_team 20
+get_highest_ranked_team 
+num_wins_for_team 2
+num_wins_for_team 2
+play_tournament 3244 6552
+num_wins_for_team 25
+play_tournament 3109 6724
+remove_newest_player 17
+num_wins_for_team 13
+play_tournament 1571 6042
+remove_newest_player 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 2218 7424
+num_wins_for_team -2
+num_wins_for_team -2
+num_wins_for_team 24
+play_match 13 14
+play_tournament 1799 5211
+play_match 27 5
+play_tournament 3274 7106
+play_tournament 2076 7741
+play_tournament 2992 7702
+num_wins_for_team 19
+play_tournament 2914 7126
+remove_newest_player 2
+num_wins_for_team -1
+num_wins_for_team 22
+unite_teams 26 7
+play_tournament 2432 5259
+get_highest_ranked_team 
+unite_teams 0 14
+play_tournament 2685 7758
+get_highest_ranked_team 
+play_tournament 1245 5002
+play_tournament 1328 7387
+unite_teams 20 11
+get_highest_ranked_team 
+num_wins_for_team 22
+remove_newest_player 1
+num_wins_for_team 27
+play_match -1 24
+play_tournament 2509 5481
+play_tournament 1292 6933
+num_wins_for_team 27
+play_tournament 3418 6803
+num_wins_for_team 7
+num_wins_for_team 3
+play_tournament 2129 5167
+play_tournament 1067 6417
+play_match 14 0
+unite_teams 26 2
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 3 22
+get_highest_ranked_team 
+play_match 19 25
+play_match 18 15
+num_wins_for_team 28
+play_match 17 22
+play_tournament 3043 7331
+num_wins_for_team 14
+get_highest_ranked_team 
+remove_newest_player 8
+get_highest_ranked_team 
+remove_newest_player 10
+unite_teams 15 -1
+remove_newest_player 21
+remove_newest_player 11
+num_wins_for_team 1
+remove_newest_player 18
+play_match 23 14
+num_wins_for_team 5
+remove_newest_player -1
+remove_newest_player 26
+unite_teams 26 5
+num_wins_for_team 27
+remove_newest_player 19
+play_tournament 2141 7152
+unite_teams 8 7
+play_tournament 1605 5672
+get_highest_ranked_team 
+num_wins_for_team 4
+play_tournament 1544 7521
+remove_newest_player 16
+play_match 5 -2
+get_highest_ranked_team 
+num_wins_for_team 3
+remove_newest_player 26
+get_highest_ranked_team 
+play_tournament 2647 7407
+play_match 8 4
+get_highest_ranked_team 
+play_tournament 1430 6280
+play_tournament 2433 5193
+get_highest_ranked_team 
+unite_teams 5 13
+play_tournament 1829 6140
+unite_teams 6 26
+num_wins_for_team 12
+unite_teams 13 13
+play_match 24 16
+num_wins_for_team 10
+get_highest_ranked_team 
+remove_newest_player 19
+get_highest_ranked_team 
+play_tournament 1410 5828
+num_wins_for_team -1
+play_match 22 6
+remove_newest_player 23
+play_tournament 2325 7999
+play_tournament 3042 6807
+num_wins_for_team 3
+unite_teams -1 16
+num_wins_for_team 15
+num_wins_for_team 4
+play_tournament 2252 6639
+play_match -1 0
+unite_teams 25 29
+play_tournament 2278 6357
+unite_teams 10 5
+play_match 1 7
+play_tournament 3091 7009
+num_wins_for_team 19
+remove_newest_player -2
+play_match 6 14
+get_highest_ranked_team 
+play_match 0 5
+play_tournament 2735 6180
+play_match 21 26
+num_wins_for_team 24
+num_wins_for_team 9
+num_wins_for_team -2
+get_highest_ranked_team 
+unite_teams 29 6
+play_tournament 2530 5590
+play_tournament 1289 6920
+num_wins_for_team 29
+unite_teams 28 10
+num_wins_for_team 0
+remove_newest_player 9
+play_tournament 929 5147
+unite_teams 6 19
+play_tournament 2918 7214
+get_highest_ranked_team 
+play_tournament 1895 5690
+unite_teams 6 13
+num_wins_for_team 17
+num_wins_for_team 5
+num_wins_for_team 20
+unite_teams 13 18
+unite_teams 19 23
+remove_newest_player 24
+play_tournament 1337 5458
+play_tournament 1216 5903
+play_tournament 907 7409
+play_tournament 2356 6804
+play_match 6 9
+play_tournament 1851 5074
+remove_newest_player 27
+play_tournament 2110 5445
+num_wins_for_team 4
+num_wins_for_team -1
+unite_teams 26 18
+remove_newest_player -2
+remove_newest_player 27
+num_wins_for_team 15
+play_tournament 3076 5416
+num_wins_for_team 28
+unite_teams 22 25
+unite_teams 24 0
+play_match 20 27
+unite_teams 22 24
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 7
+play_tournament 2998 5928
+play_tournament 1888 7176
+play_tournament 2257 5992
+num_wins_for_team 19
+play_match 9 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 24
+play_tournament 2136 5602
+num_wins_for_team 24
+play_match 3 23
+remove_newest_player 9
+play_tournament 827 6612
+num_wins_for_team 8
+unite_teams 24 19
+num_wins_for_team 25
+play_match 16 24
+num_wins_for_team 8
+num_wins_for_team 15
+play_tournament 1774 6256
+get_highest_ranked_team 
+play_tournament 1787 5852
+unite_teams 22 24
+remove_newest_player 12
+get_highest_ranked_team 
+play_tournament 2685 6283
+get_highest_ranked_team 
+num_wins_for_team 23
+play_match 28 26
+play_tournament 3402 6457
+play_match 4 20
+num_wins_for_team 26
+unite_teams -2 19
+unite_teams 25 19
+remove_newest_player 24
+num_wins_for_team 1
+num_wins_for_team -1
+play_match 18 7
+play_tournament 1750 5985
+unite_teams 19 -2
+num_wins_for_team 11
+num_wins_for_team 13
+num_wins_for_team 9
+unite_teams 9 0
+num_wins_for_team 2
+remove_newest_player 10
+get_highest_ranked_team 
+unite_teams 17 20
+num_wins_for_team 0
+get_highest_ranked_team 
+play_tournament 879 7678
+get_highest_ranked_team 
+play_match -2 21
+play_tournament 3097 5308
+play_match 11 2
+num_wins_for_team 28
+remove_newest_player 14
+play_tournament 3452 5649
+play_tournament 3380 6314
+play_match -2 5
+num_wins_for_team 9
+remove_newest_player 16
+remove_newest_player 22
+num_wins_for_team 24
+num_wins_for_team 6
+play_tournament 1222 6291
+play_match 13 27
+num_wins_for_team 17
+remove_newest_player 6
+play_tournament 2883 5597
+get_highest_ranked_team 
+remove_newest_player 6
+play_tournament 1885 7591
+num_wins_for_team 7
+num_wins_for_team 2
+play_tournament 2832 5274
+unite_teams 19 10
+get_highest_ranked_team 
+remove_newest_player 23
+get_highest_ranked_team 
+num_wins_for_team 29
+play_match 18 18
+remove_newest_player 10
+play_tournament 1713 6851
+remove_newest_player 13
+num_wins_for_team 5
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 1025 5843
+unite_teams 27 29
+num_wins_for_team 24
+play_match 19 10
+num_wins_for_team 0
+remove_newest_player 13
+play_tournament 950 5759
+unite_teams 17 22
+num_wins_for_team 7
+get_highest_ranked_team 
+num_wins_for_team 28
+play_tournament 2957 7076
+get_highest_ranked_team 
+play_tournament 3423 6544
+play_tournament 864 7513
+play_tournament 2827 5692
+unite_teams 21 2
+play_match 29 22
+play_tournament 2109 7942
+play_tournament 1942 5960
+play_tournament 991 5563
+remove_newest_player 27
+play_tournament 2734 7269
+get_highest_ranked_team 
+remove_newest_player -2
+get_highest_ranked_team 
+play_tournament 2792 7538
+play_match 3 11
+play_tournament 916 6356
+play_tournament 1040 5807
+num_wins_for_team 14
+play_tournament 1991 6173
+play_tournament 1907 6768
+num_wins_for_team 16
+get_highest_ranked_team 
+unite_teams 17 16
+play_match -1 3
+num_wins_for_team 19
+get_highest_ranked_team 
+remove_newest_player 23
+play_tournament 1693 7512
+play_tournament 1095 5007
+num_wins_for_team 11
+num_wins_for_team 21
+remove_newest_player 3
+num_wins_for_team 23
+get_highest_ranked_team 
+play_tournament 3354 7484
+play_match 14 18
+play_match 26 24
+play_match -1 15
+play_tournament 3278 6675
+play_match 15 27
+num_wins_for_team 17
+num_wins_for_team -2
+get_highest_ranked_team 
+unite_teams 21 7
+num_wins_for_team 17
+unite_teams 25 -2
+num_wins_for_team 14
+play_match 16 25
+num_wins_for_team 0
+play_tournament 2915 5833
+num_wins_for_team 3
+play_tournament 1447 5567
+play_tournament 2668 5538
+get_highest_ranked_team 
+unite_teams 11 24
+unite_teams 27 2
+num_wins_for_team 6
+play_tournament 3415 6402
+play_tournament 1668 7596
+play_tournament 3359 6881
+play_match 11 27
+play_tournament 3458 7155
+num_wins_for_team 8
+play_tournament 1002 5545
+play_tournament 2061 7641
+num_wins_for_team 5
+remove_newest_player 29
+num_wins_for_team 15
+play_tournament 2085 6713
+play_tournament 2365 6514
+play_match 16 4
+play_match 16 27
+num_wins_for_team -1
+play_tournament 3068 5249
+play_match 23 28
+num_wins_for_team 28
+unite_teams 21 8
+play_tournament 2662 7279
+unite_teams 15 6
+num_wins_for_team 24
+play_tournament 1008 6276
+play_tournament 2652 7496
+remove_newest_player 8
+play_match 20 4
+unite_teams 24 5
+remove_newest_player 17
+play_tournament 931 5929
+unite_teams 17 6
+num_wins_for_team 13
+get_highest_ranked_team 
+num_wins_for_team 19
+get_highest_ranked_team 
+num_wins_for_team 3
+unite_teams 24 18
+num_wins_for_team 25
+unite_teams 26 1
+get_highest_ranked_team 
+play_tournament 2028 7267
+unite_teams 6 3
+num_wins_for_team 13
+remove_newest_player 24
+remove_newest_player 9
+play_match 12 27
+remove_newest_player 12
+play_tournament 1866 7394
+unite_teams 22 9
+get_highest_ranked_team 
+play_match 18 4
+num_wins_for_team 26
+num_wins_for_team 17
+remove_newest_player 26
+play_tournament 2765 6118
+get_highest_ranked_team 
+play_tournament 3103 6529
+remove_newest_player 17
+play_tournament 1541 7168
+num_wins_for_team 14
+play_tournament 2306 5112
+play_tournament 2240 5382
+unite_teams 0 26
+play_tournament 2997 6186
+play_tournament 2635 5386
+unite_teams 5 22
+remove_newest_player -1
+play_tournament 1272 7124
+num_wins_for_team 8
+play_tournament 2186 7010
+play_match 8 5
+num_wins_for_team -1
+num_wins_for_team 18
+play_tournament 2669 7631
+play_match 4 10
+num_wins_for_team 19
+num_wins_for_team 4
+unite_teams 27 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 6 7
+play_tournament 903 7828
+play_tournament 2039 7493
+play_tournament 839 5930
+play_match 8 3
+play_tournament 3356 7883
+play_tournament 965 5995
+unite_teams 0 29
+num_wins_for_team 14
+play_match 28 -2
+play_tournament 1831 5392
+num_wins_for_team 3
+play_match 9 5
+play_tournament 2953 5142
+unite_teams 3 21
+unite_teams 8 28
+unite_teams 17 26
+num_wins_for_team 24
+num_wins_for_team 13
+unite_teams 28 15
+unite_teams 17 22
+play_tournament 2881 6973
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 1 6
+remove_newest_player 14
+num_wins_for_team 25
+play_tournament 1441 5612
+num_wins_for_team 27
+num_wins_for_team 9
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 4 8
+play_match 9 22
+play_match 4 20
+num_wins_for_team 15
+play_tournament 1120 7521
+play_match 12 2
+get_highest_ranked_team 
+remove_newest_player 14
+play_tournament 1188 7365
+num_wins_for_team 6
+num_wins_for_team 29
+play_tournament 2833 7380
+play_tournament 1389 7316
+play_match 22 29
+num_wins_for_team 9
+play_match 22 12
+num_wins_for_team 19
+num_wins_for_team 20
+get_highest_ranked_team 
+num_wins_for_team 4
+num_wins_for_team 22
+play_match 12 23
+play_tournament 872 7631
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 18 13
+unite_teams 11 19
+play_match 9 7
+unite_teams 12 24
+play_tournament 1462 5575
+get_highest_ranked_team 
+play_tournament 2033 5509
+num_wins_for_team 13
+num_wins_for_team 19
+remove_newest_player 17
+num_wins_for_team -1
+get_highest_ranked_team 
+num_wins_for_team 15
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 2
+num_wins_for_team 16
+num_wins_for_team 3
+remove_newest_player 21
+play_match 26 16
+unite_teams 12 3
+play_match 13 7
+num_wins_for_team 5
+remove_newest_player 23
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 20 5
+num_wins_for_team 0
+play_match 5 -1
+num_wins_for_team 10
+num_wins_for_team 20
+num_wins_for_team 5
+play_tournament 2261 7140
+play_tournament 1976 7221
+unite_teams 13 20
+num_wins_for_team 28
+unite_teams 23 13
+num_wins_for_team 14
+get_highest_ranked_team 
+play_match 10 24
+get_highest_ranked_team 
+play_match 27 26
+unite_teams 25 15
+unite_teams 5 18
+num_wins_for_team -1
+unite_teams 26 2
+remove_newest_player 1
+unite_teams 7 2
+num_wins_for_team 0
+remove_newest_player 10
+remove_newest_player -1
+get_highest_ranked_team 
+play_tournament 804 5432
+num_wins_for_team 3
+play_match 19 16
+unite_teams 18 19
+get_highest_ranked_team 
+play_tournament 3032 7960
+play_match 2 28
+num_wins_for_team 10
+play_match 18 19
+remove_newest_player 13
+num_wins_for_team 9
+play_tournament 3268 5420
+play_match 8 9
+num_wins_for_team 11
+play_match -2 18
+get_highest_ranked_team 
+num_wins_for_team 26
+num_wins_for_team 17
+unite_teams 0 12
+unite_teams 8 16
+play_match 19 -1
+get_highest_ranked_team 
+play_tournament 1051 6166
+remove_newest_player 6
+get_highest_ranked_team 
+play_tournament 3458 7979
+num_wins_for_team 24
+unite_teams 7 26
+play_match 2 22
+num_wins_for_team 10
+num_wins_for_team 22
+num_wins_for_team 18
+num_wins_for_team 20
+play_tournament 1919 6271
+num_wins_for_team 27
+get_highest_ranked_team 
+play_match 21 11
+remove_newest_player 11
+num_wins_for_team 11
+get_highest_ranked_team 
+play_match 4 29
+get_highest_ranked_team 
+play_tournament 1585 7019
+play_match 9 11
+num_wins_for_team 26
+play_tournament 3492 6083
+play_match 15 15
+remove_newest_player 22
+unite_teams 0 21
+get_highest_ranked_team 
+num_wins_for_team -2
+num_wins_for_team -2
+play_tournament 2196 5049
+play_tournament 3395 5289
+play_match 5 19
+unite_teams 3 8
+remove_newest_player 10
+remove_newest_player 15
+play_tournament 1560 6285
+remove_newest_player 14
+unite_teams 8 14
+num_wins_for_team 29
+get_highest_ranked_team 
+num_wins_for_team 28
+get_highest_ranked_team 
+play_tournament 2892 5090
+num_wins_for_team 25
+play_match 7 3
+play_tournament 1195 6778
+play_tournament 1019 6385
+num_wins_for_team 29
+play_tournament 1826 5900
+num_wins_for_team 27
+play_tournament 1176 7840
+play_tournament 1293 7672
+play_match 23 17
+num_wins_for_team 20
+play_match 26 0
+remove_newest_player 9
+num_wins_for_team 2
+play_tournament 1455 5283
+play_tournament 3148 5503
+get_highest_ranked_team 
+num_wins_for_team 8
+remove_newest_player 13
+num_wins_for_team 4
+remove_newest_player 14
+unite_teams 23 13
+unite_teams 1 23
+play_tournament 1931 7104
+get_highest_ranked_team 
+num_wins_for_team 28
+remove_newest_player 28
+num_wins_for_team 22
+get_highest_ranked_team 
+play_match 17 -2
+unite_teams 2 23
+play_tournament 3330 6491
+num_wins_for_team 1
+remove_newest_player 16
+num_wins_for_team 14
+num_wins_for_team 4
+play_tournament 3366 5189
+get_highest_ranked_team 
+play_match 15 21
+play_match 13 22
+unite_teams 14 29
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 3163 5257
+get_highest_ranked_team 
+num_wins_for_team -1
+num_wins_for_team 14
+remove_newest_player 17
+play_match 17 19
+num_wins_for_team 27
+num_wins_for_team 24
+num_wins_for_team 4
+remove_newest_player 2
+play_match 0 17
+play_match 11 26
+num_wins_for_team 29
+play_match 28 6
+num_wins_for_team 4
+play_tournament 1480 5936
+remove_newest_player 18
+num_wins_for_team 21
+num_wins_for_team 6
+num_wins_for_team 1
+unite_teams 26 21
+play_tournament 1670 6306
+play_tournament 2152 7743
+remove_newest_player 12
+remove_newest_player 9
+play_tournament 1431 7471
+num_wins_for_team 19
+remove_newest_player 6
+num_wins_for_team 9
+unite_teams 11 15
+play_match 6 6
+play_tournament 953 7882
+play_tournament 1398 6401
+remove_newest_player 24
+num_wins_for_team 19
+num_wins_for_team 5
+play_tournament 1406 5580
+unite_teams 11 20
+unite_teams 12 -1
+num_wins_for_team 21
+num_wins_for_team 21
+play_tournament 1170 6027
+num_wins_for_team 13
+play_tournament 917 7246
+play_tournament 3067 6183
+remove_newest_player 19
+num_wins_for_team 6
+num_wins_for_team 0
+num_wins_for_team 25
+unite_teams 11 28
+remove_newest_player 21
+unite_teams 21 15
+play_tournament 2653 5538
+play_tournament 1712 5202
+remove_newest_player 28
+num_wins_for_team 17
+get_highest_ranked_team 
+unite_teams -1 16
+remove_newest_player 21
+play_match 18 21
+remove_newest_player 23
+num_wins_for_team 28
+play_match 25 3
+play_match 0 1
+unite_teams 5 17
+play_tournament 988 7575
+num_wins_for_team 27
+unite_teams 0 15
+play_match 7 12
+num_wins_for_team 19
+num_wins_for_team 9
+get_highest_ranked_team 
+play_tournament 3174 7762
+play_tournament 2411 5787
+num_wins_for_team -1
+play_match 20 5
+remove_newest_player 16
+num_wins_for_team 24
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 1335 7606
+play_tournament 3029 6704
+unite_teams 18 -1
+get_highest_ranked_team 
+num_wins_for_team 23
+play_tournament 3316 7520
+remove_newest_player -2
+play_tournament 803 7346
+remove_newest_player 27
+get_highest_ranked_team 
+num_wins_for_team 3
+play_tournament 3222 6529
+unite_teams 23 22
+get_highest_ranked_team 
+unite_teams 0 2
+unite_teams 8 -1
+play_match 23 2
+play_tournament 1989 6027
+get_highest_ranked_team 
+unite_teams 7 -1
+num_wins_for_team 20
+unite_teams 18 9
+num_wins_for_team 23
+unite_teams 15 16
+play_tournament 2680 7398
+play_match 6 8
+play_match 25 22
+play_tournament 1638 6970
+play_tournament 1156 5824
+remove_newest_player 16
+play_match 28 12
+play_tournament 877 6223
+play_tournament 1253 7064
+play_tournament 1005 5261
+unite_teams 18 20
+remove_newest_player 2
+num_wins_for_team 3
+unite_teams 8 5
+play_tournament 2277 5111
+get_highest_ranked_team 
+unite_teams 10 2
+play_match 20 -2
+play_match 12 23
+play_tournament 1085 6686
+num_wins_for_team 28
+play_tournament 2527 7179
+unite_teams 9 -1
+num_wins_for_team 9
+num_wins_for_team 19
+play_tournament 3339 6228
+play_tournament 1273 5796
+num_wins_for_team 24
+play_tournament 2395 5064
+remove_newest_player 2
+num_wins_for_team -2
+num_wins_for_team -1
+remove_newest_player 21
+remove_newest_player 22
+num_wins_for_team 17
+num_wins_for_team 25
+num_wins_for_team -1
+play_tournament 1540 5744
+play_tournament 2328 7731
+num_wins_for_team 3
+play_tournament 1252 5134
+get_highest_ranked_team 
+play_tournament 1492 5204
+play_match 26 11
+unite_teams 12 17
+num_wins_for_team 27
+play_tournament 2410 7317
+num_wins_for_team 7
+play_tournament 2941 6241
+unite_teams 9 27
+play_match 11 -1
+play_match 24 4
+num_wins_for_team 26
+play_match 3 -1
+play_match 23 -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 15 19
+unite_teams 17 12
+num_wins_for_team 21
+play_tournament 3427 5142
+get_highest_ranked_team 
+play_tournament 1083 5024
+play_match 15 10
+play_tournament 889 5193
+play_match 20 6
+play_match 4 14
+play_match 13 10
+play_tournament 2720 5113
+play_match 12 29
+play_tournament 2713 6382
+unite_teams 17 1
+remove_newest_player 8
+play_tournament 2998 5521
+num_wins_for_team 3
+unite_teams 10 9
+num_wins_for_team 22
+play_tournament 3282 5309
+play_tournament 2691 7386
+play_match 1 21
+remove_newest_player 17
+remove_newest_player 15
+play_tournament 1898 5631
+play_tournament 1060 6954
+play_match 5 23
+remove_newest_player 12
+play_tournament 1963 7962
+num_wins_for_team 4
+num_wins_for_team 18
+play_tournament 2121 6045
+num_wins_for_team 15
+play_tournament 1742 7468
+num_wins_for_team 1
+num_wins_for_team 25
+play_tournament 3334 5069
+play_tournament 1914 5873
+play_tournament 3168 7902
+num_wins_for_team 20
+unite_teams -1 7
+remove_newest_player 27
+get_highest_ranked_team 
+play_match 4 3
+remove_newest_player 16
+play_tournament 3478 7128
+play_match 25 6
+unite_teams 12 26
+get_highest_ranked_team 
+num_wins_for_team 26
+num_wins_for_team 13
+num_wins_for_team 13
+remove_newest_player 17
+play_tournament 3239 7998
+play_tournament 1503 5928
+num_wins_for_team 11
+remove_newest_player 9
+unite_teams -1 16
+play_tournament 2027 6460
+get_highest_ranked_team 
+play_match 7 20
+remove_newest_player 20
+play_tournament 1826 6471
+play_tournament 1140 7018
+play_match 11 1
+get_highest_ranked_team 
+play_tournament 2031 6505
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 1788 7554
+unite_teams 0 19
+play_match 19 13
+play_tournament 1585 5554
+play_tournament 2691 7313
+play_tournament 1776 6077
+get_highest_ranked_team 
+num_wins_for_team 24
+play_tournament 980 5969
+num_wins_for_team 11
+get_highest_ranked_team 
+play_tournament 2513 6148
+num_wins_for_team 5
+num_wins_for_team 6
+remove_newest_player 15
+remove_newest_player 8
+unite_teams 20 13
+play_match -2 13
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 21 6
+play_match 3 18
+get_highest_ranked_team 
+unite_teams 12 27
+play_tournament 1291 5219
+play_tournament 1614 7577
+unite_teams 10 14
+remove_newest_player 22
+unite_teams 28 17
+play_tournament 2694 5945
+remove_newest_player 15
+unite_teams 25 28
+get_highest_ranked_team 
+play_tournament 3031 5717
+get_highest_ranked_team 
+remove_newest_player 10
+num_wins_for_team 0
+unite_teams 17 8
+get_highest_ranked_team 
+play_tournament 1640 7765
+num_wins_for_team 23
+num_wins_for_team 9
+remove_newest_player 29
+play_tournament 864 7147
+num_wins_for_team 13
+play_tournament 2093 5068
+play_match 20 18
+play_tournament 1789 7482
+num_wins_for_team 29
+play_tournament 1417 6303
+num_wins_for_team -2
+unite_teams 1 20
+play_tournament 1795 5381
+play_match 12 3
+play_match 15 -1
+num_wins_for_team 11
+play_tournament 1183 5691
+num_wins_for_team 25
+play_match 29 11
+get_highest_ranked_team 
+play_tournament 1639 5775
+num_wins_for_team 11
+get_highest_ranked_team 
+num_wins_for_team 9
+get_highest_ranked_team 
+play_tournament 1486 5122
+play_tournament 918 6734
+remove_newest_player 18
+play_tournament 1962 7792
+play_tournament 2463 7300
+remove_newest_player 18
+num_wins_for_team 26
+unite_teams 5 14
+num_wins_for_team 21
+play_tournament 800 6485
+play_match 15 22
+get_highest_ranked_team 
+unite_teams 1 4
+play_tournament 1192 5185
+num_wins_for_team 12
+remove_newest_player 20
+remove_newest_player 17
+num_wins_for_team 25
+play_tournament 1476 7358
+play_tournament 2806 7304
+remove_newest_player 7
+num_wins_for_team 11
+play_tournament 2813 6446
+play_tournament 830 6405
+unite_teams 1 18
+num_wins_for_team 20
+remove_newest_player 2
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team -1
+play_tournament 1044 6576
+play_match 23 -1
+remove_newest_player 12
+unite_teams 20 0
+remove_newest_player 24
+play_tournament 3157 7863
+num_wins_for_team 0
+play_tournament 2841 6945
+num_wins_for_team 18
+play_tournament 2151 6541
+remove_newest_player 27
+num_wins_for_team 28
+get_highest_ranked_team 
+num_wins_for_team 4
+unite_teams 29 16
+play_tournament 1863 7789
+get_highest_ranked_team 
+num_wins_for_team 24
+remove_newest_player 17
+unite_teams 8 6
+get_highest_ranked_team 
+play_tournament 3018 7249
+num_wins_for_team 0
+num_wins_for_team 20
+num_wins_for_team -2
+play_tournament 947 7065
+get_highest_ranked_team 
+play_tournament 3253 5839
+play_match -1 29
+num_wins_for_team 20
+num_wins_for_team 9
+play_tournament 2716 5665
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 19
+play_tournament 2090 5312
+get_highest_ranked_team 
+num_wins_for_team 24
+play_tournament 920 7766
+num_wins_for_team 12
+unite_teams 13 2
+remove_newest_player 20
+play_tournament 1987 5432
+num_wins_for_team 17
+play_match 12 9
+play_match 15 12
+get_highest_ranked_team 
+num_wins_for_team 12
+get_highest_ranked_team 
+play_tournament 3210 5914
+get_highest_ranked_team 
+unite_teams 15 -2
+play_tournament 1647 5587
+unite_teams 23 21
+play_match 23 26
+num_wins_for_team 17
+remove_newest_player 16
+play_tournament 3182 6821
+play_match 20 20
+num_wins_for_team 5
+remove_newest_player 17
+get_highest_ranked_team 
+play_match 12 24
+num_wins_for_team 20
+remove_newest_player 13
+num_wins_for_team 3
+unite_teams 27 6
+remove_newest_player 5
+unite_teams 25 4
+unite_teams 29 16
+play_tournament 2065 5003
+play_match 20 -1
+get_highest_ranked_team 
+play_tournament 2638 7703
+remove_newest_player -2
+play_match 23 13
+num_wins_for_team 4
+unite_teams 19 -1
+num_wins_for_team 1
+get_highest_ranked_team 
+num_wins_for_team 19
+unite_teams -2 21
+num_wins_for_team -2
+num_wins_for_team 19
+play_match 13 20
+play_tournament 2499 7452
+num_wins_for_team 4
+play_tournament 1237 5017
+play_match 26 19
+play_tournament 1908 7070
+unite_teams 15 8
+play_tournament 1572 6150
+play_tournament 2472 5988
+play_tournament 1035 6275
+get_highest_ranked_team 
+num_wins_for_team 1
+num_wins_for_team 4
+play_match 23 17
+unite_teams 12 15
+get_highest_ranked_team 
+num_wins_for_team 11
+play_tournament 2330 7696
+num_wins_for_team -1
+remove_newest_player 29
+num_wins_for_team 0
+num_wins_for_team 13
+unite_teams -1 8
+play_tournament 949 6978
+play_match 18 4
+num_wins_for_team 7
+play_tournament 2436 7009
+num_wins_for_team 0
+play_tournament 1908 7527
+remove_newest_player 27
+play_match 14 4
+unite_teams 21 25
+play_tournament 2998 5013
+play_tournament 1378 6468
+play_match 21 4
+play_tournament 1812 6129
+play_tournament 3498 5503
+get_highest_ranked_team 
+unite_teams 15 15
+unite_teams 8 10
+unite_teams 14 6
+remove_newest_player 21
+play_tournament 1125 5552
+num_wins_for_team 3
+play_tournament 3006 7766
+num_wins_for_team 16
+unite_teams 18 0
+get_highest_ranked_team 
+play_match 13 12
+play_tournament 3442 6229
+play_tournament 2337 6593
+num_wins_for_team 0
+unite_teams 16 21
+unite_teams 9 11
+num_wins_for_team 13
+unite_teams 28 24
+play_match 16 26
+play_tournament 1051 6861
+play_tournament 3202 6029
+num_wins_for_team 15
+remove_newest_player 2
+play_match 11 25
+num_wins_for_team -1
+num_wins_for_team 15
+unite_teams 16 26
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 3290 6466
+play_tournament 2241 6149
+get_highest_ranked_team 
+unite_teams 6 25
+get_highest_ranked_team 
+num_wins_for_team 28
+get_highest_ranked_team 
+play_match 17 -1
+play_tournament 949 5003
+remove_newest_player 21
+remove_newest_player -2
+play_tournament 2113 6272
+get_highest_ranked_team 
+play_tournament 2204 5183
+play_tournament 3221 6995
+unite_teams 5 10
+get_highest_ranked_team 
+num_wins_for_team 17
+play_match 14 18
+play_match 2 23
+unite_teams 11 17
+play_tournament 2671 7779
+num_wins_for_team 28
+play_tournament 2812 6694
+play_tournament 1061 5854
+remove_newest_player 14
+get_highest_ranked_team 
+play_tournament 2467 5632
+play_tournament 3472 6843
+num_wins_for_team 8
+remove_newest_player 29
+num_wins_for_team 0
+get_highest_ranked_team 
+remove_newest_player 14
+get_highest_ranked_team 
+remove_newest_player 11
+get_highest_ranked_team 
+play_tournament 827 5091
+play_tournament 1651 6786
+play_tournament 1380 7112
+num_wins_for_team 1
+play_tournament 1514 6472
+play_tournament 1991 5198
+unite_teams 14 9
+get_highest_ranked_team 
+play_tournament 2552 7949
+unite_teams 2 13
+get_highest_ranked_team 
+remove_newest_player 2
+play_tournament 1997 7496
+play_tournament 3116 6856
+play_tournament 3124 6102
+remove_newest_player 27
+play_tournament 2609 6057
+num_wins_for_team 4
+num_wins_for_team 1
+play_match 9 2
+num_wins_for_team 6
+play_match 26 20
+play_match 29 4
+play_match 12 -1
+num_wins_for_team 15
+num_wins_for_team 21
+play_match 27 10
+num_wins_for_team 6
+num_wins_for_team 11
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 2700 7448
+num_wins_for_team 24
+num_wins_for_team 25
+play_tournament 2741 6683
+play_tournament 1620 5021
+unite_teams 14 23
+remove_newest_player 19
+play_tournament 2079 6600
+play_tournament 1142 5715
+num_wins_for_team 19
+num_wins_for_team 24
+play_tournament 3111 5002
+get_highest_ranked_team 
+play_tournament 2233 5624
+play_tournament 3465 5078
+play_match 16 13
+play_tournament 1218 7803
+play_tournament 3029 6464
+play_tournament 1083 7697
+get_highest_ranked_team 
+play_tournament 1341 5501
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 16 6
+play_match 5 29
+num_wins_for_team 11
+num_wins_for_team 5
+num_wins_for_team 0
+play_match 1 21
+play_tournament 2460 5369
+unite_teams 12 7
+get_highest_ranked_team 
+remove_newest_player 26
+play_tournament 2813 6496
+remove_newest_player 10
+unite_teams 28 29
+play_tournament 1521 7152
+num_wins_for_team 19
+play_match 8 10
+num_wins_for_team 16
+play_tournament 1485 5875
+unite_teams 26 2
+remove_newest_player 22
+play_tournament 2109 7088
+num_wins_for_team 24
+num_wins_for_team -1
+num_wins_for_team 12
+get_highest_ranked_team 
+play_match 29 8
+get_highest_ranked_team 
+unite_teams 22 3
+num_wins_for_team 26
+play_match 9 18
+play_match 18 -1
+num_wins_for_team 3
+play_match 8 3
+play_tournament 824 7922
+num_wins_for_team 13
+play_match 1 28
+play_tournament 2971 7162
+play_tournament 3252 7572
+play_tournament 1496 5830
+num_wins_for_team 9
+num_wins_for_team 17
+num_wins_for_team 25
+get_highest_ranked_team 
+play_tournament 2977 7733
+get_highest_ranked_team 
+num_wins_for_team -1
+play_tournament 1583 6505
+play_match 6 7
+num_wins_for_team 23
+play_tournament 804 6020
+play_tournament 3174 7632
+unite_teams 18 24
+play_match -1 29
+num_wins_for_team -2
+get_highest_ranked_team 
+play_match 16 16
+play_match 8 21
+num_wins_for_team -1
+play_match 5 8
+play_match 17 10
+play_match 27 10
+play_match 3 29
+get_highest_ranked_team 
+num_wins_for_team 20
+play_tournament 2431 6372
+get_highest_ranked_team 
+num_wins_for_team 5
+play_tournament 2132 6497
+play_tournament 2232 6453
+num_wins_for_team -1
+remove_newest_player 16
+play_tournament 2952 7823
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team -1
+remove_newest_player 25
+play_tournament 2511 6008
+play_match 18 25
+num_wins_for_team 4
+num_wins_for_team 11
+num_wins_for_team 28
+num_wins_for_team 28
+remove_newest_player 3
+play_tournament 2466 5162
+play_tournament 1407 5286
+num_wins_for_team 6
+num_wins_for_team 26
+unite_teams 1 6
+get_highest_ranked_team 
+unite_teams 9 3
+play_tournament 1995 7146
+num_wins_for_team 17
+unite_teams 14 28
+play_match -1 8
+play_match 3 10
+play_match 0 -2
+get_highest_ranked_team 
+play_tournament 2401 7888
+get_highest_ranked_team 
+remove_newest_player 26
+num_wins_for_team 5
+remove_newest_player 12
+play_tournament 2175 6581
+num_wins_for_team 0
+get_highest_ranked_team 
+num_wins_for_team 10
+num_wins_for_team 18
+unite_teams 24 27
+get_highest_ranked_team 
+num_wins_for_team 26
+play_match 0 27
+play_match 13 15
+get_highest_ranked_team 
+play_tournament 2309 5824
+unite_teams 18 12
+num_wins_for_team 3
+play_match 21 6
+play_match 20 7
+unite_teams 28 29
+get_highest_ranked_team 
+play_tournament 1026 5107
+play_tournament 1048 6882
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team -2
+get_highest_ranked_team 
+play_tournament 2746 6486
+unite_teams 7 7
+get_highest_ranked_team 
+play_match 29 26
+remove_newest_player 16
+play_tournament 3007 7975
+play_tournament 2554 7817
+num_wins_for_team 19
+play_tournament 2195 5417
+get_highest_ranked_team 
+play_tournament 1621 6262
+remove_newest_player 18
+remove_newest_player 10
+num_wins_for_team 25
+get_highest_ranked_team 
+remove_newest_player 8
+unite_teams 5 6
+play_tournament 1032 7121
+num_wins_for_team 21
+play_tournament 1715 6617
+play_tournament 1608 5086
+play_tournament 2352 7927
+play_match 2 -1
+play_tournament 1989 6312
+play_tournament 1106 7504
+play_tournament 1721 5384
+play_tournament 1891 6813
+get_highest_ranked_team 
+num_wins_for_team 20
+play_tournament 3241 5774
+remove_newest_player 15
+num_wins_for_team 29
+play_tournament 2913 6903
+play_tournament 1837 7214
+remove_newest_player 25
+play_tournament 1936 7314
+remove_newest_player 3
+play_match 24 26
+play_tournament 1456 7829
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 7 12
+play_tournament 1596 6840
+unite_teams 21 27
+remove_newest_player 4
+num_wins_for_team 12
+get_highest_ranked_team 
+play_tournament 948 5593
+play_match 20 18
+unite_teams 2 5
+get_highest_ranked_team 
+remove_newest_player 27
+num_wins_for_team 15
+play_tournament 2092 7993
+num_wins_for_team 12
+play_match 16 26
+remove_newest_player 1
+remove_newest_player 6
+num_wins_for_team 17
+play_match 8 24
+get_highest_ranked_team 
+play_match 5 22
+num_wins_for_team 13
+play_tournament 911 5576
+num_wins_for_team 5
+play_tournament 928 7478
+play_match 29 1
+unite_teams 6 29
+remove_newest_player 29
+num_wins_for_team 24
+unite_teams 15 15
+num_wins_for_team 9
+num_wins_for_team 25
+play_tournament 2346 7262
+unite_teams 16 26
+play_tournament 2139 7335
+play_tournament 2423 5900
+play_tournament 1500 6772
+unite_teams 16 10
+play_tournament 1799 6870
+num_wins_for_team 15
+unite_teams 10 11
+play_tournament 2861 6052
+play_match 7 -1
+num_wins_for_team -2
+play_tournament 2946 7995
+num_wins_for_team 18
+remove_newest_player 3
+get_highest_ranked_team 
+play_tournament 2837 6736
+num_wins_for_team 26
+play_tournament 2922 5358
+play_tournament 1640 5100
+unite_teams 19 0
+play_tournament 1311 6273
+play_tournament 3362 7659
+get_highest_ranked_team 
+play_tournament 2392 7000
+remove_newest_player 14
+play_match 21 29
+remove_newest_player 23
+unite_teams 23 1
+num_wins_for_team -1
+get_highest_ranked_team 
+remove_newest_player 26
+play_match 18 9
+play_tournament 1313 5357
+play_tournament 1114 6358
+remove_newest_player -2
+num_wins_for_team 3
+play_tournament 3141 7086
+get_highest_ranked_team 
+play_tournament 2899 6468
+play_match 8 5
+play_tournament 2831 5221
+get_highest_ranked_team 
+num_wins_for_team 13
+num_wins_for_team 21
+num_wins_for_team 13
+unite_teams 20 2
+get_highest_ranked_team 
+remove_newest_player 27
+remove_newest_player 28
+num_wins_for_team 14
+play_tournament 1712 5505
+play_tournament 3075 6211
+num_wins_for_team 23
+play_tournament 3118 7796
+play_tournament 1162 7283
+get_highest_ranked_team 
+remove_newest_player -1
+num_wins_for_team 10
+remove_newest_player 14
+num_wins_for_team 4
+play_tournament 3199 7357
+play_tournament 2200 7439
+play_tournament 955 6774
+unite_teams 26 1
+remove_newest_player 24
+unite_teams 10 21
+get_highest_ranked_team 
+num_wins_for_team 10
+num_wins_for_team 26
+play_tournament 1177 7913
+num_wins_for_team 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 11 2
+remove_newest_player 18
+play_tournament 2047 6972
+unite_teams 27 9
+unite_teams 4 8
+play_match 25 23
+play_tournament 2067 6359
+unite_teams -1 3
+play_match 28 25
+unite_teams 14 10
+num_wins_for_team 5
+remove_newest_player 6
+unite_teams 27 8
+num_wins_for_team 26
+play_tournament 957 7272
+play_tournament 1747 7662
+num_wins_for_team 7
+remove_newest_player -1
+play_tournament 2920 7648
+play_match 9 29
+play_tournament 1262 7331
+num_wins_for_team 3
+play_match -1 29
+play_match -1 24
+play_tournament 2404 5614
+play_tournament 2746 7479
+play_tournament 3323 5312
+play_tournament 936 6236
+play_tournament 2266 6250
+play_tournament 1821 7687
+num_wins_for_team 16
+num_wins_for_team 0
+num_wins_for_team 28
+play_match 26 28
+get_highest_ranked_team 
+num_wins_for_team 13
+num_wins_for_team 17
+play_match 21 2
+play_match 14 4
+num_wins_for_team 8
+num_wins_for_team 9
+play_tournament 1251 5772
+remove_newest_player 16
+play_tournament 1713 6315
+remove_newest_player 13
+num_wins_for_team 12
+get_highest_ranked_team 
+unite_teams 0 11
+num_wins_for_team 18
+get_highest_ranked_team 
+num_wins_for_team 18
+num_wins_for_team 14
+num_wins_for_team 15
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 2187 6804
+play_match 20 -1
+play_match 20 26
+remove_newest_player 20
+unite_teams 17 15
+play_tournament 3028 5825
+num_wins_for_team 15
+play_tournament 2220 5835
+play_tournament 2829 7509
+num_wins_for_team 16
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 2740 6674
+unite_teams 0 24
+num_wins_for_team 19
+remove_newest_player 26
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 20 24
+remove_newest_player 8
+play_match 23 2
+remove_newest_player 29
+remove_newest_player 17
+get_highest_ranked_team 
+play_match -1 28
+get_highest_ranked_team 
+play_tournament 2878 5883
+play_tournament 1863 7834
+remove_newest_player 19
+remove_newest_player 12
+play_tournament 861 5040
+unite_teams 8 -2
+remove_newest_player 21
+unite_teams 9 23
+get_highest_ranked_team 
+play_match 11 29
+play_tournament 1466 7086
+play_tournament 1735 6687
+play_tournament 2787 5663
+unite_teams 5 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 15
+unite_teams 10 11
+num_wins_for_team 3
+num_wins_for_team 3
+remove_newest_player 9
+play_match 2 14
+play_tournament 2304 7031
+play_tournament 3128 7587
+num_wins_for_team 16
+play_tournament 3028 7536
+num_wins_for_team 20
+play_tournament 2843 7844
+remove_newest_player 12
+play_tournament 2966 6873
+remove_newest_player 29
+play_match -2 6
+play_match 13 29
+get_highest_ranked_team 
+unite_teams 21 22
+play_tournament 1252 6619
+get_highest_ranked_team 
+remove_newest_player 6
+play_tournament 1025 5136
+play_tournament 1365 5739
+play_tournament 2482 7076
+remove_newest_player 1
+num_wins_for_team 24
+play_match 6 29
+play_tournament 996 6825
+play_match 27 13
+play_match 10 8
+play_match 3 26
+remove_newest_player 2
+play_tournament 2296 6938
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 27
+play_match 13 9
+play_tournament 3474 7304
+unite_teams 17 25
+num_wins_for_team 6
+num_wins_for_team 1
+num_wins_for_team 13
+play_match 20 22
+get_highest_ranked_team 
+play_tournament 2297 6127
+play_match 21 14
+num_wins_for_team 8
+play_tournament 3336 7756
+play_tournament 1289 7074
+remove_newest_player 22
+num_wins_for_team 17
+play_tournament 2413 7618
+num_wins_for_team 21
+unite_teams 13 22
+play_match 15 24
+unite_teams 16 2
+remove_newest_player 25
+get_highest_ranked_team 
+remove_newest_player 10
+num_wins_for_team 29
+play_match 1 16
+num_wins_for_team 25
+play_tournament 1950 6004
+play_tournament 2731 6884
+play_match 25 19
+get_highest_ranked_team 
+num_wins_for_team -1
+play_tournament 2119 6335
+num_wins_for_team 16
+num_wins_for_team 16
+play_tournament 2613 5868
+play_match 16 22
+play_match 13 8
+num_wins_for_team 0
+play_tournament 1569 7049
+play_match 14 22
+play_tournament 1891 6636
+play_tournament 2137 5589
+unite_teams 9 12
+play_match 5 18
+num_wins_for_team 26
+unite_teams -2 15
+remove_newest_player 17
+remove_newest_player 14
+num_wins_for_team 26
+num_wins_for_team 26
+play_tournament 2007 7709
+play_tournament 1247 5401
+play_match 11 16
+num_wins_for_team 3
+unite_teams 6 24
+play_tournament 2143 7732
+num_wins_for_team 12
+unite_teams 13 18
+unite_teams 12 23
+play_tournament 2701 7288
+num_wins_for_team 25
+get_highest_ranked_team 
+num_wins_for_team 6
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 2317 6660
+play_tournament 2893 6545
+play_tournament 1288 7349
+num_wins_for_team 26
+play_match 25 25
+unite_teams 23 -1
+get_highest_ranked_team 
+play_tournament 2407 6526
+num_wins_for_team 20
+play_tournament 2881 6702
+get_highest_ranked_team 
+play_tournament 903 5275
+remove_newest_player 8
+play_tournament 2182 6677
+num_wins_for_team -2
+unite_teams 14 4
+play_tournament 2194 5888
+remove_newest_player 26
+get_highest_ranked_team 
+play_tournament 2830 7382
+remove_newest_player 25
+unite_teams 7 28
+play_tournament 3106 6138
+remove_newest_player 19
+play_match 18 19
+play_tournament 1847 7286
+play_tournament 1241 7174
+play_match 7 17
+num_wins_for_team 14
+play_tournament 1466 5788
+play_tournament 1493 5212
+num_wins_for_team 23
+play_match 12 -2
+play_match 24 25
+remove_newest_player 23
+unite_teams -1 0
+play_match 10 27
+play_match 21 27
+play_tournament 3220 7820
+num_wins_for_team 15
+play_tournament 815 5941
+play_match 8 16
+num_wins_for_team -1
+num_wins_for_team 10
+play_tournament 1289 6878
+remove_newest_player 12
+num_wins_for_team 18
+num_wins_for_team 3
+unite_teams 17 3
+play_match 12 26
+play_match 19 10
+remove_newest_player 12
+play_match 24 17
+num_wins_for_team 8
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 2
+num_wins_for_team -2
+remove_newest_player 5
+play_tournament 816 5853
+num_wins_for_team 17
+num_wins_for_team 12
+play_tournament 1945 6661
+play_tournament 1509 7345
+unite_teams 9 9
+num_wins_for_team 24
+play_tournament 908 7894
+play_tournament 2197 7323
+play_match 21 5
+remove_newest_player 11
+play_tournament 2384 7677
+num_wins_for_team 25
+remove_newest_player -1
+play_match 8 4
+get_highest_ranked_team 
+num_wins_for_team -2
+num_wins_for_team 1
+play_tournament 3204 5764
+unite_teams 20 28
+play_tournament 3248 5538
+unite_teams 20 1
+play_tournament 2835 5563
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 0 14
+unite_teams 14 23
+num_wins_for_team 9
+play_tournament 2617 5175
+play_match -2 9
+num_wins_for_team 17
+unite_teams 12 23
+remove_newest_player 2
+remove_newest_player -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 22 18
+remove_newest_player 17
+num_wins_for_team 3
+play_tournament 1457 7207
+num_wins_for_team 0
+get_highest_ranked_team 
+play_match 29 25
+play_match 9 1
+play_tournament 3271 5499
+play_match 26 13
+play_tournament 3418 5698
+unite_teams 19 14
+play_tournament 933 7965
+play_match 23 20
+play_tournament 2622 6871
+get_highest_ranked_team 
+play_tournament 1651 7503
+num_wins_for_team 4
+get_highest_ranked_team 
+num_wins_for_team 26
+play_tournament 863 5710
+num_wins_for_team 22
+num_wins_for_team 20
+unite_teams 28 0
+unite_teams 6 22
+unite_teams 18 17
+unite_teams 17 17
+play_tournament 2432 7935
+remove_newest_player 6
+remove_newest_player 4
+unite_teams 11 18
+num_wins_for_team 8
+get_highest_ranked_team 
+play_tournament 2554 5903
+remove_newest_player 26
+remove_newest_player 13
+get_highest_ranked_team 
+play_tournament 2999 5073
+get_highest_ranked_team 
+unite_teams 4 15
+remove_newest_player 6
+play_match 22 27
+remove_newest_player 17
+play_tournament 1054 7816
+get_highest_ranked_team 
+remove_newest_player 4
+remove_newest_player 15
+get_highest_ranked_team 
+num_wins_for_team 11
+play_match -2 12
+num_wins_for_team 20
+unite_teams 17 27
+unite_teams 18 14
+play_match 27 3
+play_tournament 2738 5248
+play_tournament 3098 7694
+play_tournament 2345 5576
+play_match 14 12
+remove_newest_player 18
+play_tournament 1913 5907
+play_tournament 1979 7202
+play_tournament 1574 7732
+play_tournament 1772 7536
+num_wins_for_team -2
+num_wins_for_team -2
+unite_teams 29 3
+get_highest_ranked_team 
+play_tournament 2325 5174
+num_wins_for_team 27
+num_wins_for_team 21
+remove_newest_player 6
+play_tournament 2362 6253
+remove_newest_player 22
+get_highest_ranked_team 
+play_tournament 2517 5239
+remove_newest_player 8
+num_wins_for_team 24
+num_wins_for_team 28
+get_highest_ranked_team 
+remove_newest_player 1
+num_wins_for_team 22
+play_tournament 2978 5201
+remove_newest_player 14
+get_highest_ranked_team 
+num_wins_for_team 28
+num_wins_for_team 23
+num_wins_for_team 28
+play_tournament 1475 5710
+num_wins_for_team 8
+play_tournament 1968 5047
+unite_teams 8 19
+remove_newest_player 13
+remove_newest_player 2
+play_match 23 19
+remove_newest_player 3
+remove_newest_player 6
+get_highest_ranked_team 
+remove_newest_player -1
+num_wins_for_team 11
+get_highest_ranked_team 
+unite_teams 0 8
+play_tournament 885 7192
+remove_newest_player 29
+remove_newest_player 12
+num_wins_for_team 21
+num_wins_for_team 6
+get_highest_ranked_team 
+play_tournament 2836 5581
+num_wins_for_team 23
+num_wins_for_team 11
+unite_teams -1 23
+num_wins_for_team 2
+get_highest_ranked_team 
+play_tournament 3238 5627
+play_tournament 1961 7399
+num_wins_for_team 19
+num_wins_for_team 4
+play_tournament 1537 6657
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 1800 5004
+play_match 23 26
+play_tournament 966 6080
+num_wins_for_team 23
+play_match 5 21
+play_match 19 6
+unite_teams 22 28
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 12
+play_tournament 1902 5386
+get_highest_ranked_team 
+num_wins_for_team 5
+play_tournament 2157 5304
+num_wins_for_team 27
+play_tournament 3499 5525
+play_tournament 2675 7279
+unite_teams 14 19
+play_match -1 29
+unite_teams 29 20
+num_wins_for_team 5
+num_wins_for_team 2
+get_highest_ranked_team 
+remove_newest_player 25
+get_highest_ranked_team 
+num_wins_for_team 14
+num_wins_for_team 29
+play_match -2 8
+get_highest_ranked_team 
+play_tournament 3075 7340
+num_wins_for_team 24
+get_highest_ranked_team 
+remove_newest_player 27
+play_tournament 1122 5612
+play_match 27 10
+play_tournament 804 6299
+get_highest_ranked_team 
+play_tournament 3103 5735
+remove_newest_player 23
+num_wins_for_team 6
+num_wins_for_team 22
+get_highest_ranked_team 
+num_wins_for_team 15
+num_wins_for_team 24
+remove_newest_player 2
+play_tournament 1146 7742
+get_highest_ranked_team 
+num_wins_for_team 29
+play_match 27 21
+play_tournament 1388 6736
+play_match 7 29
+get_highest_ranked_team 
+remove_newest_player 17
+play_tournament 3498 7327
+play_tournament 3208 6026
+play_tournament 2627 7511
+unite_teams 28 12
+play_tournament 1852 6433
+num_wins_for_team 26
+remove_newest_player 25
+num_wins_for_team 15
+num_wins_for_team 24
+num_wins_for_team 5
+num_wins_for_team 20
+play_tournament 1038 6822
+num_wins_for_team 20
+unite_teams 15 23
+play_tournament 2108 5986
+get_highest_ranked_team 
+play_tournament 3320 6850
+unite_teams 27 18
+unite_teams 13 13
+num_wins_for_team 10
+get_highest_ranked_team 
+play_tournament 3100 6550
+remove_newest_player 1
+play_tournament 3361 7155
+get_highest_ranked_team 
+unite_teams 28 26
+play_tournament 1691 5974
+num_wins_for_team 29
+play_tournament 1097 6227
+num_wins_for_team 7
+num_wins_for_team 23
+play_match 3 -2
+remove_newest_player 7
+remove_newest_player 28
+remove_newest_player 27
+play_tournament 1052 7091
+remove_newest_player 27
+num_wins_for_team 20
+num_wins_for_team 0
+play_match 2 7
+unite_teams 28 19
+get_highest_ranked_team 
+play_match 3 -2
+play_match 26 22
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 22
+num_wins_for_team 18
+num_wins_for_team 8
+unite_teams 13 22
+num_wins_for_team 23
+get_highest_ranked_team 
+play_match 29 22
+get_highest_ranked_team 
+play_tournament 2434 6601
+play_tournament 3040 7853
+play_match 23 14
+play_tournament 3400 6982
+num_wins_for_team 4
+remove_newest_player 18
+remove_newest_player -2
+num_wins_for_team 11
+play_match 29 14
+unite_teams 29 17
+num_wins_for_team 12
+unite_teams 17 18
+play_tournament 1854 7016
+get_highest_ranked_team 
+play_tournament 1188 7753
+play_tournament 2514 7040
+num_wins_for_team 19
+num_wins_for_team 22
+num_wins_for_team 27
+unite_teams 2 12
+num_wins_for_team 10
+num_wins_for_team 28
+num_wins_for_team 7
+num_wins_for_team 6
+play_tournament 2857 7308
+remove_newest_player 17
+play_match 17 6
+num_wins_for_team 16
+num_wins_for_team 23
+num_wins_for_team 19
+num_wins_for_team 8
+remove_newest_player 23
+play_match 9 13
+num_wins_for_team 22
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 19
+get_highest_ranked_team 
+play_tournament 2214 5664
+remove_newest_player 29
+num_wins_for_team 11
+unite_teams 21 0
+play_tournament 3037 5615
+play_match 23 -1
+remove_newest_player 7
+play_tournament 2645 6718
+play_tournament 3067 5964
+num_wins_for_team 10
+unite_teams 9 19
+num_wins_for_team 2
+get_highest_ranked_team 
+play_tournament 2161 7499
+play_match 2 2
+remove_newest_player 7
+remove_newest_player 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 1
+unite_teams 4 17
+num_wins_for_team 7
+num_wins_for_team 29
+remove_newest_player 3
+num_wins_for_team 20
+num_wins_for_team 26
+num_wins_for_team 4
+remove_newest_player -1
+play_tournament 3434 6818
+num_wins_for_team 12
+play_tournament 1979 6726
+unite_teams 18 23
+play_tournament 1505 6146
+play_tournament 1619 7103
+play_tournament 2437 6385
+remove_newest_player 1
+num_wins_for_team 15
+play_tournament 2695 5709
+get_highest_ranked_team 
+num_wins_for_team 7
+play_tournament 3300 7747
+get_highest_ranked_team 
+unite_teams 22 19
+play_tournament 1433 7600
+play_match 24 4
+unite_teams 20 5
+remove_newest_player 10
+unite_teams 28 6
+get_highest_ranked_team 
+play_match 6 5
+unite_teams 15 22
+get_highest_ranked_team 
+play_match 26 28
+unite_teams 22 22
+play_tournament 878 6261
+num_wins_for_team 19
+remove_newest_player 24
+play_match -1 4
+num_wins_for_team 5
+play_match 11 29
+unite_teams 16 20
+remove_newest_player 3
+play_tournament 3413 7113
+num_wins_for_team 11
+remove_newest_player 21
+play_tournament 2728 6086
+unite_teams 3 11
+remove_newest_player 14
+num_wins_for_team 11
+play_tournament 2439 5913
+num_wins_for_team 24
+play_tournament 1065 6597
+num_wins_for_team 21
+num_wins_for_team 25
+num_wins_for_team 19
+play_tournament 1202 5459
+play_match 20 28
+get_highest_ranked_team 
+num_wins_for_team -2
+num_wins_for_team 3
+remove_newest_player 26
+play_tournament 1371 6760
+remove_newest_player 11
+num_wins_for_team 23
+num_wins_for_team 5
+play_tournament 2787 6330
+play_match 3 1
+unite_teams 11 13
+play_tournament 1023 5178
+remove_newest_player -2
+play_tournament 1166 7219
+get_highest_ranked_team 
+play_tournament 3450 6635
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 3271 6856
+get_highest_ranked_team 
+play_match 5 22
+unite_teams 9 8
+num_wins_for_team 15
+unite_teams 2 9
+play_tournament 3493 6106
+num_wins_for_team 22
+unite_teams 2 9
+unite_teams 13 9
+remove_newest_player 18
+remove_newest_player 8
+play_match 24 21
+num_wins_for_team 28
+remove_newest_player 0
+remove_newest_player 5
+num_wins_for_team 9
+play_tournament 801 7915
+num_wins_for_team 5
+play_match 0 -2
+get_highest_ranked_team 
+play_tournament 3124 6753
+remove_newest_player 24
+num_wins_for_team 2
+num_wins_for_team 25
+num_wins_for_team 26
+unite_teams 10 6
+unite_teams 10 8
+remove_newest_player 15
+num_wins_for_team 2
+unite_teams 24 28
+play_tournament 2471 7529
+get_highest_ranked_team 
+play_tournament 882 5311
+play_tournament 1724 5107
+num_wins_for_team 8
+play_tournament 1609 6574
+play_tournament 3084 5583
+num_wins_for_team 22
+num_wins_for_team 16
+num_wins_for_team 16
+play_tournament 1478 6811
+play_tournament 1691 7413
+num_wins_for_team 13
+unite_teams 15 8
+get_highest_ranked_team 
+unite_teams 25 12
+get_highest_ranked_team 
+num_wins_for_team 22
+get_highest_ranked_team 
+unite_teams 7 9
+num_wins_for_team 3
+get_highest_ranked_team 
+play_match 13 -2
+play_tournament 3299 7378
+remove_newest_player -1
+get_highest_ranked_team 
+play_tournament 944 7299
+remove_newest_player 11
+num_wins_for_team 25
+play_tournament 1715 6634
+play_match -1 5
+num_wins_for_team 26
+get_highest_ranked_team 
+play_tournament 1323 7865
+num_wins_for_team 20
+play_tournament 3266 7136
+play_tournament 2047 5078
+unite_teams 19 18
+play_tournament 873 6994
+remove_newest_player 0
+remove_newest_player 21
+num_wins_for_team 27
+num_wins_for_team 5
+remove_newest_player 15
+num_wins_for_team -2
+num_wins_for_team 16
+play_tournament 2024 5703
+play_tournament 3182 5072
+play_match 23 11
+remove_newest_player 12
+play_tournament 2801 5060
+play_tournament 1213 7532
+num_wins_for_team 7
+remove_newest_player 29
+remove_newest_player 27
+num_wins_for_team 10
+num_wins_for_team 25
+unite_teams -2 1
+num_wins_for_team 29
+play_match 23 12
+num_wins_for_team 29
+play_tournament 1216 6153
+play_tournament 3014 7286
+play_tournament 1773 5489
+remove_newest_player 17
+remove_newest_player 17
+num_wins_for_team 7
+play_tournament 944 5833
+get_highest_ranked_team 
+play_tournament 2666 7984
+play_tournament 1013 6588
+get_highest_ranked_team 
+num_wins_for_team 25
+play_tournament 1743 5270
+unite_teams 10 6
+remove_newest_player 2
+play_tournament 1583 6939
+num_wins_for_team 23
+play_match -1 25
+play_tournament 2854 6820
+get_highest_ranked_team 
+num_wins_for_team 13
+play_match 28 26
+num_wins_for_team 21
+play_tournament 2020 7147
+play_tournament 2175 6646
+play_tournament 1554 6145
+remove_newest_player 19
+num_wins_for_team 5
+play_match 5 27
+num_wins_for_team 10
+remove_newest_player 3
+play_tournament 2145 5445
+play_tournament 2637 7832
+get_highest_ranked_team 
+play_tournament 2097 5678
+play_tournament 1971 6491
+get_highest_ranked_team 
+play_tournament 975 6425
+num_wins_for_team 29
+unite_teams 26 5
+num_wins_for_team 0
+unite_teams 11 3
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 2692 7749
+remove_newest_player 27
+remove_newest_player 16
+unite_teams 12 14
+unite_teams 26 13
+num_wins_for_team 22
+remove_newest_player 22
+get_highest_ranked_team 
+play_match 15 14
+num_wins_for_team 21
+num_wins_for_team 15
+unite_teams 13 8
+play_tournament 2392 5569
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 15 28
+num_wins_for_team 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 2167 5215
+num_wins_for_team 11
+get_highest_ranked_team 
+remove_newest_player -1
+num_wins_for_team 13
+get_highest_ranked_team 
+play_tournament 1452 6452
+play_tournament 2602 7465
+play_tournament 2029 6768
+get_highest_ranked_team 
+play_match 1 15
+play_tournament 3387 5930
+play_tournament 2840 7851
+play_match 15 19
+play_match 6 24
+play_match 14 17
+num_wins_for_team 15
+remove_newest_player 18
+play_tournament 2998 5842
+num_wins_for_team 14
+num_wins_for_team 19
+unite_teams -2 2
+play_tournament 2695 5197
+play_tournament 1556 5991
+play_tournament 2909 5535
+remove_newest_player 19
+num_wins_for_team 27
+play_match 13 18
+play_tournament 859 5992
+play_match 8 29
+remove_newest_player -1
+play_tournament 905 7021
+get_highest_ranked_team 
+remove_newest_player 22
+play_tournament 2926 5674
+play_tournament 3146 6909
+num_wins_for_team 29
+remove_newest_player 4
+num_wins_for_team -1
+play_match 16 23
+play_tournament 3491 7886
+play_tournament 1942 6492
+get_highest_ranked_team 
+unite_teams 7 14
+num_wins_for_team 17
+play_tournament 2231 5195
+unite_teams 21 28
+unite_teams -1 1
+unite_teams 9 4
+unite_teams 11 20
+remove_newest_player 8
+unite_teams 16 21
+play_tournament 2230 7407
+play_tournament 1727 7475
+play_tournament 3130 6290
+num_wins_for_team 5
+remove_newest_player 26
+num_wins_for_team 19
+play_match -1 17
+num_wins_for_team 21
+num_wins_for_team 19
+remove_newest_player 29
+unite_teams 7 27
+num_wins_for_team 6
+num_wins_for_team 22
+play_tournament 2843 5437
+remove_newest_player 1
+unite_teams 24 5
+get_highest_ranked_team 
+unite_teams 3 23
+unite_teams 22 24
+play_tournament 3264 5454
+get_highest_ranked_team 
+num_wins_for_team 14
+play_tournament 2146 7912
+num_wins_for_team 20
+remove_newest_player -2
+num_wins_for_team 17
+num_wins_for_team 22
+num_wins_for_team 19
+play_tournament 867 6740
+remove_newest_player 13
+remove_newest_player 14
+num_wins_for_team 18
+num_wins_for_team 28
+remove_newest_player 23
+num_wins_for_team 0
+get_highest_ranked_team 
+num_wins_for_team 12
+play_match 6 -2
+num_wins_for_team 25
+play_match -2 28
+num_wins_for_team 7
+get_highest_ranked_team 
+unite_teams 21 14
+play_match 25 17
+play_tournament 1797 5107
+play_tournament 3296 5054
+unite_teams 2 28
+play_match 26 17
+get_highest_ranked_team 
+play_tournament 2766 6707
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 3379 7605
+play_tournament 2485 7193
+play_tournament 2884 5898
+unite_teams 0 24
+play_match 8 12
+remove_newest_player 26
+unite_teams 2 24
+play_tournament 1128 6715
+play_tournament 3327 5881
+play_tournament 3187 5508
+play_tournament 3248 5722
+num_wins_for_team 1
+play_tournament 2803 5980
+unite_teams 6 24
+play_tournament 902 6006
+play_match 17 26
+unite_teams 8 27
+get_highest_ranked_team 
+unite_teams 20 23
+play_tournament 1515 6292
+get_highest_ranked_team 
+remove_newest_player 23
+play_tournament 940 7316
+unite_teams 19 24
+play_match 25 22
+remove_newest_player 3
+num_wins_for_team 23
+unite_teams 4 13
+num_wins_for_team 22
+play_match 29 8
+play_tournament 2488 5602
+num_wins_for_team 6
+num_wins_for_team 16
+unite_teams -1 8
+num_wins_for_team 19
+num_wins_for_team 9
+remove_newest_player 25
+num_wins_for_team 29
+unite_teams 16 11
+num_wins_for_team 19
+play_tournament 1852 5189
+play_tournament 1521 6856
+remove_newest_player 29
+unite_teams 29 3
+num_wins_for_team 29
+play_match 24 20
+unite_teams 11 2
+play_tournament 1896 6463
+num_wins_for_team 16
+get_highest_ranked_team 
+unite_teams 5 12
+num_wins_for_team 9
+num_wins_for_team 11
+play_tournament 1216 7912
+play_tournament 1400 7665
+get_highest_ranked_team 
+unite_teams 23 6
+play_tournament 1186 7073
+get_highest_ranked_team 
+unite_teams 8 -1
+get_highest_ranked_team 
+play_tournament 944 6428
+unite_teams 11 18
+num_wins_for_team 18
+play_tournament 1940 7307
+num_wins_for_team 20
+unite_teams 6 0
+num_wins_for_team 27
+unite_teams 18 9
+unite_teams 5 15
+num_wins_for_team 8
+play_tournament 3129 6988
+play_tournament 1639 7244
+play_tournament 3475 7291
+num_wins_for_team 4
+num_wins_for_team 9
+remove_newest_player 2
+get_highest_ranked_team 
+unite_teams 29 5
+play_tournament 2327 5817
+play_match 17 22
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 10
+unite_teams -2 27
+unite_teams 3 15
+play_tournament 3072 7725
+play_match 2 19
+play_tournament 2758 5553
+play_tournament 1343 6025
+remove_newest_player 23
+play_match -1 13
+num_wins_for_team 1
+remove_newest_player 14
+num_wins_for_team 15
+play_tournament 2019 7528
+play_tournament 1236 7396
+play_tournament 1162 6686
+remove_newest_player 27
+get_highest_ranked_team 
+play_tournament 1605 7678
+remove_newest_player 27
+num_wins_for_team 14
+num_wins_for_team 29
+unite_teams 28 9
+num_wins_for_team 2
+num_wins_for_team 27
+unite_teams 10 13
+num_wins_for_team 16
+num_wins_for_team 1
+play_tournament 1306 7613
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 19
+unite_teams 29 -2
+unite_teams 8 22
+num_wins_for_team 7
+remove_newest_player 25
+play_tournament 2159 6116
+unite_teams 25 4
+play_match 23 1
+remove_newest_player 23
+play_match 23 -2
+unite_teams 29 5
+unite_teams 7 9
+num_wins_for_team 11
+num_wins_for_team 8
+play_tournament 1472 7533
+play_match -2 4
+get_highest_ranked_team 
+num_wins_for_team -1
+num_wins_for_team -1
+play_match 7 4
+play_tournament 1847 5844
+play_tournament 3162 5645
+num_wins_for_team -2
+play_tournament 3046 5209
+play_match 21 24
+unite_teams 28 11
+remove_newest_player 27
+play_match 27 8
+play_match 6 17
+unite_teams 23 0
+remove_newest_player 7
+get_highest_ranked_team 
+num_wins_for_team 9
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 20
+play_match 5 20
+get_highest_ranked_team 
+remove_newest_player 10
+play_match -2 2
+num_wins_for_team 7
+unite_teams 25 5
+play_tournament 2203 7727
+remove_newest_player 11
+get_highest_ranked_team 
+num_wins_for_team 4
+get_highest_ranked_team 
+unite_teams 3 28
+get_highest_ranked_team 
+play_tournament 3256 5149
+num_wins_for_team 4
+get_highest_ranked_team 
+play_match 13 22
+num_wins_for_team 6
+play_tournament 1657 5175
+unite_teams 21 7
+remove_newest_player -2
+play_match 25 19
+play_tournament 862 5270
+num_wins_for_team 13
+num_wins_for_team 6
+play_match 20 24
+unite_teams 18 20
+play_tournament 1991 7951
+play_tournament 1470 6581
+play_match 19 22
+num_wins_for_team 14
+get_highest_ranked_team 
+play_tournament 2475 7883
+num_wins_for_team 19
+unite_teams 21 -1
+play_tournament 1818 7727
+play_match 5 1
+num_wins_for_team 4
+play_match 24 1
+unite_teams 24 13
+play_tournament 1457 5284
+unite_teams 25 22
+unite_teams 28 20
+play_tournament 3256 6580
+play_match 1 0
+unite_teams -2 6
+play_match 2 11
+unite_teams 8 25
+play_tournament 2741 5971
+play_match 17 28
+unite_teams 26 27
+num_wins_for_team 16
+play_match 22 21
+unite_teams 28 29
+play_tournament 1259 7614
+play_tournament 2773 6257
+play_match 14 23
+play_tournament 2182 5375
+play_tournament 1287 6582
+get_highest_ranked_team 
+play_tournament 895 7051
+play_tournament 2933 5443
+play_tournament 2593 5218
+num_wins_for_team 9
+num_wins_for_team 16
+num_wins_for_team 0
+play_match 16 20
+play_tournament 3138 7303
+remove_newest_player 1
+unite_teams 8 4
+play_match 12 21
+remove_newest_player 15
+unite_teams 22 13
+unite_teams 2 27
+play_match 3 10
+num_wins_for_team -2
+play_match 27 -2
+play_tournament 2524 7899
+play_tournament 2532 7485
+unite_teams 17 3
+unite_teams 14 27
+play_tournament 1504 5967
+num_wins_for_team 28
+num_wins_for_team 6
+play_tournament 1523 6469
+num_wins_for_team 2
+remove_newest_player -1
+unite_teams 8 26
+get_highest_ranked_team 
+remove_newest_player 6
+play_match 2 16
+play_tournament 826 7071
+play_tournament 2975 5948
+unite_teams 16 2
+num_wins_for_team 26
+num_wins_for_team 8
+remove_newest_player 24
+get_highest_ranked_team 
+play_match 11 21
+unite_teams 15 20
+play_tournament 1900 6274
+play_match 7 21
+play_match 19 26
+num_wins_for_team 6
+play_tournament 1084 7599
+get_highest_ranked_team 
+play_tournament 1318 7969
+get_highest_ranked_team 
+num_wins_for_team 5
+num_wins_for_team 14
+remove_newest_player 0
+remove_newest_player 15
+num_wins_for_team 4
+num_wins_for_team 23
+num_wins_for_team 8
+num_wins_for_team 23
+unite_teams 7 13
+get_highest_ranked_team 
+remove_newest_player 27
+get_highest_ranked_team 
+unite_teams 13 1
+play_tournament 3083 7924
+get_highest_ranked_team 
+remove_newest_player -1
+play_tournament 1265 5389
+get_highest_ranked_team 
+play_tournament 1814 6396
+play_tournament 981 7302
+play_match 16 8
+num_wins_for_team 4
+unite_teams 28 25
+num_wins_for_team 12
+num_wins_for_team 3
+play_tournament 2300 7493
+get_highest_ranked_team 
+num_wins_for_team 16
+num_wins_for_team 2
+play_tournament 2660 7467
+play_tournament 1914 7602
+unite_teams 12 28
+num_wins_for_team 3
+unite_teams 2 25
+num_wins_for_team 11
+num_wins_for_team 3
+play_tournament 1108 6133
+get_highest_ranked_team 
+play_match 8 24
+num_wins_for_team 16
+play_match 22 28
+num_wins_for_team 18
+remove_newest_player 5
+num_wins_for_team 6
+unite_teams 0 6
+play_tournament 2203 5783
+num_wins_for_team 18
+play_tournament 2081 6851
+play_tournament 2293 5384
+num_wins_for_team 3
+play_match 28 9
+play_tournament 2337 5681
+num_wins_for_team 12
+remove_newest_player 29
+remove_newest_player 7
+num_wins_for_team 6
+play_tournament 3318 7458
+num_wins_for_team -2
+remove_newest_player 0
+play_match 11 9
+play_tournament 1576 7675
+unite_teams 20 7
+play_tournament 2934 5346
+play_tournament 1161 6436
+num_wins_for_team 12
+play_tournament 2364 7296
+play_tournament 2302 6638
+get_highest_ranked_team 
+unite_teams 14 15
+num_wins_for_team 12
+unite_teams 7 12
+unite_teams 1 26
+play_match 15 3
+play_tournament 1375 5055
+play_tournament 2548 5749
+remove_newest_player 0
+play_match 25 5
+play_tournament 853 5048
+play_tournament 3025 6533
+remove_newest_player 5
+play_match 24 1
+unite_teams 0 23
+play_tournament 1462 6344
+remove_newest_player 12
+play_match 3 21
+num_wins_for_team 23
+play_match 11 13
+play_tournament 2110 6861
+play_match 10 -2
+num_wins_for_team 28
+unite_teams 13 5
+num_wins_for_team 2
+num_wins_for_team 11
+num_wins_for_team 17
+unite_teams 3 15
+num_wins_for_team 29
+play_match 27 2
+play_match 4 1
+unite_teams 25 26
+unite_teams 28 14
+num_wins_for_team 21
+remove_newest_player 1
+play_tournament 2096 5278
+unite_teams 27 26
+play_tournament 2784 5037
+play_tournament 1426 5810
+play_tournament 2677 6680
+unite_teams 19 7
+play_match 28 21
+num_wins_for_team 13
+play_tournament 2986 6356
+remove_newest_player 11
+get_highest_ranked_team 
+num_wins_for_team 21
+num_wins_for_team 20
+num_wins_for_team 20
+play_tournament 3374 6252
+unite_teams 24 9
+unite_teams 22 20
+play_tournament 1983 6432
+play_tournament 964 5092
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 23 1
+num_wins_for_team 18
+remove_newest_player 21
+unite_teams 24 1
+play_tournament 1103 6595
+play_match 13 2
+get_highest_ranked_team 
+unite_teams 16 20
+get_highest_ranked_team 
+num_wins_for_team 25
+play_tournament 1532 6250
+unite_teams 4 5
+play_tournament 2868 6326
+play_tournament 2984 5568
+num_wins_for_team 4
+unite_teams 25 18
+get_highest_ranked_team 
+num_wins_for_team 11
+play_tournament 1883 7455
+unite_teams 10 8
+play_tournament 1733 6402
+get_highest_ranked_team 
+play_tournament 1608 5856
+get_highest_ranked_team 
+num_wins_for_team 22
+play_tournament 2812 5024
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 28
+num_wins_for_team 29
+play_tournament 1034 5190
+get_highest_ranked_team 
+num_wins_for_team 18
+play_tournament 1951 7141
+remove_newest_player 3
+num_wins_for_team 4
+play_match 11 24
+play_match 12 14
+num_wins_for_team 26
+play_match 8 4
+play_tournament 2150 7465
+play_tournament 2360 5788
+play_match 24 26
+unite_teams 3 29
+get_highest_ranked_team 
+play_tournament 2195 7512
+remove_newest_player 9
+remove_newest_player 11
+num_wins_for_team 13
+play_tournament 2389 6609
+play_match 27 20
+play_tournament 1178 5394
+unite_teams 4 20
+unite_teams 13 19
+play_tournament 2978 6103
+get_highest_ranked_team 
+num_wins_for_team 22
+play_tournament 2195 7283
+get_highest_ranked_team 
+remove_newest_player 20
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 2 27
+play_match 16 11
+play_match 17 29
+remove_newest_player 21
+num_wins_for_team 8
+num_wins_for_team 22
+remove_newest_player 20
+remove_newest_player 7
+unite_teams 26 10
+play_match 19 19
+remove_newest_player 28
+play_match 21 -2
+play_tournament 920 7343
+play_tournament 2138 6974
+num_wins_for_team 23
+num_wins_for_team 29
+unite_teams 0 14
+unite_teams 5 4
+unite_teams 18 20
+play_match 11 9
+play_match 8 9
+unite_teams 11 20
+play_match 17 24
+num_wins_for_team 0
+play_match 24 20
+play_match 1 3
+play_tournament 2910 6209
+num_wins_for_team 18
+play_tournament 3134 6320
+unite_teams 24 26
+play_match 4 8
+get_highest_ranked_team 
+play_tournament 848 5849
+play_tournament 984 5777
+play_tournament 1772 7703
+remove_newest_player 13
+play_match -2 18
+unite_teams 23 5
+num_wins_for_team 24
+num_wins_for_team 2
+remove_newest_player 16
+play_match 14 22
+play_tournament 2013 7303
+play_match 7 18
+remove_newest_player 14
+play_match -1 9
+play_match 21 25
+unite_teams 13 23
+remove_newest_player 3
+unite_teams 3 8
+num_wins_for_team 2
+num_wins_for_team 11
+play_tournament 1297 5709
+play_tournament 989 7437
+get_highest_ranked_team 
+unite_teams 21 -1
+play_match -2 -1
+num_wins_for_team 13
+num_wins_for_team 25
+play_match 1 0
+unite_teams 21 6
+play_tournament 2210 6758
+play_tournament 2278 7857
+play_match 28 20
+play_match 18 10
+play_match 15 -1
+play_tournament 3406 5605
+remove_newest_player 1
+play_match 7 25
+remove_newest_player 16
+play_match 2 -1
+remove_newest_player 1
+unite_teams 6 20
+remove_newest_player 23
+play_tournament 3451 5218
+get_highest_ranked_team 
+unite_teams 22 6
+play_tournament 2949 7307
+play_tournament 1010 6756
+play_tournament 1342 7382
+num_wins_for_team 28
+unite_teams 13 0
+num_wins_for_team 27
+play_tournament 1506 7202
+get_highest_ranked_team 
+play_match 23 23
+num_wins_for_team 2
+unite_teams -2 16
+get_highest_ranked_team 
+remove_newest_player 4
+remove_newest_player 27
+play_match 4 16
+play_tournament 2907 7125
+play_tournament 2751 6305
+unite_teams 29 23
+play_match 10 2
+num_wins_for_team 26
+play_tournament 2422 5127
+play_match 12 0
+num_wins_for_team 5
+play_tournament 2423 5111
+get_highest_ranked_team 
+play_tournament 2985 7170
+unite_teams 2 19
+play_match 21 25
+play_tournament 2327 7134
+get_highest_ranked_team 
+play_match 21 -1
+unite_teams 9 12
+num_wins_for_team 4
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 13
+play_tournament 2890 5108
+num_wins_for_team 1
+get_highest_ranked_team 
+remove_newest_player 1
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 17
+play_tournament 2513 5252
+play_tournament 1944 7495
+remove_newest_player 3
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 3106 7316
+num_wins_for_team 23
+play_tournament 2085 5644
+num_wins_for_team 9
+get_highest_ranked_team 
+num_wins_for_team 17
+play_tournament 2956 6278
+remove_newest_player 1
+num_wins_for_team 25
+play_tournament 1141 6141
+remove_newest_player 12
+unite_teams 26 25
+num_wins_for_team 29
+num_wins_for_team 21
+play_match 9 3
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 20 21
+num_wins_for_team 15
+play_tournament 1558 5210
+play_tournament 3005 6425
+play_tournament 1056 5968
+get_highest_ranked_team 
+play_tournament 1789 7141
+remove_newest_player 20
+play_tournament 1591 5075
+num_wins_for_team 29
+num_wins_for_team 0
+num_wins_for_team 18
+get_highest_ranked_team 
+remove_newest_player 10
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 10
+num_wins_for_team 20
+get_highest_ranked_team 
+play_tournament 2251 7926
+num_wins_for_team 25
+play_tournament 3474 6172
+num_wins_for_team 20
+play_tournament 1712 7143
+num_wins_for_team 24
+unite_teams 9 16
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 0 13
+get_highest_ranked_team 
+remove_newest_player 18
+num_wins_for_team 16
+play_tournament 1548 7435
+unite_teams 1 26
+play_tournament 1024 5515
+get_highest_ranked_team 
+remove_newest_player 11
+unite_teams 0 10
+play_tournament 3169 6629
+remove_newest_player 14
+play_match 22 29
+num_wins_for_team 12
+get_highest_ranked_team 
+play_match 28 19
+play_match 4 9
+get_highest_ranked_team 
+play_tournament 1892 5691
+num_wins_for_team -2
+unite_teams 16 7
+unite_teams 22 8
+num_wins_for_team 23
+remove_newest_player 2
+unite_teams 15 24
+num_wins_for_team 15
+num_wins_for_team 23
+unite_teams 14 18
+get_highest_ranked_team 
+play_tournament 1000 5777
+num_wins_for_team 28
+get_highest_ranked_team 
+num_wins_for_team 4
+num_wins_for_team 16
+unite_teams 24 5
+num_wins_for_team 26
+remove_newest_player 22
+play_match 8 6
+play_tournament 2708 5080
+play_tournament 1613 6245
+play_tournament 2259 6331
+get_highest_ranked_team 
+unite_teams 11 3
+num_wins_for_team 16
+play_tournament 1189 5552
+remove_newest_player 7
+num_wins_for_team 25
+play_match 10 5
+num_wins_for_team 24
+get_highest_ranked_team 
+num_wins_for_team 27
+num_wins_for_team 17
+num_wins_for_team 7
+play_match 25 6
+remove_newest_player -1
+remove_newest_player 25
+unite_teams 12 2
+unite_teams 28 7
+num_wins_for_team 3
+unite_teams 2 8
+play_tournament 1688 6428
+remove_newest_player 27
+play_tournament 3278 5744
+remove_newest_player 3
+get_highest_ranked_team 
+play_tournament 3450 7014
+play_tournament 3372 5294
+play_tournament 2056 5550
+num_wins_for_team 7
+play_tournament 1234 5104
+play_tournament 1534 6544
+play_tournament 1326 6150
+num_wins_for_team 10
+unite_teams 22 19
+remove_newest_player 27
+num_wins_for_team -2
+play_tournament 1323 7431
+num_wins_for_team 8
+num_wins_for_team -1
+num_wins_for_team 5
+num_wins_for_team 14
+num_wins_for_team 6
+get_highest_ranked_team 
+play_tournament 1045 5165
+remove_newest_player 7
+remove_newest_player 21
+num_wins_for_team -2
+play_match 26 1
+num_wins_for_team 4
+play_match 10 25
+num_wins_for_team 29
+play_tournament 3109 7146
+play_tournament 3347 6649
+num_wins_for_team 20
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 2779 5503
+play_tournament 3418 6416
+play_tournament 2712 5912
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 11
+remove_newest_player 23
+unite_teams 26 14
+unite_teams 12 8
+play_tournament 3234 5702
+remove_newest_player 20
+num_wins_for_team 28
+unite_teams 25 15
+num_wins_for_team 11
+play_tournament 903 5196
+play_tournament 2239 6010
+play_tournament 1310 6361
+num_wins_for_team 23
+get_highest_ranked_team 
+unite_teams 18 13
+play_tournament 1983 6555
+unite_teams 5 1
+num_wins_for_team -1
+get_highest_ranked_team 
+unite_teams 7 18
+num_wins_for_team 18
+unite_teams 15 13
+play_match 15 14
+num_wins_for_team 4
+get_highest_ranked_team 
+play_tournament 1532 5829
+unite_teams -2 12
+play_tournament 1971 7775
+num_wins_for_team 14
+num_wins_for_team 2
+get_highest_ranked_team 
+play_match 3 28
+play_tournament 2538 7313
+num_wins_for_team 24
+play_tournament 1358 6639
+play_tournament 1214 7645
+play_match 5 26
+play_match 11 -2
+play_match 11 2
+play_tournament 1473 5651
+unite_teams 22 12
+play_tournament 1865 6186
+remove_newest_player 2
+unite_teams 12 27
+num_wins_for_team 4
+remove_newest_player 26
+unite_teams 16 1
+remove_newest_player 8
+play_tournament 3034 7850
+num_wins_for_team 6
+num_wins_for_team 18
+num_wins_for_team 11
+play_tournament 3386 6395
+unite_teams 28 13
+unite_teams 6 4
+play_tournament 3285 6545
+play_tournament 2314 7577
+num_wins_for_team 23
+get_highest_ranked_team 
+remove_newest_player 14
+play_tournament 2612 6435
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 11 5
+num_wins_for_team 29
+remove_newest_player 8
+play_tournament 2437 5948
+num_wins_for_team 20
+unite_teams 8 0
+play_tournament 1851 7508
+num_wins_for_team 12
+remove_newest_player 24
+unite_teams 29 8
+remove_newest_player 17
+play_tournament 2206 7206
+unite_teams 4 20
+play_match 2 14
+play_tournament 2426 7483
+num_wins_for_team 26
+play_tournament 1334 6731
+get_highest_ranked_team 
+remove_newest_player 22
+play_tournament 3159 7155
+play_tournament 2555 6181
+num_wins_for_team 13
+get_highest_ranked_team 
+play_tournament 3346 6896
+get_highest_ranked_team 
+remove_newest_player 3
+play_tournament 2815 7917
+play_match 19 25
+num_wins_for_team 27
+num_wins_for_team 0
+play_tournament 2232 7741
+num_wins_for_team 19
+play_match 17 11
+get_highest_ranked_team 
+play_match 5 3
+play_tournament 1230 7250
+num_wins_for_team 14
+play_match 14 23
+remove_newest_player 28
+remove_newest_player 14
+unite_teams -1 14
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 2957 7352
+play_tournament 3419 7516
+remove_newest_player 26
+play_tournament 2737 6286
+play_tournament 2512 5272
+remove_newest_player 21
+unite_teams 23 22
+play_match 15 6
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 6
+remove_newest_player 2
+play_tournament 1528 6485
+num_wins_for_team 14
+num_wins_for_team 9
+play_tournament 2134 6670
+num_wins_for_team 14
+play_match 2 11
+play_tournament 2410 7507
+play_match 25 23
+remove_newest_player 27
+play_tournament 2441 6579
+play_tournament 3298 6604
+num_wins_for_team 18
+play_match -2 17
+play_tournament 2947 6595
+remove_newest_player 10
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 18 5
+play_match 20 27
+num_wins_for_team 29
+play_tournament 3053 6353
+get_highest_ranked_team 
+play_tournament 3450 7590
+num_wins_for_team 27
+play_tournament 1539 5765
+play_tournament 812 5100
+get_highest_ranked_team 
+num_wins_for_team 5
+unite_teams 6 3
+play_tournament 2111 7090
+play_tournament 3303 7832
+get_highest_ranked_team 
+num_wins_for_team 28
+get_highest_ranked_team 
+unite_teams 7 6
+num_wins_for_team 13
+play_match 29 6
+play_match 26 28
+unite_teams 10 29
+unite_teams 17 6
+num_wins_for_team 26
+num_wins_for_team 22
+remove_newest_player 8
+remove_newest_player 4
+play_match -1 0
+unite_teams -1 17
+remove_newest_player 11
+play_tournament 1677 5166
+get_highest_ranked_team 
+unite_teams 18 22
+play_match 14 7
+play_tournament 1633 5788
+num_wins_for_team 20
+play_match 4 4
+remove_newest_player 2
+unite_teams 11 7
+play_tournament 2570 5501
+play_tournament 2336 5216
+num_wins_for_team 17
+num_wins_for_team 18
+play_tournament 2791 7706
+num_wins_for_team 28
+play_tournament 2571 5572
+unite_teams 25 1
+remove_newest_player 6
+num_wins_for_team 24
+play_tournament 3391 6004
+num_wins_for_team 24
+play_tournament 1471 7516
+get_highest_ranked_team 
+unite_teams 24 4
+play_tournament 3048 7642
+play_tournament 825 5840
+play_match 4 23
+play_tournament 3313 7468
+num_wins_for_team 4
+num_wins_for_team 29
+play_tournament 874 5649
+num_wins_for_team 22
+play_tournament 2255 5354
+num_wins_for_team 21
+play_match 2 28
+num_wins_for_team 21
+num_wins_for_team 19
+play_tournament 2389 7041
+play_tournament 3356 6113
+play_match 5 23
+get_highest_ranked_team 
+unite_teams 1 14
+play_tournament 2828 7151
+num_wins_for_team 20
+num_wins_for_team 26
+get_highest_ranked_team 
+unite_teams 20 6
+get_highest_ranked_team 
+num_wins_for_team 14
+get_highest_ranked_team 
+num_wins_for_team 1
+remove_newest_player 16
+num_wins_for_team 3
+remove_newest_player 23
+unite_teams -1 6
+unite_teams 4 29
+unite_teams 13 10
+unite_teams 22 7
+num_wins_for_team 4
+num_wins_for_team 27
+num_wins_for_team 10
+play_match 20 19
+play_tournament 2925 6901
+play_match 28 5
+play_tournament 2066 7938
+play_tournament 3417 6232
+play_tournament 3015 7281
+play_tournament 2730 7223
+play_tournament 949 7000
+get_highest_ranked_team 
+play_tournament 1732 6292
+get_highest_ranked_team 
+play_tournament 846 5205
+num_wins_for_team 20
+get_highest_ranked_team 
+unite_teams 14 13
+play_tournament 3171 7836
+num_wins_for_team 5
+num_wins_for_team 21
+unite_teams 9 23
+play_match 17 21
+num_wins_for_team 4
+play_tournament 1061 6304
+remove_newest_player 0
+num_wins_for_team -1
+remove_newest_player 4
+num_wins_for_team 6
+play_match 10 19
+play_match 18 20
+play_match 16 25
+get_highest_ranked_team 
+remove_newest_player 25
+remove_newest_player 1
+play_tournament 1070 5626
+get_highest_ranked_team 
+unite_teams 28 16
+num_wins_for_team -1
+remove_newest_player 19
+unite_teams 15 19
+play_tournament 2423 6464
+play_tournament 1200 5108
+num_wins_for_team 7
+num_wins_for_team 25
+num_wins_for_team 7
+num_wins_for_team 2
+unite_teams 20 5
+num_wins_for_team 21
+play_match -2 -2
+num_wins_for_team 7
+play_tournament 2214 5129
+get_highest_ranked_team 
+num_wins_for_team 27
+play_match 20 22
+play_tournament 3083 7330
+num_wins_for_team 7
+num_wins_for_team 25
+remove_newest_player 13
+get_highest_ranked_team 
+remove_newest_player -2
+num_wins_for_team 2
+remove_newest_player 0
+unite_teams 7 10
+get_highest_ranked_team 
+remove_newest_player 14
+get_highest_ranked_team 
+play_match -1 17
+play_tournament 1585 5615
+num_wins_for_team 20
+play_match 7 15
+unite_teams 6 15
+play_tournament 3221 6169
+num_wins_for_team 2
+num_wins_for_team 25
+play_match 26 18
+num_wins_for_team 25
+get_highest_ranked_team 
+play_tournament 1129 6969
+play_tournament 2779 5827
+num_wins_for_team 20
+num_wins_for_team 27
+get_highest_ranked_team 
+play_tournament 3217 7178
+num_wins_for_team 3
+play_tournament 2801 5084
+num_wins_for_team 27
+play_match 9 7
+remove_newest_player 20
+num_wins_for_team 22
+num_wins_for_team 5
+play_match 2 3
+get_highest_ranked_team 
+remove_newest_player 9
+num_wins_for_team 28
+num_wins_for_team -1
+remove_newest_player 20
+num_wins_for_team 10
+num_wins_for_team 27
+play_match 15 9
+num_wins_for_team 19
+get_highest_ranked_team 
+play_match 11 11
+unite_teams 11 -1
+num_wins_for_team 8
+remove_newest_player 8
+play_match 19 20
+num_wins_for_team 19
+remove_newest_player 25
+play_match 17 11
+num_wins_for_team 9
+get_highest_ranked_team 
+remove_newest_player 24
+unite_teams 4 28
+num_wins_for_team 7
+get_highest_ranked_team 
+num_wins_for_team 27
+remove_newest_player 13
+unite_teams 16 -2
+get_highest_ranked_team 
+play_tournament 2047 5878
+get_highest_ranked_team 
+num_wins_for_team 21
+play_match 21 18
+get_highest_ranked_team 
+num_wins_for_team 18
+remove_newest_player 0
+num_wins_for_team -2
+unite_teams 5 22
+play_tournament 2783 7474
+play_tournament 2837 7304
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 25 11
+num_wins_for_team 12
+play_tournament 1196 5417
+play_tournament 2030 7084
+unite_teams 0 5
+get_highest_ranked_team 
+remove_newest_player 5
+play_tournament 3426 6367
+num_wins_for_team 11
+num_wins_for_team 13
+unite_teams 28 12
+num_wins_for_team 0
+unite_teams 14 10
+play_match 3 17
+get_highest_ranked_team 
+play_tournament 2643 5572
+unite_teams 19 26
+get_highest_ranked_team 
+remove_newest_player -1
+num_wins_for_team 11
+play_match 22 10
+play_tournament 1137 5203
+get_highest_ranked_team 
+num_wins_for_team 4
+play_tournament 1023 6111
+unite_teams 3 4
+num_wins_for_team 29
+play_tournament 2639 6776
+get_highest_ranked_team 
+num_wins_for_team 18
+unite_teams 5 24
+unite_teams 23 12
+num_wins_for_team 16
+play_match 29 3
+play_tournament 2381 6218
+num_wins_for_team 1
+num_wins_for_team 10
+num_wins_for_team -1
+play_tournament 1844 5921
+play_match 21 -1
+get_highest_ranked_team 
+remove_newest_player 15
+play_match -2 16
+remove_newest_player 23
+play_tournament 3400 5865
+remove_newest_player 2
+num_wins_for_team -1
+get_highest_ranked_team 
+num_wins_for_team 20
+remove_newest_player 10
+play_match 5 3
+num_wins_for_team 7
+num_wins_for_team 12
+remove_newest_player 7
+num_wins_for_team 9
+play_tournament 1708 6191
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 24
+play_tournament 2149 5108
+play_tournament 2428 5242
+get_highest_ranked_team 
+num_wins_for_team 16
+play_match 23 22
+num_wins_for_team 0
+num_wins_for_team 12
+play_tournament 3196 6361
+play_tournament 1845 5164
+get_highest_ranked_team 
+play_match 5 -2
+num_wins_for_team 19
+remove_newest_player 2
+get_highest_ranked_team 
+play_match 29 12
+play_tournament 3170 5247
+remove_newest_player -1
+remove_newest_player 26
+play_match 9 25
+play_tournament 2510 5171
+num_wins_for_team 28
+play_tournament 1815 7673
+get_highest_ranked_team 
+play_tournament 3246 7296
+remove_newest_player 13
+play_match 28 19
+get_highest_ranked_team 
+num_wins_for_team -1
+play_tournament 1680 7940
+remove_newest_player 0
+play_tournament 1144 6386
+unite_teams 18 21
+play_tournament 2216 6039
+num_wins_for_team 28
+play_tournament 2011 7079
+play_tournament 3282 7678
+num_wins_for_team 22
+num_wins_for_team 7
+play_tournament 3144 6452
+get_highest_ranked_team 
+remove_newest_player 11
+unite_teams 4 15
+num_wins_for_team 5
+num_wins_for_team 8
+remove_newest_player 13
+num_wins_for_team 26
+play_match 23 10
+play_tournament 3193 6779
+unite_teams 14 19
+num_wins_for_team 24
+num_wins_for_team 17
+play_tournament 969 6064
+get_highest_ranked_team 
+num_wins_for_team 8
+play_tournament 2628 7831
+play_match 24 21
+num_wins_for_team 17
+num_wins_for_team 9
+play_tournament 884 5628
+unite_teams 7 18
+play_tournament 1279 6356
+num_wins_for_team 15
+remove_newest_player 26
+remove_newest_player 9
+play_match 2 12
+play_tournament 2655 5831
+play_tournament 2414 6609
+play_tournament 2221 6809
+play_tournament 839 6815
+unite_teams 7 5
+unite_teams 8 28
+play_match 17 20
+play_tournament 2729 5368
+play_tournament 1004 6446
+num_wins_for_team 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 14
+play_match 12 3
+get_highest_ranked_team 
+num_wins_for_team 0
+remove_newest_player 3
+unite_teams 15 12
+play_tournament 1877 5799
+get_highest_ranked_team 
+num_wins_for_team 13
+num_wins_for_team 15
+remove_newest_player 26
+play_match 3 11
+play_match 8 1
+num_wins_for_team 23
+num_wins_for_team 26
+play_tournament 3380 7424
+num_wins_for_team 17
+play_match -2 27
+play_match 27 20
+remove_newest_player 21
+num_wins_for_team 29
+play_tournament 2258 6014
+remove_newest_player 12
+get_highest_ranked_team 
+remove_newest_player 20
+play_match -2 26
+num_wins_for_team 27
+num_wins_for_team -1
+unite_teams 10 15
+play_tournament 2655 6834
+play_match 5 5
+play_tournament 2323 7930
+num_wins_for_team 15
+get_highest_ranked_team 
+play_match 4 2
+remove_newest_player 23
+play_match 22 27
+unite_teams 12 17
+play_tournament 3145 7170
+play_match 18 14
+play_tournament 1783 6187
+unite_teams 7 25
+unite_teams 9 0
+unite_teams 11 4
+play_tournament 2421 5062
+play_tournament 3328 5446
+num_wins_for_team 20
+get_highest_ranked_team 
+num_wins_for_team 24
+play_match 18 0
+play_match 3 8
+num_wins_for_team 18
+play_tournament 1004 5321
+num_wins_for_team 3
+play_tournament 2044 5874
+play_tournament 1946 6529
+get_highest_ranked_team 
+unite_teams 1 -1
+play_match 29 18
+play_tournament 939 6546
+play_tournament 1353 7853
+num_wins_for_team 29
+get_highest_ranked_team 
+play_tournament 2636 6470
+play_tournament 1877 6936
+play_tournament 3412 6160
+num_wins_for_team -2
+num_wins_for_team 19
+num_wins_for_team 27
+unite_teams 2 -1
+play_tournament 1610 5216
+play_tournament 1332 6552
+get_highest_ranked_team 
+unite_teams 28 15
+play_tournament 1515 6216
+play_match -1 29
+play_tournament 1244 6015
+play_tournament 1994 6035
+num_wins_for_team 10
+num_wins_for_team 11
+num_wins_for_team 7
+unite_teams -1 6
+num_wins_for_team 24
+num_wins_for_team 24
+num_wins_for_team 15
+play_tournament 2008 6436
+num_wins_for_team 21
+play_tournament 2261 7987
+play_match 20 21
+play_tournament 2536 6269
+remove_newest_player -2
+get_highest_ranked_team 
+unite_teams 6 23
+unite_teams 26 6
+play_match 0 28
+play_match 19 24
+unite_teams 19 19
+unite_teams 2 23
+get_highest_ranked_team 
+num_wins_for_team 6
+play_tournament 1102 6739
+num_wins_for_team 7
+play_tournament 3049 7827
+play_tournament 2834 5409
+remove_newest_player 16
+play_tournament 3168 6987
+play_match 22 29
+play_match 17 22
+play_tournament 1084 6025
+play_match 8 19
+play_tournament 1243 7807
+unite_teams -2 29
+num_wins_for_team 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 12
+play_tournament 2979 5093
+num_wins_for_team 26
+num_wins_for_team 26
+remove_newest_player 19
+get_highest_ranked_team 
+num_wins_for_team 28
+num_wins_for_team 17
+num_wins_for_team 29
+play_match 28 12
+play_tournament 1180 5108
+num_wins_for_team 23
+play_tournament 1586 6514
+remove_newest_player 12
+unite_teams 6 21
+get_highest_ranked_team 
+unite_teams 19 15
+remove_newest_player 17
+play_tournament 3114 5058
+num_wins_for_team 13
+play_tournament 1614 6486
+play_match 6 3
+remove_newest_player 21
+num_wins_for_team 19
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 1
+play_tournament 1237 6596
+num_wins_for_team 2
+num_wins_for_team 16
+play_match 9 22
+num_wins_for_team 24
+get_highest_ranked_team 
+num_wins_for_team 20
+remove_newest_player 1
+num_wins_for_team 21
+remove_newest_player -1
+play_match 14 19
+remove_newest_player 21
+num_wins_for_team 0
+num_wins_for_team -1
+get_highest_ranked_team 
+num_wins_for_team 1
+get_highest_ranked_team 
+play_tournament 1134 6049
+remove_newest_player 28
+num_wins_for_team 5
+play_tournament 2403 6100
+get_highest_ranked_team 
+play_tournament 2789 7702
+play_tournament 2849 6113
+play_match 8 0
+num_wins_for_team 4
+unite_teams 14 7
+num_wins_for_team 21
+num_wins_for_team 6
+play_tournament 844 7618
+play_tournament 3352 7302
+play_tournament 2079 5318
+num_wins_for_team 25
+num_wins_for_team 17
+get_highest_ranked_team 
+play_match 2 28
+unite_teams 22 13
+remove_newest_player 22
+play_tournament 1361 7253
+unite_teams 19 -1
+unite_teams 21 8
+num_wins_for_team 17
+remove_newest_player 5
+remove_newest_player 24
+get_highest_ranked_team 
+remove_newest_player 27
+num_wins_for_team 9
+play_tournament 3242 6727
+remove_newest_player 28
+unite_teams 24 15
+play_tournament 2997 5425
+unite_teams 25 1
+play_tournament 2471 6030
+num_wins_for_team 16
+play_tournament 1877 6032
+num_wins_for_team 4
+num_wins_for_team 5
+num_wins_for_team 22
+play_tournament 2955 5845
+play_match 2 7
+get_highest_ranked_team 
+unite_teams 13 6
+num_wins_for_team 20
+num_wins_for_team -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 19
+play_tournament 2263 6676
+remove_newest_player 12
+play_tournament 2431 7587
+num_wins_for_team 10
+play_tournament 1410 7000
+play_match 21 27
+get_highest_ranked_team 
+play_tournament 1401 6435
+num_wins_for_team 14
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 15
+get_highest_ranked_team 
+play_tournament 955 6539
+play_tournament 2507 5537
+get_highest_ranked_team 
+unite_teams 28 25
+num_wins_for_team 18
+play_tournament 1216 5820
+play_tournament 2221 6642
+get_highest_ranked_team 
+num_wins_for_team -1
+get_highest_ranked_team 
+num_wins_for_team 9
+play_match 7 0
+play_match 21 1
+num_wins_for_team 16
+remove_newest_player 16
+get_highest_ranked_team 
+num_wins_for_team 29
+get_highest_ranked_team 
+play_match 1 24
+play_match 4 27
+remove_newest_player 11
+play_tournament 3259 5242
+unite_teams 0 18
+remove_newest_player 26
+unite_teams -2 16
+play_tournament 2787 7651
+play_match 24 4
+play_match 2 23
+play_tournament 2776 7568
+get_highest_ranked_team 
+unite_teams 6 22
+unite_teams 22 6
+play_tournament 1397 6874
+play_tournament 3022 7427
+play_tournament 1149 5108
+get_highest_ranked_team 
+play_tournament 2390 5962
+get_highest_ranked_team 
+num_wins_for_team 7
+play_tournament 1374 5415
+play_tournament 2168 7121
+remove_newest_player 17
+unite_teams -2 4
+get_highest_ranked_team 
+remove_newest_player 15
+play_match 12 23
+play_tournament 1218 6271
+remove_newest_player 13
+remove_newest_player 5
+play_tournament 1389 6941
+play_match 17 -1
+num_wins_for_team 9
+play_tournament 1426 6516
+play_match 1 19
+num_wins_for_team 15
+num_wins_for_team 16
+remove_newest_player 27
+num_wins_for_team 25
+remove_newest_player 8
+play_tournament 1275 6300
+num_wins_for_team 10
+play_tournament 2478 7998
+play_tournament 1683 7000
+play_match 29 29
+get_highest_ranked_team 
+remove_newest_player 9
+get_highest_ranked_team 
+play_tournament 2041 6226
+play_match 15 22
+unite_teams 11 7
+num_wins_for_team 26
+num_wins_for_team 3
+remove_newest_player 20
+num_wins_for_team 3
+play_match 7 22
+unite_teams 18 15
+num_wins_for_team 21
+remove_newest_player 20
+unite_teams 22 14
+unite_teams 6 12
+play_tournament 3382 7077
+num_wins_for_team 17
+remove_newest_player 17
+play_tournament 1492 5212
+play_match 2 5
+remove_newest_player 14
+remove_newest_player 5
+num_wins_for_team 15
+unite_teams 19 23
+play_tournament 1016 7977
+play_tournament 3153 7343
+num_wins_for_team 13
+remove_newest_player 5
+play_match 19 10
+num_wins_for_team 18
+num_wins_for_team 25
+remove_newest_player -1
+remove_newest_player 26
+num_wins_for_team 29
+unite_teams 3 3
+remove_newest_player 8
+play_tournament 1915 6097
+play_tournament 2155 5091
+unite_teams 10 21
+remove_newest_player 14
+num_wins_for_team 9
+num_wins_for_team 22
+play_tournament 3145 7045
+play_match 0 16
+get_highest_ranked_team 
+play_tournament 2306 7108
+num_wins_for_team 21
+unite_teams 25 17
+play_tournament 3275 5448
+unite_teams 28 12
+unite_teams 24 28
+play_tournament 3128 5352
+play_tournament 1816 7981
+play_tournament 2129 6808
+get_highest_ranked_team 
+remove_newest_player 2
+num_wins_for_team 13
+play_match 25 18
+play_tournament 1770 5314
+num_wins_for_team 1
+play_tournament 3158 6533
+play_match 19 19
+get_highest_ranked_team 
+play_tournament 2338 7800
+remove_newest_player 24
+play_tournament 2153 6726
+play_tournament 1368 6910
+play_tournament 2506 7399
+num_wins_for_team 9
+get_highest_ranked_team 
+num_wins_for_team 13
+unite_teams 11 25
+play_tournament 1770 6782
+get_highest_ranked_team 
+unite_teams 2 29
+play_tournament 1792 5238
+play_tournament 1364 7402
+play_match 6 26
+play_tournament 931 5195
+play_tournament 2153 5133
+unite_teams 24 23
+num_wins_for_team 19
+num_wins_for_team 28
+play_match 5 5
+num_wins_for_team 20
+unite_teams 23 4
+unite_teams 11 9
+play_tournament 1378 7483
+num_wins_for_team 0
+play_tournament 3038 5944
+unite_teams 13 17
+play_tournament 1721 6106
+get_highest_ranked_team 
+num_wins_for_team 21
+play_tournament 1041 5307
+num_wins_for_team 2
+play_tournament 2073 6181
+play_tournament 2935 5027
+play_tournament 3186 7305
+play_match 2 5
+play_tournament 1228 5090
+play_tournament 1595 5040
+play_tournament 1296 5646
+play_match 14 28
+num_wins_for_team 12
+num_wins_for_team 18
+play_tournament 2200 6054
+remove_newest_player 13
+play_tournament 1875 5813
+unite_teams 25 21
+remove_newest_player 5
+play_match 26 0
+play_tournament 1193 7518
+play_tournament 811 7518
+play_tournament 2428 6255
+num_wins_for_team 10
+play_tournament 2131 7919
+remove_newest_player 16
+num_wins_for_team 9
+play_tournament 2848 5526
+play_tournament 1680 7702
+play_tournament 2332 6075
+num_wins_for_team 9
+play_tournament 3460 6199
+unite_teams 13 4
+num_wins_for_team 4
+play_match 15 13
+get_highest_ranked_team 
+play_tournament 945 7701
+get_highest_ranked_team 
+num_wins_for_team 13
+num_wins_for_team 13
+num_wins_for_team -2
+remove_newest_player 9
+get_highest_ranked_team 
+remove_newest_player 1
+get_highest_ranked_team 
+remove_newest_player 27
+remove_newest_player 5
+num_wins_for_team 2
+play_match 27 12
+unite_teams 16 3
+num_wins_for_team 20
+play_tournament 2966 7883
+num_wins_for_team 25
+play_match 13 2
+unite_teams 16 13
+num_wins_for_team 26
+num_wins_for_team 16
+play_match 5 17
+play_tournament 840 7515
+num_wins_for_team 22
+remove_newest_player 2
+play_tournament 1737 7723
+remove_newest_player 5
+unite_teams 29 16
+play_tournament 1648 7019
+play_tournament 1281 6949
+play_tournament 2235 5844
+num_wins_for_team 20
+num_wins_for_team 26
+play_tournament 2227 7766
+unite_teams 4 11
+play_tournament 3305 6934
+remove_newest_player 8
+unite_teams 14 3
+get_highest_ranked_team 
+num_wins_for_team 17
+num_wins_for_team 25
+unite_teams 10 2
+play_tournament 2148 7886
+play_match 21 23
+num_wins_for_team 13
+play_match 1 21
+play_match 0 16
+num_wins_for_team 18
+remove_newest_player 1
+play_match 8 3
+play_tournament 3402 6219
+unite_teams 4 12
+num_wins_for_team 27
+num_wins_for_team 0
+get_highest_ranked_team 
+num_wins_for_team 27
+play_tournament 3235 6100
+get_highest_ranked_team 
+num_wins_for_team 28
+remove_newest_player 4
+num_wins_for_team 27
+get_highest_ranked_team 
+play_match 15 18
+num_wins_for_team 11
+play_match 5 21
+num_wins_for_team 19
+play_match 13 22
+num_wins_for_team 26
+unite_teams 8 29
+play_match 18 15
+num_wins_for_team 7
+play_match 24 29
+play_match 12 1
+num_wins_for_team 27
+play_tournament 2592 6761
+play_tournament 3253 6455
+unite_teams 15 9
+unite_teams 21 0
+get_highest_ranked_team 
+play_tournament 3418 7117
+play_match 18 4
+get_highest_ranked_team 
+play_tournament 3177 6620
+play_tournament 1817 5743
+play_match 21 28
+play_tournament 2802 7602
+remove_newest_player 25
+num_wins_for_team 24
+remove_newest_player 7
+play_tournament 1681 5039
+play_tournament 1242 6021
+play_tournament 2199 7993
+remove_newest_player 0
+play_match 23 11
+play_tournament 1279 6161
+play_tournament 1472 6095
+play_tournament 876 6939
+num_wins_for_team -2
+num_wins_for_team 26
+num_wins_for_team 17
+play_tournament 2729 6263
+num_wins_for_team 7
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 2
+num_wins_for_team 21
+unite_teams 3 29
+unite_teams -1 25
+num_wins_for_team 29
+play_match 17 9
+play_tournament 2948 6508
+get_highest_ranked_team 
+unite_teams 1 11
+num_wins_for_team 20
+unite_teams 18 16
+play_tournament 2467 6434
+play_tournament 2129 5234
+unite_teams 6 -2
+num_wins_for_team 10
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player 6
+num_wins_for_team -1
+unite_teams 17 5
+remove_newest_player 7
+num_wins_for_team 6
+play_tournament 1387 6979
+remove_newest_player 11
+get_highest_ranked_team 
+get_highest_ranked_team 
+remove_newest_player -2
+play_tournament 2997 5686
+unite_teams 5 8
+unite_teams 18 0
+num_wins_for_team 20
+play_match 12 16
+play_tournament 2140 5296
+num_wins_for_team 24
+num_wins_for_team 25
+num_wins_for_team 17
+num_wins_for_team 25
+play_tournament 1366 5325
+play_tournament 1354 5154
+unite_teams 21 21
+unite_teams 7 2
+play_tournament 3291 5200
+unite_teams 21 28
+get_highest_ranked_team 
+num_wins_for_team 23
+play_match 17 6
+unite_teams 14 1
+num_wins_for_team -2
+num_wins_for_team 22
+play_tournament 2284 7277
+play_match 8 22
+play_tournament 1188 5625
+unite_teams 1 24
+play_tournament 2507 7941
+play_tournament 1985 6817
+num_wins_for_team 14
+num_wins_for_team 13
+play_match 24 22
+unite_teams 20 12
+num_wins_for_team 15
+unite_teams 17 3
+num_wins_for_team 18
+get_highest_ranked_team 
+remove_newest_player 6
+play_match 17 2
+play_tournament 1599 5522
+num_wins_for_team 14
+play_match 26 9
+play_tournament 2011 6516
+play_match 5 26
+num_wins_for_team 4
+num_wins_for_team 3
+unite_teams 22 6
+play_tournament 2966 7455
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 11
+num_wins_for_team 22
+remove_newest_player 7
+play_tournament 1460 6552
+play_match 27 26
+remove_newest_player 14
+play_tournament 2861 7986
+get_highest_ranked_team 
+play_tournament 2524 7210
+num_wins_for_team 25
+play_tournament 2890 7567
+get_highest_ranked_team 
+num_wins_for_team 27
+remove_newest_player 13
+get_highest_ranked_team 
+play_tournament 2545 7515
+play_tournament 3499 7836
+get_highest_ranked_team 
+num_wins_for_team 21
+get_highest_ranked_team 
+num_wins_for_team 13
+play_tournament 2599 5990
+num_wins_for_team 24
+num_wins_for_team 8
+remove_newest_player -2
+unite_teams 6 25
+play_tournament 3313 5530
+num_wins_for_team 29
+play_tournament 3466 7101
+play_tournament 2285 6679
+play_tournament 2948 6022
+num_wins_for_team 2
+play_tournament 3314 7083
+num_wins_for_team 20
+unite_teams 5 5
+play_tournament 1748 6256
+remove_newest_player 20
+num_wins_for_team 1
+remove_newest_player 19
+get_highest_ranked_team 
+play_tournament 2366 6193
+unite_teams 14 -1
+remove_newest_player 16
+num_wins_for_team 15
+play_tournament 854 6869
+play_tournament 1329 6802
+remove_newest_player 10
+unite_teams 0 18
+remove_newest_player 9
+num_wins_for_team 28
+unite_teams 12 21
+play_tournament 1617 5146
+remove_newest_player 29
+play_tournament 3046 7548
+play_tournament 2091 6293
+num_wins_for_team 4
+get_highest_ranked_team 
+remove_newest_player -2
+play_tournament 840 7377
+unite_teams 13 1
+play_match 26 9
+get_highest_ranked_team 
+play_match 5 -2
+remove_newest_player 26
+play_tournament 1598 7713
+play_match 15 9
+play_match 29 15
+num_wins_for_team 27
+play_tournament 2666 5948
+remove_newest_player 16
+num_wins_for_team 15
+num_wins_for_team 12
+remove_newest_player 10
+play_tournament 2637 5650
+get_highest_ranked_team 
+play_tournament 866 5964
+num_wins_for_team 18
+get_highest_ranked_team 
+unite_teams 1 24
+num_wins_for_team 1
+get_highest_ranked_team 
+remove_newest_player 10
+num_wins_for_team 23
+play_tournament 1219 7772
+unite_teams 10 14
+get_highest_ranked_team 
+num_wins_for_team 21
+remove_newest_player 17
+play_tournament 3194 7924
+get_highest_ranked_team 
+play_match 16 26
+get_highest_ranked_team 
+play_tournament 2840 6482
+get_highest_ranked_team 
+play_match 29 20
+num_wins_for_team 13
+remove_newest_player 6
+remove_newest_player 16
+get_highest_ranked_team 
+unite_teams 8 21
+num_wins_for_team 1
+num_wins_for_team 13
+play_match 27 8
+unite_teams 25 19
+num_wins_for_team 11
+num_wins_for_team 18
+remove_newest_player 17
+play_match 29 2
+play_tournament 3275 6117
+unite_teams 8 3
+get_highest_ranked_team 
+unite_teams 18 21
+play_tournament 1435 6809
+num_wins_for_team 16
+num_wins_for_team 1
+play_tournament 1120 6281
+get_highest_ranked_team 
+play_tournament 2462 5065
+play_tournament 984 7287
+play_tournament 2582 7202
+num_wins_for_team 11
+remove_newest_player 1
+unite_teams 13 7
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 2693 5730
+num_wins_for_team 1
+num_wins_for_team 10
+unite_teams 25 11
+remove_newest_player 28
+remove_newest_player 22
+play_tournament 2166 5482
+play_tournament 1723 6507
+unite_teams -2 17
+remove_newest_player 24
+play_tournament 2118 6118
+num_wins_for_team 3
+num_wins_for_team 18
+unite_teams 15 0
+num_wins_for_team 19
+play_tournament 2164 5450
+play_match 28 26
+unite_teams 15 27
+remove_newest_player 21
+num_wins_for_team 21
+num_wins_for_team 18
+num_wins_for_team 7
+get_highest_ranked_team 
+remove_newest_player 1
+num_wins_for_team 25
+num_wins_for_team 2
+unite_teams 11 0
+play_tournament 1783 5703
+play_tournament 3037 5400
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_tournament 3435 6768
+unite_teams 4 29
+play_tournament 2069 5254
+unite_teams 11 22
+get_highest_ranked_team 
+num_wins_for_team 28
+num_wins_for_team 28
+num_wins_for_team 1
+get_highest_ranked_team 
+play_tournament 1737 5443
+play_tournament 2515 6136
+play_tournament 1256 6917
+num_wins_for_team 26

@@ -1,0 +1,5000 @@
+play_match 10 7
+play_match 10 26
+num_wins_for_team 25
+num_wins_for_team 13
+num_wins_for_team 14
+num_wins_for_team 2
+play_match 1 -1
+num_wins_for_team -2
+play_match 16 13
+play_match 4 17
+play_match 10 23
+num_wins_for_team 11
+play_match 8 6
+play_match 1 22
+play_match 16 7
+play_match -1 15
+num_wins_for_team 0
+num_wins_for_team 18
+play_match 25 12
+num_wins_for_team 22
+play_match -2 13
+num_wins_for_team 5
+play_match 23 -1
+num_wins_for_team 14
+num_wins_for_team 6
+play_match 14 16
+play_match 3 26
+num_wins_for_team -1
+num_wins_for_team 16
+num_wins_for_team 18
+num_wins_for_team 11
+play_match 25 26
+num_wins_for_team 18
+play_match -1 -1
+num_wins_for_team 28
+num_wins_for_team 4
+num_wins_for_team 21
+play_match 18 14
+num_wins_for_team 4
+play_match 11 8
+play_match 20 5
+play_match 21 20
+play_match -1 0
+play_match 18 -2
+num_wins_for_team 1
+play_match 23 27
+play_match 23 29
+num_wins_for_team 11
+play_match 29 17
+play_match 9 21
+play_match 18 10
+play_match 1 29
+num_wins_for_team 12
+play_match 18 13
+play_match 28 9
+num_wins_for_team 9
+play_match 14 27
+num_wins_for_team 1
+play_match 5 15
+play_match 14 0
+num_wins_for_team 29
+num_wins_for_team 10
+play_match 23 14
+play_match 2 -2
+num_wins_for_team 27
+num_wins_for_team 4
+num_wins_for_team 10
+play_match 14 12
+num_wins_for_team 23
+play_match 9 8
+play_match 17 29
+play_match 0 6
+num_wins_for_team 18
+num_wins_for_team 21
+play_match 17 29
+play_match 4 1
+play_match 19 23
+play_match 26 29
+play_match -2 15
+num_wins_for_team 5
+play_match 9 28
+num_wins_for_team 29
+num_wins_for_team 12
+play_match 14 19
+num_wins_for_team 0
+num_wins_for_team -1
+num_wins_for_team 25
+play_match 10 23
+play_match 24 27
+play_match 11 19
+num_wins_for_team 2
+play_match 20 0
+num_wins_for_team 22
+num_wins_for_team 29
+play_match 21 0
+play_match 16 4
+play_match 26 14
+play_match -1 13
+play_match 15 26
+play_match 8 24
+play_match 28 27
+play_match 25 -2
+play_match 18 20
+num_wins_for_team 28
+play_match 26 27
+num_wins_for_team 1
+play_match 23 14
+play_match 9 15
+play_match 0 18
+play_match 3 14
+num_wins_for_team -1
+num_wins_for_team 15
+play_match 2 18
+play_match 8 14
+num_wins_for_team 27
+play_match 12 7
+play_match 12 23
+num_wins_for_team 17
+play_match 7 21
+num_wins_for_team 3
+play_match 10 13
+num_wins_for_team 4
+play_match 22 1
+num_wins_for_team 25
+num_wins_for_team 23
+num_wins_for_team 26
+num_wins_for_team 3
+num_wins_for_team 0
+num_wins_for_team 27
+num_wins_for_team 4
+play_match 4 16
+play_match 0 27
+play_match -2 3
+num_wins_for_team -2
+num_wins_for_team 0
+play_match -1 21
+num_wins_for_team 29
+play_match 7 4
+play_match 0 4
+num_wins_for_team 1
+num_wins_for_team 6
+num_wins_for_team 29
+num_wins_for_team 16
+num_wins_for_team 21
+play_match 5 7
+play_match 1 20
+num_wins_for_team 21
+play_match 5 17
+play_match 19 8
+play_match 25 9
+num_wins_for_team 14
+num_wins_for_team 2
+num_wins_for_team 15
+play_match 5 17
+play_match 9 0
+play_match 12 22
+num_wins_for_team 22
+play_match 9 25
+play_match 13 29
+num_wins_for_team -2
+play_match 17 15
+play_match 10 16
+num_wins_for_team 7
+num_wins_for_team 8
+num_wins_for_team 1
+num_wins_for_team 15
+play_match 5 28
+num_wins_for_team 28
+play_match 11 11
+play_match 1 0
+num_wins_for_team 18
+num_wins_for_team 18
+play_match 3 0
+num_wins_for_team 5
+num_wins_for_team 19
+play_match 24 9
+play_match -1 1
+num_wins_for_team 12
+play_match 25 8
+play_match 5 11
+play_match 6 19
+num_wins_for_team 2
+num_wins_for_team 16
+num_wins_for_team 28
+num_wins_for_team 7
+play_match -2 21
+play_match 8 10
+play_match 24 23
+play_match 11 7
+num_wins_for_team 8
+num_wins_for_team 17
+num_wins_for_team 15
+num_wins_for_team 23
+play_match 12 -2
+num_wins_for_team 4
+num_wins_for_team 23
+play_match 28 22
+num_wins_for_team 26
+play_match 14 25
+play_match 6 1
+play_match 8 27
+play_match 12 6
+num_wins_for_team 12
+num_wins_for_team 12
+play_match 12 12
+play_match 6 0
+play_match 15 9
+play_match 1 0
+play_match 5 21
+num_wins_for_team 3
+play_match 2 25
+num_wins_for_team 13
+num_wins_for_team 20
+play_match 14 20
+play_match 18 8
+play_match 12 13
+play_match 14 18
+play_match 11 7
+num_wins_for_team 7
+play_match 28 22
+num_wins_for_team 22
+play_match 17 2
+num_wins_for_team 15
+play_match 26 23
+num_wins_for_team 4
+num_wins_for_team -2
+num_wins_for_team 6
+num_wins_for_team 21
+play_match 8 29
+play_match 27 12
+num_wins_for_team 24
+num_wins_for_team 26
+num_wins_for_team 20
+num_wins_for_team -1
+play_match 18 -1
+play_match 0 13
+num_wins_for_team 5
+num_wins_for_team 11
+num_wins_for_team 20
+play_match 13 21
+num_wins_for_team 6
+num_wins_for_team 5
+play_match 0 18
+num_wins_for_team 0
+num_wins_for_team 24
+play_match 7 25
+play_match 3 9
+play_match 6 20
+play_match 22 17
+num_wins_for_team 16
+play_match 19 16
+play_match 19 17
+num_wins_for_team -2
+num_wins_for_team 1
+play_match 1 23
+play_match 21 -1
+num_wins_for_team -1
+num_wins_for_team 25
+num_wins_for_team 15
+num_wins_for_team 27
+num_wins_for_team 23
+play_match 2 1
+play_match 5 27
+num_wins_for_team 19
+play_match 18 22
+play_match 8 9
+play_match 0 -1
+play_match 2 20
+play_match 26 28
+num_wins_for_team 17
+num_wins_for_team 25
+num_wins_for_team 17
+play_match 29 -1
+num_wins_for_team 10
+num_wins_for_team 2
+num_wins_for_team 9
+num_wins_for_team 21
+num_wins_for_team 23
+num_wins_for_team 7
+play_match 19 21
+play_match 12 0
+play_match 23 6
+play_match 6 10
+play_match 26 19
+play_match 13 20
+play_match 24 -2
+play_match 9 23
+play_match 9 21
+play_match 0 8
+play_match 7 24
+num_wins_for_team 5
+num_wins_for_team -1
+play_match 29 22
+play_match 21 22
+num_wins_for_team 2
+play_match 20 14
+play_match 25 -2
+num_wins_for_team 18
+play_match 23 22
+play_match 1 16
+num_wins_for_team 17
+play_match 19 13
+num_wins_for_team 27
+play_match 12 5
+play_match 21 9
+num_wins_for_team 19
+num_wins_for_team 28
+play_match 5 4
+num_wins_for_team 1
+play_match 24 2
+play_match 26 8
+num_wins_for_team 22
+num_wins_for_team 7
+num_wins_for_team 23
+play_match -2 8
+num_wins_for_team 12
+num_wins_for_team 19
+num_wins_for_team 23
+play_match 6 6
+play_match 13 8
+play_match -2 -2
+play_match 5 29
+num_wins_for_team 7
+play_match 27 12
+play_match 20 23
+num_wins_for_team 6
+play_match 21 11
+play_match 27 6
+num_wins_for_team 0
+play_match 9 28
+num_wins_for_team -2
+num_wins_for_team -2
+num_wins_for_team 5
+play_match 13 19
+num_wins_for_team -1
+num_wins_for_team 15
+play_match 23 6
+num_wins_for_team 3
+play_match 8 13
+num_wins_for_team 20
+play_match 12 8
+num_wins_for_team 5
+num_wins_for_team 7
+num_wins_for_team 1
+num_wins_for_team 25
+num_wins_for_team 1
+num_wins_for_team 23
+num_wins_for_team 28
+play_match 8 1
+play_match 3 3
+num_wins_for_team 14
+num_wins_for_team 16
+num_wins_for_team 19
+num_wins_for_team 12
+play_match 7 8
+num_wins_for_team 19
+play_match 16 29
+num_wins_for_team 24
+num_wins_for_team 7
+num_wins_for_team 7
+play_match 22 13
+play_match 20 9
+num_wins_for_team 14
+play_match 20 3
+num_wins_for_team 11
+num_wins_for_team -2
+play_match 7 20
+num_wins_for_team 21
+num_wins_for_team 26
+play_match 4 29
+play_match 29 23
+play_match 1 2
+play_match 24 12
+play_match 5 9
+num_wins_for_team 23
+play_match 24 19
+num_wins_for_team 9
+num_wins_for_team 12
+num_wins_for_team 0
+play_match 25 1
+num_wins_for_team 11
+play_match 6 28
+play_match 18 24
+play_match 25 21
+play_match 4 17
+num_wins_for_team 29
+num_wins_for_team 1
+play_match 2 21
+num_wins_for_team 4
+num_wins_for_team 12
+play_match 18 -2
+play_match 6 5
+play_match 10 -1
+play_match 16 20
+play_match 13 -2
+num_wins_for_team 29
+play_match 26 5
+play_match 1 20
+num_wins_for_team 17
+num_wins_for_team 5
+play_match 26 23
+num_wins_for_team 5
+play_match 8 28
+num_wins_for_team 12
+num_wins_for_team 16
+num_wins_for_team 16
+play_match -1 13
+num_wins_for_team 22
+play_match 23 18
+num_wins_for_team 3
+play_match 17 29
+num_wins_for_team 19
+play_match 21 27
+num_wins_for_team 1
+play_match 22 24
+num_wins_for_team 2
+play_match 14 -2
+num_wins_for_team 26
+num_wins_for_team 9
+play_match 23 24
+num_wins_for_team 7
+num_wins_for_team 28
+play_match 28 1
+num_wins_for_team 5
+num_wins_for_team 14
+play_match 8 8
+num_wins_for_team 8
+num_wins_for_team 5
+num_wins_for_team 23
+num_wins_for_team 4
+num_wins_for_team 7
+num_wins_for_team 20
+play_match 3 5
+play_match 16 26
+play_match 28 15
+play_match 25 4
+num_wins_for_team 14
+num_wins_for_team 0
+num_wins_for_team 26
+play_match 8 -2
+num_wins_for_team 7
+num_wins_for_team 10
+num_wins_for_team -2
+num_wins_for_team 2
+num_wins_for_team 7
+play_match 10 26
+play_match 23 27
+num_wins_for_team -1
+num_wins_for_team 7
+play_match 2 23
+play_match 29 23
+play_match 11 1
+num_wins_for_team 15
+num_wins_for_team 20
+play_match 4 29
+play_match 3 0
+play_match -1 13
+play_match 7 6
+play_match 11 9
+num_wins_for_team 13
+play_match 29 19
+play_match 14 11
+num_wins_for_team 2
+num_wins_for_team 17
+play_match 27 8
+play_match 1 -2
+play_match 2 5
+play_match 22 13
+play_match 5 -1
+num_wins_for_team -1
+play_match 9 11
+num_wins_for_team 27
+num_wins_for_team 11
+num_wins_for_team 21
+num_wins_for_team 20
+num_wins_for_team 9
+num_wins_for_team -2
+play_match -1 5
+play_match 28 9
+num_wins_for_team 5
+num_wins_for_team 29
+play_match 3 26
+num_wins_for_team 10
+play_match 13 6
+play_match 29 28
+play_match 26 25
+play_match 29 0
+play_match 5 23
+num_wins_for_team 5
+play_match 3 2
+play_match 28 11
+num_wins_for_team 18
+play_match 23 27
+play_match 13 28
+num_wins_for_team 25
+num_wins_for_team 13
+num_wins_for_team 10
+num_wins_for_team 20
+num_wins_for_team 16
+play_match 9 6
+play_match 29 -1
+play_match 10 14
+num_wins_for_team 1
+num_wins_for_team 18
+play_match 5 10
+play_match 21 0
+play_match 6 4
+num_wins_for_team 15
+num_wins_for_team 3
+num_wins_for_team 3
+num_wins_for_team 2
+play_match 10 19
+num_wins_for_team 19
+play_match 2 6
+num_wins_for_team 6
+num_wins_for_team -2
+play_match 10 23
+num_wins_for_team 11
+num_wins_for_team 21
+play_match 22 23
+num_wins_for_team 1
+play_match 24 14
+num_wins_for_team 9
+num_wins_for_team 13
+play_match 20 12
+play_match 27 14
+play_match 18 16
+play_match 28 12
+play_match 21 -1
+num_wins_for_team 3
+num_wins_for_team 26
+num_wins_for_team 10
+num_wins_for_team 14
+num_wins_for_team 24
+num_wins_for_team 28
+num_wins_for_team 24
+num_wins_for_team 5
+play_match 13 21
+play_match 15 19
+play_match 15 15
+num_wins_for_team 25
+num_wins_for_team 27
+play_match 21 4
+num_wins_for_team 13
+play_match -2 27
+play_match 23 14
+play_match 2 14
+num_wins_for_team 17
+num_wins_for_team 9
+play_match 18 9
+play_match 24 28
+num_wins_for_team 6
+play_match 18 9
+num_wins_for_team 12
+num_wins_for_team 19
+play_match -2 -1
+num_wins_for_team 12
+num_wins_for_team 3
+play_match 12 25
+play_match 2 24
+num_wins_for_team 25
+play_match 25 4
+play_match 11 25
+play_match 8 7
+play_match 27 18
+play_match 24 26
+num_wins_for_team 22
+num_wins_for_team 21
+num_wins_for_team 5
+play_match 14 2
+play_match 17 20
+num_wins_for_team -2
+num_wins_for_team 28
+num_wins_for_team 11
+play_match 19 13
+num_wins_for_team 12
+play_match 9 18
+play_match 5 25
+num_wins_for_team 8
+num_wins_for_team 1
+num_wins_for_team 21
+play_match 2 22
+play_match 1 6
+num_wins_for_team 9
+num_wins_for_team 28
+num_wins_for_team 5
+num_wins_for_team 4
+play_match 19 -1
+num_wins_for_team 10
+num_wins_for_team 13
+num_wins_for_team 25
+num_wins_for_team 6
+play_match 12 28
+num_wins_for_team 8
+play_match 15 29
+play_match 2 5
+num_wins_for_team 27
+num_wins_for_team 16
+play_match 7 24
+play_match 20 16
+num_wins_for_team 8
+num_wins_for_team 8
+num_wins_for_team 13
+num_wins_for_team 22
+play_match 25 7
+play_match 0 2
+play_match 2 21
+play_match 8 26
+play_match 4 5
+num_wins_for_team 5
+play_match 24 12
+num_wins_for_team 27
+num_wins_for_team 25
+num_wins_for_team 21
+play_match 17 27
+num_wins_for_team 28
+play_match 4 21
+num_wins_for_team 2
+num_wins_for_team 9
+play_match 7 -2
+play_match 26 13
+num_wins_for_team 23
+num_wins_for_team 4
+num_wins_for_team 12
+num_wins_for_team -2
+num_wins_for_team 4
+play_match 11 15
+num_wins_for_team 14
+play_match 7 17
+play_match 10 7
+play_match 24 25
+play_match 22 29
+play_match 20 21
+num_wins_for_team 15
+num_wins_for_team 18
+play_match 18 8
+num_wins_for_team 14
+play_match -2 27
+num_wins_for_team 18
+play_match 24 9
+play_match 23 14
+num_wins_for_team 22
+play_match 26 21
+play_match -1 24
+num_wins_for_team 2
+num_wins_for_team 7
+play_match 16 6
+num_wins_for_team 9
+play_match 4 28
+num_wins_for_team 25
+num_wins_for_team 4
+num_wins_for_team 18
+play_match 14 -2
+num_wins_for_team 2
+num_wins_for_team 11
+num_wins_for_team 4
+play_match 9 16
+play_match -1 15
+num_wins_for_team 18
+num_wins_for_team 19
+num_wins_for_team 23
+play_match 28 26
+num_wins_for_team 26
+play_match 15 19
+play_match 11 28
+num_wins_for_team 1
+play_match 24 26
+play_match 4 18
+num_wins_for_team 26
+play_match 28 2
+num_wins_for_team 22
+play_match 16 7
+num_wins_for_team 7
+num_wins_for_team 25
+play_match 9 6
+num_wins_for_team 14
+play_match 7 13
+play_match 1 11
+num_wins_for_team 28
+num_wins_for_team 6
+play_match 22 15
+play_match 1 13
+play_match 9 7
+play_match 24 17
+play_match 11 24
+num_wins_for_team 8
+num_wins_for_team 13
+play_match 14 13
+play_match 20 4
+num_wins_for_team 8
+play_match 14 19
+play_match 25 5
+play_match 10 18
+num_wins_for_team 23
+play_match 5 25
+play_match 19 13
+num_wins_for_team 16
+play_match 23 15
+play_match 27 11
+num_wins_for_team 11
+num_wins_for_team 3
+play_match 14 -1
+play_match 6 -2
+num_wins_for_team 19
+play_match 16 23
+num_wins_for_team 16
+play_match 2 2
+num_wins_for_team 0
+num_wins_for_team 14
+play_match -2 27
+play_match 22 25
+play_match 26 26
+num_wins_for_team 22
+num_wins_for_team 22
+num_wins_for_team 28
+play_match 10 22
+num_wins_for_team 22
+num_wins_for_team 22
+num_wins_for_team 26
+play_match 10 28
+play_match 21 8
+play_match 15 -2
+num_wins_for_team 0
+num_wins_for_team 0
+play_match 8 19
+num_wins_for_team 11
+num_wins_for_team 18
+num_wins_for_team 26
+num_wins_for_team 17
+play_match 1 0
+play_match 10 6
+play_match 19 19
+play_match 7 19
+num_wins_for_team 6
+play_match 13 6
+play_match 12 14
+play_match 9 19
+play_match 7 13
+num_wins_for_team 5
+num_wins_for_team 21
+num_wins_for_team 8
+play_match -1 14
+play_match 21 2
+play_match 14 25
+num_wins_for_team 3
+num_wins_for_team 4
+play_match 26 17
+play_match 19 29
+num_wins_for_team 13
+play_match 11 22
+num_wins_for_team 8
+play_match 6 15
+play_match 16 11
+play_match 1 -1
+num_wins_for_team 8
+play_match 24 12
+play_match 26 15
+num_wins_for_team -1
+num_wins_for_team 21
+num_wins_for_team 17
+num_wins_for_team 14
+play_match 11 6
+play_match 5 -2
+num_wins_for_team 14
+num_wins_for_team 25
+play_match 15 29
+num_wins_for_team 22
+play_match 20 0
+num_wins_for_team 10
+num_wins_for_team 1
+play_match 11 8
+play_match -1 5
+num_wins_for_team 25
+play_match 6 29
+play_match 25 22
+play_match 4 -2
+play_match 27 -1
+play_match 16 15
+play_match 20 24
+num_wins_for_team 8
+num_wins_for_team 14
+play_match 10 9
+num_wins_for_team -1
+play_match 26 19
+play_match 11 25
+num_wins_for_team 4
+play_match 24 0
+num_wins_for_team 21
+num_wins_for_team 27
+play_match 15 11
+play_match 16 20
+play_match 28 4
+play_match 27 18
+play_match 2 9
+play_match 10 23
+num_wins_for_team 23
+num_wins_for_team 14
+num_wins_for_team 9
+num_wins_for_team 16
+play_match 16 16
+num_wins_for_team 7
+play_match 19 19
+play_match 26 12
+num_wins_for_team 11
+num_wins_for_team 18
+play_match 13 0
+play_match 10 23
+num_wins_for_team -1
+num_wins_for_team 15
+play_match 12 16
+num_wins_for_team 26
+num_wins_for_team 19
+play_match 8 20
+num_wins_for_team 7
+num_wins_for_team 6
+play_match 9 -2
+play_match 10 11
+num_wins_for_team 8
+num_wins_for_team 18
+play_match 19 11
+num_wins_for_team 16
+play_match 18 27
+num_wins_for_team 4
+num_wins_for_team 18
+play_match -2 13
+num_wins_for_team 1
+play_match 17 7
+play_match -1 24
+play_match 15 1
+play_match -2 9
+num_wins_for_team -2
+num_wins_for_team 25
+num_wins_for_team 16
+num_wins_for_team 12
+num_wins_for_team 4
+num_wins_for_team 19
+num_wins_for_team 5
+num_wins_for_team 28
+num_wins_for_team 13
+num_wins_for_team 15
+play_match 10 7
+num_wins_for_team 15
+num_wins_for_team 6
+num_wins_for_team 8
+num_wins_for_team 5
+play_match 19 18
+play_match 21 29
+num_wins_for_team 22
+num_wins_for_team 20
+play_match 1 2
+play_match 8 -2
+play_match 8 19
+play_match 19 25
+num_wins_for_team 2
+play_match 12 28
+num_wins_for_team 14
+num_wins_for_team 14
+num_wins_for_team 16
+play_match 5 17
+play_match 3 19
+play_match 6 14
+play_match 16 13
+play_match 28 28
+num_wins_for_team 22
+play_match 16 3
+play_match 13 2
+num_wins_for_team 24
+num_wins_for_team 15
+num_wins_for_team 5
+play_match 25 6
+play_match 21 14
+num_wins_for_team 15
+num_wins_for_team 18
+num_wins_for_team -2
+num_wins_for_team 10
+num_wins_for_team 15
+play_match 25 6
+num_wins_for_team 29
+num_wins_for_team 23
+num_wins_for_team 15
+play_match 7 21
+num_wins_for_team 29
+play_match 16 20
+play_match 7 16
+play_match 6 6
+play_match 4 22
+num_wins_for_team 21
+play_match 2 25
+play_match 0 7
+num_wins_for_team 18
+play_match 19 15
+num_wins_for_team 8
+play_match 6 11
+play_match 21 4
+play_match 21 2
+num_wins_for_team 17
+play_match 16 8
+num_wins_for_team 29
+num_wins_for_team 19
+play_match 24 -2
+play_match 24 15
+num_wins_for_team 13
+num_wins_for_team 9
+play_match 13 17
+play_match 6 14
+play_match 7 8
+play_match 0 23
+play_match 27 21
+play_match 19 -2
+num_wins_for_team 27
+play_match 7 18
+play_match -1 11
+num_wins_for_team 21
+num_wins_for_team 19
+play_match 1 22
+num_wins_for_team 11
+play_match 1 11
+num_wins_for_team 14
+play_match 29 0
+num_wins_for_team 17
+play_match 8 4
+play_match 0 27
+play_match 16 11
+play_match 26 17
+num_wins_for_team 27
+play_match 24 9
+num_wins_for_team 12
+play_match 26 3
+play_match 24 26
+num_wins_for_team -1
+num_wins_for_team 19
+play_match 10 0
+num_wins_for_team 16
+play_match 3 17
+num_wins_for_team 10
+play_match 1 20
+play_match 11 12
+num_wins_for_team 19
+play_match 0 26
+play_match 0 13
+num_wins_for_team 12
+num_wins_for_team 18
+play_match 23 15
+play_match 19 1
+num_wins_for_team 18
+num_wins_for_team 28
+play_match 4 5
+num_wins_for_team 1
+play_match 16 15
+play_match 24 -1
+num_wins_for_team 17
+play_match 29 3
+play_match 24 27
+play_match 4 24
+play_match 14 7
+play_match -1 8
+play_match 14 0
+num_wins_for_team 23
+num_wins_for_team 11
+num_wins_for_team 5
+num_wins_for_team 29
+play_match 16 7
+play_match 5 1
+play_match 25 0
+num_wins_for_team 8
+num_wins_for_team 2
+play_match 16 26
+play_match 28 3
+play_match 24 18
+play_match 27 3
+num_wins_for_team 14
+play_match 21 24
+num_wins_for_team 12
+num_wins_for_team 3
+play_match 25 9
+play_match 23 15
+play_match 21 27
+num_wins_for_team 22
+play_match 17 6
+num_wins_for_team 2
+num_wins_for_team 29
+play_match 28 7
+num_wins_for_team 19
+play_match 25 9
+play_match 24 -2
+play_match 10 26
+num_wins_for_team -2
+num_wins_for_team 19
+num_wins_for_team 15
+play_match 12 -2
+play_match 19 19
+num_wins_for_team 16
+num_wins_for_team 26
+play_match 19 21
+num_wins_for_team 2
+num_wins_for_team 17
+play_match 6 26
+play_match 2 11
+play_match 18 17
+play_match 28 6
+play_match -1 13
+num_wins_for_team 0
+num_wins_for_team 6
+num_wins_for_team 9
+num_wins_for_team 12
+num_wins_for_team 27
+play_match 8 22
+play_match 3 9
+num_wins_for_team 4
+play_match 10 14
+play_match 28 20
+play_match 26 8
+num_wins_for_team 23
+play_match 19 11
+num_wins_for_team 7
+num_wins_for_team 5
+num_wins_for_team 29
+num_wins_for_team 5
+num_wins_for_team 6
+play_match 16 28
+num_wins_for_team 9
+num_wins_for_team 6
+num_wins_for_team 10
+num_wins_for_team 12
+num_wins_for_team 14
+num_wins_for_team 16
+num_wins_for_team 9
+play_match 4 5
+play_match 16 3
+play_match 13 26
+num_wins_for_team 7
+num_wins_for_team 17
+play_match 14 -2
+num_wins_for_team 9
+num_wins_for_team 26
+play_match 9 16
+num_wins_for_team 24
+play_match 18 15
+play_match -1 16
+play_match 27 25
+play_match 25 4
+play_match 13 28
+play_match 22 28
+play_match 29 0
+num_wins_for_team 7
+num_wins_for_team 13
+num_wins_for_team 26
+play_match 4 0
+play_match 16 0
+play_match 24 -2
+play_match 20 2
+play_match 15 -1
+num_wins_for_team 9
+num_wins_for_team 24
+num_wins_for_team 24
+num_wins_for_team 7
+play_match 19 28
+play_match 18 15
+play_match 1 14
+play_match 19 25
+num_wins_for_team 0
+num_wins_for_team 28
+num_wins_for_team 14
+play_match 16 1
+num_wins_for_team 5
+play_match 3 15
+play_match -2 24
+num_wins_for_team 4
+num_wins_for_team 14
+play_match 29 26
+num_wins_for_team 26
+num_wins_for_team 10
+play_match 3 13
+play_match 25 13
+num_wins_for_team 10
+num_wins_for_team 12
+play_match 18 7
+num_wins_for_team 9
+num_wins_for_team 12
+play_match 28 16
+num_wins_for_team -2
+num_wins_for_team 24
+play_match 13 4
+num_wins_for_team 5
+play_match 1 7
+play_match 24 17
+play_match -1 22
+play_match 5 20
+num_wins_for_team 0
+num_wins_for_team 6
+play_match 6 7
+num_wins_for_team 13
+num_wins_for_team -2
+num_wins_for_team 15
+num_wins_for_team 16
+num_wins_for_team 24
+num_wins_for_team -2
+num_wins_for_team 13
+play_match 7 4
+num_wins_for_team 24
+num_wins_for_team 25
+play_match 1 22
+num_wins_for_team 15
+num_wins_for_team 1
+num_wins_for_team 5
+play_match 3 23
+play_match 22 15
+play_match 25 16
+play_match 18 16
+play_match 2 6
+num_wins_for_team -1
+play_match 23 -1
+play_match 3 14
+play_match 23 10
+num_wins_for_team -2
+play_match 4 -2
+play_match 15 12
+play_match 25 7
+num_wins_for_team 0
+num_wins_for_team 16
+play_match 11 7
+play_match 23 18
+play_match 7 28
+play_match 27 22
+num_wins_for_team 20
+num_wins_for_team 3
+play_match 13 1
+num_wins_for_team 26
+play_match 14 7
+play_match -2 9
+num_wins_for_team 24
+play_match 0 13
+num_wins_for_team 21
+play_match 27 19
+play_match 13 15
+num_wins_for_team 14
+num_wins_for_team 11
+play_match 20 23
+play_match 14 19
+num_wins_for_team 27
+num_wins_for_team 13
+play_match 6 3
+play_match 13 1
+play_match 21 16
+num_wins_for_team 19
+play_match 25 14
+num_wins_for_team 17
+num_wins_for_team 7
+play_match 12 19
+num_wins_for_team 6
+num_wins_for_team 27
+num_wins_for_team 25
+play_match 27 21
+play_match 21 17
+num_wins_for_team 0
+num_wins_for_team 17
+play_match 26 20
+num_wins_for_team 5
+num_wins_for_team 13
+play_match 0 9
+play_match 2 7
+play_match 3 13
+num_wins_for_team 23
+play_match 26 16
+num_wins_for_team 13
+play_match 6 12
+num_wins_for_team 4
+play_match 16 14
+num_wins_for_team 27
+play_match 13 -2
+num_wins_for_team 23
+play_match 22 23
+num_wins_for_team 28
+play_match 10 0
+play_match 2 15
+num_wins_for_team 14
+play_match 20 18
+play_match 15 24
+play_match 27 26
+play_match 0 28
+play_match 18 12
+play_match 8 10
+num_wins_for_team 29
+num_wins_for_team 20
+num_wins_for_team 9
+play_match 9 15
+play_match 19 22
+play_match -1 19
+num_wins_for_team 22
+play_match 17 9
+num_wins_for_team 21
+play_match 26 29
+num_wins_for_team 3
+play_match -2 -1
+play_match 2 -1
+play_match -2 19
+play_match 11 4
+play_match 27 21
+num_wins_for_team 23
+play_match 15 12
+play_match 18 18
+num_wins_for_team 1
+play_match 0 17
+play_match 3 10
+play_match 2 14
+num_wins_for_team 6
+num_wins_for_team 23
+num_wins_for_team 8
+play_match 12 4
+play_match 18 9
+num_wins_for_team 23
+play_match 29 13
+play_match 5 -1
+play_match 24 18
+play_match 26 23
+play_match 27 15
+play_match 0 15
+num_wins_for_team 1
+play_match 29 15
+num_wins_for_team 6
+num_wins_for_team 9
+play_match 16 2
+num_wins_for_team 7
+play_match 14 9
+num_wins_for_team 28
+play_match 11 14
+num_wins_for_team 8
+play_match 19 26
+play_match 15 9
+play_match 15 20
+play_match 18 16
+num_wins_for_team 6
+num_wins_for_team 4
+num_wins_for_team 3
+play_match 22 21
+play_match 28 26
+play_match 2 14
+play_match 10 5
+play_match 6 25
+num_wins_for_team -2
+play_match 14 13
+play_match -1 16
+play_match 1 5
+num_wins_for_team 15
+num_wins_for_team 7
+play_match 8 10
+num_wins_for_team 14
+play_match 4 23
+num_wins_for_team 4
+play_match 19 11
+num_wins_for_team 29
+num_wins_for_team 10
+play_match 8 15
+play_match 17 9
+num_wins_for_team 6
+play_match 4 29
+play_match 6 12
+num_wins_for_team -1
+play_match 28 18
+num_wins_for_team 23
+play_match 0 5
+play_match 26 1
+play_match 18 23
+play_match 26 -2
+num_wins_for_team 19
+num_wins_for_team 12
+play_match 12 19
+num_wins_for_team 24
+play_match 2 27
+num_wins_for_team 5
+play_match 10 12
+play_match 8 0
+num_wins_for_team 12
+play_match 16 25
+play_match 20 8
+play_match 22 18
+num_wins_for_team 22
+num_wins_for_team 3
+num_wins_for_team 20
+play_match 28 13
+play_match 1 22
+play_match -1 3
+play_match 3 -1
+num_wins_for_team 27
+num_wins_for_team 24
+num_wins_for_team 9
+num_wins_for_team 16
+num_wins_for_team 25
+num_wins_for_team 12
+play_match 5 0
+play_match 27 20
+play_match 20 6
+num_wins_for_team 21
+num_wins_for_team 19
+num_wins_for_team 15
+num_wins_for_team 10
+play_match 13 16
+num_wins_for_team 11
+play_match 20 22
+play_match 5 27
+num_wins_for_team 13
+num_wins_for_team 15
+num_wins_for_team 11
+play_match 24 15
+num_wins_for_team 9
+play_match 9 0
+play_match 16 0
+num_wins_for_team 18
+play_match 25 15
+play_match 15 4
+play_match 22 8
+play_match 13 13
+num_wins_for_team 22
+num_wins_for_team 1
+play_match 11 10
+num_wins_for_team -1
+num_wins_for_team 0
+num_wins_for_team -1
+play_match 25 9
+num_wins_for_team 9
+play_match 24 3
+play_match 26 1
+play_match 29 11
+num_wins_for_team 19
+play_match 16 18
+num_wins_for_team 29
+play_match 2 1
+play_match 25 4
+num_wins_for_team 1
+play_match 29 26
+play_match 25 3
+num_wins_for_team 3
+num_wins_for_team 23
+num_wins_for_team -1
+play_match 14 13
+num_wins_for_team 3
+play_match 16 22
+play_match 19 18
+num_wins_for_team 6
+num_wins_for_team -1
+play_match -2 7
+num_wins_for_team 14
+play_match 1 2
+play_match 25 14
+play_match 10 20
+num_wins_for_team -1
+num_wins_for_team 19
+play_match 11 20
+play_match 28 14
+num_wins_for_team 9
+num_wins_for_team 13
+num_wins_for_team 1
+num_wins_for_team 17
+num_wins_for_team 23
+play_match 21 21
+num_wins_for_team 17
+num_wins_for_team 2
+num_wins_for_team 12
+play_match 20 3
+num_wins_for_team -2
+play_match 11 11
+play_match 8 0
+play_match 22 22
+num_wins_for_team 17
+play_match 28 14
+num_wins_for_team 12
+play_match 10 24
+play_match 0 -1
+play_match -2 17
+num_wins_for_team 9
+play_match 25 24
+play_match 23 19
+num_wins_for_team 23
+play_match 13 17
+play_match 8 -2
+play_match 22 29
+play_match -2 24
+play_match 2 22
+num_wins_for_team 1
+num_wins_for_team 10
+num_wins_for_team 29
+num_wins_for_team 9
+num_wins_for_team 22
+num_wins_for_team 4
+play_match 16 26
+play_match 20 4
+num_wins_for_team 13
+play_match 17 21
+num_wins_for_team 2
+play_match 14 27
+play_match 28 2
+num_wins_for_team 0
+num_wins_for_team 9
+num_wins_for_team 13
+num_wins_for_team 4
+num_wins_for_team 3
+num_wins_for_team 23
+play_match 21 27
+play_match -2 3
+play_match 0 15
+num_wins_for_team 27
+play_match 26 28
+play_match 23 12
+num_wins_for_team 4
+num_wins_for_team -2
+play_match 24 23
+num_wins_for_team 17
+play_match 29 7
+play_match 20 -1
+num_wins_for_team 12
+num_wins_for_team 5
+play_match 12 12
+num_wins_for_team 11
+play_match 3 3
+play_match 0 16
+num_wins_for_team 11
+num_wins_for_team 24
+num_wins_for_team 22
+num_wins_for_team 17
+num_wins_for_team 28
+play_match 17 26
+num_wins_for_team 4
+play_match 22 19
+num_wins_for_team 6
+play_match 28 3
+num_wins_for_team 6
+play_match 16 10
+num_wins_for_team 29
+play_match 1 14
+num_wins_for_team 23
+num_wins_for_team 29
+play_match 25 3
+num_wins_for_team 5
+num_wins_for_team 4
+num_wins_for_team 2
+play_match 5 12
+num_wins_for_team 6
+play_match 8 15
+num_wins_for_team 17
+num_wins_for_team 10
+play_match 17 28
+play_match 22 10
+num_wins_for_team 24
+num_wins_for_team 9
+play_match 29 25
+num_wins_for_team 6
+play_match 0 23
+play_match 16 23
+num_wins_for_team 25
+play_match 6 -2
+num_wins_for_team 21
+num_wins_for_team 25
+num_wins_for_team 18
+num_wins_for_team 23
+num_wins_for_team 0
+num_wins_for_team -1
+num_wins_for_team 3
+play_match 5 25
+play_match 16 17
+play_match -2 18
+play_match 10 5
+play_match 7 1
+play_match 15 25
+num_wins_for_team 5
+play_match 13 25
+play_match 29 16
+play_match 15 12
+play_match 7 15
+num_wins_for_team 12
+num_wins_for_team 28
+play_match 24 26
+num_wins_for_team 15
+play_match 1 24
+play_match 1 25
+play_match 19 10
+play_match 19 29
+play_match 4 16
+play_match 17 20
+play_match 28 18
+num_wins_for_team 10
+num_wins_for_team 13
+play_match 23 29
+play_match 17 9
+play_match 9 14
+num_wins_for_team 12
+play_match 12 17
+play_match 6 18
+num_wins_for_team 14
+num_wins_for_team 5
+num_wins_for_team 19
+num_wins_for_team 18
+num_wins_for_team 16
+play_match -1 0
+play_match 1 19
+num_wins_for_team 20
+play_match 25 -1
+num_wins_for_team 25
+play_match 18 4
+play_match 2 14
+num_wins_for_team 16
+num_wins_for_team 7
+num_wins_for_team 11
+play_match 21 29
+play_match 0 23
+num_wins_for_team 5
+num_wins_for_team 16
+play_match 5 1
+play_match -2 17
+play_match 20 29
+play_match 28 6
+num_wins_for_team 13
+play_match 17 29
+num_wins_for_team -2
+num_wins_for_team 14
+play_match 29 19
+play_match -2 28
+play_match 12 0
+play_match 22 8
+num_wins_for_team 1
+play_match 4 11
+play_match 3 28
+num_wins_for_team 24
+num_wins_for_team 18
+play_match 22 11
+play_match -1 27
+num_wins_for_team 26
+play_match 16 15
+num_wins_for_team 26
+num_wins_for_team 28
+play_match -1 23
+play_match 7 10
+num_wins_for_team -1
+num_wins_for_team 3
+play_match 29 12
+num_wins_for_team 24
+play_match 20 -1
+num_wins_for_team 7
+num_wins_for_team 20
+play_match 23 21
+num_wins_for_team 3
+play_match 16 0
+play_match -2 2
+play_match 29 0
+num_wins_for_team 26
+num_wins_for_team 4
+num_wins_for_team 5
+play_match 27 22
+play_match 23 10
+num_wins_for_team 14
+play_match 1 8
+play_match 4 12
+num_wins_for_team -2
+play_match 23 23
+play_match 11 13
+play_match 13 9
+num_wins_for_team 28
+num_wins_for_team 24
+num_wins_for_team 28
+num_wins_for_team 14
+num_wins_for_team -2
+num_wins_for_team 29
+num_wins_for_team 5
+play_match 22 7
+play_match 0 24
+num_wins_for_team 0
+play_match 12 23
+play_match 22 9
+num_wins_for_team 16
+play_match 20 7
+num_wins_for_team 1
+play_match 15 10
+num_wins_for_team 27
+play_match 24 14
+num_wins_for_team 6
+play_match 15 7
+play_match 2 8
+play_match 27 -1
+play_match 19 1
+play_match 9 16
+num_wins_for_team 17
+play_match 15 17
+play_match 18 27
+num_wins_for_team 1
+num_wins_for_team 3
+num_wins_for_team 12
+num_wins_for_team 10
+play_match 20 6
+play_match 24 9
+num_wins_for_team 12
+num_wins_for_team 28
+num_wins_for_team 11
+play_match 1 8
+num_wins_for_team 14
+num_wins_for_team 20
+num_wins_for_team 13
+play_match 19 2
+num_wins_for_team 18
+play_match 5 28
+num_wins_for_team 20
+play_match 21 10
+num_wins_for_team 17
+play_match -2 19
+num_wins_for_team 8
+num_wins_for_team 23
+play_match 5 21
+num_wins_for_team 17
+play_match 10 24
+play_match 29 3
+play_match 10 14
+play_match 29 -1
+play_match 27 13
+play_match 8 -1
+num_wins_for_team 4
+play_match 27 12
+num_wins_for_team 23
+play_match 19 23
+num_wins_for_team 23
+num_wins_for_team 10
+num_wins_for_team 27
+play_match 15 -1
+num_wins_for_team 6
+play_match 14 13
+play_match 1 27
+num_wins_for_team 6
+play_match 0 1
+num_wins_for_team 29
+play_match 11 17
+num_wins_for_team 26
+play_match 27 16
+num_wins_for_team 0
+play_match 17 7
+play_match 0 3
+play_match 9 20
+play_match 20 12
+play_match 24 1
+num_wins_for_team 8
+play_match 18 8
+num_wins_for_team 17
+num_wins_for_team 12
+num_wins_for_team 14
+play_match 14 6
+play_match 24 2
+play_match 1 26
+num_wins_for_team 18
+num_wins_for_team 20
+num_wins_for_team -2
+play_match 15 3
+play_match 4 0
+num_wins_for_team 7
+play_match 26 24
+play_match 6 11
+play_match 5 1
+play_match 11 1
+num_wins_for_team -1
+num_wins_for_team 25
+play_match 17 0
+play_match 1 25
+play_match 24 -1
+play_match 1 20
+num_wins_for_team 24
+num_wins_for_team 0
+play_match 27 19
+play_match 4 27
+play_match 0 8
+play_match 25 21
+num_wins_for_team 13
+play_match 4 12
+num_wins_for_team 27
+num_wins_for_team 29
+num_wins_for_team 25
+num_wins_for_team 19
+play_match -1 25
+play_match 1 2
+play_match 28 16
+play_match -2 22
+play_match 28 21
+play_match 3 14
+play_match 6 15
+play_match 0 25
+play_match 10 0
+num_wins_for_team -1
+play_match 29 16
+num_wins_for_team 16
+num_wins_for_team 4
+play_match 2 -2
+num_wins_for_team 24
+num_wins_for_team 9
+play_match 12 28
+num_wins_for_team 2
+num_wins_for_team 1
+play_match 22 -2
+num_wins_for_team 22
+num_wins_for_team 21
+play_match 9 10
+num_wins_for_team 28
+play_match 4 21
+num_wins_for_team 9
+num_wins_for_team -1
+play_match 25 0
+num_wins_for_team 16
+play_match 28 14
+num_wins_for_team 20
+num_wins_for_team 25
+num_wins_for_team -1
+num_wins_for_team 7
+num_wins_for_team 2
+num_wins_for_team 25
+play_match 17 14
+num_wins_for_team -2
+num_wins_for_team 13
+num_wins_for_team 29
+num_wins_for_team -1
+play_match 1 5
+num_wins_for_team 13
+play_match 10 13
+num_wins_for_team 18
+num_wins_for_team -2
+num_wins_for_team 19
+num_wins_for_team 26
+num_wins_for_team 5
+play_match 23 15
+num_wins_for_team 7
+play_match 21 23
+play_match 25 3
+num_wins_for_team 29
+num_wins_for_team -1
+num_wins_for_team 7
+num_wins_for_team 14
+num_wins_for_team 25
+play_match 2 15
+play_match 3 14
+num_wins_for_team 24
+play_match 3 9
+num_wins_for_team 1
+play_match 28 10
+num_wins_for_team 26
+play_match 10 4
+play_match 17 4
+num_wins_for_team 3
+play_match 23 17
+num_wins_for_team 9
+play_match 16 29
+play_match 19 8
+num_wins_for_team 21
+num_wins_for_team 14
+num_wins_for_team 5
+play_match 2 29
+num_wins_for_team 0
+play_match 2 27
+num_wins_for_team 22
+play_match 1 -2
+num_wins_for_team 0
+num_wins_for_team 2
+play_match 15 1
+play_match 23 29
+num_wins_for_team -2
+num_wins_for_team 13
+num_wins_for_team -2
+num_wins_for_team 2
+num_wins_for_team 0
+play_match 28 26
+num_wins_for_team 2
+play_match 21 26
+num_wins_for_team 7
+num_wins_for_team 19
+play_match -2 2
+play_match 28 17
+play_match 24 -1
+num_wins_for_team -1
+play_match 23 -1
+num_wins_for_team 19
+num_wins_for_team 15
+num_wins_for_team 22
+play_match 9 14
+play_match 24 11
+num_wins_for_team 19
+play_match 3 7
+play_match 4 20
+num_wins_for_team 5
+play_match 3 9
+num_wins_for_team 13
+play_match -2 2
+num_wins_for_team 26
+num_wins_for_team 23
+play_match 9 23
+play_match 10 28
+play_match 10 17
+num_wins_for_team 23
+num_wins_for_team 11
+play_match 10 26
+num_wins_for_team 29
+num_wins_for_team 28
+num_wins_for_team 21
+num_wins_for_team 5
+play_match 22 28
+play_match 17 29
+play_match 11 9
+play_match 22 -1
+num_wins_for_team 18
+num_wins_for_team -1
+num_wins_for_team 6
+num_wins_for_team 16
+play_match 0 5
+play_match 14 -1
+num_wins_for_team 9
+num_wins_for_team 29
+num_wins_for_team 9
+play_match 25 11
+num_wins_for_team 16
+num_wins_for_team 8
+play_match 2 18
+play_match 26 12
+num_wins_for_team 29
+play_match -1 8
+num_wins_for_team 7
+play_match 0 10
+num_wins_for_team 26
+num_wins_for_team 22
+num_wins_for_team 27
+play_match 29 8
+play_match 14 18
+num_wins_for_team 10
+num_wins_for_team 11
+play_match 24 26
+play_match 1 11
+play_match 26 19
+play_match 28 28
+play_match 25 -2
+num_wins_for_team 19
+num_wins_for_team -1
+num_wins_for_team 17
+play_match 28 14
+play_match -2 28
+play_match 16 22
+num_wins_for_team 8
+num_wins_for_team 26
+num_wins_for_team 28
+num_wins_for_team 15
+num_wins_for_team 16
+play_match 4 26
+play_match 15 11
+num_wins_for_team 4
+num_wins_for_team 29
+play_match -1 15
+num_wins_for_team 22
+play_match 2 20
+play_match 25 26
+num_wins_for_team 25
+play_match 27 5
+num_wins_for_team 15
+play_match 25 6
+play_match 14 27
+num_wins_for_team 25
+num_wins_for_team 14
+play_match 1 5
+num_wins_for_team 8
+num_wins_for_team 3
+play_match 15 -2
+play_match 27 11
+play_match 7 19
+num_wins_for_team 21
+play_match 11 -2
+num_wins_for_team 18
+play_match 2 25
+play_match 1 16
+play_match -2 14
+num_wins_for_team 19
+num_wins_for_team 1
+play_match 25 24
+num_wins_for_team 14
+num_wins_for_team 26
+play_match 14 9
+play_match 15 11
+play_match 0 11
+num_wins_for_team -1
+play_match 11 0
+num_wins_for_team 9
+play_match 18 1
+num_wins_for_team 24
+play_match 27 1
+num_wins_for_team 9
+num_wins_for_team 21
+play_match 29 3
+num_wins_for_team 29
+num_wins_for_team 14
+num_wins_for_team -1
+num_wins_for_team 15
+play_match 11 22
+play_match 25 13
+num_wins_for_team 11
+num_wins_for_team 27
+num_wins_for_team 8
+num_wins_for_team 23
+num_wins_for_team 22
+num_wins_for_team 23
+play_match 17 8
+play_match 7 16
+num_wins_for_team 18
+play_match 28 8
+play_match 27 -2
+num_wins_for_team 12
+play_match 7 25
+play_match 7 25
+play_match 8 22
+play_match 14 28
+num_wins_for_team 24
+play_match 25 23
+play_match 2 26
+num_wins_for_team -1
+play_match 14 21
+num_wins_for_team 6
+num_wins_for_team 15
+play_match 26 2
+num_wins_for_team 19
+play_match -2 17
+num_wins_for_team 17
+play_match 8 -1
+num_wins_for_team 24
+play_match 25 2
+play_match 29 19
+play_match 28 12
+num_wins_for_team 5
+num_wins_for_team 8
+play_match 18 3
+num_wins_for_team 12
+num_wins_for_team 13
+num_wins_for_team 5
+play_match 19 23
+num_wins_for_team -1
+num_wins_for_team 17
+play_match 9 -1
+num_wins_for_team 12
+num_wins_for_team 29
+num_wins_for_team 4
+play_match 13 6
+play_match 17 27
+num_wins_for_team 29
+play_match 17 15
+num_wins_for_team 5
+num_wins_for_team 5
+play_match 0 23
+play_match 2 20
+play_match 20 16
+play_match 26 27
+play_match 16 8
+num_wins_for_team 10
+play_match 1 22
+play_match 12 -1
+play_match 0 22
+play_match 21 4
+num_wins_for_team 3
+num_wins_for_team 11
+num_wins_for_team 15
+num_wins_for_team 20
+play_match -2 19
+num_wins_for_team 2
+num_wins_for_team 20
+play_match 13 5
+num_wins_for_team 26
+num_wins_for_team 16
+num_wins_for_team 25
+play_match 11 10
+play_match 18 1
+num_wins_for_team 19
+play_match 9 20
+play_match 7 16
+play_match 26 15
+num_wins_for_team 9
+play_match -2 14
+num_wins_for_team 8
+play_match 10 19
+num_wins_for_team 12
+play_match 8 7
+play_match 6 0
+num_wins_for_team 4
+num_wins_for_team 27
+num_wins_for_team 22
+play_match 13 16
+play_match 15 16
+num_wins_for_team 16
+num_wins_for_team 18
+num_wins_for_team 6
+play_match 15 25
+num_wins_for_team 3
+num_wins_for_team 16
+num_wins_for_team 7
+play_match 9 17
+play_match 12 5
+play_match 2 -2
+play_match 2 15
+play_match 14 16
+play_match 23 7
+play_match 9 20
+num_wins_for_team 15
+play_match 7 7
+num_wins_for_team 6
+play_match 28 21
+num_wins_for_team 22
+play_match 0 4
+play_match 18 18
+num_wins_for_team 8
+play_match 6 13
+play_match 11 2
+play_match 1 -2
+play_match 4 18
+play_match 20 23
+play_match 5 21
+play_match 18 24
+play_match 5 -1
+num_wins_for_team 15
+play_match 5 19
+num_wins_for_team 1
+play_match 15 27
+play_match 10 4
+play_match 25 19
+num_wins_for_team 0
+play_match 19 3
+play_match 14 19
+play_match 22 6
+num_wins_for_team 24
+play_match 19 1
+play_match 29 12
+play_match 28 10
+play_match 13 22
+play_match 18 1
+num_wins_for_team 13
+num_wins_for_team 1
+play_match 1 8
+play_match 11 13
+num_wins_for_team 29
+play_match 20 27
+num_wins_for_team 22
+play_match 6 14
+play_match 25 8
+num_wins_for_team 29
+play_match 17 18
+play_match 5 7
+play_match 8 26
+num_wins_for_team 15
+num_wins_for_team 22
+play_match 20 7
+num_wins_for_team 24
+num_wins_for_team 7
+play_match 25 -1
+num_wins_for_team 6
+play_match 23 19
+play_match 1 21
+num_wins_for_team -2
+num_wins_for_team 15
+play_match 2 20
+play_match 4 10
+num_wins_for_team 11
+play_match 21 -2
+num_wins_for_team 17
+play_match 5 23
+num_wins_for_team 19
+num_wins_for_team 15
+play_match 24 26
+num_wins_for_team 2
+num_wins_for_team 21
+num_wins_for_team 20
+play_match 6 4
+num_wins_for_team 13
+num_wins_for_team 9
+num_wins_for_team 18
+play_match 17 10
+play_match 0 1
+num_wins_for_team 10
+num_wins_for_team 2
+num_wins_for_team 18
+num_wins_for_team 14
+play_match 28 25
+play_match 19 17
+num_wins_for_team 24
+num_wins_for_team 9
+num_wins_for_team 5
+play_match 12 27
+num_wins_for_team 12
+num_wins_for_team 20
+play_match 2 25
+num_wins_for_team 6
+num_wins_for_team 10
+num_wins_for_team 16
+play_match 14 16
+play_match 17 29
+play_match 11 0
+play_match 27 7
+play_match 27 11
+num_wins_for_team 6
+num_wins_for_team 26
+play_match 17 22
+play_match 2 -1
+play_match 19 5
+num_wins_for_team 17
+num_wins_for_team 24
+num_wins_for_team 29
+play_match 25 0
+play_match 13 0
+play_match 19 10
+play_match 29 -2
+num_wins_for_team 26
+num_wins_for_team 17
+play_match -1 11
+play_match 12 0
+play_match 27 11
+play_match 15 19
+play_match 27 5
+num_wins_for_team 0
+play_match 24 12
+num_wins_for_team 8
+play_match 15 1
+num_wins_for_team 21
+num_wins_for_team 17
+play_match 9 2
+play_match 25 19
+play_match 23 20
+play_match 11 11
+num_wins_for_team 27
+num_wins_for_team 6
+play_match 13 21
+play_match 12 27
+play_match 8 26
+play_match 24 -2
+num_wins_for_team 15
+play_match 9 8
+num_wins_for_team 3
+num_wins_for_team 7
+play_match 25 23
+play_match 6 -1
+play_match 12 14
+num_wins_for_team 0
+num_wins_for_team 12
+play_match 5 1
+play_match 22 27
+num_wins_for_team 15
+num_wins_for_team 11
+num_wins_for_team 15
+play_match 5 18
+play_match 23 28
+play_match 18 20
+play_match 8 22
+num_wins_for_team 26
+num_wins_for_team 17
+play_match 19 2
+play_match 15 9
+play_match 15 -1
+num_wins_for_team 19
+play_match 13 23
+play_match 10 2
+num_wins_for_team 3
+play_match 19 8
+play_match 5 22
+num_wins_for_team 23
+num_wins_for_team 7
+num_wins_for_team 20
+num_wins_for_team 23
+play_match 12 25
+num_wins_for_team 5
+play_match 11 0
+num_wins_for_team 4
+play_match 17 12
+play_match 10 12
+num_wins_for_team 13
+num_wins_for_team 28
+num_wins_for_team 14
+play_match 19 26
+num_wins_for_team 11
+num_wins_for_team 8
+num_wins_for_team 7
+play_match 4 0
+num_wins_for_team 6
+num_wins_for_team 18
+play_match -2 10
+num_wins_for_team 18
+play_match 15 -1
+num_wins_for_team 11
+play_match 24 26
+num_wins_for_team 25
+play_match 7 1
+play_match 10 24
+play_match 25 10
+play_match 2 18
+num_wins_for_team 3
+num_wins_for_team 19
+num_wins_for_team 24
+play_match 4 8
+num_wins_for_team 9
+num_wins_for_team 17
+play_match 25 17
+num_wins_for_team 27
+num_wins_for_team 24
+play_match 29 11
+num_wins_for_team 25
+num_wins_for_team 23
+num_wins_for_team 27
+num_wins_for_team 17
+num_wins_for_team 18
+play_match 12 26
+play_match 7 16
+num_wins_for_team 10
+num_wins_for_team 25
+num_wins_for_team 17
+play_match 6 6
+num_wins_for_team 24
+num_wins_for_team 8
+num_wins_for_team 5
+num_wins_for_team 21
+play_match 23 3
+play_match -1 1
+num_wins_for_team -2
+num_wins_for_team 19
+num_wins_for_team 27
+play_match 3 7
+play_match 7 18
+play_match 14 -2
+num_wins_for_team 5
+num_wins_for_team 8
+num_wins_for_team 12
+play_match 23 25
+num_wins_for_team 1
+play_match 1 11
+play_match 29 4
+num_wins_for_team 7
+play_match 14 7
+play_match 14 17
+num_wins_for_team 15
+play_match 10 17
+play_match 5 23
+play_match 24 5
+num_wins_for_team 0
+play_match 4 10
+num_wins_for_team 5
+num_wins_for_team 6
+num_wins_for_team 13
+play_match 12 -2
+num_wins_for_team 14
+num_wins_for_team 25
+play_match 21 17
+num_wins_for_team 11
+play_match 18 -2
+play_match 11 26
+play_match 18 5
+play_match 29 0
+num_wins_for_team 6
+play_match 28 25
+num_wins_for_team 20
+num_wins_for_team 12
+num_wins_for_team 24
+play_match 9 8
+play_match 27 27
+play_match 8 1
+play_match 14 24
+play_match 12 26
+num_wins_for_team 6
+play_match 15 15
+play_match 24 29
+play_match 3 11
+num_wins_for_team 2
+num_wins_for_team 12
+play_match 18 7
+num_wins_for_team -1
+num_wins_for_team 12
+num_wins_for_team 10
+num_wins_for_team 3
+play_match 0 25
+play_match 28 1
+play_match 20 29
+num_wins_for_team 13
+num_wins_for_team 25
+num_wins_for_team 6
+play_match 23 23
+num_wins_for_team 22
+play_match 8 9
+num_wins_for_team 27
+play_match 17 8
+play_match 1 6
+num_wins_for_team 14
+play_match 27 13
+num_wins_for_team 7
+num_wins_for_team 15
+play_match 27 25
+num_wins_for_team 15
+play_match 12 10
+num_wins_for_team 6
+play_match 2 1
+play_match 11 12
+num_wins_for_team 29
+play_match 20 19
+play_match 11 17
+num_wins_for_team 12
+num_wins_for_team 19
+play_match 21 1
+num_wins_for_team 4
+num_wins_for_team 13
+play_match 21 10
+num_wins_for_team 9
+play_match 19 27
+play_match 10 20
+play_match 13 26
+num_wins_for_team 5
+num_wins_for_team 10
+play_match 13 21
+play_match 26 0
+play_match 0 13
+num_wins_for_team 27
+play_match 6 18
+num_wins_for_team -2
+play_match 10 9
+play_match 8 21
+num_wins_for_team 11
+play_match 2 9
+play_match 22 -2
+num_wins_for_team 28
+play_match 21 13
+num_wins_for_team 7
+num_wins_for_team 24
+play_match 17 27
+num_wins_for_team 7
+play_match 5 26
+num_wins_for_team 23
+num_wins_for_team 20
+play_match 17 26
+play_match 7 2
+play_match 9 -1
+num_wins_for_team 2
+play_match -2 0
+play_match 26 3
+num_wins_for_team 22
+play_match 1 20
+play_match -2 10
+num_wins_for_team -1
+play_match 20 3
+num_wins_for_team 24
+num_wins_for_team 0
+num_wins_for_team 26
+num_wins_for_team 9
+num_wins_for_team 24
+num_wins_for_team 7
+num_wins_for_team 25
+num_wins_for_team -2
+play_match 3 0
+num_wins_for_team 10
+play_match 9 3
+num_wins_for_team 16
+num_wins_for_team 27
+num_wins_for_team 1
+num_wins_for_team 10
+num_wins_for_team 7
+play_match 12 24
+play_match 12 4
+num_wins_for_team 0
+num_wins_for_team 27
+num_wins_for_team 12
+play_match 26 24
+num_wins_for_team 27
+num_wins_for_team 3
+play_match 8 10
+num_wins_for_team 9
+num_wins_for_team 20
+num_wins_for_team 14
+num_wins_for_team 20
+num_wins_for_team 27
+num_wins_for_team 10
+play_match 0 20
+num_wins_for_team 14
+num_wins_for_team 22
+play_match 15 26
+num_wins_for_team 19
+num_wins_for_team 12
+num_wins_for_team 1
+play_match 1 1
+num_wins_for_team 9
+num_wins_for_team 3
+num_wins_for_team 5
+num_wins_for_team 18
+play_match 13 12
+num_wins_for_team 3
+num_wins_for_team 10
+num_wins_for_team 15
+num_wins_for_team 11
+num_wins_for_team 13
+num_wins_for_team 1
+play_match 27 2
+play_match 17 6
+play_match 0 6
+play_match 6 25
+num_wins_for_team 20
+play_match 27 0
+num_wins_for_team 13
+play_match 4 26
+play_match 24 12
+num_wins_for_team 10
+num_wins_for_team 18
+play_match 16 9
+num_wins_for_team 21
+play_match 7 0
+num_wins_for_team 20
+play_match 3 -1
+play_match 18 7
+num_wins_for_team 27
+num_wins_for_team 15
+play_match 19 22
+num_wins_for_team 19
+num_wins_for_team 15
+num_wins_for_team 9
+num_wins_for_team 24
+play_match 15 21
+num_wins_for_team 23
+play_match 17 21
+play_match 6 21
+num_wins_for_team 3
+play_match 10 12
+num_wins_for_team -1
+play_match 12 8
+num_wins_for_team 28
+num_wins_for_team -2
+play_match 19 22
+num_wins_for_team 3
+play_match 29 11
+play_match 11 18
+num_wins_for_team 16
+play_match 26 27
+play_match 13 12
+play_match 14 6
+num_wins_for_team 7
+play_match 20 12
+play_match 9 26
+play_match 21 21
+num_wins_for_team 19
+play_match 24 19
+play_match 0 17
+play_match 13 13
+num_wins_for_team 10
+play_match 21 4
+play_match 3 23
+play_match 23 27
+play_match 4 19
+num_wins_for_team 29
+play_match 8 29
+play_match 13 12
+play_match 5 1
+num_wins_for_team 6
+num_wins_for_team 8
+play_match 13 -2
+play_match 5 21
+play_match 27 23
+play_match 23 15
+play_match 25 6
+num_wins_for_team 21
+num_wins_for_team 17
+num_wins_for_team 2
+num_wins_for_team 23
+play_match 4 21
+play_match 22 24
+num_wins_for_team 5
+play_match 26 20
+num_wins_for_team 20
+play_match 24 9
+num_wins_for_team 9
+play_match 17 19
+play_match 17 4
+play_match 12 23
+play_match 14 15
+num_wins_for_team 26
+play_match 25 7
+num_wins_for_team 2
+play_match 8 0
+num_wins_for_team 27
+num_wins_for_team 17
+play_match 2 0
+num_wins_for_team 15
+num_wins_for_team 18
+num_wins_for_team 24
+num_wins_for_team 1
+num_wins_for_team -1
+play_match 29 11
+play_match -2 10
+play_match 12 20
+play_match 19 22
+num_wins_for_team 21
+num_wins_for_team 13
+num_wins_for_team 26
+play_match 3 22
+play_match 4 12
+num_wins_for_team 1
+play_match 13 6
+num_wins_for_team 25
+play_match 28 12
+num_wins_for_team 24
+play_match 23 19
+num_wins_for_team 27
+num_wins_for_team 18
+play_match -1 6
+play_match 20 2
+play_match 10 -1
+num_wins_for_team 26
+play_match 0 16
+num_wins_for_team 14
+play_match 25 25
+num_wins_for_team 20
+play_match 4 29
+num_wins_for_team 22
+play_match 22 6
+num_wins_for_team 16
+num_wins_for_team 9
+play_match 28 14
+play_match 24 7
+num_wins_for_team 14
+play_match 10 4
+num_wins_for_team 5
+play_match 18 7
+play_match 22 20
+num_wins_for_team 9
+play_match 16 4
+num_wins_for_team 25
+play_match 16 24
+play_match 17 29
+play_match 21 18
+num_wins_for_team -1
+num_wins_for_team 13
+play_match 2 13
+play_match 9 2
+play_match 3 22
+num_wins_for_team 9
+num_wins_for_team 14
+num_wins_for_team 2
+play_match 13 21
+num_wins_for_team 1
+play_match 16 4
+play_match 24 3
+num_wins_for_team 7
+play_match 22 4
+play_match 4 17
+play_match 6 10
+play_match 18 1
+num_wins_for_team 5
+play_match -2 14
+play_match 26 3
+num_wins_for_team 20
+play_match 8 28
+num_wins_for_team 8
+num_wins_for_team 1
+play_match 28 0
+play_match 15 22
+play_match -1 29
+num_wins_for_team 16
+num_wins_for_team 26
+num_wins_for_team 17
+play_match 22 22
+num_wins_for_team 21
+play_match 14 22
+num_wins_for_team 29
+play_match 17 0
+num_wins_for_team 22
+play_match 2 28
+play_match 15 9
+play_match 8 5
+num_wins_for_team 13
+play_match 15 28
+num_wins_for_team 17
+play_match 19 22
+num_wins_for_team 13
+num_wins_for_team 14
+num_wins_for_team 28
+num_wins_for_team 10
+play_match -2 10
+num_wins_for_team 17
+play_match 0 25
+num_wins_for_team 5
+play_match 4 13
+play_match 13 12
+play_match 28 10
+num_wins_for_team 10
+play_match 16 29
+num_wins_for_team 8
+play_match 18 29
+play_match 0 0
+play_match 6 20
+num_wins_for_team 13
+num_wins_for_team 6
+play_match 22 10
+play_match 12 12
+play_match 28 25
+play_match 22 2
+play_match 24 12
+num_wins_for_team 29
+num_wins_for_team 17
+play_match 16 13
+play_match 16 6
+play_match 24 28
+num_wins_for_team 0
+play_match 20 23
+num_wins_for_team 0
+num_wins_for_team 13
+play_match 28 26
+num_wins_for_team -2
+play_match 28 19
+play_match 7 28
+play_match 16 22
+num_wins_for_team 26
+num_wins_for_team 2
+play_match 19 19
+num_wins_for_team 21
+num_wins_for_team 7
+num_wins_for_team 8
+num_wins_for_team 17
+play_match 19 27
+num_wins_for_team 9
+num_wins_for_team 17
+num_wins_for_team 22
+num_wins_for_team 6
+play_match 12 19
+num_wins_for_team 18
+num_wins_for_team 9
+num_wins_for_team 4
+num_wins_for_team 27
+num_wins_for_team 2
+play_match 14 19
+num_wins_for_team 12
+play_match 24 3
+play_match 11 12
+num_wins_for_team 11
+num_wins_for_team 13
+play_match 9 4
+num_wins_for_team 22
+play_match 8 10
+play_match 20 20
+play_match 8 4
+play_match 7 18
+num_wins_for_team -1
+play_match 6 14
+num_wins_for_team 4
+num_wins_for_team 12
+num_wins_for_team 17
+num_wins_for_team 29
+play_match 8 6
+play_match 23 5
+play_match 13 29
+num_wins_for_team 4
+num_wins_for_team 1
+play_match 0 4
+play_match 8 28
+play_match 25 27
+play_match 11 13
+play_match 20 23
+play_match 24 23
+play_match 29 16
+num_wins_for_team 28
+play_match 15 4
+play_match 29 11
+play_match 14 14
+num_wins_for_team -1
+num_wins_for_team 7
+num_wins_for_team 2
+num_wins_for_team 4
+play_match 0 28
+num_wins_for_team 3
+num_wins_for_team 18
+num_wins_for_team 29
+num_wins_for_team 3
+play_match 29 28
+num_wins_for_team 18
+num_wins_for_team 15
+play_match 5 15
+play_match 16 13
+play_match 1 12
+play_match 10 1
+play_match 3 3
+play_match 29 3
+play_match 17 17
+play_match 21 9
+play_match 18 29
+num_wins_for_team 19
+num_wins_for_team 1
+play_match 7 26
+play_match -2 23
+num_wins_for_team 8
+play_match 14 10
+play_match 26 16
+play_match 11 16
+play_match 6 1
+play_match 9 27
+num_wins_for_team 13
+play_match 18 23
+play_match 28 16
+play_match 19 15
+num_wins_for_team 18
+num_wins_for_team 1
+num_wins_for_team 28
+num_wins_for_team 22
+num_wins_for_team 22
+play_match 14 14
+play_match 2 14
+play_match 11 25
+play_match 20 16
+play_match -1 25
+play_match 7 7
+play_match 29 14
+play_match 2 14
+play_match 23 21
+play_match 1 8
+num_wins_for_team 16
+play_match 2 1
+play_match 23 21
+play_match 21 12
+play_match 3 26
+play_match 27 5
+num_wins_for_team 1
+num_wins_for_team 29
+play_match 14 2
+num_wins_for_team 24
+play_match 26 22
+play_match 5 24
+play_match 16 7
+play_match 6 7
+play_match 8 27
+num_wins_for_team 4
+play_match 16 -2
+play_match 14 17
+play_match 1 4
+play_match 16 12
+play_match 18 23
+play_match 25 3
+num_wins_for_team 27
+num_wins_for_team 11
+num_wins_for_team 15
+play_match 1 27
+num_wins_for_team 7
+num_wins_for_team 27
+num_wins_for_team -1
+play_match 0 27
+play_match 29 29
+play_match 22 14
+num_wins_for_team 9
+play_match 7 2
+play_match 1 23
+num_wins_for_team 13
+num_wins_for_team 1
+num_wins_for_team 15
+num_wins_for_team 3
+num_wins_for_team -2
+num_wins_for_team 3
+play_match 10 20
+play_match 0 11
+play_match 1 15
+num_wins_for_team 28
+play_match 4 18
+num_wins_for_team 27
+play_match 21 23
+play_match 19 24
+play_match 28 13
+num_wins_for_team 4
+play_match 1 9
+num_wins_for_team 18
+play_match 24 26
+play_match 17 21
+num_wins_for_team 7
+num_wins_for_team 10
+play_match 11 -2
+play_match 25 25
+num_wins_for_team 27
+play_match 16 28
+num_wins_for_team 17
+num_wins_for_team 6
+num_wins_for_team 17
+num_wins_for_team 10
+play_match 28 25
+num_wins_for_team 0
+num_wins_for_team 17
+num_wins_for_team 29
+num_wins_for_team 1
+num_wins_for_team -1
+play_match 4 16
+play_match 20 13
+num_wins_for_team 13
+num_wins_for_team 13
+num_wins_for_team 5
+num_wins_for_team 22
+num_wins_for_team 6
+play_match 4 13
+play_match 17 8
+play_match 29 8
+play_match 9 3
+play_match 1 20
+play_match 8 11
+play_match 26 7
+num_wins_for_team 2
+play_match 6 26
+num_wins_for_team 16
+play_match 11 15
+play_match 24 1
+num_wins_for_team 5
+num_wins_for_team 2
+num_wins_for_team 14
+play_match 27 16
+num_wins_for_team 21
+play_match 21 0
+num_wins_for_team 16
+num_wins_for_team 11
+num_wins_for_team 26
+num_wins_for_team 11
+num_wins_for_team 3
+num_wins_for_team 14
+num_wins_for_team 19
+num_wins_for_team -1
+play_match 19 11
+play_match 9 18
+play_match 20 8
+num_wins_for_team 13
+num_wins_for_team 2
+num_wins_for_team 10
+num_wins_for_team 2
+num_wins_for_team 12
+num_wins_for_team 27
+play_match 14 22
+play_match 0 26
+play_match -2 0
+play_match 25 6
+play_match 1 29
+play_match 22 11
+play_match -1 28
+num_wins_for_team 28
+num_wins_for_team 9
+play_match 6 22
+num_wins_for_team 17
+play_match 1 25
+play_match 8 13
+num_wins_for_team 17
+play_match 0 15
+num_wins_for_team 12
+num_wins_for_team 7
+play_match 8 24
+play_match 19 23
+play_match 19 13
+play_match 20 15
+num_wins_for_team 27
+play_match 27 9
+play_match 7 22
+play_match 16 -2
+num_wins_for_team 19
+play_match 25 21
+play_match 6 -2
+num_wins_for_team 12
+num_wins_for_team 14
+play_match 17 -1
+num_wins_for_team 12
+num_wins_for_team 26
+num_wins_for_team 18
+play_match 19 15
+num_wins_for_team 14
+play_match 28 18
+play_match -2 3
+num_wins_for_team 28
+play_match 11 22
+num_wins_for_team 19
+play_match 11 1
+play_match 10 8
+play_match 11 29
+num_wins_for_team 7
+num_wins_for_team 11
+num_wins_for_team 11
+play_match 26 9
+play_match 7 22
+play_match 10 2
+play_match 11 29
+play_match 29 19
+play_match 3 18
+num_wins_for_team 26
+play_match 28 3
+num_wins_for_team 23
+play_match 22 29
+play_match 22 0
+num_wins_for_team 28
+num_wins_for_team 5
+play_match 26 27
+num_wins_for_team 9
+play_match 16 27
+play_match 16 10
+num_wins_for_team 24
+num_wins_for_team 29
+play_match 23 4
+num_wins_for_team 25
+play_match -2 10
+play_match 0 29
+play_match 21 17
+num_wins_for_team 15
+num_wins_for_team 16
+num_wins_for_team 26
+play_match 21 26
+play_match 8 20
+num_wins_for_team 17
+play_match 4 21
+play_match 12 26
+num_wins_for_team 16
+play_match 28 21
+play_match 26 -1
+num_wins_for_team 12
+num_wins_for_team 25
+play_match 14 4
+num_wins_for_team 20
+num_wins_for_team 8
+num_wins_for_team 23
+num_wins_for_team 13
+play_match 20 13
+play_match 22 14
+play_match 29 28
+play_match 24 13
+num_wins_for_team 20
+num_wins_for_team 8
+num_wins_for_team 10
+play_match 2 26
+play_match 14 28
+num_wins_for_team 24
+play_match 9 28
+num_wins_for_team 4
+play_match 1 3
+num_wins_for_team 8
+num_wins_for_team 6
+num_wins_for_team 7
+num_wins_for_team 18
+num_wins_for_team 2
+play_match 19 3
+play_match 26 -1
+num_wins_for_team 11
+num_wins_for_team 16
+num_wins_for_team 25
+play_match 19 29
+num_wins_for_team -2
+play_match 1 22
+play_match -1 22
+play_match 5 26
+play_match 5 23
+num_wins_for_team 21
+play_match 20 23
+num_wins_for_team 28
+num_wins_for_team -2
+num_wins_for_team 16
+play_match -1 20
+num_wins_for_team 2
+play_match 25 20
+play_match 23 26
+num_wins_for_team 18
+num_wins_for_team 6
+play_match 13 29
+play_match -1 20
+play_match 21 11
+play_match 26 12
+play_match 11 5
+play_match 14 28
+num_wins_for_team 4
+play_match 10 15
+num_wins_for_team 28
+num_wins_for_team 0
+num_wins_for_team 28
+play_match 20 3
+play_match 2 10
+num_wins_for_team 27
+num_wins_for_team 12
+play_match 28 13
+play_match 13 23
+num_wins_for_team -2
+play_match 20 16
+num_wins_for_team -2
+num_wins_for_team 13
+num_wins_for_team 16
+num_wins_for_team 1
+num_wins_for_team 22
+play_match 6 -2
+play_match 21 4
+num_wins_for_team 7
+num_wins_for_team 6
+num_wins_for_team 20
+play_match 26 15
+play_match 24 0
+play_match 5 20
+play_match 4 1
+play_match 7 4
+play_match 5 13
+num_wins_for_team 6
+num_wins_for_team 14
+play_match -2 5
+num_wins_for_team 17
+num_wins_for_team 7
+play_match 21 3
+play_match 3 2
+play_match -2 1
+play_match 11 2
+num_wins_for_team 2
+play_match 26 4
+num_wins_for_team 17
+num_wins_for_team 20
+play_match 5 14
+num_wins_for_team 11
+num_wins_for_team 18
+play_match 12 16
+play_match 22 23
+play_match 26 15
+num_wins_for_team 9
+num_wins_for_team 22
+play_match 13 26
+play_match 22 23
+play_match 5 5
+num_wins_for_team 28
+play_match 9 12
+num_wins_for_team 7
+play_match 5 4
+num_wins_for_team 6
+play_match 12 8
+num_wins_for_team 29
+play_match 28 10
+play_match 4 23
+play_match 1 13
+num_wins_for_team 12
+play_match 7 22
+play_match 13 20
+num_wins_for_team 29
+play_match 10 6
+play_match 13 22
+num_wins_for_team 9
+play_match 6 0
+num_wins_for_team 19
+num_wins_for_team 9
+play_match 24 4
+play_match 24 19
+num_wins_for_team 27
+num_wins_for_team 17
+num_wins_for_team 4
+play_match 15 8
+play_match 6 11
+num_wins_for_team 11
+num_wins_for_team 16
+num_wins_for_team 14
+play_match 10 29
+play_match 7 16
+num_wins_for_team -2
+play_match -1 2
+num_wins_for_team 2
+play_match -1 2
+play_match -1 17
+play_match 19 23
+num_wins_for_team 5
+play_match 1 21
+play_match 26 -1
+num_wins_for_team 26
+play_match 0 -2
+play_match 28 15
+play_match 23 5
+play_match 10 22
+play_match -1 14
+play_match 18 2
+play_match 13 10
+num_wins_for_team 12
+num_wins_for_team 28
+play_match 20 2
+play_match 9 2
+play_match 23 0
+num_wins_for_team 7
+play_match 26 26
+num_wins_for_team 25
+num_wins_for_team 25
+play_match -1 10
+num_wins_for_team 29
+num_wins_for_team -1
+num_wins_for_team 27
+num_wins_for_team 9
+play_match 6 19
+play_match 26 27
+play_match 28 4
+num_wins_for_team -1
+play_match 5 16
+play_match 1 6
+play_match 15 3
+play_match 16 2
+num_wins_for_team 9
+play_match 12 11
+play_match 28 8
+num_wins_for_team 12
+play_match -1 15
+num_wins_for_team 4
+num_wins_for_team -2
+play_match 4 16
+play_match 17 -1
+num_wins_for_team 5
+num_wins_for_team -1
+num_wins_for_team 5
+play_match 11 28
+play_match 6 21
+num_wins_for_team 20
+num_wins_for_team 3
+play_match 10 17
+num_wins_for_team 28
+num_wins_for_team -1
+play_match 19 21
+play_match 19 20
+num_wins_for_team 29
+num_wins_for_team 9
+play_match 18 15
+play_match 29 15
+num_wins_for_team 15
+play_match 7 1
+num_wins_for_team 21
+play_match 20 21
+play_match 7 0
+num_wins_for_team 22
+num_wins_for_team 24
+play_match -1 11
+num_wins_for_team 22
+num_wins_for_team 23
+play_match 14 14
+num_wins_for_team 15
+num_wins_for_team 20
+num_wins_for_team 7
+num_wins_for_team 7
+num_wins_for_team 20
+num_wins_for_team 22
+play_match 15 -2
+play_match 17 24
+num_wins_for_team 14
+play_match 25 13
+play_match 3 25
+num_wins_for_team 25
+num_wins_for_team 19
+play_match 5 10
+play_match 29 20
+num_wins_for_team 18
+play_match 2 6
+play_match 4 3
+num_wins_for_team 19
+play_match -2 27
+num_wins_for_team 14
+play_match 9 13
+play_match 20 7
+play_match 7 24
+num_wins_for_team -2
+num_wins_for_team 14
+play_match 21 2
+num_wins_for_team 11
+num_wins_for_team 27
+play_match -1 9
+play_match 24 23
+play_match 11 1
+play_match 29 4
+play_match 10 10
+play_match 26 7
+play_match 28 28
+num_wins_for_team 17
+play_match 27 29
+play_match 2 8
+play_match 9 13
+play_match 21 25
+play_match 20 26
+play_match 3 23
+num_wins_for_team 12
+play_match 13 14
+play_match 4 13
+play_match 8 14
+play_match 28 28
+play_match 22 10
+num_wins_for_team 8
+play_match 19 17
+num_wins_for_team 23
+play_match 9 1
+num_wins_for_team 22
+num_wins_for_team 7
+play_match 9 3
+play_match 26 -2
+play_match 10 25
+play_match -2 8
+num_wins_for_team 25
+num_wins_for_team 26
+num_wins_for_team -2
+num_wins_for_team 28
+play_match 10 14
+play_match 13 13
+play_match 21 18
+play_match 29 29
+play_match 15 2
+play_match 28 18
+play_match 0 26
+play_match 17 0
+play_match 7 10
+num_wins_for_team 8
+play_match 8 5
+play_match 16 23
+num_wins_for_team 11
+num_wins_for_team 9
+num_wins_for_team 7
+play_match 25 15
+play_match 24 -2
+play_match 13 29
+num_wins_for_team 15
+num_wins_for_team 23
+num_wins_for_team -1
+num_wins_for_team 19
+num_wins_for_team 23
+play_match 25 25
+play_match 10 -1
+num_wins_for_team 10
+play_match 29 22
+play_match 24 14
+play_match 25 25
+num_wins_for_team 3
+play_match -2 9
+num_wins_for_team 21
+num_wins_for_team 29
+play_match 13 23
+play_match 0 19
+num_wins_for_team 23
+play_match -2 18
+play_match 20 6
+play_match 17 17
+play_match 17 1
+num_wins_for_team 7
+play_match 18 5
+num_wins_for_team 19
+num_wins_for_team 22
+num_wins_for_team -1
+num_wins_for_team 6
+play_match 14 11
+num_wins_for_team 24
+num_wins_for_team 8
+num_wins_for_team 29
+play_match 25 2
+num_wins_for_team 14
+play_match 9 19
+num_wins_for_team 5
+play_match 20 -1
+play_match 26 0
+num_wins_for_team 16
+play_match 4 17
+play_match 0 25
+num_wins_for_team 16
+num_wins_for_team 20
+play_match 27 16
+play_match 26 -2
+num_wins_for_team 29
+num_wins_for_team 17
+play_match 13 5
+num_wins_for_team 29
+play_match 19 23
+num_wins_for_team 7
+num_wins_for_team 29
+play_match 26 5
+num_wins_for_team 8
+play_match 7 16
+play_match 7 29
+play_match 2 7
+play_match 16 2
+play_match 14 1
+play_match 25 27
+num_wins_for_team 3
+play_match 1 13
+play_match 1 20
+play_match 10 21
+play_match -1 14
+play_match 3 -2
+num_wins_for_team 28
+num_wins_for_team 15
+play_match 18 4
+num_wins_for_team 6
+play_match 21 29
+num_wins_for_team -2
+num_wins_for_team 6
+play_match 27 3
+num_wins_for_team 7
+play_match 11 27
+play_match 5 27
+num_wins_for_team 19
+num_wins_for_team 20
+num_wins_for_team 14
+num_wins_for_team 9
+play_match 11 25
+play_match 27 9
+play_match 8 11
+num_wins_for_team 26
+num_wins_for_team 0
+play_match 25 25
+play_match 7 1
+num_wins_for_team 15
+num_wins_for_team 20
+num_wins_for_team 1
+num_wins_for_team 0
+play_match 8 29
+play_match 0 21
+num_wins_for_team 18
+play_match 18 21
+play_match 7 26
+play_match 21 21
+num_wins_for_team 20
+play_match 0 9
+play_match 6 16
+play_match 8 28
+play_match 5 24
+num_wins_for_team 15
+play_match 1 12
+num_wins_for_team 3
+num_wins_for_team 15
+play_match 6 19
+play_match 4 8
+play_match 1 12
+num_wins_for_team 25
+num_wins_for_team 9
+num_wins_for_team 13
+play_match 5 15
+num_wins_for_team 25
+num_wins_for_team 26
+play_match 9 10
+play_match -2 22
+play_match 3 23
+play_match 12 11
+play_match 10 18
+play_match 19 1
+num_wins_for_team -1
+play_match -1 20
+play_match 18 24
+play_match 15 19
+num_wins_for_team 18
+play_match 29 21
+num_wins_for_team 27
+play_match 4 -1
+play_match 17 17
+num_wins_for_team 2
+num_wins_for_team 8
+play_match 9 13
+num_wins_for_team 8
+num_wins_for_team 2
+play_match 3 -2
+num_wins_for_team 19
+play_match 29 28
+play_match 13 3
+num_wins_for_team 14
+num_wins_for_team 6
+num_wins_for_team 20
+play_match 16 21
+play_match 20 23
+num_wins_for_team 24
+num_wins_for_team 7
+num_wins_for_team 2
+play_match 4 23
+num_wins_for_team 5
+play_match 28 25
+play_match 20 15
+play_match 0 19
+play_match -1 3
+num_wins_for_team 22
+play_match 26 23
+num_wins_for_team 1
+num_wins_for_team 11
+num_wins_for_team 22
+play_match 13 11
+num_wins_for_team 17
+num_wins_for_team 29
+num_wins_for_team 9
+play_match 10 17
+num_wins_for_team 13
+num_wins_for_team 5
+num_wins_for_team 4
+play_match 19 12
+play_match 22 15
+num_wins_for_team 17
+play_match 8 21
+num_wins_for_team 18
+num_wins_for_team 0
+num_wins_for_team -1
+play_match 23 9
+play_match 6 14
+play_match 17 18
+num_wins_for_team 23
+play_match 3 29
+num_wins_for_team 2
+play_match 19 10
+play_match 16 18
+play_match 16 21
+num_wins_for_team 3
+play_match 19 3
+play_match 12 4
+num_wins_for_team 29
+num_wins_for_team 13
+num_wins_for_team 2
+num_wins_for_team 16
+num_wins_for_team 9
+play_match 12 5
+num_wins_for_team 23
+num_wins_for_team 12
+num_wins_for_team 4
+num_wins_for_team 12
+num_wins_for_team 9
+play_match 9 5
+play_match 10 27
+num_wins_for_team 23
+num_wins_for_team 20
+num_wins_for_team 24
+num_wins_for_team 5
+play_match 16 27
+num_wins_for_team 13
+play_match 20 20
+play_match 23 -2
+play_match 25 20
+play_match 1 22
+num_wins_for_team -1
+play_match 28 16
+num_wins_for_team 21
+num_wins_for_team 20
+play_match 18 -2
+num_wins_for_team 23
+num_wins_for_team 6
+num_wins_for_team 10
+play_match 7 9
+play_match 26 12
+num_wins_for_team 9
+play_match 19 11
+play_match 1 2
+play_match 21 28
+num_wins_for_team 27
+play_match 28 13
+num_wins_for_team 16
+play_match 12 25
+play_match 24 22
+play_match 10 22
+play_match 18 19
+num_wins_for_team 16
+num_wins_for_team 9
+num_wins_for_team 11
+play_match -1 15
+play_match 17 2
+num_wins_for_team 1
+play_match 10 10
+num_wins_for_team 0
+play_match 7 4
+num_wins_for_team 7
+num_wins_for_team 23
+num_wins_for_team 9
+play_match 14 17
+play_match 26 25
+play_match 13 8
+play_match 7 23
+play_match 1 5
+play_match 14 -1
+num_wins_for_team 16
+num_wins_for_team 10
+num_wins_for_team 23
+play_match 20 10
+play_match 24 12
+play_match 21 26
+play_match 5 9
+num_wins_for_team 14
+num_wins_for_team 26
+num_wins_for_team 21
+play_match 18 28
+num_wins_for_team 23
+num_wins_for_team 21
+num_wins_for_team 2
+num_wins_for_team 7
+num_wins_for_team 24
+num_wins_for_team 22
+num_wins_for_team 17
+num_wins_for_team 5
+play_match 8 7
+num_wins_for_team 11
+num_wins_for_team 3
+num_wins_for_team 14
+num_wins_for_team 17
+num_wins_for_team 13
+play_match 15 2
+play_match 26 22
+play_match 2 6
+num_wins_for_team 29
+play_match 26 13
+play_match 16 11
+num_wins_for_team 23
+play_match 20 -2
+num_wins_for_team 0
+play_match 17 6
+num_wins_for_team 24
+num_wins_for_team -2
+num_wins_for_team 9
+play_match 0 -2
+num_wins_for_team 10
+num_wins_for_team 17
+play_match 15 7
+num_wins_for_team 0
+play_match 10 4
+play_match 13 1
+num_wins_for_team 15
+play_match 28 7
+num_wins_for_team 2
+play_match 29 14
+play_match 6 16
+num_wins_for_team 7
+num_wins_for_team 2
+num_wins_for_team 18
+num_wins_for_team 29
+play_match 29 8
+num_wins_for_team 28
+play_match 29 2
+num_wins_for_team 25
+play_match 10 21
+num_wins_for_team 20
+num_wins_for_team 8
+num_wins_for_team 7
+num_wins_for_team 16
+num_wins_for_team 17
+num_wins_for_team 21
+num_wins_for_team 10
+num_wins_for_team 21
+play_match 29 7
+num_wins_for_team 7
+num_wins_for_team 2
+play_match 13 19
+num_wins_for_team 3
+num_wins_for_team 8
+num_wins_for_team 8
+num_wins_for_team 21
+play_match 26 29
+num_wins_for_team 1
+num_wins_for_team 22
+num_wins_for_team 27
+play_match 1 24
+play_match 21 10
+num_wins_for_team 0
+num_wins_for_team 17
+num_wins_for_team 12
+play_match 15 17
+num_wins_for_team 13
+num_wins_for_team 1
+num_wins_for_team 9
+play_match 3 8
+num_wins_for_team 20
+play_match 23 0
+num_wins_for_team 24
+play_match 29 6
+num_wins_for_team 1
+play_match 20 13
+num_wins_for_team 0
+num_wins_for_team 2
+num_wins_for_team 23
+play_match 17 8
+num_wins_for_team 4
+num_wins_for_team 3
+play_match 28 1
+play_match 14 15
+num_wins_for_team 27
+num_wins_for_team 29
+num_wins_for_team 8
+play_match 27 -1
+play_match 19 12
+num_wins_for_team 22
+num_wins_for_team 14
+num_wins_for_team 19
+num_wins_for_team 3
+num_wins_for_team 25
+play_match 27 5
+num_wins_for_team 14
+play_match 11 3
+play_match 17 17
+num_wins_for_team 11
+play_match 15 7
+num_wins_for_team 5
+play_match 12 10
+play_match 20 24
+num_wins_for_team 28
+num_wins_for_team 10
+play_match 24 10
+num_wins_for_team 28
+num_wins_for_team 15
+num_wins_for_team 2
+play_match 24 1
+play_match 15 13
+play_match 8 8
+num_wins_for_team 19
+play_match 29 11
+play_match 18 10
+play_match 25 11
+play_match 3 13
+play_match 20 26
+num_wins_for_team 11
+num_wins_for_team 22
+play_match 16 14
+play_match 8 27
+play_match 19 28
+num_wins_for_team 17
+num_wins_for_team 20
+num_wins_for_team 22
+play_match 27 9
+num_wins_for_team 25
+num_wins_for_team 1
+play_match 19 16
+play_match 4 26
+num_wins_for_team 25
+play_match 3 4
+num_wins_for_team 4
+play_match 14 24
+play_match 14 -1
+play_match 25 15
+play_match 2 29
+num_wins_for_team 19
+play_match 6 25
+num_wins_for_team 24
+play_match 8 26
+num_wins_for_team 24
+play_match 19 8
+play_match 10 -2
+play_match 9 6
+play_match 27 1
+play_match 0 15
+play_match 7 12
+num_wins_for_team 4
+num_wins_for_team 27
+num_wins_for_team 13
+play_match 27 9
+num_wins_for_team 1
+num_wins_for_team 21
+play_match 21 12
+num_wins_for_team 28
+play_match 11 20
+num_wins_for_team 1
+num_wins_for_team 9
+num_wins_for_team 21
+num_wins_for_team 12
+num_wins_for_team 17
+play_match -1 21
+play_match 11 3
+num_wins_for_team 3
+num_wins_for_team 10
+num_wins_for_team 19
+play_match 24 2
+play_match 12 -2
+play_match -1 -2
+play_match 8 13
+play_match 4 14
+play_match 5 0
+num_wins_for_team 0
+play_match 24 20
+play_match 26 19
+num_wins_for_team 4
+num_wins_for_team -2
+play_match 23 20
+play_match 5 16
+num_wins_for_team 26
+play_match -2 26
+num_wins_for_team 22
+num_wins_for_team 3
+num_wins_for_team 13
+play_match 8 12
+play_match 26 7
+num_wins_for_team 12
+num_wins_for_team 5
+play_match 8 1
+num_wins_for_team 23
+play_match 0 29
+num_wins_for_team 24
+num_wins_for_team 5
+num_wins_for_team 8
+play_match 15 22
+num_wins_for_team 27
+num_wins_for_team 20
+play_match 29 10
+play_match 19 18
+num_wins_for_team 1
+play_match 0 23
+play_match 0 -1
+num_wins_for_team 9
+play_match 9 5
+num_wins_for_team 3
+play_match 6 22
+play_match 3 5
+num_wins_for_team 18
+num_wins_for_team 9
+play_match 9 2
+play_match 5 27
+play_match 7 3
+play_match 14 10
+play_match 22 8
+num_wins_for_team 4
+num_wins_for_team 20
+play_match 12 -2
+play_match -1 5
+num_wins_for_team 20
+num_wins_for_team 19
+num_wins_for_team 6
+num_wins_for_team 21
+play_match 15 17
+play_match -1 29
+num_wins_for_team 10
+num_wins_for_team 9
+play_match 20 4
+play_match 5 6
+num_wins_for_team -1
+play_match 12 23
+num_wins_for_team 2
+num_wins_for_team 2
+play_match 5 10
+num_wins_for_team 12
+play_match 27 17
+play_match 23 -1
+num_wins_for_team 7
+num_wins_for_team 28
+num_wins_for_team 23
+play_match 7 21
+play_match 29 -1
+play_match 18 11
+play_match 1 20
+play_match 14 28
+num_wins_for_team 2
+play_match 10 5
+num_wins_for_team -1
+play_match 13 5
+play_match -1 5
+num_wins_for_team 21
+num_wins_for_team 10
+play_match 14 20
+play_match 8 13
+play_match 3 21
+play_match 20 -1
+num_wins_for_team 10
+play_match 29 13
+num_wins_for_team 9
+play_match 3 11
+play_match 16 1
+play_match 6 20
+play_match 14 25
+play_match 1 24
+play_match 25 27
+play_match -2 16
+play_match 13 24
+num_wins_for_team 5
+num_wins_for_team 24
+num_wins_for_team 6
+play_match 18 13
+num_wins_for_team 0
+play_match 17 27
+num_wins_for_team 12
+num_wins_for_team 18
+num_wins_for_team -1
+num_wins_for_team 29
+num_wins_for_team 13
+play_match 25 11
+play_match 7 1
+play_match 20 0
+num_wins_for_team 26
+play_match 15 0
+play_match 29 1
+play_match 28 15
+num_wins_for_team 25
+play_match 1 4
+num_wins_for_team 16
+num_wins_for_team 26
+play_match 2 23
+play_match 8 11
+num_wins_for_team 23
+play_match 14 3
+play_match -1 28
+num_wins_for_team -1
+play_match 24 20
+play_match 22 21
+num_wins_for_team 18
+play_match 23 24
+num_wins_for_team 21
+num_wins_for_team 21
+num_wins_for_team 27
+play_match 24 13
+play_match 16 13
+play_match 6 6
+play_match 6 3
+play_match 14 1
+play_match 15 2
+num_wins_for_team -1
+play_match 22 4
+play_match 18 7
+play_match 1 8
+num_wins_for_team 25
+play_match 15 3
+play_match 15 0
+num_wins_for_team 5
+play_match 19 13
+play_match 6 16
+play_match 13 6
+play_match 5 25
+play_match 15 5
+play_match 11 6
+play_match 24 23
+num_wins_for_team 2
+num_wins_for_team 0
+play_match 11 27
+num_wins_for_team 25
+num_wins_for_team 27
+num_wins_for_team 22
+play_match 13 3
+num_wins_for_team 21
+play_match 24 5
+num_wins_for_team 9
+num_wins_for_team -1
+play_match 6 13
+play_match 12 16
+play_match 4 6
+num_wins_for_team 8
+play_match -1 2
+num_wins_for_team 7
+play_match 7 10
+play_match 17 15
+play_match 7 27
+num_wins_for_team -1
+num_wins_for_team 10
+num_wins_for_team 3
+play_match 17 12
+play_match -1 29
+num_wins_for_team 5
+play_match 12 25
+play_match 24 19
+num_wins_for_team 3
+play_match 9 7
+num_wins_for_team 4
+play_match 26 20
+num_wins_for_team 25
+play_match 10 18
+play_match 25 25
+play_match 17 20
+play_match 13 0
+num_wins_for_team 13
+play_match 6 6
+num_wins_for_team 23
+play_match 19 -1
+num_wins_for_team 10
+play_match 2 3
+num_wins_for_team 16
+num_wins_for_team 29
+play_match 10 16
+play_match -1 8
+num_wins_for_team -2
+num_wins_for_team 28
+num_wins_for_team 28
+play_match 3 20
+play_match 22 2
+num_wins_for_team 12
+num_wins_for_team 2
+play_match 15 13
+num_wins_for_team 13
+num_wins_for_team 21
+num_wins_for_team 21
+num_wins_for_team -1
+num_wins_for_team 5
+num_wins_for_team 20
+play_match 1 5
+play_match 8 20
+num_wins_for_team 29
+num_wins_for_team 4
+play_match 20 18
+num_wins_for_team 18
+num_wins_for_team 17
+num_wins_for_team -2
+num_wins_for_team 10
+play_match 25 9
+play_match 21 16
+num_wins_for_team 29
+num_wins_for_team 24
+num_wins_for_team 10
+num_wins_for_team 14
+num_wins_for_team 4
+num_wins_for_team 21
+play_match 28 25
+num_wins_for_team 22
+num_wins_for_team 2
+play_match 21 9
+play_match 0 20
+play_match 29 13
+play_match 24 21
+num_wins_for_team 13
+play_match 26 0
+num_wins_for_team 4
+play_match 5 6
+play_match 12 18
+play_match 27 26
+num_wins_for_team 5
+play_match 5 24
+play_match 3 4
+num_wins_for_team 29
+num_wins_for_team 16
+num_wins_for_team 18
+num_wins_for_team 24
+num_wins_for_team -1
+num_wins_for_team 27
+play_match -2 14
+play_match 14 1
+num_wins_for_team 5
+play_match 28 26
+num_wins_for_team 15
+play_match 22 4
+num_wins_for_team 14
+num_wins_for_team 28
+play_match 22 27
+play_match 10 -2
+play_match 16 5
+play_match 12 13
+num_wins_for_team 8
+play_match 17 5
+play_match 29 0
+num_wins_for_team 19
+play_match 19 23
+play_match 23 19
+play_match 4 15
+play_match 21 11
+num_wins_for_team 6
+num_wins_for_team 17
+num_wins_for_team 3
+num_wins_for_team 27
+num_wins_for_team 3
+play_match 21 12
+play_match 23 17
+num_wins_for_team -1
+num_wins_for_team 7
+play_match 10 17
+num_wins_for_team 1
+num_wins_for_team 13
+num_wins_for_team 14
+num_wins_for_team 13
+play_match 22 29
+play_match 23 12
+play_match 15 7
+num_wins_for_team 14
+num_wins_for_team -1
+num_wins_for_team 5
+play_match 2 8
+play_match 3 26
+num_wins_for_team 21
+play_match 6 15
+num_wins_for_team 7
+num_wins_for_team 24
+play_match 17 24
+play_match 22 17
+play_match 5 20
+play_match 24 2
+num_wins_for_team 24
+play_match 24 13
+play_match 1 4
+play_match 9 9
+num_wins_for_team 12
+num_wins_for_team -1
+num_wins_for_team 23
+num_wins_for_team 10
+num_wins_for_team 3
+num_wins_for_team 3
+num_wins_for_team 14
+num_wins_for_team 5
+num_wins_for_team 13
+play_match 2 28
+play_match 29 4
+play_match 3 26
+num_wins_for_team 12
+play_match 21 1
+num_wins_for_team 5
+num_wins_for_team 3
+num_wins_for_team 7
+num_wins_for_team 20
+num_wins_for_team 4
+play_match 15 10
+num_wins_for_team 22
+play_match 23 20
+num_wins_for_team 8
+num_wins_for_team 3
+num_wins_for_team 1
+num_wins_for_team 16
+play_match 20 2
+num_wins_for_team 8
+num_wins_for_team 2
+play_match 16 5
+num_wins_for_team 29
+play_match 20 2
+num_wins_for_team 1
+play_match 11 18
+num_wins_for_team -2
+play_match -2 23
+play_match 23 9
+num_wins_for_team 27
+play_match 21 16
+num_wins_for_team -2
+num_wins_for_team 18
+num_wins_for_team 12
+num_wins_for_team 16
+play_match 14 5
+play_match 20 19
+num_wins_for_team 24
+play_match 28 -2
+num_wins_for_team 24
+play_match 16 5
+play_match 18 27
+num_wins_for_team 11
+play_match 23 15
+num_wins_for_team 9
+num_wins_for_team 22
+play_match 23 -2
+play_match 3 19
+num_wins_for_team 9
+num_wins_for_team 5
+play_match 29 6
+play_match 6 9
+num_wins_for_team 9
+num_wins_for_team 1
+num_wins_for_team 27
+play_match 13 28
+num_wins_for_team 29
+num_wins_for_team 20
+num_wins_for_team 6
+play_match 18 28
+play_match 13 28
+num_wins_for_team 17
+play_match 5 16
+play_match 12 20
+play_match 0 2
+play_match 25 15
+num_wins_for_team 12
+num_wins_for_team -1
+play_match 1 5
+num_wins_for_team 14
+play_match 12 11
+num_wins_for_team 25
+play_match 23 5
+play_match 3 20
+play_match 23 13
+play_match 14 24
+play_match 26 15
+num_wins_for_team 8
+play_match 11 23
+play_match 10 19
+play_match 18 19
+num_wins_for_team 14
+num_wins_for_team 17
+num_wins_for_team 27
+play_match 6 29
+num_wins_for_team 4
+num_wins_for_team 26
+num_wins_for_team 13
+play_match 3 24
+play_match 15 13
+num_wins_for_team 25
+play_match -1 9
+num_wins_for_team 16
+play_match 14 8
+num_wins_for_team 9
+play_match 8 11
+play_match 26 4
+play_match 25 22
+play_match 2 26
+num_wins_for_team 3
+num_wins_for_team 13
+num_wins_for_team 16
+num_wins_for_team 20
+num_wins_for_team 12
+play_match 9 2
+num_wins_for_team 22
+play_match -1 25
+play_match 19 6
+num_wins_for_team 28
+num_wins_for_team 24
+num_wins_for_team 1
+play_match 20 29
+num_wins_for_team 6
+num_wins_for_team -1
+num_wins_for_team 18
+num_wins_for_team 7
+play_match 26 -1
+play_match 7 19
+num_wins_for_team 18
+num_wins_for_team 16
+num_wins_for_team 13
+play_match 14 4
+num_wins_for_team 21
+play_match 0 5
+play_match 10 6
+play_match 23 12
+play_match 24 29
+num_wins_for_team -2
+play_match 6 22
+play_match 7 11
+play_match 4 5
+play_match 21 9
+num_wins_for_team 3
+play_match 4 6
+play_match 6 11
+num_wins_for_team 29
+play_match 7 1
+num_wins_for_team 25
+play_match 10 29
+play_match 9 16
+play_match 20 5
+play_match 20 27
+num_wins_for_team 28
+num_wins_for_team 12
+play_match 28 29
+play_match 16 28
+num_wins_for_team 12
+play_match 6 2
+play_match 14 -2
+play_match 28 13
+num_wins_for_team 26
+play_match 2 4
+play_match 22 1
+play_match 21 1
+play_match 25 12
+num_wins_for_team 24
+play_match 9 0
+play_match 27 15
+play_match -2 11
+play_match 0 12
+num_wins_for_team 11
+play_match 7 -2
+play_match 6 10
+num_wins_for_team 3
+num_wins_for_team 5
+play_match 24 5
+play_match 18 21
+play_match 2 21
+num_wins_for_team 11
+num_wins_for_team 26
+num_wins_for_team 16
+num_wins_for_team 15
+num_wins_for_team 14
+num_wins_for_team 26
+play_match -1 -1
+num_wins_for_team 14
+play_match 11 25
+num_wins_for_team 29
+play_match 2 10
+num_wins_for_team 25
+play_match 0 7
+num_wins_for_team -1
+num_wins_for_team 1
+num_wins_for_team 21
+play_match 0 21
+play_match 19 29
+num_wins_for_team 21
+num_wins_for_team 13
+play_match 23 12
+num_wins_for_team 17
+play_match 9 20
+play_match 4 -2
+play_match 20 14
+num_wins_for_team 29
+play_match 9 19
+num_wins_for_team 1
+num_wins_for_team 14
+play_match 15 10
+num_wins_for_team 10
+num_wins_for_team 29
+num_wins_for_team 19
+num_wins_for_team 7
+play_match 7 28
+num_wins_for_team 19
+play_match 3 9
+num_wins_for_team 29
+num_wins_for_team 20
+num_wins_for_team 26
+play_match 7 28
+num_wins_for_team 7
+num_wins_for_team 6
+play_match 7 25
+play_match 5 23
+play_match 26 2
+play_match 24 4
+play_match 14 16
+num_wins_for_team -1
+play_match 6 13
+play_match 3 1
+play_match 22 10
+num_wins_for_team 23
+num_wins_for_team 8
+play_match 2 12
+play_match 0 17
+num_wins_for_team 20
+play_match 6 12
+num_wins_for_team 26
+play_match 6 22
+num_wins_for_team 6
+num_wins_for_team 7
+play_match 10 11
+num_wins_for_team 2
+play_match 24 1
+num_wins_for_team 6
+num_wins_for_team 0
+num_wins_for_team 0
+play_match 19 4
+play_match -1 11
+play_match 14 11
+num_wins_for_team 23
+num_wins_for_team 25
+play_match 3 -2
+play_match 24 29
+play_match 24 1
+num_wins_for_team 8
+play_match 21 8
+num_wins_for_team 12
+num_wins_for_team 11
+play_match 29 9
+play_match 25 21
+play_match 6 10
+num_wins_for_team 18
+play_match 27 19
+play_match -1 21
+play_match 12 29
+num_wins_for_team 15
+num_wins_for_team 0
+play_match 11 17
+num_wins_for_team -2
+num_wins_for_team 27
+num_wins_for_team 13
+num_wins_for_team 0
+num_wins_for_team 4
+play_match 16 11
+num_wins_for_team 11
+num_wins_for_team -1
+play_match -1 24
+play_match 16 25
+num_wins_for_team -2
+play_match 12 15
+play_match 21 13
+num_wins_for_team 6
+play_match 8 23
+num_wins_for_team 27
+num_wins_for_team 16
+num_wins_for_team 20
+play_match 22 23
+num_wins_for_team 13
+play_match 26 11
+num_wins_for_team 2
+num_wins_for_team 26
+num_wins_for_team 20
+play_match 19 -2
+num_wins_for_team 22
+play_match 22 16
+play_match 23 29
+num_wins_for_team -2
+num_wins_for_team 26
+play_match 2 2
+num_wins_for_team 17
+num_wins_for_team 11
+play_match 7 3
+play_match 19 19
+play_match 1 0
+play_match 11 20
+num_wins_for_team 26
+play_match 4 28
+play_match 5 12
+num_wins_for_team 4
+num_wins_for_team 18
+play_match 5 17
+play_match 17 28
+num_wins_for_team 15
+num_wins_for_team 29
+num_wins_for_team -2
+play_match 15 9
+num_wins_for_team 0
+num_wins_for_team 18
+play_match 9 12
+play_match 10 15
+num_wins_for_team 26
+play_match 7 29
+num_wins_for_team -2
+num_wins_for_team 4
+play_match 14 22
+play_match 28 14
+num_wins_for_team -2
+num_wins_for_team 9
+play_match 28 16
+play_match 21 17
+play_match -2 0
+play_match -1 6
+num_wins_for_team 10
+play_match 6 25
+num_wins_for_team 14
+play_match 17 5
+num_wins_for_team 14
+play_match 17 5
+play_match 12 19
+play_match -2 9
+play_match 24 16
+num_wins_for_team 24
+play_match 2 25
+play_match 27 11
+play_match 26 1
+play_match 4 20
+num_wins_for_team -2
+play_match 14 3
+num_wins_for_team 26
+num_wins_for_team 16
+play_match 23 2
+play_match 6 1
+play_match 9 20
+play_match 9 7
+play_match 13 11
+num_wins_for_team 11
+num_wins_for_team 18
+play_match 3 14
+num_wins_for_team 0
+num_wins_for_team 12
+play_match 26 29
+play_match 23 3
+play_match -1 -2
+num_wins_for_team 26
+num_wins_for_team 5
+num_wins_for_team 4
+play_match 24 21
+num_wins_for_team 7
+play_match 17 23
+num_wins_for_team 29
+num_wins_for_team 9
+play_match 27 1
+num_wins_for_team 20
+play_match 29 3
+play_match -1 4
+play_match 14 -2
+play_match 28 24
+num_wins_for_team 14
+play_match 0 8
+play_match 21 6
+play_match 0 11
+num_wins_for_team 22
+num_wins_for_team 14
+num_wins_for_team -1
+play_match 15 28
+play_match 15 27
+num_wins_for_team 4
+play_match 17 19
+play_match 17 12
+num_wins_for_team 24
+num_wins_for_team 12
+play_match 11 15
+play_match 7 22
+num_wins_for_team -2
+num_wins_for_team 27
+num_wins_for_team 19
+num_wins_for_team 1
+num_wins_for_team -2
+num_wins_for_team 25
+num_wins_for_team 14
+num_wins_for_team 29
+play_match 8 3
+num_wins_for_team 7
+num_wins_for_team 8
+play_match 21 13
+play_match 3 -2
+play_match 28 28
+play_match 26 -1
+num_wins_for_team -1
+num_wins_for_team 7
+num_wins_for_team 5
+num_wins_for_team 12
+play_match 16 0
+play_match -1 5
+num_wins_for_team 12
+num_wins_for_team 21
+num_wins_for_team 15
+num_wins_for_team 26
+play_match 18 24
+play_match 1 10
+play_match 20 20
+num_wins_for_team 19
+play_match 0 18
+play_match 24 2
+play_match 24 8
+play_match 15 19
+num_wins_for_team 25
+play_match 25 8
+num_wins_for_team 9
+num_wins_for_team 8
+play_match 13 15
+play_match 24 25
+num_wins_for_team -2
+play_match 17 2
+play_match 17 1
+num_wins_for_team 3
+num_wins_for_team 8
+num_wins_for_team -1
+num_wins_for_team 28
+play_match 1 5
+play_match 8 3
+num_wins_for_team 6
+play_match 10 12
+play_match 20 20
+num_wins_for_team 4
+play_match 25 -1
+num_wins_for_team 17
+num_wins_for_team 3
+num_wins_for_team 29
+num_wins_for_team 10
+play_match 9 4
+num_wins_for_team 22
+num_wins_for_team 28
+play_match 20 26
+play_match 10 22
+play_match 29 11
+num_wins_for_team 3
+play_match 16 0
+play_match -2 8
+play_match 1 0
+num_wins_for_team 2
+play_match -2 2
+num_wins_for_team 13
+num_wins_for_team 28
+play_match 27 29
+play_match 22 9
+num_wins_for_team 17
+num_wins_for_team -1
+num_wins_for_team 3
+num_wins_for_team 3
+num_wins_for_team 13
+num_wins_for_team 20
+num_wins_for_team 29
+play_match 27 12
+num_wins_for_team 0
+play_match 24 5
+play_match 15 25
+play_match 18 -2
+num_wins_for_team 12
+num_wins_for_team 12
+num_wins_for_team 23
+play_match 24 19
+play_match 10 27
+num_wins_for_team 6
+play_match 5 25
+num_wins_for_team 8
+play_match 8 26
+num_wins_for_team 18
+play_match 7 4
+num_wins_for_team 12
+play_match 2 12
+play_match 2 29
+num_wins_for_team 9
+play_match 18 16
+num_wins_for_team 1
+num_wins_for_team 22
+num_wins_for_team 7
+num_wins_for_team 2
+num_wins_for_team 17
+num_wins_for_team 8
+play_match 19 9
+num_wins_for_team 14
+num_wins_for_team 19
+play_match 0 24
+play_match 14 7
+num_wins_for_team 11
+num_wins_for_team 1
+num_wins_for_team 29
+play_match -2 11
+play_match 8 21
+play_match 25 4
+num_wins_for_team 28
+play_match 16 14
+play_match 11 8
+play_match 24 18
+num_wins_for_team 23
+num_wins_for_team 1
+play_match 17 18
+num_wins_for_team 10
+num_wins_for_team 28
+play_match 1 0
+num_wins_for_team 0
+num_wins_for_team -1
+num_wins_for_team -2
+num_wins_for_team 0
+num_wins_for_team 11
+num_wins_for_team 4
+num_wins_for_team 10
+num_wins_for_team 0
+num_wins_for_team 17
+play_match 26 18
+num_wins_for_team 21
+num_wins_for_team 5
+play_match 28 25
+play_match 21 26
+num_wins_for_team 27
+play_match 1 1
+num_wins_for_team 1
+num_wins_for_team 25
+play_match 10 29
+num_wins_for_team 25
+num_wins_for_team 11
+num_wins_for_team 0
+play_match 1 1
+play_match -1 12
+num_wins_for_team 7
+num_wins_for_team 9
+play_match 1 -1
+play_match 28 1
+num_wins_for_team 1
+num_wins_for_team 13
+num_wins_for_team 26
+num_wins_for_team 8
+num_wins_for_team 26
+num_wins_for_team 4
+play_match -2 16
+num_wins_for_team 23
+play_match 28 20
+play_match 26 -1
+play_match 24 19
+play_match 25 0
+num_wins_for_team 14
+num_wins_for_team 13
+num_wins_for_team 15
+num_wins_for_team 21
+num_wins_for_team 28
+num_wins_for_team 0
+num_wins_for_team 15
+play_match 29 22
+play_match 15 -1
+play_match 26 7
+play_match -1 21
+num_wins_for_team 24
+play_match 3 7
+num_wins_for_team 3
+num_wins_for_team 2
+play_match 17 19
+num_wins_for_team 18
+num_wins_for_team 23
+play_match 3 -1
+num_wins_for_team 29
+play_match 14 -2
+play_match 14 17
+play_match 4 11
+num_wins_for_team 5
+play_match 19 12
+num_wins_for_team 6
+play_match 0 26
+num_wins_for_team 4
+play_match 28 3
+num_wins_for_team 29
+num_wins_for_team 5
+num_wins_for_team 27
+play_match 16 19
+num_wins_for_team 20
+num_wins_for_team 20
+play_match -1 0
+num_wins_for_team 26
+play_match 25 3
+num_wins_for_team 14
+play_match 17 25
+num_wins_for_team 11
+play_match -1 27
+num_wins_for_team 9
+play_match 28 10
+play_match 4 25
+play_match 24 8
+play_match 26 3
+num_wins_for_team 3
+num_wins_for_team 25
+num_wins_for_team 16
+num_wins_for_team 1
+play_match 11 11
+num_wins_for_team 14
+play_match 24 19
+play_match 4 17
+play_match 5 10
+play_match 12 26
+num_wins_for_team 25
+play_match 15 15
+play_match 23 18
+play_match 15 28
+play_match 8 20
+num_wins_for_team 6
+play_match 7 2
+play_match 9 21
+num_wins_for_team 7
+num_wins_for_team 15
+num_wins_for_team 3
+num_wins_for_team 14
+num_wins_for_team 9
+play_match 7 18
+play_match 2 -1
+num_wins_for_team 21
+play_match -1 22
+play_match -2 8
+play_match 14 21
+play_match -1 -2
+play_match 28 9
+play_match 26 0
+num_wins_for_team 19
+play_match -2 20
+num_wins_for_team 5
+num_wins_for_team 29
+num_wins_for_team 24
+play_match 23 21
+num_wins_for_team -1
+num_wins_for_team 10
+num_wins_for_team 4
+num_wins_for_team 27
+play_match 21 1
+play_match 23 20
+num_wins_for_team -2
+num_wins_for_team 22
+num_wins_for_team 9
+play_match 5 25
+play_match 16 12
+play_match 9 5
+num_wins_for_team 17
+play_match 3 26
+play_match 10 16
+num_wins_for_team 23
+play_match 17 13
+play_match 5 8
+play_match 28 27
+num_wins_for_team 3
+play_match 25 12
+play_match 25 6
+play_match 14 12
+play_match 5 29
+num_wins_for_team 5
+play_match 12 26
+num_wins_for_team 8
+play_match 11 11
+num_wins_for_team 18
+play_match 6 -2
+play_match 18 28
+num_wins_for_team 29
+play_match 5 -2
+num_wins_for_team 25
+play_match 19 9
+play_match 4 23
+play_match 6 25
+num_wins_for_team -2
+play_match -1 18
+num_wins_for_team 4
+num_wins_for_team 9
+num_wins_for_team 25
+play_match 12 11
+num_wins_for_team 25
+play_match 23 0
+num_wins_for_team 19
+num_wins_for_team 15
+play_match 20 1
+play_match 23 3
+num_wins_for_team 13
+num_wins_for_team 2
+play_match 21 15
+play_match 2 4
+num_wins_for_team 21
+num_wins_for_team 21
+play_match 27 26
+play_match 21 10
+num_wins_for_team 4
+num_wins_for_team 19
+num_wins_for_team 19
+play_match 11 22
+play_match 6 -1
+play_match 8 1
+play_match 0 15
+num_wins_for_team 6
+play_match 8 17
+play_match 4 20
+num_wins_for_team 23
+play_match 10 5
+num_wins_for_team 27
+play_match -2 7
+play_match 28 5
+num_wins_for_team 13
+num_wins_for_team 10
+num_wins_for_team 0
+play_match 6 26
+num_wins_for_team 21
+play_match 12 9
+num_wins_for_team 18
+num_wins_for_team 19
+play_match 13 0
+num_wins_for_team 20
+play_match -2 6
+play_match 19 9
+num_wins_for_team 0
+num_wins_for_team 19
+play_match 21 27
+num_wins_for_team 14
+num_wins_for_team 1
+num_wins_for_team -1
+play_match 6 26
+num_wins_for_team 19
+num_wins_for_team 8
+num_wins_for_team 11
+play_match 16 17
+play_match 22 4
+num_wins_for_team 3
+play_match 13 13
+num_wins_for_team 29
+num_wins_for_team 14
+play_match 8 -1
+num_wins_for_team 12
+play_match 14 4
+num_wins_for_team -2
+num_wins_for_team 4
+num_wins_for_team 26
+play_match 21 16
+play_match 27 16
+num_wins_for_team 24
+num_wins_for_team 16
+play_match 26 24
+num_wins_for_team 4
+play_match 0 18
+num_wins_for_team 19
+num_wins_for_team 25
+num_wins_for_team 4
+num_wins_for_team 19
+num_wins_for_team 11
+num_wins_for_team 12
+num_wins_for_team 19
+play_match 9 5
+play_match 2 4
+play_match 26 27
+num_wins_for_team 28
+play_match 1 17
+num_wins_for_team 6
+play_match 22 29
+play_match 8 14
+play_match 6 25
+num_wins_for_team 12
+play_match 8 26
+num_wins_for_team 18
+play_match 10 4
+play_match -2 8
+play_match 7 -1
+play_match 24 2
+play_match -2 21
+num_wins_for_team -2
+play_match 18 10
+num_wins_for_team 5
+num_wins_for_team 11
+num_wins_for_team 15
+num_wins_for_team 2
+play_match 11 10
+play_match 17 16
+play_match 6 15
+num_wins_for_team 11
+play_match 15 24
+num_wins_for_team 14
+num_wins_for_team 3
+num_wins_for_team 22
+play_match 27 -1
+num_wins_for_team 18
+num_wins_for_team 4
+play_match 18 27
+play_match 12 7
+num_wins_for_team 0
+play_match 9 2
+play_match 21 13
+num_wins_for_team -1
+play_match 19 22
+num_wins_for_team 11
+num_wins_for_team 20
+play_match 4 15
+num_wins_for_team 15
+num_wins_for_team 21
+play_match 22 3
+play_match 11 5
+num_wins_for_team 4
+num_wins_for_team 27
+num_wins_for_team 2
+play_match 3 17
+num_wins_for_team 27
+num_wins_for_team 20
+play_match 25 26
+play_match 28 15
+play_match 2 17
+num_wins_for_team 14
+play_match 19 19
+num_wins_for_team 28
+num_wins_for_team 4
+play_match 23 11
+num_wins_for_team 3
+num_wins_for_team -1
+play_match 9 7
+play_match 10 19
+play_match 2 14
+num_wins_for_team 8
+play_match 0 27
+num_wins_for_team 18
+num_wins_for_team 29
+num_wins_for_team 0
+play_match 26 23
+num_wins_for_team 22
+play_match 20 2
+play_match 24 17
+num_wins_for_team 12
+num_wins_for_team 12
+play_match 13 25
+play_match 29 19
+num_wins_for_team 12
+num_wins_for_team 11
+play_match 2 12
+num_wins_for_team 26
+num_wins_for_team 12
+num_wins_for_team 17
+num_wins_for_team 9
+num_wins_for_team 18
+num_wins_for_team -2
+play_match -2 27
+play_match 13 2
+play_match 9 1
+num_wins_for_team 19
+play_match 26 27
+play_match 24 -1
+play_match 7 20
+play_match 13 11
+play_match 17 23
+num_wins_for_team 17
+num_wins_for_team 12
+num_wins_for_team 6
+num_wins_for_team 5
+num_wins_for_team 10
+play_match 29 13
+play_match 29 11
+play_match 17 25
+num_wins_for_team -1
+play_match -2 17
+play_match 8 23
+play_match 0 23
+play_match 13 18
+play_match 23 15
+play_match 12 15
+num_wins_for_team 18
+play_match 9 9
+num_wins_for_team 13
+play_match 5 17
+num_wins_for_team 22
+play_match 18 24
+num_wins_for_team 23
+num_wins_for_team 8
+num_wins_for_team 5
+play_match 7 2
+play_match 5 14
+play_match 0 3
+num_wins_for_team 14
+num_wins_for_team 19
+play_match 24 4
+play_match 23 20
+num_wins_for_team 6
+num_wins_for_team 15
+num_wins_for_team 21
+num_wins_for_team 29
+num_wins_for_team 25
+num_wins_for_team 15
+num_wins_for_team 28
+num_wins_for_team 23
+num_wins_for_team 24
+num_wins_for_team -2
+num_wins_for_team 22
+num_wins_for_team 24
+play_match 16 19
+num_wins_for_team 15
+num_wins_for_team 21
+num_wins_for_team 9
+play_match 29 7
+num_wins_for_team 26
+num_wins_for_team 14
+num_wins_for_team -1
+play_match 28 19
+play_match 15 21
+play_match 24 6
+num_wins_for_team -2
+play_match 11 27
+num_wins_for_team 13
+play_match 10 2
+play_match 13 5
+play_match 17 19
+num_wins_for_team 25
+num_wins_for_team 29
+num_wins_for_team 26
+play_match 5 -1
+num_wins_for_team 20
+num_wins_for_team 24
+num_wins_for_team 4
+play_match 7 25
+num_wins_for_team 22
+num_wins_for_team 6
+play_match 19 21
+play_match 13 10
+play_match 8 20
+play_match 2 23
+play_match 23 9
+play_match 11 22
+play_match 12 12
+num_wins_for_team 6
+play_match 11 6
+play_match 29 18
+play_match 12 21
+num_wins_for_team 25
+play_match 12 29
+play_match 10 15
+play_match 8 29
+play_match 4 0
+num_wins_for_team 26
+play_match -1 0
+num_wins_for_team 18
+play_match 6 -2
+play_match -2 4
+play_match 11 3
+num_wins_for_team 19
+num_wins_for_team 0
+num_wins_for_team 5
+play_match 28 16
+num_wins_for_team 15
+num_wins_for_team 22
+num_wins_for_team 17
+play_match 6 4
+num_wins_for_team 17
+num_wins_for_team 5
+play_match 8 20
+num_wins_for_team 10
+num_wins_for_team 13
+play_match 18 20
+num_wins_for_team 5
+play_match -1 10
+num_wins_for_team 29
+num_wins_for_team 4
+num_wins_for_team 5
+num_wins_for_team -1
+play_match 3 -1
+play_match 24 24
+play_match 10 8
+num_wins_for_team 2
+play_match 15 5
+play_match -1 24
+play_match 5 0
+play_match 2 20
+play_match 13 29
+play_match 20 3
+play_match 7 26
+num_wins_for_team 17
+num_wins_for_team 19
+play_match 28 28
+num_wins_for_team 26
+num_wins_for_team 0
+num_wins_for_team 28
+play_match 23 28
+num_wins_for_team 10
+num_wins_for_team -1
+num_wins_for_team 2
+num_wins_for_team 16
+num_wins_for_team -2
+num_wins_for_team 10
+num_wins_for_team 1
+num_wins_for_team 17
+play_match 19 0
+num_wins_for_team -2
+num_wins_for_team 26
+play_match 29 5
+play_match 24 25
+play_match 27 12
+num_wins_for_team 6
+play_match 17 11
+play_match 6 6
+num_wins_for_team 18
+play_match 25 5
+num_wins_for_team 20
+play_match 12 -1
+num_wins_for_team 6
+play_match -2 29
+play_match 13 8
+play_match 15 23
+num_wins_for_team 13
+num_wins_for_team 22
+play_match 2 27
+play_match 21 3
+num_wins_for_team 23
+num_wins_for_team -2
+play_match 0 20
+play_match 20 4
+play_match 8 26
+play_match 0 5
+play_match 25 0
+num_wins_for_team -2
+play_match 19 6
+play_match 16 20
+play_match 27 6
+num_wins_for_team 2
+num_wins_for_team 18
+play_match 21 11
+play_match -2 13
+num_wins_for_team 2
+play_match -1 7
+num_wins_for_team 28
+num_wins_for_team 8
+num_wins_for_team 2
+play_match 11 26
+play_match 26 26
+num_wins_for_team 28
+play_match 0 3
+play_match 25 16
+play_match 0 15
+num_wins_for_team 12
+play_match 21 26
+play_match 13 20
+play_match 15 -2
+play_match 14 2
+num_wins_for_team 8
+num_wins_for_team 23
+play_match 19 12
+play_match 22 29
+num_wins_for_team -2
+num_wins_for_team 3
+play_match 1 11
+play_match 7 8
+play_match 3 -2
+play_match 20 11
+num_wins_for_team 25
+play_match 26 23
+num_wins_for_team 21

@@ -1,0 +1,5000 @@
+unite_teams 28 23
+unite_teams 25 24
+unite_teams 17 -1
+get_highest_ranked_team 
+num_wins_for_team 22
+play_match 21 27
+get_highest_ranked_team 
+play_match 7 23
+num_wins_for_team 23
+num_wins_for_team 23
+num_wins_for_team 18
+play_match 2 -1
+num_wins_for_team 8
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 26
+play_match 2 0
+play_match 12 17
+play_match 0 16
+play_match 5 10
+num_wins_for_team 21
+unite_teams 24 28
+play_match 14 -2
+get_highest_ranked_team 
+num_wins_for_team 13
+unite_teams 14 26
+num_wins_for_team 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 25 5
+num_wins_for_team 6
+num_wins_for_team 26
+get_highest_ranked_team 
+play_match 29 13
+unite_teams 18 5
+num_wins_for_team 11
+unite_teams 3 -2
+get_highest_ranked_team 
+num_wins_for_team 25
+unite_teams 1 0
+play_match 1 16
+unite_teams 20 4
+num_wins_for_team 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 18 1
+num_wins_for_team 26
+num_wins_for_team 8
+play_match 8 16
+num_wins_for_team 1
+num_wins_for_team 28
+num_wins_for_team 28
+num_wins_for_team 3
+get_highest_ranked_team 
+play_match 23 10
+num_wins_for_team 24
+unite_teams 21 5
+play_match 23 -2
+get_highest_ranked_team 
+num_wins_for_team 18
+play_match 9 4
+num_wins_for_team 26
+num_wins_for_team 21
+num_wins_for_team 3
+unite_teams 20 16
+num_wins_for_team 29
+unite_teams 25 20
+play_match 2 4
+num_wins_for_team 10
+get_highest_ranked_team 
+play_match 6 24
+play_match 17 7
+num_wins_for_team 3
+get_highest_ranked_team 
+num_wins_for_team 3
+num_wins_for_team 10
+num_wins_for_team 0
+unite_teams 3 17
+play_match 3 8
+num_wins_for_team 27
+num_wins_for_team 1
+get_highest_ranked_team 
+play_match 21 26
+num_wins_for_team 10
+unite_teams 15 19
+unite_teams 0 5
+unite_teams 21 1
+num_wins_for_team 14
+unite_teams 0 26
+unite_teams 15 0
+unite_teams 22 1
+play_match 20 5
+play_match 9 22
+play_match 6 9
+num_wins_for_team 21
+get_highest_ranked_team 
+unite_teams -2 4
+num_wins_for_team 10
+play_match 23 10
+get_highest_ranked_team 
+play_match 29 14
+unite_teams 9 -1
+num_wins_for_team 20
+play_match 10 1
+unite_teams 18 20
+unite_teams 22 17
+num_wins_for_team 3
+unite_teams 29 27
+get_highest_ranked_team 
+num_wins_for_team 13
+unite_teams 26 11
+play_match 4 8
+get_highest_ranked_team 
+num_wins_for_team 10
+get_highest_ranked_team 
+num_wins_for_team -2
+play_match 20 13
+get_highest_ranked_team 
+unite_teams 17 27
+num_wins_for_team 22
+get_highest_ranked_team 
+play_match 22 -1
+get_highest_ranked_team 
+unite_teams 2 7
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 9 8
+play_match 17 9
+num_wins_for_team 1
+num_wins_for_team 7
+unite_teams 10 13
+get_highest_ranked_team 
+unite_teams 12 22
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 0
+play_match 22 13
+num_wins_for_team 15
+play_match 0 6
+num_wins_for_team 12
+play_match 27 8
+num_wins_for_team 7
+get_highest_ranked_team 
+num_wins_for_team 7
+num_wins_for_team 18
+play_match 10 4
+unite_teams 28 10
+get_highest_ranked_team 
+num_wins_for_team 25
+num_wins_for_team 28
+play_match 8 1
+num_wins_for_team 7
+num_wins_for_team 29
+num_wins_for_team 26
+unite_teams 22 24
+get_highest_ranked_team 
+num_wins_for_team 23
+num_wins_for_team 17
+play_match 28 18
+num_wins_for_team 29
+num_wins_for_team 17
+get_highest_ranked_team 
+unite_teams 13 23
+get_highest_ranked_team 
+num_wins_for_team 13
+get_highest_ranked_team 
+play_match 1 17
+unite_teams 15 25
+play_match 12 24
+play_match 16 28
+num_wins_for_team 11
+num_wins_for_team -2
+num_wins_for_team 28
+get_highest_ranked_team 
+unite_teams 0 6
+unite_teams 8 15
+get_highest_ranked_team 
+play_match 23 14
+num_wins_for_team 1
+play_match 13 -2
+num_wins_for_team 16
+get_highest_ranked_team 
+unite_teams 28 8
+num_wins_for_team 19
+num_wins_for_team 9
+play_match -1 18
+num_wins_for_team 29
+unite_teams 23 2
+play_match 2 28
+num_wins_for_team 1
+num_wins_for_team 13
+get_highest_ranked_team 
+num_wins_for_team 6
+num_wins_for_team 14
+num_wins_for_team 21
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 27 19
+unite_teams 12 26
+num_wins_for_team 16
+get_highest_ranked_team 
+num_wins_for_team 7
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 15
+unite_teams 22 0
+play_match 18 0
+num_wins_for_team 16
+play_match 1 4
+get_highest_ranked_team 
+num_wins_for_team 5
+num_wins_for_team 4
+num_wins_for_team 15
+num_wins_for_team 4
+play_match 9 19
+num_wins_for_team 29
+unite_teams 5 10
+num_wins_for_team 3
+play_match 16 0
+unite_teams 2 8
+unite_teams 7 8
+num_wins_for_team 8
+get_highest_ranked_team 
+unite_teams 11 21
+num_wins_for_team 28
+num_wins_for_team 22
+num_wins_for_team 6
+unite_teams 12 14
+play_match 12 11
+num_wins_for_team 23
+num_wins_for_team 10
+unite_teams 20 21
+num_wins_for_team 13
+num_wins_for_team 15
+num_wins_for_team 18
+get_highest_ranked_team 
+num_wins_for_team 3
+play_match 10 -1
+num_wins_for_team 4
+get_highest_ranked_team 
+num_wins_for_team 20
+play_match 6 8
+play_match 24 8
+num_wins_for_team 6
+num_wins_for_team 22
+get_highest_ranked_team 
+num_wins_for_team 5
+play_match 26 10
+play_match 5 18
+play_match 24 24
+unite_teams 28 25
+get_highest_ranked_team 
+unite_teams 12 13
+play_match 12 -2
+num_wins_for_team 12
+play_match 12 15
+unite_teams 9 24
+num_wins_for_team 27
+num_wins_for_team -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 22
+get_highest_ranked_team 
+num_wins_for_team 19
+unite_teams 9 20
+num_wins_for_team 3
+unite_teams 22 27
+num_wins_for_team 29
+play_match 26 -1
+play_match 17 9
+play_match 27 3
+unite_teams 28 1
+num_wins_for_team 11
+get_highest_ranked_team 
+num_wins_for_team 3
+num_wins_for_team 5
+num_wins_for_team -1
+num_wins_for_team 0
+num_wins_for_team 23
+play_match 22 16
+unite_teams 12 8
+num_wins_for_team 27
+num_wins_for_team 23
+play_match 6 2
+num_wins_for_team 6
+play_match 10 16
+play_match 25 15
+unite_teams 21 29
+num_wins_for_team 22
+play_match 27 1
+num_wins_for_team 10
+num_wins_for_team 27
+num_wins_for_team 0
+get_highest_ranked_team 
+unite_teams 1 2
+play_match 13 14
+num_wins_for_team 21
+unite_teams 20 21
+num_wins_for_team 26
+num_wins_for_team 15
+play_match 29 12
+unite_teams 20 17
+get_highest_ranked_team 
+unite_teams 16 25
+play_match -1 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 6 18
+unite_teams 26 -1
+get_highest_ranked_team 
+unite_teams 10 14
+unite_teams 14 7
+unite_teams 10 18
+play_match 15 6
+num_wins_for_team 1
+num_wins_for_team 9
+play_match 26 15
+get_highest_ranked_team 
+num_wins_for_team 22
+num_wins_for_team 14
+num_wins_for_team 13
+get_highest_ranked_team 
+unite_teams 13 19
+get_highest_ranked_team 
+num_wins_for_team -2
+unite_teams 14 17
+num_wins_for_team 23
+get_highest_ranked_team 
+unite_teams 14 25
+get_highest_ranked_team 
+play_match -1 21
+play_match 9 22
+num_wins_for_team 20
+get_highest_ranked_team 
+num_wins_for_team 6
+unite_teams 10 3
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 5
+play_match 5 10
+unite_teams 18 5
+unite_teams 14 2
+play_match 25 12
+get_highest_ranked_team 
+num_wins_for_team -2
+num_wins_for_team -2
+play_match 4 7
+unite_teams 7 7
+num_wins_for_team 18
+num_wins_for_team 22
+play_match 13 17
+num_wins_for_team 27
+num_wins_for_team 7
+num_wins_for_team 4
+unite_teams 3 27
+unite_teams 24 -2
+play_match 5 13
+play_match -2 18
+num_wins_for_team 19
+num_wins_for_team 14
+unite_teams 6 22
+get_highest_ranked_team 
+play_match 12 14
+num_wins_for_team 2
+num_wins_for_team 11
+get_highest_ranked_team 
+play_match 12 7
+play_match 19 4
+get_highest_ranked_team 
+num_wins_for_team 14
+num_wins_for_team 9
+num_wins_for_team 14
+num_wins_for_team 16
+num_wins_for_team 20
+play_match 18 7
+num_wins_for_team 24
+play_match 7 19
+num_wins_for_team 27
+num_wins_for_team 10
+num_wins_for_team 23
+num_wins_for_team 20
+unite_teams 26 4
+num_wins_for_team 9
+num_wins_for_team 25
+get_highest_ranked_team 
+unite_teams 23 1
+num_wins_for_team 25
+num_wins_for_team 7
+num_wins_for_team 20
+num_wins_for_team 25
+get_highest_ranked_team 
+num_wins_for_team 23
+num_wins_for_team 0
+get_highest_ranked_team 
+play_match 28 10
+unite_teams 0 14
+num_wins_for_team 18
+num_wins_for_team 10
+get_highest_ranked_team 
+num_wins_for_team 16
+get_highest_ranked_team 
+num_wins_for_team 2
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 19
+unite_teams -2 29
+play_match 18 8
+play_match 12 29
+num_wins_for_team 27
+unite_teams 27 0
+num_wins_for_team 14
+num_wins_for_team 20
+play_match 20 8
+get_highest_ranked_team 
+num_wins_for_team 12
+play_match 8 10
+num_wins_for_team 6
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 18
+play_match 4 29
+get_highest_ranked_team 
+unite_teams 3 7
+play_match 26 -1
+num_wins_for_team 23
+play_match -2 -1
+num_wins_for_team 27
+num_wins_for_team 18
+play_match 15 8
+play_match 20 25
+num_wins_for_team 2
+num_wins_for_team -1
+num_wins_for_team 4
+unite_teams -1 17
+play_match 26 15
+unite_teams 18 4
+unite_teams 16 25
+num_wins_for_team 7
+unite_teams 23 28
+num_wins_for_team 27
+get_highest_ranked_team 
+play_match 27 6
+get_highest_ranked_team 
+num_wins_for_team 0
+unite_teams 15 -1
+unite_teams 3 -2
+unite_teams 2 11
+num_wins_for_team 25
+get_highest_ranked_team 
+play_match 15 16
+num_wins_for_team 0
+num_wins_for_team 19
+num_wins_for_team 28
+num_wins_for_team 18
+play_match -1 27
+play_match 25 16
+play_match 7 6
+num_wins_for_team 6
+get_highest_ranked_team 
+num_wins_for_team 18
+num_wins_for_team 20
+num_wins_for_team 11
+num_wins_for_team 7
+num_wins_for_team 7
+num_wins_for_team 26
+unite_teams 19 21
+get_highest_ranked_team 
+unite_teams 13 14
+num_wins_for_team 7
+play_match 11 19
+get_highest_ranked_team 
+play_match 5 17
+num_wins_for_team 2
+play_match 9 18
+get_highest_ranked_team 
+play_match 8 6
+get_highest_ranked_team 
+num_wins_for_team 7
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 23
+unite_teams 28 2
+play_match 18 1
+get_highest_ranked_team 
+unite_teams 16 18
+unite_teams 5 0
+play_match 6 27
+get_highest_ranked_team 
+unite_teams 10 18
+unite_teams 12 6
+unite_teams 21 12
+num_wins_for_team 15
+unite_teams 8 1
+unite_teams 12 17
+num_wins_for_team 6
+num_wins_for_team 13
+get_highest_ranked_team 
+play_match 11 26
+get_highest_ranked_team 
+num_wins_for_team 26
+unite_teams 29 9
+unite_teams 2 20
+unite_teams 3 16
+get_highest_ranked_team 
+num_wins_for_team 12
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 11
+num_wins_for_team 8
+play_match 16 7
+play_match -2 -2
+num_wins_for_team 18
+num_wins_for_team 15
+num_wins_for_team 28
+num_wins_for_team 22
+unite_teams 2 2
+unite_teams 10 -1
+num_wins_for_team 19
+unite_teams 29 23
+play_match 23 -2
+get_highest_ranked_team 
+num_wins_for_team 7
+get_highest_ranked_team 
+play_match 26 -2
+num_wins_for_team 19
+num_wins_for_team 23
+play_match 8 11
+unite_teams 4 27
+play_match -2 8
+num_wins_for_team 5
+play_match 15 3
+play_match 7 3
+get_highest_ranked_team 
+play_match 11 21
+num_wins_for_team 28
+unite_teams 20 -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 4
+play_match -2 0
+get_highest_ranked_team 
+num_wins_for_team 9
+unite_teams 20 20
+get_highest_ranked_team 
+num_wins_for_team 0
+unite_teams 19 -1
+num_wins_for_team 28
+get_highest_ranked_team 
+unite_teams 5 4
+unite_teams 8 -1
+get_highest_ranked_team 
+unite_teams 18 5
+play_match 2 27
+num_wins_for_team 22
+play_match -1 1
+play_match 10 10
+get_highest_ranked_team 
+play_match 10 16
+unite_teams 5 0
+get_highest_ranked_team 
+play_match 3 14
+num_wins_for_team 16
+num_wins_for_team 12
+unite_teams 7 17
+num_wins_for_team 29
+play_match 24 18
+play_match 11 12
+num_wins_for_team 29
+num_wins_for_team 21
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 18
+unite_teams 23 24
+num_wins_for_team 1
+play_match 15 1
+num_wins_for_team 3
+play_match 17 2
+num_wins_for_team 3
+num_wins_for_team 3
+unite_teams -1 26
+unite_teams 28 29
+play_match 20 -1
+get_highest_ranked_team 
+play_match 22 19
+num_wins_for_team 20
+play_match 4 5
+num_wins_for_team 6
+unite_teams 2 3
+num_wins_for_team 12
+num_wins_for_team 4
+num_wins_for_team -2
+play_match 28 9
+num_wins_for_team -2
+num_wins_for_team -2
+play_match 12 10
+num_wins_for_team 1
+play_match 23 28
+num_wins_for_team 28
+play_match 9 22
+play_match -1 24
+play_match 1 16
+num_wins_for_team 6
+num_wins_for_team 19
+num_wins_for_team 8
+num_wins_for_team 27
+play_match 12 12
+unite_teams 15 15
+get_highest_ranked_team 
+play_match 1 4
+get_highest_ranked_team 
+unite_teams 28 15
+unite_teams 12 18
+num_wins_for_team -1
+num_wins_for_team 0
+unite_teams 0 9
+get_highest_ranked_team 
+num_wins_for_team 16
+num_wins_for_team 14
+play_match 18 24
+num_wins_for_team 23
+num_wins_for_team 9
+num_wins_for_team -2
+num_wins_for_team 15
+play_match 29 15
+unite_teams 4 -1
+num_wins_for_team 10
+get_highest_ranked_team 
+num_wins_for_team 22
+unite_teams 15 0
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 21 4
+num_wins_for_team 22
+num_wins_for_team 11
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 20
+unite_teams 3 17
+num_wins_for_team 5
+num_wins_for_team 25
+unite_teams 2 10
+num_wins_for_team 20
+num_wins_for_team 24
+unite_teams 17 -2
+num_wins_for_team 16
+play_match 16 15
+num_wins_for_team 19
+play_match 13 17
+num_wins_for_team 13
+get_highest_ranked_team 
+play_match 0 21
+get_highest_ranked_team 
+unite_teams 29 15
+play_match 24 26
+get_highest_ranked_team 
+unite_teams 23 0
+play_match 8 28
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 17
+play_match 21 3
+play_match 26 15
+unite_teams 20 24
+num_wins_for_team 7
+num_wins_for_team -2
+play_match 19 28
+unite_teams 11 19
+num_wins_for_team 0
+num_wins_for_team 6
+play_match 24 27
+unite_teams 4 6
+play_match 6 22
+num_wins_for_team 16
+num_wins_for_team 3
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 6 14
+get_highest_ranked_team 
+num_wins_for_team 0
+unite_teams 13 6
+num_wins_for_team 20
+num_wins_for_team 23
+play_match 22 18
+play_match 28 19
+unite_teams 17 23
+play_match 9 16
+play_match 27 16
+num_wins_for_team 14
+unite_teams -2 -2
+num_wins_for_team 6
+num_wins_for_team 13
+num_wins_for_team 11
+play_match 15 20
+play_match 0 20
+num_wins_for_team 3
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 27 4
+num_wins_for_team 26
+play_match 7 7
+unite_teams 9 18
+num_wins_for_team 13
+num_wins_for_team 10
+num_wins_for_team 29
+num_wins_for_team 12
+num_wins_for_team 23
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 17 26
+play_match 3 14
+num_wins_for_team 1
+get_highest_ranked_team 
+num_wins_for_team 28
+num_wins_for_team 16
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 0 9
+unite_teams 6 5
+play_match 14 18
+num_wins_for_team 4
+play_match 1 5
+num_wins_for_team 9
+num_wins_for_team 19
+play_match 11 22
+get_highest_ranked_team 
+play_match 16 26
+num_wins_for_team 14
+get_highest_ranked_team 
+unite_teams -2 -1
+unite_teams 8 2
+play_match 27 0
+play_match 8 15
+num_wins_for_team 12
+play_match 25 -1
+play_match 9 28
+num_wins_for_team 21
+num_wins_for_team 10
+get_highest_ranked_team 
+unite_teams 10 21
+num_wins_for_team 4
+unite_teams 7 1
+unite_teams 17 17
+num_wins_for_team 7
+unite_teams 9 27
+get_highest_ranked_team 
+num_wins_for_team 2
+get_highest_ranked_team 
+unite_teams 20 17
+num_wins_for_team 13
+num_wins_for_team 2
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 18
+num_wins_for_team 20
+play_match 18 12
+num_wins_for_team 0
+get_highest_ranked_team 
+play_match 0 14
+num_wins_for_team 24
+num_wins_for_team 20
+num_wins_for_team -1
+num_wins_for_team 18
+num_wins_for_team 16
+num_wins_for_team 29
+num_wins_for_team 6
+num_wins_for_team -2
+play_match 2 15
+num_wins_for_team 18
+unite_teams 24 7
+get_highest_ranked_team 
+num_wins_for_team -1
+num_wins_for_team 2
+play_match 6 1
+num_wins_for_team -1
+play_match 1 6
+get_highest_ranked_team 
+play_match 2 20
+num_wins_for_team 18
+get_highest_ranked_team 
+play_match 23 9
+unite_teams 25 19
+num_wins_for_team 26
+unite_teams 1 17
+num_wins_for_team 26
+unite_teams 29 28
+num_wins_for_team -1
+play_match 23 17
+play_match 24 21
+num_wins_for_team 2
+play_match 11 17
+get_highest_ranked_team 
+num_wins_for_team 12
+num_wins_for_team 25
+unite_teams 4 13
+play_match 14 20
+play_match 2 1
+num_wins_for_team 3
+play_match 16 20
+unite_teams 19 18
+unite_teams 6 14
+play_match 24 24
+num_wins_for_team 27
+play_match 26 2
+unite_teams 22 20
+num_wins_for_team 20
+num_wins_for_team 29
+play_match 27 6
+play_match 9 12
+unite_teams 7 21
+unite_teams 2 5
+play_match 6 27
+get_highest_ranked_team 
+play_match 4 3
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 29
+get_highest_ranked_team 
+play_match 20 9
+play_match 14 4
+unite_teams -1 -2
+get_highest_ranked_team 
+num_wins_for_team 3
+play_match 26 14
+num_wins_for_team 7
+num_wins_for_team 14
+num_wins_for_team 5
+play_match 28 19
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 8 5
+num_wins_for_team 27
+num_wins_for_team 15
+get_highest_ranked_team 
+play_match 5 15
+play_match 24 1
+num_wins_for_team 10
+unite_teams 13 -1
+unite_teams 14 21
+num_wins_for_team 24
+play_match 6 3
+play_match 19 8
+unite_teams 21 1
+play_match 22 2
+num_wins_for_team 24
+num_wins_for_team 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team -1
+num_wins_for_team 4
+play_match 21 26
+unite_teams 12 26
+num_wins_for_team 22
+num_wins_for_team 19
+num_wins_for_team 0
+num_wins_for_team 2
+unite_teams 23 13
+play_match 3 10
+num_wins_for_team 7
+play_match 7 1
+play_match 27 7
+num_wins_for_team 14
+num_wins_for_team 1
+play_match 21 22
+play_match -1 13
+play_match 25 -2
+num_wins_for_team 5
+play_match 10 1
+num_wins_for_team 26
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 26
+play_match 9 14
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 0
+unite_teams 17 4
+unite_teams 12 4
+get_highest_ranked_team 
+num_wins_for_team 29
+get_highest_ranked_team 
+unite_teams 16 20
+num_wins_for_team 6
+get_highest_ranked_team 
+unite_teams 12 9
+num_wins_for_team 5
+num_wins_for_team 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 25 3
+num_wins_for_team 23
+num_wins_for_team 25
+unite_teams -2 0
+play_match 2 17
+unite_teams 14 0
+get_highest_ranked_team 
+num_wins_for_team 17
+get_highest_ranked_team 
+unite_teams -1 29
+num_wins_for_team 22
+num_wins_for_team 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 15 0
+num_wins_for_team 6
+get_highest_ranked_team 
+unite_teams -2 28
+unite_teams 4 13
+get_highest_ranked_team 
+play_match -2 11
+num_wins_for_team 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 26 10
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 2 23
+get_highest_ranked_team 
+num_wins_for_team 7
+num_wins_for_team 4
+get_highest_ranked_team 
+unite_teams 12 5
+num_wins_for_team 20
+num_wins_for_team 20
+num_wins_for_team 2
+get_highest_ranked_team 
+unite_teams 6 14
+unite_teams 15 18
+play_match 16 19
+play_match 3 1
+unite_teams 21 1
+unite_teams 8 15
+num_wins_for_team 12
+play_match 14 13
+unite_teams 15 15
+unite_teams 13 23
+get_highest_ranked_team 
+num_wins_for_team 16
+get_highest_ranked_team 
+num_wins_for_team 3
+play_match 20 26
+num_wins_for_team 17
+num_wins_for_team 8
+num_wins_for_team 11
+num_wins_for_team 5
+play_match 5 2
+play_match 16 -2
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 24
+get_highest_ranked_team 
+num_wins_for_team 9
+num_wins_for_team 14
+num_wins_for_team 22
+play_match 27 3
+num_wins_for_team 0
+play_match -2 9
+play_match 24 22
+get_highest_ranked_team 
+num_wins_for_team 10
+get_highest_ranked_team 
+play_match 23 2
+num_wins_for_team 5
+unite_teams 14 -2
+unite_teams -1 17
+num_wins_for_team 5
+play_match 9 19
+unite_teams 8 16
+num_wins_for_team 10
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 9
+num_wins_for_team 2
+get_highest_ranked_team 
+play_match 16 25
+num_wins_for_team 9
+unite_teams 6 4
+get_highest_ranked_team 
+play_match -2 27
+num_wins_for_team 14
+num_wins_for_team 1
+num_wins_for_team 16
+num_wins_for_team 21
+unite_teams 19 25
+play_match 3 3
+unite_teams 6 21
+num_wins_for_team 11
+num_wins_for_team 12
+play_match 10 14
+get_highest_ranked_team 
+play_match 1 25
+unite_teams 11 10
+num_wins_for_team 16
+num_wins_for_team 15
+unite_teams 22 9
+get_highest_ranked_team 
+unite_teams 28 20
+get_highest_ranked_team 
+unite_teams -2 13
+get_highest_ranked_team 
+num_wins_for_team 13
+num_wins_for_team 13
+unite_teams 15 16
+num_wins_for_team 20
+get_highest_ranked_team 
+num_wins_for_team 21
+play_match 29 2
+num_wins_for_team 28
+play_match 19 1
+num_wins_for_team 6
+play_match -1 15
+unite_teams 13 8
+get_highest_ranked_team 
+num_wins_for_team 10
+get_highest_ranked_team 
+play_match 8 27
+num_wins_for_team 23
+play_match 5 18
+play_match 5 9
+unite_teams 12 -2
+unite_teams 1 26
+num_wins_for_team 16
+num_wins_for_team 13
+play_match 7 27
+unite_teams 19 29
+play_match 11 24
+num_wins_for_team 19
+get_highest_ranked_team 
+play_match 8 23
+play_match -2 20
+num_wins_for_team 4
+play_match 25 -1
+num_wins_for_team 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 10 2
+unite_teams 5 6
+get_highest_ranked_team 
+unite_teams 14 17
+unite_teams -2 13
+num_wins_for_team 9
+play_match -1 4
+num_wins_for_team 12
+play_match -2 19
+unite_teams 6 6
+num_wins_for_team 7
+play_match 4 18
+unite_teams 5 12
+num_wins_for_team -1
+num_wins_for_team 26
+unite_teams 12 16
+num_wins_for_team 2
+play_match 14 24
+get_highest_ranked_team 
+num_wins_for_team 28
+get_highest_ranked_team 
+play_match 24 14
+num_wins_for_team -1
+play_match 18 9
+num_wins_for_team 4
+play_match -2 29
+play_match -1 15
+num_wins_for_team 5
+unite_teams -1 25
+play_match -1 2
+get_highest_ranked_team 
+num_wins_for_team 2
+num_wins_for_team 0
+unite_teams 9 27
+get_highest_ranked_team 
+num_wins_for_team 4
+num_wins_for_team 27
+get_highest_ranked_team 
+play_match -2 -2
+num_wins_for_team 28
+unite_teams 15 14
+play_match 25 -2
+num_wins_for_team 6
+unite_teams 26 18
+unite_teams 26 16
+get_highest_ranked_team 
+num_wins_for_team 26
+num_wins_for_team 16
+get_highest_ranked_team 
+num_wins_for_team 18
+num_wins_for_team 4
+num_wins_for_team 28
+unite_teams 20 27
+num_wins_for_team 7
+unite_teams 16 21
+unite_teams 10 20
+num_wins_for_team 1
+unite_teams 11 15
+unite_teams 2 11
+num_wins_for_team 9
+unite_teams 25 13
+play_match 24 3
+num_wins_for_team 18
+unite_teams 20 26
+num_wins_for_team 16
+num_wins_for_team 5
+get_highest_ranked_team 
+play_match 10 15
+num_wins_for_team 21
+play_match 3 27
+num_wins_for_team 2
+num_wins_for_team -1
+play_match 26 2
+num_wins_for_team 22
+num_wins_for_team 20
+num_wins_for_team 12
+unite_teams 21 18
+unite_teams 13 20
+get_highest_ranked_team 
+num_wins_for_team 21
+play_match 6 18
+get_highest_ranked_team 
+num_wins_for_team 7
+play_match 11 8
+num_wins_for_team 14
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 10
+num_wins_for_team 18
+get_highest_ranked_team 
+num_wins_for_team 23
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 21
+num_wins_for_team 13
+num_wins_for_team 12
+play_match -2 26
+unite_teams 4 4
+num_wins_for_team 9
+get_highest_ranked_team 
+num_wins_for_team 9
+num_wins_for_team 0
+num_wins_for_team 23
+num_wins_for_team 17
+num_wins_for_team 24
+get_highest_ranked_team 
+num_wins_for_team 10
+play_match 2 22
+get_highest_ranked_team 
+unite_teams 6 17
+play_match 7 2
+play_match 25 9
+play_match 4 15
+play_match 27 1
+num_wins_for_team 3
+play_match 24 25
+get_highest_ranked_team 
+play_match 28 1
+play_match 12 4
+get_highest_ranked_team 
+num_wins_for_team 0
+play_match 22 28
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 29 18
+num_wins_for_team 1
+unite_teams 9 9
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 18 8
+num_wins_for_team 5
+num_wins_for_team 27
+play_match 10 -1
+num_wins_for_team 29
+get_highest_ranked_team 
+unite_teams 28 10
+play_match 22 27
+unite_teams 12 18
+num_wins_for_team -2
+get_highest_ranked_team 
+play_match 12 -2
+get_highest_ranked_team 
+play_match 19 27
+play_match 3 27
+get_highest_ranked_team 
+play_match 9 29
+num_wins_for_team 26
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 4 1
+unite_teams 17 29
+get_highest_ranked_team 
+unite_teams 29 23
+get_highest_ranked_team 
+unite_teams 0 15
+play_match 21 12
+unite_teams -1 7
+num_wins_for_team 10
+play_match 3 6
+unite_teams 22 24
+play_match 29 14
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 8 11
+get_highest_ranked_team 
+num_wins_for_team 6
+num_wins_for_team 25
+play_match 15 26
+unite_teams 10 5
+unite_teams 19 25
+num_wins_for_team 1
+play_match 11 12
+num_wins_for_team 2
+unite_teams 4 -1
+unite_teams 8 10
+unite_teams 16 13
+unite_teams 15 8
+play_match 6 7
+num_wins_for_team 8
+unite_teams 27 0
+num_wins_for_team 13
+get_highest_ranked_team 
+unite_teams 18 15
+unite_teams 5 2
+num_wins_for_team 4
+unite_teams 2 -1
+num_wins_for_team -2
+unite_teams 29 7
+num_wins_for_team 7
+play_match 25 1
+get_highest_ranked_team 
+play_match 5 8
+unite_teams 8 9
+play_match 21 0
+num_wins_for_team 12
+play_match 15 -1
+num_wins_for_team 11
+num_wins_for_team 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 11
+play_match 15 20
+get_highest_ranked_team 
+play_match 27 3
+play_match 1 13
+get_highest_ranked_team 
+num_wins_for_team 22
+num_wins_for_team 24
+num_wins_for_team 26
+num_wins_for_team 6
+unite_teams 26 21
+unite_teams 26 14
+num_wins_for_team 9
+get_highest_ranked_team 
+num_wins_for_team 14
+get_highest_ranked_team 
+num_wins_for_team 26
+play_match 17 15
+play_match 27 7
+play_match 18 0
+num_wins_for_team 2
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 12 19
+num_wins_for_team 17
+num_wins_for_team 24
+num_wins_for_team 4
+num_wins_for_team 14
+num_wins_for_team 16
+num_wins_for_team 4
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 23
+unite_teams 27 23
+get_highest_ranked_team 
+play_match 14 -2
+num_wins_for_team 15
+get_highest_ranked_team 
+play_match 4 26
+play_match 14 21
+num_wins_for_team 8
+num_wins_for_team 20
+unite_teams 7 16
+play_match 4 8
+play_match 3 -1
+num_wins_for_team 28
+num_wins_for_team 0
+num_wins_for_team 29
+play_match 18 -2
+num_wins_for_team 9
+get_highest_ranked_team 
+play_match 18 15
+play_match 24 9
+unite_teams 27 -2
+play_match 24 21
+play_match 12 27
+num_wins_for_team 24
+play_match 13 21
+play_match 10 2
+num_wins_for_team 8
+get_highest_ranked_team 
+unite_teams 6 27
+num_wins_for_team 2
+play_match 3 11
+num_wins_for_team 16
+play_match 0 2
+get_highest_ranked_team 
+num_wins_for_team 1
+unite_teams 29 11
+unite_teams 20 0
+num_wins_for_team 13
+num_wins_for_team 1
+num_wins_for_team 9
+num_wins_for_team -2
+unite_teams 17 14
+unite_teams 16 27
+num_wins_for_team 12
+play_match 19 27
+play_match 9 16
+get_highest_ranked_team 
+unite_teams 25 28
+num_wins_for_team 26
+play_match 3 11
+num_wins_for_team 6
+num_wins_for_team 4
+unite_teams 8 17
+play_match 1 12
+num_wins_for_team 24
+num_wins_for_team 9
+play_match 6 9
+play_match 14 25
+unite_teams -2 9
+num_wins_for_team 4
+num_wins_for_team 19
+num_wins_for_team 13
+num_wins_for_team 10
+unite_teams 10 -2
+unite_teams 11 16
+play_match 21 2
+num_wins_for_team 16
+play_match 3 1
+unite_teams 23 11
+get_highest_ranked_team 
+play_match 18 19
+play_match 19 6
+play_match 10 17
+play_match -2 14
+play_match -2 -2
+unite_teams 14 2
+play_match 19 14
+play_match 3 3
+num_wins_for_team 17
+num_wins_for_team -1
+unite_teams 13 1
+play_match 27 6
+play_match 18 23
+num_wins_for_team 22
+unite_teams 4 0
+get_highest_ranked_team 
+unite_teams 18 28
+num_wins_for_team 0
+get_highest_ranked_team 
+num_wins_for_team 13
+play_match 1 7
+get_highest_ranked_team 
+unite_teams 17 9
+num_wins_for_team 11
+num_wins_for_team 11
+num_wins_for_team 20
+num_wins_for_team 13
+get_highest_ranked_team 
+num_wins_for_team 6
+num_wins_for_team 28
+play_match 29 5
+play_match 0 16
+num_wins_for_team 20
+play_match 10 25
+unite_teams 23 -1
+num_wins_for_team 24
+get_highest_ranked_team 
+num_wins_for_team 23
+play_match 16 25
+get_highest_ranked_team 
+unite_teams 21 3
+get_highest_ranked_team 
+play_match 4 -2
+unite_teams -1 18
+num_wins_for_team 8
+unite_teams 18 21
+unite_teams 18 13
+num_wins_for_team 24
+play_match 11 -2
+num_wins_for_team 18
+num_wins_for_team 26
+unite_teams 20 1
+play_match 18 16
+play_match 8 -2
+num_wins_for_team 22
+num_wins_for_team 27
+unite_teams 27 21
+play_match 9 29
+num_wins_for_team 22
+get_highest_ranked_team 
+num_wins_for_team 14
+get_highest_ranked_team 
+play_match 26 19
+num_wins_for_team 24
+num_wins_for_team 6
+num_wins_for_team 24
+num_wins_for_team 2
+num_wins_for_team 11
+play_match 28 12
+play_match 15 29
+num_wins_for_team 28
+unite_teams 26 1
+unite_teams 16 8
+play_match 26 11
+num_wins_for_team 13
+play_match 1 28
+play_match -1 11
+num_wins_for_team 27
+num_wins_for_team 13
+num_wins_for_team 27
+get_highest_ranked_team 
+num_wins_for_team 4
+num_wins_for_team 12
+get_highest_ranked_team 
+num_wins_for_team 4
+play_match 10 14
+get_highest_ranked_team 
+num_wins_for_team 27
+get_highest_ranked_team 
+unite_teams 13 14
+num_wins_for_team 21
+num_wins_for_team 16
+get_highest_ranked_team 
+unite_teams 26 22
+num_wins_for_team 11
+play_match 14 15
+get_highest_ranked_team 
+num_wins_for_team -2
+unite_teams -2 29
+num_wins_for_team 8
+unite_teams 7 -2
+num_wins_for_team 22
+get_highest_ranked_team 
+num_wins_for_team 7
+num_wins_for_team 10
+num_wins_for_team 11
+num_wins_for_team 0
+get_highest_ranked_team 
+unite_teams 20 13
+get_highest_ranked_team 
+num_wins_for_team 13
+play_match 22 8
+unite_teams 8 1
+num_wins_for_team 3
+play_match -1 25
+num_wins_for_team -1
+unite_teams 15 12
+unite_teams 23 9
+play_match 14 7
+get_highest_ranked_team 
+unite_teams 10 25
+num_wins_for_team 12
+play_match -2 1
+num_wins_for_team -1
+unite_teams 24 7
+unite_teams 18 6
+play_match 9 16
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 12 26
+play_match 17 25
+unite_teams 11 13
+play_match 29 14
+num_wins_for_team 29
+unite_teams 2 12
+num_wins_for_team 20
+num_wins_for_team 15
+play_match 11 24
+unite_teams 3 6
+unite_teams 25 5
+play_match 19 3
+num_wins_for_team -2
+play_match 9 2
+num_wins_for_team 12
+num_wins_for_team 27
+play_match 10 4
+get_highest_ranked_team 
+play_match 29 14
+num_wins_for_team 22
+num_wins_for_team 1
+play_match 16 23
+get_highest_ranked_team 
+play_match -1 27
+get_highest_ranked_team 
+play_match 25 10
+num_wins_for_team 21
+unite_teams 26 3
+num_wins_for_team 26
+num_wins_for_team 15
+num_wins_for_team 12
+get_highest_ranked_team 
+num_wins_for_team 14
+get_highest_ranked_team 
+unite_teams 22 1
+unite_teams 10 10
+num_wins_for_team 14
+play_match 28 14
+play_match 29 2
+unite_teams 9 -1
+play_match 18 3
+unite_teams 13 22
+num_wins_for_team 19
+unite_teams 22 16
+play_match 11 -1
+get_highest_ranked_team 
+play_match 7 26
+num_wins_for_team 22
+num_wins_for_team 19
+unite_teams 23 14
+get_highest_ranked_team 
+play_match 22 27
+num_wins_for_team 24
+unite_teams 3 28
+unite_teams 1 14
+unite_teams 19 0
+unite_teams 5 3
+get_highest_ranked_team 
+play_match 28 14
+get_highest_ranked_team 
+num_wins_for_team 25
+unite_teams 27 29
+num_wins_for_team 18
+play_match 11 28
+get_highest_ranked_team 
+play_match 3 13
+play_match 23 9
+num_wins_for_team 6
+unite_teams -2 6
+get_highest_ranked_team 
+play_match 0 28
+unite_teams 12 23
+play_match 27 5
+unite_teams 28 12
+unite_teams -1 6
+play_match 22 19
+play_match 18 14
+num_wins_for_team 10
+num_wins_for_team 17
+get_highest_ranked_team 
+play_match 4 22
+num_wins_for_team -2
+num_wins_for_team 7
+num_wins_for_team 10
+num_wins_for_team 20
+num_wins_for_team 17
+play_match 10 6
+unite_teams 29 14
+num_wins_for_team 7
+num_wins_for_team 12
+unite_teams 29 28
+unite_teams 29 6
+get_highest_ranked_team 
+num_wins_for_team -2
+unite_teams 25 12
+get_highest_ranked_team 
+play_match 20 18
+play_match 25 9
+unite_teams 24 1
+unite_teams 12 -1
+play_match 25 29
+num_wins_for_team 1
+get_highest_ranked_team 
+num_wins_for_team -2
+get_highest_ranked_team 
+num_wins_for_team 15
+play_match 6 8
+num_wins_for_team 7
+num_wins_for_team 8
+get_highest_ranked_team 
+num_wins_for_team 13
+play_match 9 -2
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 6 23
+get_highest_ranked_team 
+play_match 22 2
+get_highest_ranked_team 
+num_wins_for_team 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 5 0
+num_wins_for_team 3
+num_wins_for_team 27
+play_match 5 4
+play_match 27 7
+unite_teams 25 26
+num_wins_for_team 1
+unite_teams 6 0
+num_wins_for_team 24
+get_highest_ranked_team 
+unite_teams 22 8
+num_wins_for_team 5
+num_wins_for_team 14
+num_wins_for_team 29
+get_highest_ranked_team 
+unite_teams 28 12
+num_wins_for_team 5
+get_highest_ranked_team 
+num_wins_for_team 23
+num_wins_for_team 20
+num_wins_for_team 6
+get_highest_ranked_team 
+num_wins_for_team -2
+unite_teams 10 24
+get_highest_ranked_team 
+num_wins_for_team 17
+num_wins_for_team 27
+unite_teams 14 17
+unite_teams 11 10
+play_match -2 -2
+num_wins_for_team 16
+num_wins_for_team 6
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 18
+num_wins_for_team -1
+unite_teams 13 20
+num_wins_for_team 24
+num_wins_for_team 4
+unite_teams 29 22
+play_match 27 14
+num_wins_for_team 21
+num_wins_for_team 3
+unite_teams 2 3
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 15
+play_match 4 12
+num_wins_for_team 2
+num_wins_for_team 13
+play_match 14 29
+play_match 25 16
+unite_teams 18 13
+play_match 19 29
+num_wins_for_team 7
+unite_teams 19 13
+num_wins_for_team 28
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 2 17
+unite_teams 8 0
+unite_teams 10 9
+unite_teams 0 18
+play_match 6 15
+play_match -2 0
+play_match 16 28
+num_wins_for_team 5
+play_match -2 9
+unite_teams 7 11
+get_highest_ranked_team 
+num_wins_for_team 29
+play_match 3 13
+unite_teams 27 4
+unite_teams 20 24
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 12
+play_match 3 -1
+num_wins_for_team 5
+num_wins_for_team 15
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 4
+unite_teams 6 8
+play_match 26 29
+num_wins_for_team 27
+play_match 13 0
+num_wins_for_team 11
+unite_teams 18 7
+get_highest_ranked_team 
+play_match 8 13
+num_wins_for_team -2
+num_wins_for_team 12
+unite_teams 27 25
+play_match 14 2
+num_wins_for_team 8
+get_highest_ranked_team 
+unite_teams 9 1
+get_highest_ranked_team 
+num_wins_for_team 29
+unite_teams 16 5
+num_wins_for_team 20
+play_match 7 1
+unite_teams -2 9
+get_highest_ranked_team 
+play_match 13 24
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 22 11
+num_wins_for_team 23
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 16 0
+num_wins_for_team 5
+get_highest_ranked_team 
+num_wins_for_team 9
+num_wins_for_team 17
+num_wins_for_team 13
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 16 12
+unite_teams 14 20
+get_highest_ranked_team 
+num_wins_for_team -1
+play_match 27 14
+unite_teams 23 24
+unite_teams -2 17
+get_highest_ranked_team 
+num_wins_for_team 5
+num_wins_for_team 26
+play_match 16 10
+unite_teams 10 17
+unite_teams 4 0
+num_wins_for_team 4
+unite_teams 0 26
+unite_teams 25 10
+get_highest_ranked_team 
+unite_teams 1 22
+num_wins_for_team 15
+num_wins_for_team 2
+play_match 18 27
+get_highest_ranked_team 
+unite_teams 10 5
+num_wins_for_team -1
+get_highest_ranked_team 
+unite_teams 11 14
+play_match 15 4
+unite_teams 2 -1
+get_highest_ranked_team 
+unite_teams 29 23
+get_highest_ranked_team 
+unite_teams 0 9
+num_wins_for_team 4
+unite_teams 18 16
+unite_teams 2 2
+play_match 24 2
+num_wins_for_team 22
+get_highest_ranked_team 
+play_match 29 12
+get_highest_ranked_team 
+num_wins_for_team 23
+num_wins_for_team 14
+play_match 16 28
+num_wins_for_team 27
+num_wins_for_team 21
+num_wins_for_team 1
+get_highest_ranked_team 
+play_match 28 12
+num_wins_for_team 6
+get_highest_ranked_team 
+play_match 23 14
+num_wins_for_team 5
+num_wins_for_team 24
+num_wins_for_team 9
+play_match 4 16
+unite_teams 19 10
+num_wins_for_team 22
+unite_teams -2 22
+num_wins_for_team 25
+num_wins_for_team 18
+num_wins_for_team 29
+get_highest_ranked_team 
+unite_teams 19 2
+num_wins_for_team 4
+play_match 25 23
+unite_teams 1 10
+num_wins_for_team 1
+play_match 16 23
+play_match 12 -2
+num_wins_for_team 13
+num_wins_for_team 26
+unite_teams 26 0
+unite_teams 19 -1
+play_match 0 27
+play_match 1 27
+num_wins_for_team 11
+num_wins_for_team 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 4 15
+unite_teams 20 1
+play_match 24 24
+num_wins_for_team 6
+unite_teams 5 15
+play_match 15 -2
+num_wins_for_team 27
+num_wins_for_team 2
+unite_teams 20 16
+play_match 24 19
+num_wins_for_team 11
+num_wins_for_team 7
+get_highest_ranked_team 
+num_wins_for_team 10
+num_wins_for_team 28
+num_wins_for_team 6
+get_highest_ranked_team 
+play_match 22 25
+num_wins_for_team 29
+play_match 22 23
+play_match 13 28
+play_match 12 9
+num_wins_for_team 22
+num_wins_for_team 5
+get_highest_ranked_team 
+num_wins_for_team 12
+get_highest_ranked_team 
+num_wins_for_team 22
+num_wins_for_team 15
+num_wins_for_team 9
+num_wins_for_team 11
+get_highest_ranked_team 
+unite_teams 16 17
+unite_teams 28 0
+play_match 6 -2
+num_wins_for_team 14
+play_match 28 25
+play_match -2 22
+play_match 28 24
+unite_teams 27 27
+play_match 29 26
+num_wins_for_team 10
+play_match 9 21
+num_wins_for_team -2
+get_highest_ranked_team 
+num_wins_for_team 21
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 27 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 10
+num_wins_for_team 28
+num_wins_for_team 10
+num_wins_for_team 7
+num_wins_for_team 1
+num_wins_for_team 8
+play_match 13 2
+num_wins_for_team 3
+unite_teams -2 18
+get_highest_ranked_team 
+unite_teams 2 14
+unite_teams 0 20
+play_match 26 3
+play_match 24 28
+num_wins_for_team 14
+num_wins_for_team 4
+num_wins_for_team 12
+play_match 7 11
+get_highest_ranked_team 
+play_match 18 25
+unite_teams 15 15
+num_wins_for_team -1
+num_wins_for_team 2
+num_wins_for_team 22
+num_wins_for_team 17
+num_wins_for_team 14
+play_match 11 13
+unite_teams 8 9
+get_highest_ranked_team 
+num_wins_for_team 7
+play_match 19 3
+num_wins_for_team 20
+num_wins_for_team 22
+num_wins_for_team 3
+unite_teams 3 25
+num_wins_for_team 16
+get_highest_ranked_team 
+num_wins_for_team 21
+num_wins_for_team 18
+unite_teams 14 3
+num_wins_for_team 17
+num_wins_for_team 12
+num_wins_for_team 1
+unite_teams 25 28
+play_match 19 14
+num_wins_for_team 21
+play_match 0 26
+num_wins_for_team 3
+play_match 18 17
+play_match 2 3
+unite_teams 8 -1
+num_wins_for_team 11
+get_highest_ranked_team 
+num_wins_for_team 21
+num_wins_for_team 10
+play_match 2 27
+num_wins_for_team -2
+play_match 22 29
+num_wins_for_team 3
+play_match 0 8
+get_highest_ranked_team 
+unite_teams 21 25
+play_match 16 24
+play_match 5 16
+play_match 6 15
+unite_teams 16 0
+num_wins_for_team 16
+unite_teams 20 11
+play_match 2 3
+play_match 23 14
+unite_teams 25 2
+unite_teams 1 26
+num_wins_for_team 13
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 29
+num_wins_for_team 26
+play_match 26 15
+play_match 11 29
+unite_teams 24 13
+unite_teams 19 25
+play_match 2 3
+unite_teams 6 5
+num_wins_for_team 23
+unite_teams 8 15
+num_wins_for_team 3
+num_wins_for_team 25
+unite_teams 16 28
+num_wins_for_team 5
+num_wins_for_team 6
+num_wins_for_team 16
+num_wins_for_team 14
+num_wins_for_team 9
+num_wins_for_team 17
+num_wins_for_team 1
+unite_teams 26 16
+num_wins_for_team 15
+num_wins_for_team 28
+get_highest_ranked_team 
+unite_teams 11 -1
+num_wins_for_team 13
+get_highest_ranked_team 
+play_match 7 9
+get_highest_ranked_team 
+num_wins_for_team 5
+unite_teams 21 11
+play_match 20 0
+num_wins_for_team 17
+play_match 10 9
+play_match 11 28
+num_wins_for_team 1
+num_wins_for_team 16
+play_match -2 29
+play_match 14 19
+unite_teams 17 23
+num_wins_for_team 20
+unite_teams 25 8
+unite_teams 25 -1
+play_match 18 2
+num_wins_for_team 12
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 8
+num_wins_for_team 25
+num_wins_for_team 5
+unite_teams 5 18
+num_wins_for_team -1
+unite_teams 29 11
+num_wins_for_team 13
+num_wins_for_team 3
+unite_teams 5 8
+num_wins_for_team 7
+get_highest_ranked_team 
+unite_teams 25 8
+num_wins_for_team 15
+get_highest_ranked_team 
+num_wins_for_team 4
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 29 10
+num_wins_for_team 17
+play_match 13 19
+unite_teams 4 9
+num_wins_for_team 7
+num_wins_for_team 19
+num_wins_for_team 6
+num_wins_for_team 5
+unite_teams 7 15
+num_wins_for_team -2
+play_match 18 18
+get_highest_ranked_team 
+unite_teams 23 27
+get_highest_ranked_team 
+play_match 12 -2
+num_wins_for_team 13
+unite_teams 29 26
+num_wins_for_team 9
+unite_teams 4 17
+num_wins_for_team 11
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 24 22
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 1 11
+num_wins_for_team 20
+play_match 5 -1
+num_wins_for_team 6
+get_highest_ranked_team 
+unite_teams 7 15
+num_wins_for_team 16
+unite_teams 19 13
+play_match 29 7
+play_match 12 16
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 20 22
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 28
+get_highest_ranked_team 
+play_match 0 15
+num_wins_for_team 12
+num_wins_for_team 22
+play_match 9 24
+unite_teams 9 29
+unite_teams 1 2
+num_wins_for_team 23
+num_wins_for_team 11
+get_highest_ranked_team 
+num_wins_for_team 21
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 7
+play_match 0 28
+get_highest_ranked_team 
+unite_teams -1 10
+unite_teams 18 12
+unite_teams 8 29
+get_highest_ranked_team 
+unite_teams 20 14
+num_wins_for_team 7
+unite_teams 23 2
+num_wins_for_team 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 20
+unite_teams 8 28
+get_highest_ranked_team 
+num_wins_for_team 23
+unite_teams 29 23
+num_wins_for_team 11
+num_wins_for_team 15
+unite_teams 5 -2
+num_wins_for_team 8
+unite_teams 27 3
+play_match 9 12
+play_match 26 0
+num_wins_for_team 9
+num_wins_for_team 27
+unite_teams 13 13
+get_highest_ranked_team 
+num_wins_for_team 29
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 25
+play_match 14 -1
+unite_teams 17 24
+num_wins_for_team 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 27 20
+get_highest_ranked_team 
+unite_teams 19 16
+num_wins_for_team 5
+unite_teams -1 2
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 5 16
+num_wins_for_team 27
+unite_teams 15 6
+play_match 3 23
+play_match 15 11
+num_wins_for_team 10
+get_highest_ranked_team 
+unite_teams 15 7
+play_match 7 14
+get_highest_ranked_team 
+play_match 1 26
+num_wins_for_team 15
+num_wins_for_team 29
+num_wins_for_team 16
+num_wins_for_team 13
+play_match 18 18
+num_wins_for_team 23
+unite_teams 5 2
+play_match 0 -1
+play_match 17 3
+play_match 25 4
+unite_teams 12 2
+num_wins_for_team 4
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 22 29
+num_wins_for_team 23
+get_highest_ranked_team 
+play_match 19 15
+get_highest_ranked_team 
+unite_teams 28 2
+play_match 14 27
+num_wins_for_team 10
+num_wins_for_team 22
+play_match 28 3
+unite_teams 2 18
+play_match 2 5
+num_wins_for_team -2
+num_wins_for_team 17
+play_match 20 1
+get_highest_ranked_team 
+num_wins_for_team 19
+num_wins_for_team 4
+play_match 8 -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 15 1
+num_wins_for_team 20
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 20
+play_match 8 29
+play_match 22 -2
+unite_teams 22 1
+num_wins_for_team 5
+play_match 3 0
+num_wins_for_team 10
+num_wins_for_team 1
+num_wins_for_team 2
+num_wins_for_team 21
+play_match 24 13
+unite_teams 4 29
+play_match 26 25
+num_wins_for_team 26
+unite_teams 19 28
+num_wins_for_team 20
+num_wins_for_team 0
+play_match 14 27
+play_match 4 20
+play_match 17 8
+num_wins_for_team 23
+play_match 24 19
+num_wins_for_team 7
+get_highest_ranked_team 
+num_wins_for_team -2
+num_wins_for_team 9
+num_wins_for_team 7
+num_wins_for_team 4
+play_match 19 18
+unite_teams 27 13
+num_wins_for_team 8
+num_wins_for_team 20
+unite_teams 18 23
+unite_teams 0 18
+play_match 19 12
+play_match 26 6
+get_highest_ranked_team 
+num_wins_for_team 2
+num_wins_for_team 0
+play_match 11 15
+unite_teams 29 -1
+num_wins_for_team 7
+num_wins_for_team 4
+get_highest_ranked_team 
+unite_teams 15 18
+play_match -2 5
+num_wins_for_team 22
+unite_teams -2 5
+num_wins_for_team 22
+unite_teams -2 1
+unite_teams 20 -1
+unite_teams 15 13
+num_wins_for_team 1
+num_wins_for_team 28
+num_wins_for_team 8
+play_match 6 24
+play_match 19 24
+unite_teams 4 3
+unite_teams 10 22
+unite_teams 14 4
+unite_teams 18 20
+num_wins_for_team -2
+get_highest_ranked_team 
+num_wins_for_team 6
+num_wins_for_team 12
+play_match 11 25
+play_match 6 14
+num_wins_for_team 25
+unite_teams 20 27
+num_wins_for_team 5
+get_highest_ranked_team 
+unite_teams 1 9
+num_wins_for_team -1
+unite_teams 27 28
+num_wins_for_team 7
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 24 23
+get_highest_ranked_team 
+play_match 0 29
+num_wins_for_team 10
+get_highest_ranked_team 
+unite_teams 9 18
+num_wins_for_team 10
+num_wins_for_team 16
+num_wins_for_team 20
+num_wins_for_team 15
+get_highest_ranked_team 
+unite_teams 29 -1
+num_wins_for_team 10
+unite_teams 8 8
+play_match 18 -1
+num_wins_for_team 11
+unite_teams 4 3
+unite_teams 7 27
+play_match 11 13
+num_wins_for_team 14
+num_wins_for_team 6
+num_wins_for_team 28
+num_wins_for_team 16
+num_wins_for_team 22
+play_match 20 19
+num_wins_for_team 16
+num_wins_for_team 21
+get_highest_ranked_team 
+unite_teams 20 14
+unite_teams 10 13
+play_match 0 17
+get_highest_ranked_team 
+play_match 13 0
+play_match 0 27
+num_wins_for_team 25
+play_match 11 22
+get_highest_ranked_team 
+play_match 3 16
+num_wins_for_team 23
+num_wins_for_team 2
+num_wins_for_team 7
+num_wins_for_team -2
+play_match 21 16
+play_match 14 13
+num_wins_for_team 11
+play_match 14 26
+play_match 20 9
+num_wins_for_team 16
+unite_teams 3 24
+get_highest_ranked_team 
+num_wins_for_team 26
+unite_teams 10 2
+num_wins_for_team 23
+unite_teams 5 23
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 5 26
+get_highest_ranked_team 
+num_wins_for_team 2
+play_match 0 24
+num_wins_for_team -1
+num_wins_for_team 3
+get_highest_ranked_team 
+num_wins_for_team 6
+play_match 14 6
+num_wins_for_team 6
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 5
+get_highest_ranked_team 
+play_match -2 -2
+play_match 19 0
+unite_teams 29 29
+play_match 25 3
+play_match 25 11
+num_wins_for_team 8
+play_match 17 5
+num_wins_for_team 27
+unite_teams 26 0
+num_wins_for_team 6
+num_wins_for_team 12
+get_highest_ranked_team 
+play_match 5 0
+play_match 4 10
+num_wins_for_team 5
+play_match 6 5
+num_wins_for_team 0
+get_highest_ranked_team 
+unite_teams 15 25
+num_wins_for_team 10
+play_match 15 25
+unite_teams 8 0
+num_wins_for_team 10
+play_match 29 7
+unite_teams 26 -2
+num_wins_for_team 24
+num_wins_for_team 21
+play_match 2 -1
+unite_teams 20 3
+num_wins_for_team -2
+num_wins_for_team 1
+play_match 23 14
+num_wins_for_team 14
+play_match 4 10
+get_highest_ranked_team 
+unite_teams 11 1
+unite_teams 6 6
+num_wins_for_team 5
+num_wins_for_team 22
+get_highest_ranked_team 
+unite_teams 11 3
+num_wins_for_team 5
+unite_teams 10 8
+play_match 6 26
+num_wins_for_team 13
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match -2 3
+get_highest_ranked_team 
+num_wins_for_team 1
+play_match 16 7
+num_wins_for_team 2
+get_highest_ranked_team 
+num_wins_for_team 15
+num_wins_for_team 6
+unite_teams 18 10
+num_wins_for_team 28
+get_highest_ranked_team 
+unite_teams 6 26
+num_wins_for_team 25
+num_wins_for_team 12
+num_wins_for_team 18
+num_wins_for_team 15
+play_match 19 19
+unite_teams 24 17
+get_highest_ranked_team 
+num_wins_for_team 8
+unite_teams 5 12
+unite_teams 15 16
+get_highest_ranked_team 
+unite_teams 0 1
+play_match 1 1
+num_wins_for_team 0
+play_match 10 7
+num_wins_for_team 16
+num_wins_for_team 24
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 25
+play_match 16 26
+num_wins_for_team 4
+play_match 11 21
+unite_teams 19 6
+unite_teams 26 -1
+num_wins_for_team 22
+unite_teams 0 5
+num_wins_for_team -2
+play_match 26 -2
+unite_teams 16 29
+play_match 7 14
+get_highest_ranked_team 
+num_wins_for_team -2
+unite_teams 20 -2
+get_highest_ranked_team 
+num_wins_for_team 3
+get_highest_ranked_team 
+num_wins_for_team 10
+num_wins_for_team 8
+num_wins_for_team 14
+unite_teams 15 25
+unite_teams 0 3
+num_wins_for_team 15
+play_match -1 22
+num_wins_for_team 29
+num_wins_for_team 17
+num_wins_for_team 15
+get_highest_ranked_team 
+unite_teams 7 3
+num_wins_for_team 6
+num_wins_for_team 26
+play_match 9 4
+num_wins_for_team 19
+num_wins_for_team 0
+play_match 3 21
+num_wins_for_team -1
+get_highest_ranked_team 
+play_match 24 22
+num_wins_for_team 18
+get_highest_ranked_team 
+num_wins_for_team 12
+play_match 16 22
+num_wins_for_team 17
+unite_teams 9 27
+get_highest_ranked_team 
+num_wins_for_team 4
+num_wins_for_team 19
+unite_teams 17 4
+play_match 6 29
+num_wins_for_team 9
+play_match 26 9
+play_match 26 16
+unite_teams 16 10
+unite_teams 26 23
+num_wins_for_team 10
+get_highest_ranked_team 
+num_wins_for_team 29
+play_match 26 6
+get_highest_ranked_team 
+unite_teams 23 1
+unite_teams 17 20
+play_match 25 22
+unite_teams 4 15
+num_wins_for_team 5
+play_match 14 0
+num_wins_for_team 11
+num_wins_for_team 12
+get_highest_ranked_team 
+unite_teams 2 5
+play_match 23 2
+num_wins_for_team 2
+get_highest_ranked_team 
+unite_teams 0 5
+num_wins_for_team 11
+num_wins_for_team -1
+num_wins_for_team 9
+get_highest_ranked_team 
+num_wins_for_team 17
+num_wins_for_team 28
+unite_teams 19 26
+play_match 1 2
+num_wins_for_team 9
+num_wins_for_team 18
+num_wins_for_team 24
+unite_teams 15 23
+unite_teams 4 -1
+unite_teams 27 0
+num_wins_for_team 6
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 2 1
+num_wins_for_team 28
+get_highest_ranked_team 
+unite_teams 10 20
+play_match 17 22
+get_highest_ranked_team 
+play_match 10 24
+unite_teams 21 21
+num_wins_for_team 19
+play_match 10 7
+num_wins_for_team 0
+num_wins_for_team 15
+get_highest_ranked_team 
+num_wins_for_team 26
+num_wins_for_team -1
+num_wins_for_team 14
+num_wins_for_team 19
+num_wins_for_team 10
+num_wins_for_team 3
+play_match -1 0
+num_wins_for_team 18
+play_match 25 2
+play_match 7 5
+get_highest_ranked_team 
+unite_teams 24 18
+play_match 2 -1
+num_wins_for_team 10
+get_highest_ranked_team 
+unite_teams 1 3
+unite_teams 12 25
+get_highest_ranked_team 
+play_match 25 25
+num_wins_for_team 28
+unite_teams 19 17
+unite_teams 17 28
+num_wins_for_team 16
+num_wins_for_team 20
+num_wins_for_team 21
+unite_teams 16 29
+num_wins_for_team 12
+num_wins_for_team 19
+num_wins_for_team 23
+num_wins_for_team 22
+unite_teams 5 18
+num_wins_for_team 8
+num_wins_for_team 5
+num_wins_for_team 0
+get_highest_ranked_team 
+unite_teams -2 6
+num_wins_for_team -1
+play_match 26 14
+num_wins_for_team 24
+get_highest_ranked_team 
+num_wins_for_team 21
+play_match 3 15
+play_match 23 11
+play_match 13 1
+num_wins_for_team 26
+get_highest_ranked_team 
+unite_teams 5 11
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 29
+get_highest_ranked_team 
+num_wins_for_team 13
+num_wins_for_team 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 26
+get_highest_ranked_team 
+play_match 18 20
+get_highest_ranked_team 
+unite_teams 16 19
+num_wins_for_team 17
+num_wins_for_team 6
+play_match -2 21
+get_highest_ranked_team 
+num_wins_for_team 5
+play_match 12 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 3 26
+num_wins_for_team 1
+unite_teams 1 20
+get_highest_ranked_team 
+play_match 11 15
+num_wins_for_team 22
+num_wins_for_team 23
+get_highest_ranked_team 
+unite_teams 27 21
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 4
+unite_teams 18 17
+play_match 11 2
+num_wins_for_team 20
+num_wins_for_team 28
+play_match 13 28
+unite_teams 4 12
+num_wins_for_team 0
+play_match 16 13
+get_highest_ranked_team 
+num_wins_for_team 9
+num_wins_for_team 11
+play_match 3 13
+play_match 29 26
+num_wins_for_team 5
+play_match 20 19
+get_highest_ranked_team 
+unite_teams 28 12
+num_wins_for_team 26
+play_match 12 8
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 28 11
+num_wins_for_team 1
+num_wins_for_team -2
+num_wins_for_team 21
+num_wins_for_team 23
+unite_teams 12 -1
+unite_teams 27 -1
+play_match 27 16
+get_highest_ranked_team 
+num_wins_for_team 24
+num_wins_for_team 3
+get_highest_ranked_team 
+play_match 7 11
+num_wins_for_team 19
+get_highest_ranked_team 
+num_wins_for_team 7
+play_match 25 1
+num_wins_for_team 4
+unite_teams 24 23
+unite_teams 21 -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 19
+num_wins_for_team 15
+num_wins_for_team 26
+num_wins_for_team 7
+play_match -2 26
+play_match 27 24
+play_match 25 25
+play_match 0 22
+play_match 29 20
+num_wins_for_team 18
+num_wins_for_team 22
+num_wins_for_team 10
+unite_teams -1 29
+num_wins_for_team 17
+unite_teams 3 29
+unite_teams 19 14
+get_highest_ranked_team 
+play_match 8 29
+unite_teams 3 1
+unite_teams 12 29
+play_match 8 5
+unite_teams 2 18
+get_highest_ranked_team 
+unite_teams 20 27
+get_highest_ranked_team 
+num_wins_for_team 4
+unite_teams 3 29
+unite_teams 4 20
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 3 9
+play_match 9 -2
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 20 25
+unite_teams 10 25
+play_match 15 12
+num_wins_for_team 19
+play_match 12 16
+num_wins_for_team 1
+play_match 22 29
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 7
+unite_teams 13 2
+play_match 16 13
+get_highest_ranked_team 
+play_match 11 25
+num_wins_for_team 18
+play_match 13 9
+unite_teams -2 26
+num_wins_for_team 19
+unite_teams 4 28
+num_wins_for_team 19
+num_wins_for_team 4
+num_wins_for_team 28
+play_match 24 -1
+num_wins_for_team 27
+num_wins_for_team 2
+num_wins_for_team 29
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 28
+num_wins_for_team 27
+num_wins_for_team 9
+num_wins_for_team 22
+unite_teams 8 6
+play_match 21 12
+get_highest_ranked_team 
+unite_teams 24 29
+get_highest_ranked_team 
+unite_teams 19 17
+num_wins_for_team 10
+unite_teams 11 20
+num_wins_for_team 24
+unite_teams 29 14
+num_wins_for_team 11
+play_match 21 19
+unite_teams 12 17
+get_highest_ranked_team 
+unite_teams 22 8
+num_wins_for_team -2
+play_match 12 11
+get_highest_ranked_team 
+play_match -2 22
+num_wins_for_team 14
+get_highest_ranked_team 
+num_wins_for_team 23
+num_wins_for_team 22
+num_wins_for_team 9
+num_wins_for_team 11
+play_match 1 10
+num_wins_for_team 28
+num_wins_for_team 5
+unite_teams 26 26
+unite_teams 27 24
+unite_teams 11 28
+unite_teams 23 23
+play_match 12 22
+num_wins_for_team 23
+get_highest_ranked_team 
+unite_teams 24 9
+unite_teams 8 16
+play_match 25 11
+num_wins_for_team 22
+unite_teams 23 10
+play_match 10 0
+num_wins_for_team 29
+num_wins_for_team -1
+num_wins_for_team 12
+unite_teams 26 25
+num_wins_for_team 14
+get_highest_ranked_team 
+play_match 3 5
+unite_teams 17 25
+num_wins_for_team 11
+num_wins_for_team 12
+get_highest_ranked_team 
+play_match 3 18
+get_highest_ranked_team 
+unite_teams 6 8
+num_wins_for_team 12
+get_highest_ranked_team 
+play_match 23 3
+get_highest_ranked_team 
+num_wins_for_team 18
+play_match 11 14
+num_wins_for_team 9
+num_wins_for_team 5
+unite_teams 24 4
+unite_teams 6 13
+play_match 23 25
+play_match 13 7
+get_highest_ranked_team 
+unite_teams 27 5
+num_wins_for_team 18
+num_wins_for_team 5
+unite_teams 21 7
+num_wins_for_team 16
+num_wins_for_team 12
+num_wins_for_team -2
+play_match 22 19
+num_wins_for_team 5
+play_match 17 -1
+num_wins_for_team 5
+get_highest_ranked_team 
+num_wins_for_team 14
+get_highest_ranked_team 
+num_wins_for_team 10
+num_wins_for_team 11
+num_wins_for_team 15
+play_match 12 16
+unite_teams 5 6
+unite_teams 5 3
+unite_teams -1 5
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 12
+play_match 5 1
+num_wins_for_team 9
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 6
+unite_teams 2 24
+play_match -1 12
+unite_teams 13 14
+num_wins_for_team 17
+unite_teams 0 25
+unite_teams 8 7
+unite_teams 16 5
+num_wins_for_team 4
+num_wins_for_team 11
+unite_teams 22 23
+get_highest_ranked_team 
+unite_teams 7 29
+unite_teams 15 11
+num_wins_for_team 10
+play_match 8 15
+get_highest_ranked_team 
+unite_teams 21 8
+unite_teams 14 -2
+get_highest_ranked_team 
+play_match 2 4
+num_wins_for_team 0
+num_wins_for_team 3
+num_wins_for_team 24
+get_highest_ranked_team 
+unite_teams 8 15
+get_highest_ranked_team 
+play_match 11 6
+num_wins_for_team 10
+num_wins_for_team 15
+play_match 22 10
+play_match 5 26
+unite_teams 0 23
+get_highest_ranked_team 
+unite_teams 28 28
+num_wins_for_team 17
+unite_teams 19 8
+num_wins_for_team -2
+get_highest_ranked_team 
+unite_teams 3 23
+play_match 6 28
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 23 6
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 20
+num_wins_for_team 6
+unite_teams 0 18
+num_wins_for_team 8
+unite_teams 9 5
+play_match 9 -1
+unite_teams 22 7
+num_wins_for_team 13
+unite_teams 17 7
+play_match 4 0
+num_wins_for_team 29
+play_match 11 15
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 1 13
+num_wins_for_team 21
+get_highest_ranked_team 
+play_match 11 1
+num_wins_for_team 28
+num_wins_for_team 11
+get_highest_ranked_team 
+num_wins_for_team 15
+get_highest_ranked_team 
+unite_teams 8 24
+get_highest_ranked_team 
+play_match -2 15
+num_wins_for_team 0
+num_wins_for_team -2
+num_wins_for_team 27
+num_wins_for_team 15
+get_highest_ranked_team 
+num_wins_for_team 15
+play_match 21 16
+unite_teams 19 4
+unite_teams 24 28
+num_wins_for_team 15
+play_match 5 22
+num_wins_for_team 25
+get_highest_ranked_team 
+num_wins_for_team 13
+unite_teams 21 13
+play_match 15 -1
+num_wins_for_team -1
+unite_teams 7 21
+num_wins_for_team 18
+play_match 20 22
+num_wins_for_team 2
+unite_teams 2 14
+num_wins_for_team 18
+get_highest_ranked_team 
+num_wins_for_team 5
+play_match 13 18
+num_wins_for_team 13
+get_highest_ranked_team 
+play_match 18 14
+num_wins_for_team 8
+num_wins_for_team 7
+unite_teams 2 23
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 3
+num_wins_for_team 23
+num_wins_for_team 11
+num_wins_for_team 2
+num_wins_for_team 2
+num_wins_for_team 8
+get_highest_ranked_team 
+num_wins_for_team 28
+get_highest_ranked_team 
+num_wins_for_team 24
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 22 0
+play_match 16 2
+unite_teams 24 0
+num_wins_for_team 9
+unite_teams 20 22
+num_wins_for_team 12
+num_wins_for_team 21
+unite_teams 27 26
+play_match 19 23
+unite_teams 16 9
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 7
+num_wins_for_team 2
+get_highest_ranked_team 
+play_match 20 17
+get_highest_ranked_team 
+num_wins_for_team 3
+get_highest_ranked_team 
+play_match 16 10
+unite_teams 20 23
+unite_teams 8 21
+num_wins_for_team 12
+get_highest_ranked_team 
+num_wins_for_team 26
+play_match 13 25
+num_wins_for_team 8
+play_match 10 0
+num_wins_for_team 12
+play_match 29 1
+unite_teams 28 4
+num_wins_for_team 10
+num_wins_for_team -1
+get_highest_ranked_team 
+unite_teams 11 20
+get_highest_ranked_team 
+num_wins_for_team 1
+num_wins_for_team 24
+num_wins_for_team 11
+num_wins_for_team 14
+unite_teams 5 -2
+num_wins_for_team 14
+num_wins_for_team 17
+play_match 16 -1
+num_wins_for_team 7
+play_match 24 26
+unite_teams 8 1
+get_highest_ranked_team 
+play_match 0 20
+unite_teams 26 -2
+get_highest_ranked_team 
+num_wins_for_team 5
+num_wins_for_team 24
+play_match 6 14
+num_wins_for_team 22
+num_wins_for_team 15
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 3 27
+num_wins_for_team 18
+num_wins_for_team 29
+unite_teams 1 25
+get_highest_ranked_team 
+unite_teams 16 12
+unite_teams 4 25
+play_match 18 23
+num_wins_for_team 6
+play_match -1 3
+num_wins_for_team -1
+num_wins_for_team 7
+play_match 0 15
+play_match 28 0
+num_wins_for_team 13
+unite_teams 2 4
+play_match 8 19
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match -1 21
+num_wins_for_team 11
+num_wins_for_team 8
+unite_teams 1 25
+play_match 5 7
+play_match 10 8
+unite_teams 0 8
+unite_teams -2 1
+get_highest_ranked_team 
+num_wins_for_team 16
+get_highest_ranked_team 
+play_match 4 5
+num_wins_for_team 10
+num_wins_for_team 0
+unite_teams 25 5
+num_wins_for_team 2
+num_wins_for_team 26
+play_match 8 -2
+unite_teams 29 21
+num_wins_for_team 26
+get_highest_ranked_team 
+num_wins_for_team 4
+unite_teams 25 20
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 22
+num_wins_for_team 2
+num_wins_for_team 5
+unite_teams 29 5
+num_wins_for_team 8
+get_highest_ranked_team 
+num_wins_for_team 7
+num_wins_for_team 3
+unite_teams 26 21
+play_match 21 2
+unite_teams 15 17
+unite_teams 24 26
+get_highest_ranked_team 
+num_wins_for_team 7
+play_match 1 16
+play_match 15 3
+num_wins_for_team 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 13
+num_wins_for_team 11
+num_wins_for_team 15
+num_wins_for_team 2
+num_wins_for_team -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 29
+num_wins_for_team 6
+get_highest_ranked_team 
+unite_teams -1 1
+get_highest_ranked_team 
+play_match 7 16
+get_highest_ranked_team 
+unite_teams 29 5
+play_match 28 22
+get_highest_ranked_team 
+num_wins_for_team 21
+num_wins_for_team 26
+num_wins_for_team 23
+get_highest_ranked_team 
+num_wins_for_team 27
+unite_teams 15 12
+get_highest_ranked_team 
+num_wins_for_team 27
+num_wins_for_team 6
+num_wins_for_team 24
+play_match 13 15
+get_highest_ranked_team 
+play_match 18 23
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 23 3
+num_wins_for_team 17
+get_highest_ranked_team 
+unite_teams 2 1
+num_wins_for_team 6
+unite_teams 5 1
+num_wins_for_team 25
+play_match 18 12
+num_wins_for_team 16
+num_wins_for_team 0
+num_wins_for_team 13
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 22
+unite_teams 9 24
+play_match 17 11
+num_wins_for_team -2
+unite_teams 13 27
+num_wins_for_team 15
+play_match 23 18
+unite_teams 1 1
+play_match 11 21
+unite_teams 12 7
+num_wins_for_team -2
+get_highest_ranked_team 
+play_match 22 24
+num_wins_for_team 12
+num_wins_for_team 21
+num_wins_for_team 26
+num_wins_for_team 24
+num_wins_for_team 1
+get_highest_ranked_team 
+unite_teams 3 19
+play_match 9 25
+num_wins_for_team 18
+num_wins_for_team 11
+num_wins_for_team 10
+play_match 8 14
+play_match 10 19
+play_match 23 11
+play_match 19 4
+unite_teams -1 1
+play_match 8 28
+get_highest_ranked_team 
+unite_teams 3 13
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 21
+play_match 17 0
+unite_teams 2 -2
+play_match 26 9
+get_highest_ranked_team 
+num_wins_for_team 16
+num_wins_for_team 23
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 17
+play_match 13 0
+play_match 27 9
+num_wins_for_team 7
+get_highest_ranked_team 
+num_wins_for_team 28
+play_match 27 29
+unite_teams 28 8
+get_highest_ranked_team 
+num_wins_for_team 14
+num_wins_for_team 13
+get_highest_ranked_team 
+num_wins_for_team 19
+play_match -1 4
+num_wins_for_team 17
+play_match 6 10
+play_match 25 27
+num_wins_for_team 3
+play_match 15 26
+num_wins_for_team 4
+unite_teams 3 2
+get_highest_ranked_team 
+unite_teams 27 24
+num_wins_for_team 26
+play_match 24 3
+num_wins_for_team 13
+get_highest_ranked_team 
+unite_teams 26 3
+num_wins_for_team 0
+unite_teams -1 13
+unite_teams 23 16
+play_match 0 20
+play_match 28 12
+num_wins_for_team 11
+num_wins_for_team 7
+num_wins_for_team 24
+unite_teams 23 11
+num_wins_for_team 15
+play_match -1 4
+get_highest_ranked_team 
+play_match 29 15
+num_wins_for_team 15
+play_match 19 17
+play_match 26 15
+num_wins_for_team 2
+num_wins_for_team 21
+unite_teams 13 22
+play_match 27 14
+num_wins_for_team 15
+num_wins_for_team 20
+num_wins_for_team 9
+unite_teams -2 10
+num_wins_for_team 19
+num_wins_for_team 17
+unite_teams 18 7
+num_wins_for_team -1
+unite_teams 2 29
+play_match 3 9
+num_wins_for_team 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 25 6
+get_highest_ranked_team 
+play_match 25 20
+get_highest_ranked_team 
+num_wins_for_team 27
+num_wins_for_team 20
+num_wins_for_team 9
+num_wins_for_team 0
+num_wins_for_team 3
+play_match 29 7
+num_wins_for_team 29
+num_wins_for_team 19
+get_highest_ranked_team 
+play_match 7 14
+unite_teams 27 4
+num_wins_for_team 1
+get_highest_ranked_team 
+num_wins_for_team 10
+num_wins_for_team 14
+unite_teams 16 5
+num_wins_for_team 0
+play_match 20 1
+unite_teams 3 25
+unite_teams 17 16
+unite_teams 26 29
+num_wins_for_team 22
+num_wins_for_team 6
+num_wins_for_team 18
+num_wins_for_team 21
+play_match 0 0
+num_wins_for_team 25
+get_highest_ranked_team 
+num_wins_for_team 1
+unite_teams 16 29
+play_match 29 25
+unite_teams 4 25
+get_highest_ranked_team 
+num_wins_for_team 1
+play_match 1 0
+num_wins_for_team 21
+num_wins_for_team 10
+play_match 16 5
+num_wins_for_team 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 25
+num_wins_for_team 26
+play_match 20 20
+unite_teams 3 4
+num_wins_for_team 11
+unite_teams 7 5
+num_wins_for_team 7
+get_highest_ranked_team 
+unite_teams 13 25
+unite_teams 2 18
+num_wins_for_team 17
+play_match 7 15
+unite_teams 7 19
+play_match 13 0
+unite_teams 2 -1
+unite_teams 18 26
+num_wins_for_team 12
+unite_teams 8 0
+play_match 19 26
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 24 26
+num_wins_for_team 11
+num_wins_for_team 9
+num_wins_for_team 16
+num_wins_for_team 22
+unite_teams 11 14
+num_wins_for_team -2
+unite_teams 13 20
+num_wins_for_team 25
+get_highest_ranked_team 
+unite_teams 23 25
+num_wins_for_team 8
+num_wins_for_team 24
+get_highest_ranked_team 
+num_wins_for_team 1
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 25
+play_match 15 -1
+num_wins_for_team 14
+unite_teams -1 26
+play_match 21 8
+num_wins_for_team 0
+unite_teams -1 6
+play_match 9 11
+num_wins_for_team -2
+num_wins_for_team 14
+num_wins_for_team 20
+play_match 26 12
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 19 15
+num_wins_for_team 23
+play_match -2 29
+num_wins_for_team 15
+num_wins_for_team 22
+unite_teams 18 22
+unite_teams 23 26
+num_wins_for_team 8
+num_wins_for_team 6
+play_match 28 -2
+get_highest_ranked_team 
+play_match 8 12
+play_match 11 19
+get_highest_ranked_team 
+unite_teams 17 2
+num_wins_for_team 25
+get_highest_ranked_team 
+num_wins_for_team 23
+unite_teams 28 9
+num_wins_for_team -2
+num_wins_for_team 14
+unite_teams 10 8
+unite_teams 23 10
+get_highest_ranked_team 
+unite_teams 20 10
+get_highest_ranked_team 
+play_match 9 0
+num_wins_for_team 27
+unite_teams 29 -1
+num_wins_for_team 29
+get_highest_ranked_team 
+num_wins_for_team 12
+num_wins_for_team 17
+num_wins_for_team 4
+num_wins_for_team 8
+play_match 27 28
+get_highest_ranked_team 
+num_wins_for_team 10
+get_highest_ranked_team 
+unite_teams 27 10
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 5 8
+num_wins_for_team 18
+num_wins_for_team 14
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 20 15
+num_wins_for_team 13
+unite_teams 3 25
+num_wins_for_team 6
+num_wins_for_team 25
+unite_teams 20 -2
+play_match 24 24
+num_wins_for_team 20
+num_wins_for_team 25
+get_highest_ranked_team 
+play_match 25 15
+num_wins_for_team 11
+unite_teams 11 26
+play_match 11 28
+play_match 27 29
+play_match 21 10
+get_highest_ranked_team 
+play_match 4 27
+num_wins_for_team -2
+get_highest_ranked_team 
+play_match 26 24
+get_highest_ranked_team 
+num_wins_for_team 29
+num_wins_for_team 11
+num_wins_for_team 26
+get_highest_ranked_team 
+num_wins_for_team 19
+num_wins_for_team 16
+get_highest_ranked_team 
+num_wins_for_team 10
+unite_teams 28 22
+play_match 16 23
+unite_teams 5 21
+get_highest_ranked_team 
+play_match 27 8
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 7
+num_wins_for_team 21
+num_wins_for_team 26
+num_wins_for_team 7
+num_wins_for_team 1
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 22
+num_wins_for_team 15
+play_match 5 0
+play_match 4 7
+play_match 10 14
+play_match 5 7
+unite_teams 1 20
+unite_teams 15 21
+unite_teams 10 23
+get_highest_ranked_team 
+num_wins_for_team 4
+unite_teams 2 7
+play_match 8 25
+get_highest_ranked_team 
+num_wins_for_team 2
+play_match 3 13
+num_wins_for_team 26
+unite_teams 28 5
+unite_teams 22 20
+unite_teams 22 6
+get_highest_ranked_team 
+num_wins_for_team 16
+unite_teams 18 2
+play_match 20 27
+play_match -1 -1
+num_wins_for_team -2
+unite_teams 6 17
+unite_teams 2 8
+num_wins_for_team 11
+get_highest_ranked_team 
+num_wins_for_team 26
+unite_teams 9 20
+unite_teams 11 24
+unite_teams 12 3
+num_wins_for_team 10
+get_highest_ranked_team 
+unite_teams 11 4
+play_match -2 16
+num_wins_for_team 4
+num_wins_for_team 20
+unite_teams 6 0
+get_highest_ranked_team 
+unite_teams 20 -1
+play_match 14 6
+unite_teams 6 20
+num_wins_for_team 12
+unite_teams 4 3
+num_wins_for_team 18
+play_match 12 -1
+unite_teams 23 5
+unite_teams 3 24
+unite_teams 15 14
+unite_teams 26 -2
+get_highest_ranked_team 
+unite_teams 4 25
+num_wins_for_team 9
+num_wins_for_team 19
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 29 26
+num_wins_for_team 7
+get_highest_ranked_team 
+play_match 13 19
+num_wins_for_team 26
+get_highest_ranked_team 
+num_wins_for_team 25
+play_match -2 4
+num_wins_for_team 24
+unite_teams 1 21
+get_highest_ranked_team 
+unite_teams 13 -1
+play_match 22 9
+unite_teams 13 0
+get_highest_ranked_team 
+play_match 6 24
+num_wins_for_team 21
+unite_teams 21 27
+play_match 8 17
+num_wins_for_team 18
+num_wins_for_team 25
+num_wins_for_team 29
+num_wins_for_team 8
+num_wins_for_team 20
+num_wins_for_team 14
+num_wins_for_team 17
+unite_teams 26 10
+num_wins_for_team 11
+unite_teams 20 11
+play_match 28 2
+get_highest_ranked_team 
+play_match 21 23
+get_highest_ranked_team 
+num_wins_for_team 26
+unite_teams 10 12
+num_wins_for_team 18
+num_wins_for_team 14
+unite_teams 25 13
+unite_teams 2 5
+play_match 3 20
+unite_teams 29 29
+num_wins_for_team 13
+num_wins_for_team -1
+get_highest_ranked_team 
+unite_teams 6 3
+play_match 13 23
+unite_teams -1 4
+num_wins_for_team 0
+get_highest_ranked_team 
+num_wins_for_team -2
+get_highest_ranked_team 
+num_wins_for_team 2
+num_wins_for_team 19
+num_wins_for_team 21
+unite_teams 24 9
+num_wins_for_team 23
+num_wins_for_team 16
+unite_teams 15 15
+play_match 8 19
+play_match 17 21
+get_highest_ranked_team 
+play_match 12 -2
+get_highest_ranked_team 
+unite_teams 19 3
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 28
+unite_teams 27 23
+num_wins_for_team 16
+num_wins_for_team -1
+unite_teams 13 4
+num_wins_for_team 3
+unite_teams 6 -2
+play_match 3 1
+get_highest_ranked_team 
+play_match 27 0
+num_wins_for_team 10
+unite_teams 5 28
+play_match 16 28
+get_highest_ranked_team 
+unite_teams 23 6
+unite_teams 25 20
+get_highest_ranked_team 
+num_wins_for_team -1
+get_highest_ranked_team 
+unite_teams 26 19
+num_wins_for_team 9
+unite_teams 21 25
+num_wins_for_team 8
+get_highest_ranked_team 
+num_wins_for_team -1
+num_wins_for_team 12
+play_match 27 8
+num_wins_for_team 28
+unite_teams 5 5
+play_match 11 15
+get_highest_ranked_team 
+play_match 28 25
+get_highest_ranked_team 
+num_wins_for_team 10
+num_wins_for_team 29
+num_wins_for_team 10
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 21
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 16 21
+play_match -1 5
+play_match 22 20
+play_match 9 9
+num_wins_for_team 24
+play_match 11 23
+num_wins_for_team 12
+get_highest_ranked_team 
+num_wins_for_team 18
+num_wins_for_team 16
+num_wins_for_team -2
+num_wins_for_team 0
+get_highest_ranked_team 
+unite_teams 1 16
+unite_teams 11 19
+get_highest_ranked_team 
+num_wins_for_team 4
+num_wins_for_team 13
+num_wins_for_team 11
+unite_teams 5 21
+play_match 15 -1
+play_match 14 3
+num_wins_for_team 18
+num_wins_for_team 7
+get_highest_ranked_team 
+unite_teams 25 26
+num_wins_for_team 15
+num_wins_for_team 21
+unite_teams 16 26
+play_match 17 0
+get_highest_ranked_team 
+unite_teams 9 5
+num_wins_for_team 29
+num_wins_for_team -2
+get_highest_ranked_team 
+play_match 8 8
+unite_teams 20 3
+num_wins_for_team 19
+play_match 18 0
+play_match 21 24
+num_wins_for_team 15
+unite_teams 26 14
+get_highest_ranked_team 
+play_match -2 3
+play_match 9 4
+unite_teams 10 1
+unite_teams 11 29
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 29 3
+num_wins_for_team 2
+num_wins_for_team 28
+num_wins_for_team 27
+num_wins_for_team 24
+num_wins_for_team 14
+num_wins_for_team 24
+get_highest_ranked_team 
+unite_teams 7 24
+get_highest_ranked_team 
+unite_teams 5 5
+num_wins_for_team 2
+num_wins_for_team 8
+unite_teams 27 5
+get_highest_ranked_team 
+unite_teams 14 9
+num_wins_for_team -1
+get_highest_ranked_team 
+play_match 18 26
+play_match 9 10
+unite_teams 6 10
+num_wins_for_team 5
+play_match 5 6
+play_match 17 0
+num_wins_for_team 10
+unite_teams 27 11
+num_wins_for_team 15
+play_match 8 23
+num_wins_for_team 15
+num_wins_for_team 10
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 2 8
+unite_teams 24 3
+get_highest_ranked_team 
+play_match 16 26
+num_wins_for_team 20
+get_highest_ranked_team 
+num_wins_for_team 2
+num_wins_for_team 26
+unite_teams 29 15
+num_wins_for_team 9
+num_wins_for_team 29
+num_wins_for_team 16
+unite_teams 11 5
+num_wins_for_team 0
+get_highest_ranked_team 
+num_wins_for_team 24
+unite_teams -2 29
+unite_teams 16 17
+play_match 2 7
+num_wins_for_team 24
+unite_teams 19 11
+num_wins_for_team 9
+num_wins_for_team 3
+num_wins_for_team -2
+unite_teams 19 -1
+num_wins_for_team 23
+get_highest_ranked_team 
+unite_teams 18 25
+num_wins_for_team 15
+play_match 10 20
+num_wins_for_team 10
+num_wins_for_team 3
+num_wins_for_team 19
+play_match 11 25
+num_wins_for_team 27
+num_wins_for_team 6
+get_highest_ranked_team 
+unite_teams 1 11
+play_match 6 17
+get_highest_ranked_team 
+num_wins_for_team 16
+play_match 8 2
+play_match 22 2
+play_match 15 8
+get_highest_ranked_team 
+num_wins_for_team 20
+get_highest_ranked_team 
+num_wins_for_team 28
+num_wins_for_team 20
+get_highest_ranked_team 
+num_wins_for_team 20
+num_wins_for_team 9
+num_wins_for_team 7
+unite_teams 23 28
+num_wins_for_team 29
+num_wins_for_team 7
+unite_teams 4 19
+get_highest_ranked_team 
+num_wins_for_team 23
+get_highest_ranked_team 
+unite_teams 28 -1
+play_match 3 25
+unite_teams 11 24
+num_wins_for_team 15
+unite_teams -2 19
+play_match 26 18
+unite_teams 18 21
+get_highest_ranked_team 
+num_wins_for_team 14
+play_match 29 16
+unite_teams 6 8
+play_match -1 9
+get_highest_ranked_team 
+num_wins_for_team 1
+num_wins_for_team 15
+get_highest_ranked_team 
+unite_teams 11 17
+play_match -2 13
+unite_teams 10 24
+get_highest_ranked_team 
+num_wins_for_team 13
+unite_teams 18 7
+num_wins_for_team 16
+unite_teams 4 19
+num_wins_for_team -1
+get_highest_ranked_team 
+unite_teams 6 8
+play_match 29 22
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 12
+num_wins_for_team 23
+unite_teams 16 23
+play_match 28 27
+get_highest_ranked_team 
+unite_teams -2 14
+play_match 12 21
+num_wins_for_team 19
+get_highest_ranked_team 
+play_match 29 18
+play_match 0 29
+num_wins_for_team 12
+get_highest_ranked_team 
+play_match -2 17
+play_match 27 29
+play_match 8 22
+num_wins_for_team 24
+unite_teams 7 17
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 5
+get_highest_ranked_team 
+play_match 25 13
+num_wins_for_team 7
+unite_teams -1 20
+play_match 24 4
+play_match 4 24
+num_wins_for_team 17
+unite_teams 7 6
+play_match 24 20
+num_wins_for_team 22
+num_wins_for_team 29
+num_wins_for_team 9
+get_highest_ranked_team 
+unite_teams 25 -2
+num_wins_for_team -2
+unite_teams 20 10
+unite_teams -2 21
+num_wins_for_team 27
+play_match 26 6
+unite_teams 12 15
+get_highest_ranked_team 
+unite_teams 20 16
+get_highest_ranked_team 
+num_wins_for_team 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 23
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 21
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team -1
+unite_teams 16 12
+unite_teams 1 17
+num_wins_for_team 6
+num_wins_for_team 4
+num_wins_for_team 20
+unite_teams 8 28
+unite_teams 5 23
+unite_teams 2 8
+num_wins_for_team 3
+play_match 12 3
+num_wins_for_team 18
+num_wins_for_team 27
+get_highest_ranked_team 
+num_wins_for_team 2
+num_wins_for_team 12
+play_match 2 17
+num_wins_for_team 27
+play_match 23 18
+num_wins_for_team 4
+num_wins_for_team 10
+num_wins_for_team 5
+get_highest_ranked_team 
+num_wins_for_team 28
+get_highest_ranked_team 
+num_wins_for_team 24
+num_wins_for_team 28
+unite_teams 1 13
+num_wins_for_team 15
+play_match 26 8
+num_wins_for_team 15
+num_wins_for_team 4
+play_match 1 8
+play_match 26 29
+num_wins_for_team 23
+get_highest_ranked_team 
+num_wins_for_team 29
+num_wins_for_team 25
+play_match 11 2
+get_highest_ranked_team 
+num_wins_for_team 4
+unite_teams 5 5
+play_match 10 7
+num_wins_for_team 4
+num_wins_for_team 26
+play_match 20 13
+play_match 27 20
+get_highest_ranked_team 
+num_wins_for_team 20
+num_wins_for_team 3
+get_highest_ranked_team 
+num_wins_for_team -2
+num_wins_for_team 5
+get_highest_ranked_team 
+num_wins_for_team 20
+unite_teams 10 4
+play_match -2 26
+get_highest_ranked_team 
+unite_teams 23 29
+unite_teams 23 1
+unite_teams 12 2
+num_wins_for_team 13
+unite_teams 15 16
+num_wins_for_team 21
+play_match 3 5
+unite_teams 7 27
+get_highest_ranked_team 
+play_match 25 2
+num_wins_for_team 1
+get_highest_ranked_team 
+play_match 14 12
+play_match 6 1
+num_wins_for_team 3
+num_wins_for_team 16
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 14
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 13 2
+play_match 2 18
+play_match 22 5
+num_wins_for_team 29
+num_wins_for_team 6
+num_wins_for_team 2
+play_match 6 29
+num_wins_for_team 5
+num_wins_for_team 9
+num_wins_for_team 19
+unite_teams -1 13
+play_match 26 17
+unite_teams 8 1
+num_wins_for_team 26
+unite_teams 18 17
+num_wins_for_team 3
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 9 19
+get_highest_ranked_team 
+play_match 0 9
+get_highest_ranked_team 
+play_match 14 12
+unite_teams 12 14
+get_highest_ranked_team 
+unite_teams 9 18
+num_wins_for_team 6
+get_highest_ranked_team 
+play_match 7 9
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 26
+num_wins_for_team 23
+num_wins_for_team 2
+num_wins_for_team 23
+unite_teams 25 23
+get_highest_ranked_team 
+play_match 20 10
+num_wins_for_team 13
+num_wins_for_team 24
+num_wins_for_team 2
+unite_teams 24 13
+num_wins_for_team 20
+num_wins_for_team 23
+unite_teams 15 18
+num_wins_for_team 24
+num_wins_for_team 2
+num_wins_for_team 8
+num_wins_for_team 29
+num_wins_for_team 18
+unite_teams 29 24
+num_wins_for_team 3
+unite_teams 7 13
+get_highest_ranked_team 
+num_wins_for_team 7
+get_highest_ranked_team 
+play_match 10 28
+num_wins_for_team -1
+unite_teams 23 -2
+play_match 0 17
+get_highest_ranked_team 
+play_match 24 19
+num_wins_for_team 25
+num_wins_for_team 12
+unite_teams 17 29
+num_wins_for_team 11
+play_match 3 0
+unite_teams 1 1
+num_wins_for_team 29
+num_wins_for_team 7
+play_match 19 11
+num_wins_for_team 25
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 19
+play_match 12 27
+num_wins_for_team 8
+get_highest_ranked_team 
+num_wins_for_team 24
+num_wins_for_team 9
+unite_teams 28 0
+get_highest_ranked_team 
+unite_teams -1 11
+num_wins_for_team 29
+unite_teams 21 18
+get_highest_ranked_team 
+num_wins_for_team 23
+unite_teams 9 23
+play_match 2 13
+get_highest_ranked_team 
+num_wins_for_team 12
+play_match 25 15
+num_wins_for_team 6
+num_wins_for_team 22
+unite_teams 14 0
+unite_teams 29 16
+play_match 9 12
+unite_teams 17 0
+get_highest_ranked_team 
+num_wins_for_team 3
+num_wins_for_team 5
+unite_teams 4 29
+num_wins_for_team 7
+num_wins_for_team 9
+unite_teams 5 -1
+num_wins_for_team 9
+num_wins_for_team 5
+get_highest_ranked_team 
+play_match 25 3
+num_wins_for_team 0
+play_match 4 11
+get_highest_ranked_team 
+unite_teams 15 18
+play_match 25 18
+num_wins_for_team 24
+play_match 0 17
+num_wins_for_team 14
+play_match 11 12
+num_wins_for_team 18
+num_wins_for_team 2
+get_highest_ranked_team 
+num_wins_for_team 27
+play_match 21 12
+num_wins_for_team -2
+unite_teams 0 25
+play_match 8 29
+play_match 8 -1
+unite_teams 28 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 22 24
+get_highest_ranked_team 
+num_wins_for_team 26
+play_match 24 16
+get_highest_ranked_team 
+unite_teams 16 29
+get_highest_ranked_team 
+play_match 25 7
+num_wins_for_team 10
+unite_teams 1 9
+play_match 17 7
+play_match 15 5
+get_highest_ranked_team 
+num_wins_for_team 29
+num_wins_for_team 12
+unite_teams 11 24
+play_match 12 17
+unite_teams 22 14
+num_wins_for_team 20
+num_wins_for_team 14
+num_wins_for_team 24
+play_match 25 22
+num_wins_for_team 15
+get_highest_ranked_team 
+num_wins_for_team 8
+get_highest_ranked_team 
+num_wins_for_team 5
+play_match 13 20
+play_match 12 20
+num_wins_for_team 13
+play_match 20 1
+get_highest_ranked_team 
+unite_teams 4 -2
+num_wins_for_team 25
+get_highest_ranked_team 
+play_match 13 6
+unite_teams 6 12
+num_wins_for_team 4
+num_wins_for_team -1
+unite_teams 28 10
+play_match 3 -2
+num_wins_for_team 5
+num_wins_for_team 0
+num_wins_for_team 9
+unite_teams 20 26
+num_wins_for_team 16
+num_wins_for_team 13
+num_wins_for_team 17
+unite_teams 27 -1
+play_match 28 23
+num_wins_for_team -1
+get_highest_ranked_team 
+num_wins_for_team 9
+num_wins_for_team 29
+get_highest_ranked_team 
+unite_teams 11 29
+num_wins_for_team 10
+unite_teams 15 8
+num_wins_for_team 25
+num_wins_for_team 11
+num_wins_for_team 5
+get_highest_ranked_team 
+play_match 2 10
+unite_teams 28 -2
+num_wins_for_team 3
+get_highest_ranked_team 
+num_wins_for_team 23
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 5
+num_wins_for_team 23
+play_match 25 15
+num_wins_for_team 12
+num_wins_for_team 26
+num_wins_for_team 10
+get_highest_ranked_team 
+num_wins_for_team 7
+play_match 21 29
+num_wins_for_team 14
+num_wins_for_team 10
+unite_teams 0 3
+num_wins_for_team 25
+get_highest_ranked_team 
+play_match 15 27
+play_match 12 9
+num_wins_for_team 8
+get_highest_ranked_team 
+num_wins_for_team 29
+num_wins_for_team 12
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 7
+unite_teams 16 7
+num_wins_for_team 8
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 4 7
+get_highest_ranked_team 
+play_match -1 5
+num_wins_for_team 24
+play_match 14 20
+get_highest_ranked_team 
+play_match 18 17
+num_wins_for_team 3
+num_wins_for_team 26
+num_wins_for_team 0
+num_wins_for_team 29
+unite_teams 5 23
+play_match 1 2
+num_wins_for_team 13
+play_match 16 29
+get_highest_ranked_team 
+num_wins_for_team 9
+num_wins_for_team 6
+get_highest_ranked_team 
+play_match 19 16
+unite_teams 16 10
+num_wins_for_team 21
+unite_teams 9 14
+num_wins_for_team 22
+play_match 24 11
+play_match -1 18
+play_match 13 -1
+num_wins_for_team 25
+get_highest_ranked_team 
+play_match 2 29
+unite_teams 15 25
+get_highest_ranked_team 
+num_wins_for_team 17
+num_wins_for_team 11
+num_wins_for_team 27
+play_match 2 19
+num_wins_for_team 5
+num_wins_for_team 17
+play_match 28 9
+num_wins_for_team 13
+num_wins_for_team -1
+unite_teams 23 18
+num_wins_for_team 25
+num_wins_for_team 6
+num_wins_for_team 0
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 2
+play_match -2 2
+num_wins_for_team 6
+play_match 25 10
+num_wins_for_team 3
+num_wins_for_team 18
+unite_teams 22 -2
+num_wins_for_team 2
+num_wins_for_team 17
+num_wins_for_team 21
+unite_teams 25 18
+get_highest_ranked_team 
+play_match 0 8
+num_wins_for_team 19
+unite_teams 15 25
+num_wins_for_team 29
+num_wins_for_team 23
+play_match 17 22
+unite_teams 12 19
+num_wins_for_team 9
+get_highest_ranked_team 
+unite_teams 0 3
+num_wins_for_team 1
+play_match 9 -1
+play_match 20 23
+num_wins_for_team -1
+num_wins_for_team 10
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 29
+play_match 29 3
+play_match 24 29
+num_wins_for_team 26
+play_match 14 18
+play_match 27 26
+play_match -2 5
+get_highest_ranked_team 
+num_wins_for_team 17
+unite_teams 13 2
+num_wins_for_team 0
+play_match 1 17
+get_highest_ranked_team 
+num_wins_for_team 20
+get_highest_ranked_team 
+num_wins_for_team 29
+num_wins_for_team 18
+num_wins_for_team 17
+num_wins_for_team -2
+num_wins_for_team 20
+num_wins_for_team 22
+unite_teams 7 29
+play_match 12 9
+play_match 23 29
+get_highest_ranked_team 
+num_wins_for_team 19
+num_wins_for_team 29
+num_wins_for_team 0
+get_highest_ranked_team 
+num_wins_for_team 28
+get_highest_ranked_team 
+num_wins_for_team 19
+play_match 12 23
+num_wins_for_team 28
+unite_teams 9 10
+get_highest_ranked_team 
+play_match 5 -2
+unite_teams 0 17
+num_wins_for_team 4
+play_match -1 10
+num_wins_for_team 8
+get_highest_ranked_team 
+unite_teams 2 10
+play_match 5 26
+unite_teams -2 11
+num_wins_for_team 21
+num_wins_for_team 5
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 12
+num_wins_for_team 2
+get_highest_ranked_team 
+num_wins_for_team 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 13
+get_highest_ranked_team 
+play_match 8 13
+unite_teams 23 21
+num_wins_for_team 16
+num_wins_for_team 24
+num_wins_for_team 12
+num_wins_for_team 15
+get_highest_ranked_team 
+unite_teams 2 27
+num_wins_for_team 10
+play_match 0 24
+num_wins_for_team 0
+get_highest_ranked_team 
+unite_teams 10 15
+unite_teams 3 0
+play_match 20 8
+play_match 22 10
+get_highest_ranked_team 
+num_wins_for_team 8
+num_wins_for_team 6
+num_wins_for_team 7
+get_highest_ranked_team 
+unite_teams 21 10
+num_wins_for_team 4
+num_wins_for_team 19
+num_wins_for_team -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 11 17
+num_wins_for_team 13
+num_wins_for_team 3
+play_match 29 21
+num_wins_for_team 13
+num_wins_for_team 11
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 18 9
+play_match 1 22
+unite_teams 4 28
+unite_teams 6 17
+play_match 23 12
+unite_teams 13 29
+num_wins_for_team -1
+play_match 21 7
+get_highest_ranked_team 
+unite_teams 28 1
+unite_teams 22 25
+num_wins_for_team 3
+get_highest_ranked_team 
+play_match 11 20
+num_wins_for_team 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 13
+play_match 12 24
+num_wins_for_team 10
+num_wins_for_team 7
+get_highest_ranked_team 
+play_match 2 1
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 1
+num_wins_for_team 21
+unite_teams 5 3
+get_highest_ranked_team 
+play_match 5 27
+play_match 14 19
+num_wins_for_team 6
+play_match 14 3
+num_wins_for_team 6
+num_wins_for_team 7
+play_match 28 21
+unite_teams 29 4
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 8
+num_wins_for_team 18
+unite_teams 19 14
+get_highest_ranked_team 
+unite_teams 5 1
+get_highest_ranked_team 
+unite_teams 14 9
+play_match 12 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 23
+play_match 28 17
+unite_teams 25 17
+play_match 10 6
+get_highest_ranked_team 
+num_wins_for_team 25
+num_wins_for_team 24
+unite_teams 19 8
+unite_teams 11 7
+play_match 12 7
+num_wins_for_team -2
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 29
+num_wins_for_team -1
+unite_teams 5 6
+play_match 10 -1
+num_wins_for_team 7
+play_match 5 12
+unite_teams 24 6
+num_wins_for_team 10
+unite_teams 2 23
+num_wins_for_team 5
+unite_teams 28 0
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 4
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 27
+num_wins_for_team 18
+num_wins_for_team 9
+num_wins_for_team 1
+play_match 26 17
+unite_teams 23 14
+get_highest_ranked_team 
+play_match 8 0
+unite_teams 17 12
+unite_teams 20 7
+num_wins_for_team 0
+unite_teams 12 24
+num_wins_for_team 15
+num_wins_for_team 9
+num_wins_for_team 12
+num_wins_for_team 13
+unite_teams 27 3
+unite_teams 19 26
+unite_teams 14 0
+get_highest_ranked_team 
+unite_teams 29 27
+num_wins_for_team 8
+unite_teams 9 7
+num_wins_for_team 4
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 1 0
+num_wins_for_team 19
+get_highest_ranked_team 
+num_wins_for_team 4
+num_wins_for_team 10
+num_wins_for_team 26
+num_wins_for_team 0
+num_wins_for_team 26
+get_highest_ranked_team 
+num_wins_for_team -2
+get_highest_ranked_team 
+play_match 1 15
+unite_teams -1 -1
+play_match -2 10
+num_wins_for_team 8
+get_highest_ranked_team 
+unite_teams 29 0
+num_wins_for_team 9
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team -1
+num_wins_for_team 4
+get_highest_ranked_team 
+num_wins_for_team 3
+num_wins_for_team 7
+num_wins_for_team 2
+num_wins_for_team 16
+num_wins_for_team 18
+play_match 28 13
+unite_teams 13 18
+unite_teams 28 17
+num_wins_for_team -1
+get_highest_ranked_team 
+num_wins_for_team 25
+num_wins_for_team 19
+get_highest_ranked_team 
+play_match 11 5
+play_match 19 25
+unite_teams 24 19
+play_match 6 7
+num_wins_for_team 11
+num_wins_for_team 25
+num_wins_for_team 24
+unite_teams 23 3
+play_match 28 9
+unite_teams 25 2
+play_match 2 18
+num_wins_for_team 6
+play_match 22 18
+num_wins_for_team 11
+unite_teams 21 3
+num_wins_for_team 17
+num_wins_for_team 21
+num_wins_for_team 8
+num_wins_for_team 15
+num_wins_for_team 15
+play_match 12 29
+num_wins_for_team 0
+num_wins_for_team -2
+num_wins_for_team 21
+unite_teams 12 -1
+num_wins_for_team -1
+play_match 1 7
+num_wins_for_team 13
+num_wins_for_team 12
+unite_teams 6 2
+num_wins_for_team 25
+num_wins_for_team 17
+play_match 4 20
+num_wins_for_team 8
+get_highest_ranked_team 
+num_wins_for_team 23
+unite_teams 5 29
+num_wins_for_team 13
+play_match 8 1
+num_wins_for_team 15
+get_highest_ranked_team 
+play_match 3 3
+num_wins_for_team 19
+get_highest_ranked_team 
+unite_teams -1 4
+num_wins_for_team 14
+num_wins_for_team 20
+unite_teams 18 26
+get_highest_ranked_team 
+unite_teams 8 0
+num_wins_for_team 16
+get_highest_ranked_team 
+num_wins_for_team 7
+get_highest_ranked_team 
+num_wins_for_team 1
+num_wins_for_team 20
+num_wins_for_team 4
+num_wins_for_team 26
+num_wins_for_team 4
+get_highest_ranked_team 
+play_match -1 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 23 22
+get_highest_ranked_team 
+unite_teams 27 23
+num_wins_for_team 22
+num_wins_for_team 9
+unite_teams 12 19
+get_highest_ranked_team 
+play_match 9 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 17
+get_highest_ranked_team 
+num_wins_for_team 11
+num_wins_for_team 24
+play_match 12 20
+play_match 15 2
+play_match 20 1
+unite_teams 29 10
+play_match 17 25
+get_highest_ranked_team 
+unite_teams 5 1
+play_match 9 23
+get_highest_ranked_team 
+num_wins_for_team 23
+get_highest_ranked_team 
+num_wins_for_team 4
+unite_teams 5 3
+get_highest_ranked_team 
+num_wins_for_team 18
+unite_teams 2 5
+play_match 16 21
+get_highest_ranked_team 
+num_wins_for_team 12
+num_wins_for_team 20
+num_wins_for_team 22
+get_highest_ranked_team 
+num_wins_for_team 5
+num_wins_for_team 16
+unite_teams 23 7
+num_wins_for_team 19
+num_wins_for_team 17
+num_wins_for_team 6
+num_wins_for_team 2
+num_wins_for_team 13
+unite_teams -2 26
+num_wins_for_team 4
+get_highest_ranked_team 
+num_wins_for_team 9
+num_wins_for_team 10
+play_match 26 8
+get_highest_ranked_team 
+unite_teams 24 12
+num_wins_for_team 0
+play_match 6 2
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 4
+num_wins_for_team 29
+unite_teams 25 15
+num_wins_for_team 26
+num_wins_for_team 6
+num_wins_for_team 0
+num_wins_for_team 3
+unite_teams 25 29
+num_wins_for_team 15
+unite_teams 2 18
+num_wins_for_team 6
+play_match 14 1
+unite_teams 15 29
+num_wins_for_team 15
+unite_teams 2 -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 1
+num_wins_for_team 12
+num_wins_for_team 24
+num_wins_for_team 2
+num_wins_for_team 7
+num_wins_for_team 11
+get_highest_ranked_team 
+play_match 19 -1
+num_wins_for_team 29
+unite_teams 18 11
+num_wins_for_team 12
+get_highest_ranked_team 
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 14 14
+get_highest_ranked_team 
+num_wins_for_team 24
+play_match 0 8
+play_match 6 7
+get_highest_ranked_team 
+play_match 22 16
+get_highest_ranked_team 
+num_wins_for_team 0
+num_wins_for_team 23
+num_wins_for_team 17
+unite_teams 23 24
+num_wins_for_team -1
+num_wins_for_team 25
+num_wins_for_team 0
+get_highest_ranked_team 
+num_wins_for_team 3
+num_wins_for_team 3
+num_wins_for_team 17
+play_match 3 16
+num_wins_for_team 3
+get_highest_ranked_team 
+play_match 23 5
+unite_teams 0 18
+get_highest_ranked_team 
+play_match 3 15
+unite_teams 12 24
+unite_teams 8 2
+num_wins_for_team 10
+play_match 24 13
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 28 10
+get_highest_ranked_team 
+num_wins_for_team 1
+num_wins_for_team 14
+unite_teams 17 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 5 21
+unite_teams 23 12
+num_wins_for_team 24
+unite_teams 1 25
+num_wins_for_team 10
+get_highest_ranked_team 
+unite_teams 15 28
+play_match 4 21
+get_highest_ranked_team 
+play_match 22 20
+play_match 24 6
+unite_teams 28 16
+num_wins_for_team 14
+play_match 8 9
+play_match 4 18
+play_match 27 17
+get_highest_ranked_team 
+unite_teams 25 7
+num_wins_for_team 22
+unite_teams 1 22
+num_wins_for_team 11
+unite_teams 19 12
+unite_teams 12 29
+num_wins_for_team 24
+num_wins_for_team 1
+get_highest_ranked_team 
+num_wins_for_team 21
+num_wins_for_team 5
+num_wins_for_team 4
+unite_teams 11 2
+play_match 12 27
+play_match 4 26
+play_match 14 -2
+unite_teams 4 29
+num_wins_for_team 24
+num_wins_for_team 3
+num_wins_for_team 15
+play_match 2 9
+get_highest_ranked_team 
+play_match 12 21
+play_match 23 -1
+num_wins_for_team 23
+num_wins_for_team 7
+num_wins_for_team 19
+num_wins_for_team 0
+num_wins_for_team 28
+num_wins_for_team 25
+unite_teams 19 16
+unite_teams 15 8
+num_wins_for_team 25
+num_wins_for_team 17
+play_match 13 7
+num_wins_for_team 25
+num_wins_for_team 29
+get_highest_ranked_team 
+num_wins_for_team 18
+num_wins_for_team 21
+num_wins_for_team 6
+play_match 4 24
+get_highest_ranked_team 
+num_wins_for_team 4
+get_highest_ranked_team 
+unite_teams 21 6
+num_wins_for_team 4
+play_match 20 21
+unite_teams 22 17
+unite_teams 8 12
+unite_teams 27 13
+num_wins_for_team 13
+get_highest_ranked_team 
+num_wins_for_team 1
+unite_teams 17 15
+play_match 4 28
+num_wins_for_team 15
+unite_teams 11 12
+num_wins_for_team 22
+play_match 25 1
+get_highest_ranked_team 
+num_wins_for_team -1
+num_wins_for_team 20
+num_wins_for_team 4
+num_wins_for_team 10
+num_wins_for_team 19
+play_match 23 17
+get_highest_ranked_team 
+num_wins_for_team 5
+num_wins_for_team 12
+num_wins_for_team 26
+unite_teams 7 8
+num_wins_for_team 14
+play_match 21 27
+unite_teams 1 14
+num_wins_for_team 3
+unite_teams 9 10
+unite_teams -1 24
+play_match 25 29
+num_wins_for_team 21
+num_wins_for_team 12
+play_match 27 0
+unite_teams 13 18
+play_match 5 0
+get_highest_ranked_team 
+play_match 20 13
+unite_teams 9 6
+num_wins_for_team 7
+play_match 4 -1
+play_match 15 26
+unite_teams 23 21
+num_wins_for_team 9
+num_wins_for_team 4
+get_highest_ranked_team 
+num_wins_for_team 2
+get_highest_ranked_team 
+unite_teams 16 0
+play_match 0 22
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 21 25
+num_wins_for_team -1
+play_match 14 -2
+play_match 18 2
+num_wins_for_team 20
+num_wins_for_team -2
+unite_teams 6 9
+play_match 28 11
+get_highest_ranked_team 
+num_wins_for_team 10
+unite_teams 20 -2
+num_wins_for_team 19
+num_wins_for_team 10
+get_highest_ranked_team 
+unite_teams -2 26
+unite_teams 5 18
+unite_teams 9 5
+num_wins_for_team 4
+num_wins_for_team 17
+unite_teams 7 17
+unite_teams 21 13
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 2
+unite_teams 20 6
+unite_teams 22 13
+num_wins_for_team 27
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match 2 21
+play_match 16 20
+num_wins_for_team 25
+num_wins_for_team 18
+play_match 23 13
+num_wins_for_team 1
+num_wins_for_team 11
+unite_teams 4 1
+get_highest_ranked_team 
+play_match 4 2
+play_match 24 27
+play_match 21 10
+unite_teams 15 10
+get_highest_ranked_team 
+num_wins_for_team 9
+num_wins_for_team 13
+unite_teams 9 5
+num_wins_for_team 5
+num_wins_for_team 27
+play_match 0 17
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 15
+get_highest_ranked_team 
+unite_teams 8 7
+num_wins_for_team 6
+play_match 7 4
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 10
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 26
+num_wins_for_team 29
+num_wins_for_team 6
+num_wins_for_team 8
+play_match 28 23
+play_match -2 16
+get_highest_ranked_team 
+play_match 1 1
+num_wins_for_team -2
+play_match 22 20
+get_highest_ranked_team 
+num_wins_for_team 18
+get_highest_ranked_team 
+play_match 4 17
+num_wins_for_team -1
+num_wins_for_team 23
+num_wins_for_team 21
+play_match 3 17
+num_wins_for_team 11
+num_wins_for_team 20
+num_wins_for_team 18
+get_highest_ranked_team 
+unite_teams 29 10
+num_wins_for_team 17
+num_wins_for_team 6
+num_wins_for_team 23
+unite_teams 19 13
+num_wins_for_team 14
+get_highest_ranked_team 
+unite_teams 23 13
+num_wins_for_team 6
+play_match 26 5
+unite_teams 25 3
+play_match 5 15
+play_match 1 -1
+unite_teams 14 10
+unite_teams 0 -1
+num_wins_for_team 25
+num_wins_for_team 2
+play_match -2 26
+get_highest_ranked_team 
+unite_teams 15 22
+get_highest_ranked_team 
+unite_teams 23 24
+get_highest_ranked_team 
+unite_teams 10 28
+num_wins_for_team -2
+num_wins_for_team 6
+play_match 25 4
+num_wins_for_team 24
+num_wins_for_team 2
+play_match 8 29
+unite_teams 23 21
+num_wins_for_team 20
+unite_teams 13 1
+num_wins_for_team 26
+play_match 23 29
+num_wins_for_team 12
+play_match 7 12
+num_wins_for_team 27
+get_highest_ranked_team 
+unite_teams 6 4
+play_match 0 27
+num_wins_for_team 5
+unite_teams 2 25
+num_wins_for_team 15
+play_match 2 24
+num_wins_for_team 27
+num_wins_for_team 12
+num_wins_for_team 5
+play_match 26 15
+play_match 28 10
+get_highest_ranked_team 
+play_match 2 9
+num_wins_for_team 14
+num_wins_for_team 0
+num_wins_for_team 16
+get_highest_ranked_team 
+unite_teams 1 17
+unite_teams 10 29
+play_match 23 12
+play_match 25 8
+unite_teams -2 2
+num_wins_for_team 21
+num_wins_for_team 19
+num_wins_for_team -1
+num_wins_for_team 4
+play_match 14 2
+play_match 18 22
+unite_teams 26 0
+num_wins_for_team 16
+play_match 6 20
+unite_teams 14 18
+unite_teams 24 24
+get_highest_ranked_team 
+get_highest_ranked_team 
+play_match -2 -1
+get_highest_ranked_team 
+unite_teams 12 -1
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 5
+num_wins_for_team 7
+get_highest_ranked_team 
+play_match -1 26
+num_wins_for_team 19
+num_wins_for_team 28
+unite_teams 8 -2
+num_wins_for_team 13
+get_highest_ranked_team 
+unite_teams 6 12
+num_wins_for_team 9
+get_highest_ranked_team 
+unite_teams 13 25
+num_wins_for_team 15
+get_highest_ranked_team 
+play_match 22 28
+get_highest_ranked_team 
+unite_teams 10 18
+num_wins_for_team 14
+get_highest_ranked_team 
+num_wins_for_team 20
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team -1
+play_match 3 11
+num_wins_for_team 3
+get_highest_ranked_team 
+play_match 29 24
+play_match 2 20
+num_wins_for_team 13
+play_match -2 15
+play_match 3 22
+play_match 18 -2
+play_match 12 24
+play_match 14 7
+play_match 3 16
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 16
+num_wins_for_team 3
+num_wins_for_team 22
+num_wins_for_team 1
+unite_teams 7 15
+num_wins_for_team 2
+get_highest_ranked_team 
+num_wins_for_team 23
+num_wins_for_team 25
+num_wins_for_team 12
+unite_teams 12 10
+num_wins_for_team 24
+num_wins_for_team 20
+unite_teams 20 23
+play_match 17 29
+unite_teams 26 1
+get_highest_ranked_team 
+unite_teams 6 19
+get_highest_ranked_team 
+unite_teams 28 19
+num_wins_for_team 18
+get_highest_ranked_team 
+play_match 7 5
+num_wins_for_team 28
+get_highest_ranked_team 
+play_match 15 17
+num_wins_for_team 15
+num_wins_for_team 4
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 28
+num_wins_for_team 23
+num_wins_for_team 7
+num_wins_for_team 6
+num_wins_for_team 6
+play_match 24 -2
+num_wins_for_team 19
+num_wins_for_team 12
+get_highest_ranked_team 
+num_wins_for_team 26
+unite_teams 10 0
+unite_teams 14 26
+get_highest_ranked_team 
+num_wins_for_team 16
+unite_teams 4 24
+num_wins_for_team 13
+num_wins_for_team 13
+num_wins_for_team 4
+unite_teams 29 25
+num_wins_for_team 20
+num_wins_for_team 9
+num_wins_for_team 16
+unite_teams -1 14
+play_match 11 11
+unite_teams 1 14
+unite_teams 21 23
+num_wins_for_team 14
+num_wins_for_team 14
+unite_teams 19 14
+unite_teams 18 3
+unite_teams 20 10
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team -1
+num_wins_for_team 16
+play_match 0 9
+play_match 16 0
+get_highest_ranked_team 
+num_wins_for_team -2
+num_wins_for_team 15
+play_match 6 16
+num_wins_for_team 21
+play_match 19 13
+num_wins_for_team -1
+num_wins_for_team 26
+num_wins_for_team 14
+unite_teams 8 19
+get_highest_ranked_team 
+num_wins_for_team 22
+get_highest_ranked_team 
+num_wins_for_team 22
+play_match 29 17
+unite_teams 9 12
+get_highest_ranked_team 
+play_match 4 28
+play_match 10 27
+num_wins_for_team 0
+play_match 2 15
+num_wins_for_team 26
+num_wins_for_team 26
+get_highest_ranked_team 
+play_match 20 24
+num_wins_for_team 20
+num_wins_for_team 15
+num_wins_for_team 18
+num_wins_for_team 22
+num_wins_for_team 6
+num_wins_for_team 18
+get_highest_ranked_team 
+get_highest_ranked_team 
+unite_teams 26 2
+num_wins_for_team -1
+get_highest_ranked_team 
+play_match 21 26
+unite_teams 8 15
+num_wins_for_team 16
+num_wins_for_team 29
+play_match 7 10
+unite_teams 9 3
+num_wins_for_team 5
+play_match 0 19
+get_highest_ranked_team 
+num_wins_for_team 20
+num_wins_for_team 11
+play_match 17 -2
+play_match 24 22
+num_wins_for_team 8
+unite_teams 16 15
+get_highest_ranked_team 
+get_highest_ranked_team 
+num_wins_for_team 8
+play_match 24 10
+num_wins_for_team 29
+num_wins_for_team 21
+num_wins_for_team 26
+unite_teams 0 21
+get_highest_ranked_team 
+unite_teams 27 4
+play_match 25 10
+play_match 27 21
+num_wins_for_team 10
+num_wins_for_team 12
+play_match 3 6
+get_highest_ranked_team 
+unite_teams 23 6
+num_wins_for_team 19
+unite_teams 7 21
+num_wins_for_team 1
