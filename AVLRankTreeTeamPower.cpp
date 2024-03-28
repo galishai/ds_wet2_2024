@@ -112,10 +112,26 @@ void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
             if(right_turns == 0)
             {
                 ptr->m_addWins += addWins;
+                if(ptr->m_left != nullptr)
+                {
+                    ptr->m_left->m_maxRank += addWins;
+                }
+                if(ptr->m_right != nullptr)
+                {
+                    ptr->m_right->m_maxRank += addWins;
+                }
             }
             if(ptr->m_right != nullptr)
             {
                 ptr->m_right->m_addWins -= addWins;
+                if(ptr->m_right->m_left != nullptr)
+                {
+                    ptr->m_right->m_left->m_maxRank -= addWins;
+                }
+                if(ptr->m_right->m_right != nullptr)
+                {
+                    ptr->m_right->m_right->m_maxRank -= addWins;
+                }
             }
             return;
         } else if (*(ptr->m_info) < key)
@@ -123,6 +139,14 @@ void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
             if(right_turns == 0)
             {
                 ptr->m_addWins += addWins;
+                if(ptr->m_left != nullptr)
+                {
+                    ptr->m_left->m_maxRank += addWins;
+                }
+                if(ptr->m_right != nullptr)
+                {
+                    ptr->m_right->m_maxRank += addWins;
+                }
             }
             ptr = ptr->m_right;
             right_turns++;
@@ -131,6 +155,14 @@ void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
             if(right_turns != 0)
             {
                 ptr->m_addWins -= addWins;
+                if(ptr->m_left != nullptr)
+                {
+                    ptr->m_left->m_maxRank -= addWins;
+                }
+                if(ptr->m_right != nullptr)
+                {
+                    ptr->m_right->m_maxRank -= addWins;
+                }
             }
             ptr = ptr->m_left;
             right_turns = 0;
