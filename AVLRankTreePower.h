@@ -56,7 +56,7 @@ public:
 
     void updateMaxTournament(Node<TeamByPower> *node);
 
-    void updateMaxRank(Node<TeamByPower> *node, int addedWins = 0)
+    void updateMaxRank(Node<TeamByPower> *node, int addedWins = 0);
 
 };
 
