@@ -45,13 +45,13 @@ void DynamicHashTable::insert(int key, TeamByID* info)
 
 void DynamicHashTable::remove(int key)
 {
-    if (find(key) == nullptr)
-    {
-        return;
-    }
     if (m_size > INITIAL_SIZE && m_occupancy - 1 < 0.5 * LOAD_FACTOR * m_size)
     {
         desize();
+    }
+    if (find(key) == nullptr)
+    {
+        return;
     }
     else
     {
