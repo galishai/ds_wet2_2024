@@ -19,7 +19,7 @@ public:
     AVLRankTree<PlayerByCreated>* m_playersByCreated;
     AVLRankTree<PlayerByStrength>* m_playersByStrength;
     PlayerByStrength* m_medianPlayer;
-    explicit Team(int teamID, int wins = 0, int power = 0)
+    explicit Team(int teamID, int power = 0)
     {
         m_teamID = teamID;
         //m_hashwins = wins;
