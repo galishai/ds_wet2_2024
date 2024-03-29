@@ -52,6 +52,8 @@ public:
 
     void updateMaxRec(Node<TeamByPower> *node);
 
+    void updateMaxRecRemove(Node<TeamByPower> *node, int removed_rank);
+
     void updateTempExtra(Node<TeamByPower> *node);
 
     void updateMaxTournament(Node<TeamByPower> *node);
