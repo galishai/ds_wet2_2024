@@ -1566,7 +1566,7 @@ play_match: FAILURE
 play_tournament: INVALID_INPUT
 remove_team: FAILURE
 add_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 33029
+get_highest_ranked_team: SUCCESS, 33047
 play_tournament: INVALID_INPUT
 add_player: FAILURE
 num_wins_for_team: FAILURE
@@ -1579,7 +1579,7 @@ add_player: FAILURE
 unite_teams: FAILURE
 add_player: SUCCESS
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 33029
+get_highest_ranked_team: SUCCESS, 33047
 play_match: FAILURE
 play_tournament: INVALID_INPUT
 play_tournament: FAILURE
@@ -1587,12 +1587,12 @@ remove_team: SUCCESS
 unite_teams: FAILURE
 play_match: FAILURE
 remove_team: FAILURE
-get_highest_ranked_team: SUCCESS, 33029
+get_highest_ranked_team: SUCCESS, 33047
 remove_newest_player: FAILURE
 add_team: SUCCESS
 play_match: FAILURE
 remove_team: FAILURE
-get_highest_ranked_team: SUCCESS, 33029
+get_highest_ranked_team: SUCCESS, 33047
 play_tournament: INVALID_INPUT
 unite_teams: FAILURE
 add_team: SUCCESS
@@ -1603,7 +1603,7 @@ num_wins_for_team: SUCCESS, 0
 add_team: FAILURE
 num_wins_for_team: SUCCESS, 0
 add_team: FAILURE
-get_highest_ranked_team: SUCCESS, 33029
+get_highest_ranked_team: SUCCESS, 33047
 add_team: FAILURE
 play_match: FAILURE
 add_team: SUCCESS
@@ -1623,12 +1623,12 @@ play_tournament: FAILURE
 add_team: SUCCESS
 unite_teams: FAILURE
 add_player: FAILURE
-get_highest_ranked_team: SUCCESS, 33029
+get_highest_ranked_team: SUCCESS, 33047
 add_player: FAILURE
 num_wins_for_team: FAILURE
 unite_teams: FAILURE
 unite_teams: FAILURE
-get_highest_ranked_team: SUCCESS, 33029
+get_highest_ranked_team: SUCCESS, 33047
 add_player: FAILURE
 unite_teams: FAILURE
 add_team: FAILURE
@@ -1637,7 +1637,7 @@ unite_teams: FAILURE
 play_tournament: INVALID_INPUT
 num_wins_for_team: FAILURE
 unite_teams: FAILURE
-get_highest_ranked_team: SUCCESS, 33029
+get_highest_ranked_team: SUCCESS, 33047
 unite_teams: FAILURE
 remove_team: SUCCESS
 add_team: SUCCESS
@@ -1650,7 +1650,7 @@ add_team: SUCCESS
 remove_team: FAILURE
 add_player: FAILURE
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 33029
+get_highest_ranked_team: SUCCESS, 33047
 add_team: SUCCESS
 add_team: SUCCESS
 unite_teams: FAILURE
@@ -1665,13 +1665,13 @@ play_tournament: FAILURE
 play_tournament: INVALID_INPUT
 add_player: FAILURE
 play_tournament: FAILURE
-get_highest_ranked_team: SUCCESS, 33029
+get_highest_ranked_team: SUCCESS, 33047
 num_wins_for_team: FAILURE
 play_tournament: INVALID_INPUT
 add_player: SUCCESS
 unite_teams: FAILURE
 add_player: FAILURE
-get_highest_ranked_team: SUCCESS, 33029
+get_highest_ranked_team: SUCCESS, 33047
 num_wins_for_team: SUCCESS, 0
 remove_team: FAILURE
 unite_teams: FAILURE
@@ -4277,7 +4277,7 @@ num_wins_for_team: FAILURE
 play_match: FAILURE
 get_highest_ranked_team: SUCCESS, 1018
 unite_teams: FAILURE
-num_wins_for_team: SUCCESS, 32522
+num_wins_for_team: SUCCESS, 32540
 remove_team: FAILURE
 unite_teams: FAILURE
 add_player: FAILURE
@@ -4882,7 +4882,7 @@ num_wins_for_team: FAILURE
 play_tournament: FAILURE
 add_team: FAILURE
 unite_teams: FAILURE
-num_wins_for_team: SUCCESS, 32522
+num_wins_for_team: SUCCESS, 32540
 get_highest_ranked_team: SUCCESS, 1526
 play_match: FAILURE
 remove_team: FAILURE
