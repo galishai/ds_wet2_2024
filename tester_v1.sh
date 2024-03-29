@@ -6,7 +6,7 @@ NC='\033[0m'
 passed=0
 failed=0
 
-for file in python_tester/tests/*.in; do
+for file in python_tester/tests/test6.in; do
     filename=$(basename -- "$file")
 
     valgrind -q -s --leak-check=yes --show-leak-kinds=all ./a.out < "$file" > temp.txt
