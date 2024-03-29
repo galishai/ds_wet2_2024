@@ -745,6 +745,7 @@ void AVLRankTreePower::insertNode(TeamByPower *new_T, int wins) //inserts new no
         m_root = newNode;
         newNode->m_maxRank = new_T->m_power;
         m_treeSize++;
+        updateMax(m_root);
         this->addWins(newNode, wins);
         return;
     }
