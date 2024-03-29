@@ -199,7 +199,6 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
             TeamByPower* newteampow = new TeamByPower(teamId, playerStrength);
             m_teamsByID->insertNode(newteamID);
             m_teamsByPower->insertNode(newteampow, teamInHash->m_hashwins);
-            return StatusType::SUCCESS;
         }catch(std::bad_alloc&)
         {
             return StatusType::ALLOCATION_ERROR;
