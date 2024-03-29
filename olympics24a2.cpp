@@ -956,7 +956,7 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
             rw = 0;
             if(tempnode->m_right != nullptr)
             {
-                rw = highestnode->m_right->m_addWins;
+                rw = tempnode->m_right->m_addWins;
             }
             maxtmp = max(maxtmp, tempnode->m_maxRank + to_add + tempnode->m_info->m_wins);
             to_add = to_add - tempnode->m_addWins;
