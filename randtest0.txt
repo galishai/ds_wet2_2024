@@ -31,7 +31,7 @@ play_match: SUCCESS, 39
 play_match: SUCCESS, 69
 unite_teams: SUCCESS
 add_player: SUCCESS
-num_wins_for_team: SUCCESS, 0
+num_wins_for_team: SUCCESS, 1
 remove_newest_player: SUCCESS
 add_team: SUCCESS
 add_player: SUCCESS
@@ -56,27 +56,27 @@ num_wins_for_team: FAILURE
 play_tournament: SUCCESS, 194
 play_tournament: SUCCESS, 194
 add_player: FAILURE
-get_highest_ranked_team: SUCCESS, 42434
-get_highest_ranked_team: SUCCESS, 42434
-get_highest_ranked_team: SUCCESS, 42434
+get_highest_ranked_team: SUCCESS, 42436
+get_highest_ranked_team: SUCCESS, 42436
+get_highest_ranked_team: SUCCESS, 42436
 play_tournament: FAILURE
 unite_teams: SUCCESS
-get_highest_ranked_team: SUCCESS, 42434
+get_highest_ranked_team: SUCCESS, 42436
 add_team: SUCCESS
-num_wins_for_team: SUCCESS, -2
+num_wins_for_team: SUCCESS, 3
 remove_newest_player: FAILURE
 play_match: FAILURE
-get_highest_ranked_team: SUCCESS, 42434
+get_highest_ranked_team: SUCCESS, 42436
 remove_team: INVALID_INPUT
 add_player: INVALID_INPUT
 play_tournament: FAILURE
-get_highest_ranked_team: SUCCESS, 42434
+get_highest_ranked_team: SUCCESS, 42436
 add_team: SUCCESS
 unite_teams: FAILURE
 add_player: SUCCESS
 remove_team: SUCCESS
 remove_team: SUCCESS
-get_highest_ranked_team: SUCCESS, 42434
+get_highest_ranked_team: SUCCESS, 42436
 add_team: SUCCESS
 play_match: SUCCESS, 67
 unite_teams: SUCCESS
@@ -88,12 +88,12 @@ unite_teams: FAILURE
 unite_teams: SUCCESS
 remove_team: SUCCESS
 play_tournament: SUCCESS, 183
-num_wins_for_team: SUCCESS, -2
-get_highest_ranked_team: SUCCESS, 47150
-get_highest_ranked_team: SUCCESS, 47150
+num_wins_for_team: SUCCESS, 0
+get_highest_ranked_team: SUCCESS, 47151
+get_highest_ranked_team: SUCCESS, 47151
 play_tournament: SUCCESS, 183
 remove_newest_player: SUCCESS
-get_highest_ranked_team: SUCCESS, 42435
+get_highest_ranked_team: SUCCESS, 42437
 add_player: SUCCESS
 remove_newest_player: SUCCESS
 add_player: SUCCESS
@@ -101,7 +101,7 @@ play_tournament: SUCCESS, 183
 play_match: SUCCESS, 183
 add_player: SUCCESS
 add_player: FAILURE
-num_wins_for_team: SUCCESS, -2
+num_wins_for_team: SUCCESS, 0
 remove_team: SUCCESS
 remove_team: FAILURE
 remove_newest_player: SUCCESS
