@@ -25,6 +25,7 @@ public:
         //m_hashwins = wins;
         m_power = power;
         m_player_count = 0;
+        m_hashwins = 0;
         m_playersByCreated = new AVLRankTree<PlayerByCreated>();
         m_playersByStrength = new AVLRankTree<PlayerByStrength>();
         m_medianPlayer = nullptr;
