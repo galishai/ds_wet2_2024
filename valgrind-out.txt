@@ -1,0 +1,79 @@
+==41916== Memcheck, a memory error detector
+==41916== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==41916== Using Valgrind-3.15.0-608cb11914-20190413 and LibVEX; rerun with -h for copyright info
+==41916== Command: ./a.out
+==41916== Parent PID: 32519
+==41916== 
+--41916-- 
+--41916-- Valgrind options:
+--41916--    --leak-check=full
+--41916--    --show-leak-kinds=all
+--41916--    --track-origins=yes
+--41916--    --verbose
+--41916--    --log-file=valgrind-out.txt
+--41916-- Contents of /proc/version:
+--41916--   Linux version 3.10.0-1160.95.1.el7.x86_64 (mockbuild@x86-vm-39.build.eng.bos.redhat.com) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-44) (GCC) ) #1 SMP Fri Jun 23 08:44:55 EDT 2023
+--41916-- 
+--41916-- Arch and hwcaps: AMD64, LittleEndian, amd64-cx16-lzcnt-rdtscp-sse3-ssse3-avx-avx2-bmi-f16c-rdrand
+--41916-- Page sizes: currently 4096, max supported 4096
+--41916-- Valgrind library directory: /usr/libexec/valgrind
+--41916-- Reading syms from /home/gal.ishai/data_structures_new/ds_wet2_2024/a.out
+--41916-- Reading syms from /usr/lib64/ld-2.17.so
+--41916-- Reading syms from /usr/libexec/valgrind/memcheck-amd64-linux
+--41916--    object doesn't have a symbol table
+--41916--    object doesn't have a dynamic symbol table
+--41916-- Scheduler: using generic scheduler lock implementation.
+--41916-- Reading suppressions file: /usr/libexec/valgrind/default.supp
+==41916== embedded gdbserver: reading from /tmp/vgdb-pipe-from-vgdb-to-41916-by-gal.ishai-on-csl3
+==41916== embedded gdbserver: writing to   /tmp/vgdb-pipe-to-vgdb-from-41916-by-gal.ishai-on-csl3
+==41916== embedded gdbserver: shared mem   /tmp/vgdb-pipe-shared-mem-vgdb-41916-by-gal.ishai-on-csl3
+==41916== 
+==41916== TO CONTROL THIS PROCESS USING vgdb (which you probably
+==41916== don't want to do, unless you know exactly what you're doing,
+==41916== or are doing some strange experiment):
+==41916==   /usr/libexec/valgrind/../../bin/vgdb --pid=41916 ...command...
+==41916== 
+==41916== TO DEBUG THIS PROCESS USING GDB: start GDB like this
+==41916==   /path/to/gdb ./a.out
+==41916== and then give GDB the following command
+==41916==   target remote | /usr/libexec/valgrind/../../bin/vgdb --pid=41916
+==41916== --pid is optional if only one valgrind process is running
+==41916== 
+--41916-- REDIR: 0x4019e40 (ld-linux-x86-64.so.2:strlen) redirected to 0x580c7ed5 (???)
+--41916-- REDIR: 0x4019c10 (ld-linux-x86-64.so.2:index) redirected to 0x580c7eef (???)
+--41916-- Reading syms from /usr/libexec/valgrind/vgpreload_core-amd64-linux.so
+--41916-- Reading syms from /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so
+==41916== WARNING: new redirection conflicts with existing -- ignoring it
+--41916--     old: 0x04019e40 (strlen              ) R-> (0000.0) 0x580c7ed5 ???
+--41916--     new: 0x04019e40 (strlen              ) R-> (2007.0) 0x04c2d1b0 strlen
+--41916-- REDIR: 0x4019dc0 (ld-linux-x86-64.so.2:strcmp) redirected to 0x4c2e300 (strcmp)
+--41916-- REDIR: 0x401aa80 (ld-linux-x86-64.so.2:mempcpy) redirected to 0x4c31f90 (mempcpy)
+--41916-- Reading syms from /usr/lib64/libstdc++.so.6.0.19
+--41916--    object doesn't have a symbol table
+--41916-- Reading syms from /usr/lib64/libm-2.17.so
+--41916-- Reading syms from /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+--41916--    object doesn't have a symbol table
+--41916-- Reading syms from /usr/lib64/libc-2.17.so
+--41916-- REDIR: 0x56e71d0 (libc.so.6:strcasecmp) redirected to 0x4a247a0 (_vgnU_ifunc_wrapper)
+--41916-- REDIR: 0x56e3f40 (libc.so.6:strnlen) redirected to 0x4a247a0 (_vgnU_ifunc_wrapper)
+--41916-- REDIR: 0x56e94d0 (libc.so.6:strncasecmp) redirected to 0x4a247a0 (_vgnU_ifunc_wrapper)
+--41916-- REDIR: 0x56e69a0 (libc.so.6:memset) redirected to 0x4a247a0 (_vgnU_ifunc_wrapper)
+--41916-- REDIR: 0x56e6950 (libc.so.6:memcpy@GLIBC_2.2.5) redirected to 0x4a247a0 (_vgnU_ifunc_wrapper)
+--41916-- REDIR: 0x56e5930 (libc.so.6:__GI_strrchr) redirected to 0x4c2cb70 (__GI_strrchr)
+--41916-- REDIR: 0x56e3e60 (libc.so.6:__GI_strlen) redirected to 0x4c2d110 (__GI_strlen)
+--41916-- REDIR: 0x56e63c0 (libc.so.6:__GI_memcmp) redirected to 0x4c30450 (__GI_memcmp)
+--41916-- REDIR: 0x56e23c0 (libc.so.6:strcmp) redirected to 0x4a247a0 (_vgnU_ifunc_wrapper)
+--41916-- REDIR: 0x5795fc0 (libc.so.6:__strcmp_sse42) redirected to 0x4c2e2b0 (__strcmp_sse42)
+--41916-- REDIR: 0x4e96170 (libstdc++.so.6:operator new(unsigned long)) redirected to 0x4c2a50c (operator new(unsigned long))
+--41916-- REDIR: 0x4e96280 (libstdc++.so.6:operator new[](unsigned long)) redirected to 0x4c2abb1 (operator new[](unsigned long))
+--41916-- REDIR: 0x4e94310 (libstdc++.so.6:operator delete[](void*)) redirected to 0x4c2bb08 (operator delete[](void*))
+--41916-- REDIR: 0x4e942e0 (libstdc++.so.6:operator delete(void*)) redirected to 0x4c2b496 (operator delete(void*))
+--41916-- REDIR: 0x56dcb60 (libc.so.6:free) redirected to 0x4c2afe6 (free)
+==41916== 
+==41916== HEAP SUMMARY:
+==41916==     in use at exit: 0 bytes in 0 blocks
+==41916==   total heap usage: 5 allocs, 5 frees, 168 bytes allocated
+==41916== 
+==41916== All heap blocks were freed -- no leaks are possible
+==41916== 
+==41916== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
