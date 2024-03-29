@@ -57,6 +57,8 @@ public:
 
     void resize();
 
+    void desize();
+
     //double loadFactor()//////////////////////////
     int hashFunction (int key);
 };

@@ -49,10 +49,10 @@ void DynamicHashTable::remove(int key)
     {
         return;
     }
-    /*if (m_size > INITIAL_SIZE && m_occupancy - 1 < 0.5 * LOAD_FACTOR * m_size)
+    if (m_size > INITIAL_SIZE && m_occupancy - 1 < 0.5 * LOAD_FACTOR * m_size)
     {
-        resize(false);
-    }*/
+        desize();
+    }
     else
     {
         int index = hashFunction(key);
@@ -69,6 +69,64 @@ void DynamicHashTable::resize()
 {
     int newSize;
     newSize = m_size * EXPANSION;///////
+    /*else
+    {
+        newSize = m_size * LOAD_FACTOR;
+    }*/
+    /////loadFactor
+    AVLRankTree<TeamByID> **newArr =  new AVLRankTree<TeamByID> *[newSize]();
+    for (int i=0; i<m_size; i++)
+    {
+        if (m_arr[i] != nullptr)
+        {
+            TeamByID **array = new TeamByID *[m_arr[i]->m_treeSize];
+            InorderTransversalIntoArray(m_arr[i]->m_root, array, m_arr[i]->m_treeSize, 0);
+            TeamByID **arraycopy = new TeamByID *[m_arr[i]->m_treeSize];
+            for(int j = 0; j < m_arr[i]->m_treeSize ; j++)
+            {
+                arraycopy[j] = new TeamByID(array[j]->m_teamID, array[j]->m_power);
+                arraycopy[j]->m_hashwins = array[j]->m_hashwins;
+            }
+            for (int j = 0; j < m_arr[i]->m_treeSize; j++)
+            {
+                int newIndex = arraycopy[j]->m_teamID % newSize;
+                if (newArr[newIndex] == nullptr)
+                {
+                    newArr[newIndex] = new AVLRankTree<TeamByID>();
+                }
+                newArr[newIndex]->insertNode(arraycopy[j]);
+            }
+            delete[] arraycopy;
+            delete[] array;
+        }
+    }
+    for(int i = 0; i < m_size; i++)
+    {
+        if(m_arr[i] != nullptr)
+        {
+            //InorderNullify(m_arr[i]->m_root);
+            delete m_arr[i];
+        }
+    }
+    m_size = newSize;
+    int occ = 0;
+    for(int i = 0 ; i < m_size; i++)
+    {
+        if(newArr[i] != nullptr && newArr[i]->m_treeSize != 0)
+        {
+            occ++;
+        }
+    }
+    m_occupancy = occ;
+    delete[] m_arr;
+    //TODO delete contents of old array
+    m_arr = newArr;
+}
+
+void DynamicHashTable::desize()
+{
+    int newSize;
+    newSize = m_size * LOAD_FACTOR;///////
     /*else
     {
         newSize = m_size * LOAD_FACTOR;
