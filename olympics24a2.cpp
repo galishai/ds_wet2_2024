@@ -428,9 +428,9 @@ output_t<int> olympics_t::play_match(int teamId1, int teamId2)
             m_teamsHash->find(teamId2)->m_hashwins++;
         }
     }
-    team1Power->m_maxRank =  team1Power->m_info->m_power + m_teamsByPower->getAddedWins(team1Power->m_info);
+    //team1Power->m_maxRank =  team1Power->m_info->m_power + m_teamsByPower->getAddedWins(team1Power->m_info);
     m_teamsByPower->updateMaxRec(team1Power);
-    team2Power->m_maxRank = team2Power->m_info->m_power + m_teamsByPower->getAddedWins(team2Power->m_info);
+    //team2Power->m_maxRank = team2Power->m_info->m_power + m_teamsByPower->getAddedWins(team2Power->m_info);
     m_teamsByPower->updateMaxRec(team2Power);
     m_highestRank = m_teamsByPower->m_root->m_maxRank;
     if(m_teamsByID->m_treeSize > 1)
@@ -501,6 +501,10 @@ output_t<int> olympics_t::get_highest_ranked_team()
     if(m_teamsByPower->m_treeSize == 0)
     {
         return 0;
+    }
+    if(m_teamsByPower->m_root->m_maxRank + m_teamsByPower->m_root->m_extra == 531)
+    {
+        int a =1;
     }
     return m_teamsByPower->m_root->m_maxRank + m_teamsByPower->m_root->m_extra;
 }
