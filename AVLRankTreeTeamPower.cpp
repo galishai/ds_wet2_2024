@@ -728,11 +728,11 @@ void AVLRankTreePower::addWins(Node<TeamByPower> *node, int wins)
     node->m_extra += wins;
     if(node->m_left != nullptr)
     {
-    node->m_extra -= wins;
+    node->m_left->m_extra -= wins;
     }
     if(node->m_right != nullptr)
     {
-    node->m_extra -= wins;
+    node->m_right->m_extra -= wins;
     }
 }
 
