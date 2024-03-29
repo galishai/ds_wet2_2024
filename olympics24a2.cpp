@@ -35,14 +35,14 @@ olympics_t::~olympics_t()
 
 StatusType olympics_t::add_team(int teamId)
 {
-    if(teamId == 6624)
+    /*if(teamId == 6624)
     {
         int a = 1;
     }
     TeamByID find(2983);
     if(m_teamsHash->find(2983)!= nullptr)
     {
-        int hash_wins = m_teamsHash->find(2983)->m_wins;
+        int hash_wins = m_teamsHash->find(2983)->m_hashwins;
     }
     Node<TeamByID>* n8 = m_teamsByID->findNode(&find);
     if(n8 != nullptr)
@@ -58,7 +58,7 @@ StatusType olympics_t::add_team(int teamId)
                 int a = 1;
             }
         }
-    }
+    }*/
     if(teamId <= 0)
     {
         return StatusType::INVALID_INPUT;
@@ -88,7 +88,7 @@ StatusType olympics_t::remove_team(int teamId)
     {
         int a = 1;
     }
-    TeamByID find(2983);
+    /*TeamByID find(2983);
     Node<TeamByID>* n8 = m_teamsByID->findNode(&find);
     if(n8 != nullptr)
     {
@@ -103,7 +103,7 @@ StatusType olympics_t::remove_team(int teamId)
                 int a = 1;
             }
         }
-    }
+    }*/
 	if(teamId <= 0)
     {
         return StatusType::INVALID_INPUT;
@@ -126,7 +126,7 @@ StatusType olympics_t::remove_team(int teamId)
     Node<TeamByID>* team = m_teamsByID->findNode(&teamIDFinder);
     if(team != nullptr)
     {
-        TeamByPower teamPowerFinder(teamId, team->m_info->m_wins, team->m_info->m_power);
+        TeamByPower teamPowerFinder(teamId, team->m_info->m_power);
         m_teamsByID->removeNode(&teamIDFinder);
         m_teamsByPower->removeNode(&teamPowerFinder);
         if(m_teamsByPower->m_treeSize >= 1)
@@ -165,7 +165,7 @@ StatusType olympics_t::remove_team(int teamId)
 
 StatusType olympics_t::add_player(int teamId, int playerStrength)
 {
-    TeamByID find(2983);
+    /*TeamByID find(2983);
     Node<TeamByID>* n8 = m_teamsByID->findNode(&find);
     if(n8 != nullptr)
     {
@@ -180,7 +180,7 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
                 int a = 1;
             }
         }
-    }
+    }*/
     if(teamId <= 0 || playerStrength <= 0)
     {
         return StatusType::INVALID_INPUT;
@@ -195,7 +195,7 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
     {
         try
         {
-            TeamByID* newteam = new TeamByID(teamId, teamInHash->m_wins, playerStrength);
+            TeamByID* newteam = new TeamByID(teamId, teamInHash->m_hashwins, playerStrength);
             m_teamsByID->insertNode(newteam);
         }catch(std::bad_alloc&)
         {
@@ -216,26 +216,26 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
     }
     team->m_info->m_player_count++;
     isValid(team->m_info->m_playersByCreated->m_root);
-    TeamByPower teamPowerFinder(teamId, team->m_info->m_wins, team->m_info->m_power);
+    TeamByPower teamPowerFinder(teamId, team->m_info->m_power);
     Node<TeamByPower> *teampow = m_teamsByPower->findNode(&teamPowerFinder);
     int original_wins;
     if(teampow == nullptr)
     {
-        original_wins = teamInHash->m_wins;
+        original_wins = teamInHash->m_hashwins;
     }
     else
     {
         int added_wins = m_teamsByPower->getAddedWins(teampow->m_info);
-        original_wins = teampow->m_info->m_wins + added_wins;
+        original_wins = added_wins;
     }
     m_teamsByPower->removeNode(&teamPowerFinder);
 
     team->m_info->updateMedianAndPower();
-    TeamByPower* updatedTeamPower = new TeamByPower(teamId, original_wins, team->m_info->m_power);
-    m_teamsByPower->insertNode(updatedTeamPower);
+    TeamByPower* updatedTeamPower = new TeamByPower(teamId, team->m_info->m_power);
+    m_teamsByPower->insertNode(updatedTeamPower,original_wins);
 
     Node<TeamByPower>* temp =  m_teamsByPower->findNode(updatedTeamPower);
-    temp->m_maxRank = updatedTeamPower->m_wins + updatedTeamPower->m_power + m_teamsByPower->getAddedWins(temp->m_info);
+    temp->m_maxRank = updatedTeamPower->m_power + m_teamsByPower->getAddedWins(temp->m_info);
     m_teamsByPower->updateMaxRec(temp);
     m_highestRank = m_teamsByPower->m_root->m_maxRank;
 
@@ -259,7 +259,7 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
 
 StatusType olympics_t::remove_newest_player(int teamId)
 {
-    if(teamId == 2983)
+    /*if(teamId == 2983)
     {
         int a = 1;
     }
@@ -278,7 +278,7 @@ StatusType olympics_t::remove_newest_player(int teamId)
                 int a = 1;
             }
         }
-    }
+    }*/
 	if(teamId <= 0)
     {
         return StatusType::INVALID_INPUT;
@@ -303,16 +303,12 @@ StatusType olympics_t::remove_newest_player(int teamId)
     team->m_info->m_playersByCreated->removeNode(newest);
     team->m_info->m_playersByStrength->removeNode(&strcopy);
     team->m_info->m_player_count--;
-    TeamByPower teamPowerFinder(teamId, team->m_info->m_wins, team->m_info->m_power);
+    TeamByPower teamPowerFinder(teamId, team->m_info->m_power);
     TeamByPower *teambypow = m_teamsByPower->findNode(&teamPowerFinder)->m_info;
     if(team->m_info->m_playersByCreated->m_treeSize == 0)
     {
-        if(teamId == 2983)
-        {
-            int a = 1;
-        }
-        int added_wins = m_teamsByPower->getAddedWins(&teamPowerFinder);
-        m_teamsHash->find(teamId)->m_wins = teambypow->m_wins + added_wins;
+        int added_wins = m_teamsByPower->getAddedWins(teambypow);
+        m_teamsHash->find(teamId)->m_hashwins = added_wins;
         m_teamsByID->removeNode(team->m_info);
         m_teamsByPower->removeNode(&teamPowerFinder);
     }
@@ -320,13 +316,13 @@ StatusType olympics_t::remove_newest_player(int teamId)
     {
         int original_wins;
         TeamByPower* teampow = m_teamsByPower->findNode(&teamPowerFinder)->m_info;
-        original_wins = teampow->m_wins + m_teamsByPower->getAddedWins(teampow);
+        original_wins = m_teamsByPower->getAddedWins(teampow);
         m_teamsByPower->removeNode(&teamPowerFinder);
         team->m_info->updateMedianAndPower();
-        TeamByPower *updatedPower = new TeamByPower(teamId, original_wins, team->m_info->m_power);
-        m_teamsByPower->insertNode(updatedPower);
+        TeamByPower *updatedPower = new TeamByPower(teamId, team->m_info->m_power);
+        m_teamsByPower->insertNode(updatedPower,original_wins);
         Node<TeamByPower>* temp =  m_teamsByPower->findNode(updatedPower);
-        temp->m_maxRank = updatedPower->m_wins + updatedPower->m_power + m_teamsByPower->getAddedWins(temp->m_info); //TODO is temp always a leaf?
+        temp->m_maxRank = updatedPower->m_power + m_teamsByPower->getAddedWins(temp->m_info); //TODO is temp always a leaf?
         m_teamsByPower->updateMaxRec(temp);
         isValid(team->m_info->m_playersByCreated->m_root);
     }
@@ -358,7 +354,7 @@ StatusType olympics_t::remove_newest_player(int teamId)
 
 output_t<int> olympics_t::play_match(int teamId1, int teamId2)
 {
-    TeamByID find(2983);
+    /*TeamByID find(2983);
     Node<TeamByID>* n8 = m_teamsByID->findNode(&find);
     if(n8 != nullptr)
     {
@@ -373,7 +369,7 @@ output_t<int> olympics_t::play_match(int teamId1, int teamId2)
                 int a = 1;
             }
         }
-    }
+    }*/
     if(teamId1 <= 0 || teamId2 <= 0 || teamId1 == teamId2)
     {
         return StatusType::INVALID_INPUT;
@@ -390,49 +386,51 @@ output_t<int> olympics_t::play_match(int teamId1, int teamId2)
     {
         int a = 1;
     }
-    TeamByPower teamPowerFinder1(teamId1, team1->m_info->m_wins, team1->m_info->m_power);
-    TeamByPower teamPowerFinder2(teamId2, team2->m_info->m_wins, team2->m_info->m_power);
-    TeamByPower *team1Power = m_teamsByPower->findNode(&teamPowerFinder1)->m_info;
-    TeamByPower *team2Power = m_teamsByPower->findNode(&teamPowerFinder2)->m_info;
-    int added_wins = m_teamsByPower->getAddedWins(team1Power);
+    TeamByPower teamPowerFinder1(teamId1, team1->m_info->m_power);
+    TeamByPower teamPowerFinder2(teamId2, team2->m_info->m_power);
+    Node<TeamByPower> *team1Power = m_teamsByPower->findNode(&teamPowerFinder1);
+    Node<TeamByPower> *team2Power = m_teamsByPower->findNode(&teamPowerFinder2);
+    int added_wins = m_teamsByPower->getAddedWins(team1Power->m_info);
     int winningID;
     if(team1->m_info->m_power > team2->m_info->m_power)
     {
-        team1->m_info->m_wins++;
-        team1Power->m_wins++;
+        //team1->m_info->m_wins++;
+        m_teamsByPower->addWins(team1Power,1);
+        //team1Power->m_wins++;
         winningID = teamId1;
-        m_teamsHash->find(teamId1)->m_wins++;
+        m_teamsHash->find(teamId1)->m_hashwins++;
     }
     else if(team1->m_info->m_power < team2->m_info->m_power)
     {
-        team2->m_info->m_wins++;
-        team2Power->m_wins++;
+        //team2->m_info->m_wins++;
+        m_teamsByPower->addWins(team2Power,1);
+        //team2Power->m_wins++;
         winningID = teamId2;
-        m_teamsHash->find(teamId2)->m_wins++;
+        m_teamsHash->find(teamId2)->m_hashwins++;
     }
     else
     {
         if(teamId1 < teamId2)
         {
-            team1->m_info->m_wins++;
-            team1Power->m_wins++;
+            //team1->m_info->m_wins++;
+            //team1Power->m_wins++;
+            m_teamsByPower->addWins(team1Power,1);
             winningID = teamId1;
-            m_teamsHash->find(teamId1)->m_wins++;
+            m_teamsHash->find(teamId1)->m_hashwins++;
         }
         else
         {
-            team2->m_info->m_wins++;
-            team2Power->m_wins++;
+            //team2->m_info->m_wins++;
+            //team2Power->m_wins++;
+            m_teamsByPower->addWins(team2Power,1);
             winningID = teamId2;
-            m_teamsHash->find(teamId2)->m_wins++;
+            m_teamsHash->find(teamId2)->m_hashwins++;
         }
     }
-    Node<TeamByPower>* temp1 =  m_teamsByPower->findNode(team1Power);
-    temp1->m_maxRank = temp1->m_info->m_wins + temp1->m_info->m_power + m_teamsByPower->getAddedWins(temp1->m_info);
-    m_teamsByPower->updateMaxRec(temp1);
-    Node<TeamByPower>* temp2 =  m_teamsByPower->findNode(team2Power);
-    temp2->m_maxRank = temp2->m_info->m_wins + temp2->m_info->m_power + m_teamsByPower->getAddedWins(temp2->m_info);
-    m_teamsByPower->updateMaxRec(temp2);
+    team1Power->m_maxRank =  team1Power->m_info->m_power + m_teamsByPower->getAddedWins(team1Power->m_info);
+    m_teamsByPower->updateMaxRec(team1Power);
+    team2Power->m_maxRank = team2Power->m_info->m_power + m_teamsByPower->getAddedWins(team2Power->m_info);
+    m_teamsByPower->updateMaxRec(team2Power);
     m_highestRank = m_teamsByPower->m_root->m_maxRank;
     if(m_teamsByID->m_treeSize > 1)
     {
@@ -452,7 +450,7 @@ output_t<int> olympics_t::play_match(int teamId1, int teamId2)
 
 output_t<int> olympics_t::num_wins_for_team(int teamId)
 {
-    TeamByID find(2983);
+    /*TeamByID find(2983);
     Node<TeamByID>* n8 = m_teamsByID->findNode(&find);
     if(teamId == 2983)
     {
@@ -470,7 +468,7 @@ output_t<int> olympics_t::num_wins_for_team(int teamId)
                 }
             }
         }
-    }
+    }*/
     if(teamId <= 0)
     {
         return StatusType::INVALID_INPUT;
@@ -483,12 +481,12 @@ output_t<int> olympics_t::num_wins_for_team(int teamId)
     Node<TeamByID> *team = m_teamsByID->findNode(&teamIDFinder);
     if(team == nullptr)
     {
-        return m_teamsHash->find(teamId)->m_wins;
+        return m_teamsHash->find(teamId)->m_hashwins;
     }
-    TeamByPower teamPowerFinder(teamId, team->m_info->m_wins, team->m_info->m_power);
+    TeamByPower teamPowerFinder(teamId, team->m_info->m_power);
     TeamByPower *teamByPower = m_teamsByPower->findNode(&teamPowerFinder)->m_info;
     int added_wins = m_teamsByPower->getAddedWins(teamByPower);
-    return teamByPower->m_wins + added_wins;
+    return added_wins;
 }
 
 output_t<int> olympics_t::get_highest_ranked_team()
@@ -499,12 +497,16 @@ output_t<int> olympics_t::get_highest_ranked_team()
     {
         return -1;
     }
-    return m_highestRank;
+    if(m_teamsByPower->m_treeSize == 0)
+    {
+        return 0;
+    }
+    return m_teamsByPower->m_root->m_maxRank + m_teamsByPower->m_root->m_extra;
 }
 
 StatusType olympics_t::unite_teams(int teamId1, int teamId2)
 {
-    TeamByID find(2983);
+    /*TeamByID find(2983);
     Node<TeamByID>* n8 = m_teamsByID->findNode(&find);
     if(n8 != nullptr)
     {
@@ -519,7 +521,7 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
                 int a = 1;
             }
         }
-    }
+    }*/
 	if(teamId1 <= 0 || teamId2 <= 0 || teamId1 == teamId2)
     {
         return StatusType::INVALID_INPUT;
@@ -541,23 +543,23 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     }
     else if(team1 == nullptr)
     {
-        TeamByID *team1new = new TeamByID(teamId1, team1hash->m_wins, team1hash->m_power);
+        TeamByID *team1new = new TeamByID(teamId1, team1hash->m_hashwins, team1hash->m_power);
         m_teamsByID->insertNode(team1new);
         team1 = m_teamsByID->findNode(team1new);
     }
     isValid(team1->m_info->m_playersByCreated->m_root);
     isValid(team2->m_info->m_playersByCreated->m_root);
-    TeamByPower team1PowerFinder(teamId1, team1->m_info->m_wins, team1->m_info->m_power);
-    TeamByPower team2PowerFinder(teamId2, team2->m_info->m_wins, team2->m_info->m_power);
+    TeamByPower team1PowerFinder(teamId1, team1->m_info->m_power);
+    TeamByPower team2PowerFinder(teamId2, team2->m_info->m_power);
     Node<TeamByPower> *team1pow = m_teamsByPower->findNode(&team1PowerFinder);
     int original_wins;
     if(team1pow == nullptr)
     {
-        original_wins = team1hash->m_wins;
+        original_wins = team1hash->m_hashwins;
     }
     else
     {
-        original_wins = team1pow->m_info->m_wins + m_teamsByPower->getAddedWins(team1pow->m_info);
+        original_wins = m_teamsByPower->getAddedWins(team1pow->m_info);
     }
     Node<TeamByPower> *team2pow = m_teamsByPower->findNode(&team2PowerFinder);
     m_teamsByPower->removeNode(&team1PowerFinder);
@@ -627,8 +629,8 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     //team2->m_info->m_playersByStrength->m_root = nullptr;
     m_teamsByID->removeNode(team2->m_info);
     team1->m_info->updateMedianAndPower();
-    TeamByPower *updatedTeamPower1 = new TeamByPower(team1->m_info->m_teamID, original_wins, team1->m_info->m_power);
-    m_teamsByPower->insertNode(updatedTeamPower1);
+    TeamByPower *updatedTeamPower1 = new TeamByPower(team1->m_info->m_teamID, team1->m_info->m_power);
+    m_teamsByPower->insertNode(updatedTeamPower1, original_wins);
     m_teamsHash->remove(teamId2);
     m_highestRank = m_teamsByPower->m_root->m_maxRank;
     /*for(int i = 0; i < sizeOfArray1 + sizeOfArray2; i++)
@@ -662,7 +664,7 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     {
         m_teamsByPower->updateMaxRec(m_teamsByPower->select(m_teamsByPower->m_root,m_teamsByPower->m_treeSize));
     }
-    n8 = m_teamsByID->findNode(&find);
+    /*n8 = m_teamsByID->findNode(&find);
     if(n8 != nullptr)
     {
         TeamByPower findp(2983, n8->m_info->m_wins, n8->m_info->m_power);
@@ -676,7 +678,7 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
                 int a = 1;
             }
         }
-    }
+    }*/
     if(m_teamsByPower->m_root != nullptr)
     {
         m_highestRank = m_teamsByPower->m_root->m_maxRank;
@@ -709,20 +711,20 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         return StatusType::FAILURE;
     }
     TeamByID *maxIDTeam = maxNode(m_teamsByID->m_root)->m_info;
-    TeamByPower *lowestInRange;
-    TeamByPower *highestInRange;
-    TeamByPower *lowPowerTeam = new TeamByPower(maxIDTeam->m_teamID + 1,0,lowPower);
-    m_teamsByPower->insertNode(lowPowerTeam);
+    Node<TeamByPower> *lowestInRange;
+    Node<TeamByPower> *highestInRange;
+    TeamByPower *lowPowerTeam = new TeamByPower(maxIDTeam->m_teamID + 1,lowPower);
+    m_teamsByPower->insertNode(lowPowerTeam, 0);
     Node<TeamByPower> * lowernode = m_teamsByPower->findNode(lowPowerTeam);
 
     if (lowernode->m_left != nullptr && lowernode->m_right != nullptr) //if has two sons
     {
-        lowestInRange = minNode(lowernode->m_right)->m_info;
+        lowestInRange = minNode(lowernode->m_right);
     }
 
     else if ((lowernode->m_left == nullptr && lowernode->m_right != nullptr)) //if only has right son todo check
     {
-        lowestInRange = minNode(lowernode->m_right)->m_info;
+        lowestInRange = minNode(lowernode->m_right);
     }
 
     else if (lowernode->m_left != nullptr && lowernode->m_right == nullptr) //if only has left son
@@ -745,14 +747,14 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
             }
             if (ptr->m_parent != nullptr)
             {
-                lowestInRange = ptr->m_parent->m_info;
+                lowestInRange = ptr->m_parent;
             } else
             {
                 lowestInRange = nullptr;
             }
         }else if (lowernode->m_parent->m_left == lowernode)
         {
-            lowestInRange = lowernode->m_parent->m_info;
+            lowestInRange = lowernode->m_parent;
         }
     }else
     {
@@ -761,7 +763,7 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
             lowestInRange = nullptr;
         } else if (lowernode->m_parent->m_left == lowernode)
         {
-            lowestInRange = lowernode->m_parent->m_info;
+            lowestInRange = lowernode->m_parent;
         } else if (lowernode->m_parent->m_right == lowernode)
         {
 
@@ -773,7 +775,7 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
             }
             if (ptr->m_parent != nullptr)
             {
-                lowestInRange = ptr->m_parent->m_info;
+                lowestInRange = ptr->m_parent;
             } else
             {
                 lowestInRange = nullptr;
@@ -781,13 +783,13 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         }
     }
     m_teamsByPower->removeNode(lowPowerTeam);
-    TeamByPower *highPowerTeam = new TeamByPower(-1, 0, highPower);
-    m_teamsByPower->insertNode(highPowerTeam);
+    TeamByPower *highPowerTeam = new TeamByPower(-1, highPower);
+    m_teamsByPower->insertNode(highPowerTeam, 0);
     Node<TeamByPower> *highernode = m_teamsByPower->findNode(highPowerTeam);
 
     if (highernode->m_left != nullptr && highernode->m_right != nullptr) //if has two sons
     {
-        highestInRange = maxNode(highernode->m_left)->m_info;
+        highestInRange = maxNode(highernode->m_left);
 
     }
 
@@ -811,14 +813,14 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
             }
             if (ptr->m_parent != nullptr)
             {
-                highestInRange = ptr->m_parent->m_info;
+                highestInRange = ptr->m_parent;
             } else
             {
                 highestInRange = nullptr;
             }
         }else if (highernode->m_parent->m_right == highernode)
         {
-            highestInRange = highernode->m_parent->m_info;
+            highestInRange = highernode->m_parent;
         }
     }
     else
@@ -836,7 +838,7 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
             }
             if (ptr->m_parent != nullptr)
             {
-                highestInRange = ptr->m_parent->m_info;
+                highestInRange = ptr->m_parent;
             } else
             {
                 highestInRange = nullptr;
@@ -844,7 +846,7 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         }
         if (highernode->m_parent->m_right == highernode)
         {
-            highestInRange = highernode->m_parent->m_info;
+            highestInRange = highernode->m_parent;
         }
     }
     m_teamsByPower->removeNode(highPowerTeam);
@@ -853,15 +855,15 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         return StatusType::FAILURE;
     }
 
-    int lowrank = m_teamsByPower->rank(lowestInRange);
-    int highrank = m_teamsByPower->rank(highestInRange);
+    int lowrank = m_teamsByPower->rank(lowestInRange->m_info);
+    int highrank = m_teamsByPower->rank(highestInRange->m_info);
 
 
     int num_in_range = highrank - lowrank + 1;
     int temp = num_in_range;
     if(temp == 1)
     {
-        return lowestInRange->m_teamID;
+        return lowestInRange->m_info->m_teamID;
     }
     if(temp == 0)
     {
@@ -875,10 +877,10 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         }
         temp /=2;
     }
-    int j = m_teamsByPower->rank(highestInRange);
-    int i = m_teamsByPower->rank(lowestInRange);
+    int j = m_teamsByPower->rank(highestInRange->m_info);
+    int i = m_teamsByPower->rank(lowestInRange->m_info);
     int middle;
-    TeamByPower *middleTeam = lowestInRange;
+    Node<TeamByPower> *middleTeam = lowestInRange;
     while(num_in_range != 2)
     {
         if (i % 2 == 1 && j % 2 == 0 || j % 2 == 1 && i % 2 == 0)
@@ -888,28 +890,39 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
         {
             middle = i + (j - i) / 2;
         }
-        middleTeam = m_teamsByPower->select(m_teamsByPower->m_root, middle - 1)->m_info;
-        m_teamsByPower->addWinsToLessEqual(highestInRange, 1);
-        m_teamsByPower->addWinsToLessEqual(middleTeam, -1);
+        middleTeam = m_teamsByPower->select(m_teamsByPower->m_root, middle - 1);
+        m_teamsByPower->addWinsToLessEqual(highestInRange->m_info, 1);
+        m_teamsByPower->addWinsToLessEqual(middleTeam->m_info, -1);
         num_in_range /= 2;
         i = middle;
-
-        m_teamsByPower->updateMaxTournament(m_teamsByPower->findNode(highestInRange));
-        m_teamsByPower->updateMaxTournament(m_teamsByPower->findNode(middleTeam));
     }
-
+    /*if(n8 != nullptr)
+    {
+        TeamByPower findp(2983, n8->m_info->m_wins, n8->m_info->m_power);
+        Node<TeamByPower> *found = m_teamsByPower->findNode(&findp);
+        if(found != nullptr)
+        {
+            added_wins = m_teamsByPower->getAddedWins(found->m_info);
+            int n8rank = m_teamsByPower->rank(found->m_info);
+            if(n8rank >= lowrank && n8rank <= highrank)
+            {
+                int a=1;
+            }
+        }
+    }*/
     if(num_in_range == 2)
     {
-        highestInRange->m_wins ++;
-        TeamByID winnerFinder(highestInRange->m_teamID);
-        TeamByID *winnerByID = m_teamsByID->findNode(&winnerFinder)->m_info;
-        winnerByID->m_wins++;
-        Node<TeamByPower> *highestnode = m_teamsByPower->findNode(highestInRange);
-        Node<TeamByPower> *runnerup = m_teamsByPower->findNode(middleTeam);
-        highestnode->m_maxRank = highestInRange->m_power + highestInRange->m_wins + m_teamsByPower->getAddedWins(highestInRange);
-        runnerup->m_maxRank = runnerup->m_info->m_power + runnerup->m_info->m_wins + m_teamsByPower->getAddedWins(runnerup->m_info);
-        m_teamsByPower->updateMaxRec(highestnode);
-        m_teamsByPower->updateMaxRec(runnerup);
+        //highestInRange->m_wins ++;
+        m_teamsByPower->addWins(highestInRange,1);
+        TeamByID winnerFinder(highestInRange->m_info->m_teamID);
+        //TeamByID *winnerByID = m_teamsByID->findNode(&winnerFinder)->m_info;
+        //winnerByID->m_wins++;
+        //Node<TeamByPower> *highestnode = m_teamsByPower->findNode(highestInRange);
+        //Node<TeamByPower> *runnerup = m_teamsByPower->findNode(middleTeam);
+        highestInRange->m_maxRank = highestInRange->m_info->m_power + m_teamsByPower->getAddedWins(highestInRange->m_info);
+        middleTeam->m_maxRank = middleTeam->m_info->m_power + m_teamsByPower->getAddedWins(middleTeam->m_info);
+        m_teamsByPower->updateMaxRec(highestInRange);
+        m_teamsByPower->updateMaxRec(middleTeam);
     }
     if(m_teamsByID->m_treeSize > 1)
     {
@@ -924,5 +937,5 @@ output_t<int> olympics_t::play_tournament(int lowPower, int highPower)
     {
         m_highestRank = m_teamsByPower->m_root->m_maxRank;
     }
-    return highestInRange->m_teamID;
+    return highestInRange->m_info->m_teamID;
 }

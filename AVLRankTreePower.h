@@ -22,7 +22,7 @@ public:
 
     void destroyTree(Node<TeamByPower> *root);
 
-    Node<TeamByPower> *balanceNode(Node<TeamByPower> *node, bool insert);
+    Node<TeamByPower> *balanceNode(Node<TeamByPower> *node);
 
     Node<TeamByPower> *findNode(TeamByPower *key); //nullptr if doesnt exist in tree
 
@@ -32,15 +32,15 @@ public:
 
     //void updateBFAndHeight(Node<T> *node);
 
-    void insertNode(TeamByPower *new_T);
+    void insertNode(TeamByPower *new_T, int wins);
 
-    Node<TeamByPower> *RightRightRotation(Node<TeamByPower> *node, bool insert);
+    Node<TeamByPower> *RightRightRotation(Node<TeamByPower> *node);
 
-    Node<TeamByPower> *RightLeftRotation(Node<TeamByPower> *node, bool insert);
+    Node<TeamByPower> *RightLeftRotation(Node<TeamByPower> *node);
 
-    Node<TeamByPower> *LeftLeftRotation(Node<TeamByPower> *node, bool insert);
+    Node<TeamByPower> *LeftLeftRotation(Node<TeamByPower> *node);
 
-    Node<TeamByPower> *LeftRightRotation(Node<TeamByPower> *node, bool insert);
+    Node<TeamByPower> *LeftRightRotation(Node<TeamByPower> *node);
 
     Node<TeamByPower> *select(Node<TeamByPower>* node, int index);///////////
 
@@ -52,13 +52,9 @@ public:
 
     void updateMaxRec(Node<TeamByPower> *node);
 
-    void updateMaxRecRemove(Node<TeamByPower> *node, int removed_rank);
-
     void updateTempExtra(Node<TeamByPower> *node);
 
-    void updateMaxTournament(Node<TeamByPower> *node);
-
-    void updateMaxRank(Node<TeamByPower> *node, int addedWins = 0);
+    void addWins(Node<TeamByPower> *node, int wins);
 
 };
 

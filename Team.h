@@ -13,7 +13,7 @@ class Team
 {
 public:
     int m_teamID;
-    int m_wins;
+    int m_hashwins;
     int m_power;
     int m_player_count;
     AVLRankTree<PlayerByCreated>* m_playersByCreated;
@@ -22,7 +22,7 @@ public:
     explicit Team(int teamID, int wins = 0, int power = 0)
     {
         m_teamID = teamID;
-        m_wins = wins;
+        //m_hashwins = wins;
         m_power = power;
         m_player_count = 0;
         m_playersByCreated = new AVLRankTree<PlayerByCreated>();
@@ -33,7 +33,7 @@ public:
     explicit Team(Team *other)
     {
         m_teamID = other->m_teamID;
-        m_wins = other->m_wins;
+        m_hashwins = other->m_hashwins;
         m_power = other->m_power;
         m_player_count = other->m_player_count;
         m_playersByCreated = nullptr;

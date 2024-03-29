@@ -16,7 +16,7 @@ public:
     int m_height;
     int m_size;////////////
     int m_maxRank;
-    int m_addWins;
+    int m_extra;
     int m_tempExtra;
 
     ~Node()
@@ -28,7 +28,7 @@ public:
         m_info = nullptr;
     }
 
-    explicit Node(T *info) : m_parent(nullptr), m_left(nullptr), m_right(nullptr), m_info(info), m_height(0), m_size(1), m_maxRank(0), m_addWins(0), m_tempExtra(0)
+    explicit Node(T *info) : m_parent(nullptr), m_left(nullptr), m_right(nullptr), m_info(info), m_height(0), m_size(1), m_maxRank(0), m_extra(0), m_tempExtra(0)
     {};
 
 };

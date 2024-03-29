@@ -10,7 +10,7 @@
 class TeamByPower: public Team
 {
 public:
-    explicit TeamByPower(int teamID, int wins = 0, int power = 0): Team(teamID, wins, power)
+    explicit TeamByPower(int teamID, int power = 0): Team(teamID, power)
     {
     };
 

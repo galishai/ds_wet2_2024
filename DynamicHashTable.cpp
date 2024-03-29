@@ -84,7 +84,7 @@ void DynamicHashTable::resize()
             TeamByID **arraycopy = new TeamByID *[m_arr[i]->m_treeSize];
             for(int j = 0; j < m_arr[i]->m_treeSize ; j++)
             {
-                arraycopy[j] = new TeamByID(array[j]->m_teamID, array[j]->m_wins, array[j]->m_power);
+                arraycopy[j] = new TeamByID(array[j]->m_teamID, array[j]->m_power);
             }
             for (int j = 0; j < m_arr[i]->m_treeSize; j++)
             {
