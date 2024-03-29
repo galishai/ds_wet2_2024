@@ -153,6 +153,11 @@ void AVLRankTreePower::addWinsToLessEqual(TeamByPower* key, int addWins)
             right_turns = 0;
         }
     }
+    while(ptr->m_parent != nullptr)
+    {
+        ptr = ptr->m_parent;
+    }
+    updateMaxRec(ptr);
 }
 
 
