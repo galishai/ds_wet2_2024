@@ -11,7 +11,7 @@ for file in lotan_tests/logs_in/*.in; do
 
     valgrind -q -s --leak-check=yes --show-leak-kinds=all ./a.out < "$file" > temp.txt
 
-    diff -q temp.txt "lotan_tests/logs_in/${filename%.*}.out"
+    diff -q temp.txt "lotan_tests/logs_out/${filename%.*}.out"
 
     if [ $? -eq 0 ]; then
         passed=$(( passed + 1 ))
