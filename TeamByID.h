@@ -27,6 +27,7 @@ public:
         m_teamID = other->m_teamID;
         m_wins = other->m_wins;
         m_power = other->m_power;
+        m_player_count= other->m_player_count;
         m_playersByCreated = nullptr;
         m_playersByStrength = nullptr;
     }

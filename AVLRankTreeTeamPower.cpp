@@ -67,8 +67,18 @@ int AVLRankTreePower::rank(TeamByPower *key)
 
 void AVLRankTreePower::updateMax(Node<TeamByPower> *node, int addedWins)
 {
-    int child_max = max(getMax(node->m_left), getMax(node->m_right));
-    node->m_maxRank = max(node->m_info->m_wins + node->m_info->m_power + addedWins, child_max);
+    int l = 0;
+    int r = 0;
+    if(node->m_left != nullptr)
+    {
+        l = node->m_left->m_addWins;
+    }
+    if(node->m_right != nullptr)
+    {
+        r = node->m_right->m_addWins;
+    }
+    int child_max = max(getMax(node->m_left) + l, getMax(node->m_right) + r);
+    node->m_maxRank = child_max;
 }
 
 
