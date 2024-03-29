@@ -195,8 +195,11 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
     {
         try
         {
-            TeamByID* newteam = new TeamByID(teamId, teamInHash->m_hashwins, playerStrength);
-            m_teamsByID->insertNode(newteam);
+            TeamByID* newteamID = new TeamByID(teamId, playerStrength);
+            TeamByPower* newteampow = new TeamByPower(teamId, playerStrength);
+            m_teamsByID->insertNode(newteamID);
+            m_teamsByPower->insertNode(newteampow, teamInHash->m_hashwins);
+            return StatusType::SUCCESS;
         }catch(std::bad_alloc&)
         {
             return StatusType::ALLOCATION_ERROR;
@@ -235,7 +238,6 @@ StatusType olympics_t::add_player(int teamId, int playerStrength)
     m_teamsByPower->insertNode(updatedTeamPower,original_wins);
 
     Node<TeamByPower>* temp =  m_teamsByPower->findNode(updatedTeamPower);
-    temp->m_maxRank = updatedTeamPower->m_power + m_teamsByPower->getAddedWins(temp->m_info);
     m_teamsByPower->updateMaxRec(temp);
     m_highestRank = m_teamsByPower->m_root->m_maxRank;
 
@@ -543,7 +545,7 @@ StatusType olympics_t::unite_teams(int teamId1, int teamId2)
     }
     else if(team1 == nullptr)
     {
-        TeamByID *team1new = new TeamByID(teamId1, team1hash->m_hashwins, team1hash->m_power);
+        TeamByID *team1new = new TeamByID(teamId1, team1hash->m_power);
         m_teamsByID->insertNode(team1new);
         team1 = m_teamsByID->findNode(team1new);
     }
