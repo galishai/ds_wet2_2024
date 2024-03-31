@@ -6,12 +6,12 @@ NC='\033[0m'
 passed=0
 failed=0
 
-for file in python_tester/tests/*.in; do
+for file in /tmp/data_structures_500_tests/*.in; do
     filename=$(basename -- "$file")
 
     valgrind -q -s --leak-check=yes --show-leak-kinds=all ./a.out < "$file" > temp.txt
 
-    diff -q temp.txt "python_tester/tests/${filename%.*}.out"
+    diff -q temp.txt "/tmp/data_structures_500_tests/${filename%.*}.out"
 
     if [ $? -eq 0 ]; then
         passed=$(( passed + 1 ))
